@@ -18,10 +18,9 @@ const log = (name, obj, argv) => {
   }
 }
 
-
 const runGoDeps = async argv => {
-  let deps = await godeps()
-  log('go', deps, argv)  
+  const deps = await godeps()
+  log('go', deps, argv)
 }
 
 const outputOption = yargs => {
@@ -37,4 +36,4 @@ const args = yargs
 
 if (!args._.length) {
   yargs.showHelp()
-} 
+}
