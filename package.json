@@ -1,0 +1,19 @@
+{
+  "name": "log-ipfs-dependencies",
+  "version": "0.0.0-dev",
+  "description": "",
+  "main": "cli.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)"
+}
