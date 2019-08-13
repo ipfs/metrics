@@ -1,6 +1,6 @@
 workflow "Build and Publish" {
   on = "push"
-  resolves = ["Git Commit"]
+  resolves = ["Git Publish"]
 }
 
 action "Build" {
@@ -33,5 +33,12 @@ action "Git Commit" {
   needs = "Git Add"
   uses = "actions/npm@master"
   runs = "git"
-  args = "commit -m 'log: publish'"
+  args = "commit -m \"log: publish\""
+}
+
+action "Git Push" {
+  needs = "Git Commit"
+  uses = "actions/npm@master"
+  runs = "git"
+  args = "push origin master"
 }
