@@ -35,4 +35,3 @@ action "Git Commit" {
   runs = "git"
   args = "commit -m 'log: publish'"
 }
-
