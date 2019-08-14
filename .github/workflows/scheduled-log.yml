@@ -1,6 +1,6 @@
 on: 
   schedule:
-  - cron: 1/2 * * * *
+  - cron: 1/4 * * * *
 name: Log and Publish
 jobs:
   build:
