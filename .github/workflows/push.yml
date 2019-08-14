@@ -1,5 +1,5 @@
 on: push
-name: Build and Publish
+name: Run and Publish
 jobs:
   build:
     name: Build
@@ -13,7 +13,7 @@ jobs:
     - name: Run Filter
       uses: actions/bin/filter@master
       with:
-        args: branch master
+        args: branch test
     - name: Run
       uses: actions/npm@master
       env:
@@ -21,18 +21,7 @@ jobs:
       with:
         entrypoint: node
         args: cli.js go --output=logs
-    - name: Git Add
-      uses: actions/npm@master
-      with:
-        entrypoint: git
-        args: add logs
-    - name: Git Commit
-      uses: actions/npm@master
-      with:
-        entrypoint: git
-        args: 'commit -m "log: publish"'
-    - name: Git Push
-      uses: actions/npm@master
-      with:
-        entrypoint: git
-        args: push origin master
+    - name: Publish
+      uses: mikeal/publish-to-github-action@master
+      env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
