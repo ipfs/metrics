@@ -1,4 +1,6 @@
-on: "schedule(* * * * *)"
+on: 
+  schedule:
+    - cron: * * * * *
 name: Log and Publish
 jobs:
   build:
