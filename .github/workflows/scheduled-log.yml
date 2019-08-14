@@ -1,5 +1,5 @@
 on: "schedule(* * * * *)"
-name: Run and Publish
+name: Log and Publish
 jobs:
   build:
     name: Build
