@@ -1,4 +1,4 @@
-on: push
+on: "schedule(* * * * *)"
 name: Build and Publish
 jobs:
   build:
