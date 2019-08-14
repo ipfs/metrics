@@ -1,5 +1,4 @@
 on: "schedule(* * * * *)"
-on: push
 name: Run and Publish
 jobs:
   build:
