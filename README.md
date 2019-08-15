@@ -1,6 +1,6 @@
-# log-ipfs-dependencies
+# metrics repo
 
-Regularly log dependency data about IPFS dependents.
+Regularly collect and log metrics about IPFS related projects.
 
 This repo contains a scheduled GitHub Action which pulls IPFS dependency data out of BigQuery and stores it 
 in [timestamped json](./logs) files in this repo.
