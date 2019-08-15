@@ -15,8 +15,8 @@ GitHub finds relevant (this isn't actually documented very well by GitHub).
 
 #### Go Repositories
 
-CODE_SEARCH_GO
+REPO_SEARCH_GO
 
 #### JS Repositories
 
-CODE_SEARCH_JS
+REPO_SEARCH_JS

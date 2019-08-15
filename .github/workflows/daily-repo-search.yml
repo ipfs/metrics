@@ -1,7 +1,7 @@
 on: 
   schedule:
   - cron: 0 0 * * *
-name: Daily Code Search Collection
+name: Daily Repo Search Collection
 jobs:
   build:
     name: Build
@@ -18,7 +18,7 @@ jobs:
         GOOGLE_CREDENTIAL_B64: ${{ secrets.GOOGLE_CREDENTIAL_B64 }}
       with:
         entrypoint: node
-        args: cli.js code-search go --output=logs
+        args: cli.js repo-search go --output=logs
     - name: Publish Logs to Repo
       uses: mikeal/publish-to-github-action@master
       env:

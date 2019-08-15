@@ -289,4 +289,4 @@ Total: 266
 
 #### JS Repositories
 
-CODE_SEARCH_JS
+REPO_SEARCH_JS

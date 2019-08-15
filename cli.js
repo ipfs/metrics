@@ -3,7 +3,7 @@
 const godeps = require('./lib/go-deps')
 const path = require('path')
 const fs = require('fs')
-const codeSearch = require('./lib/code-search')
+const repoSearch = require('./lib/repo-search')
 const makeReadme = require('./lib/make-readme')
 
 const now = () => new Date()
@@ -25,13 +25,13 @@ const runGoDeps = async argv => {
   log('bq_go', deps, argv)
 }
 
-const runCodeSearch = async argv => {
+const runRepoSearch = async argv => {
   const lang = argv.language
   if (!lang) throw new Error('Missing required argument: language')
   const token = argv.token
   if (!token) throw new Error('Missing required argument: token')
-  const results = await codeSearch(token, lang)
-  log(`code_search_${lang}`, results, argv)
+  const results = await repoSearch(token, lang)
+  log(`repo_search_${lang}`, results, argv)
 }
 
 const outputOption = yargs => {
@@ -55,12 +55,12 @@ const readmeCommand = async argv => {
 const yargs = require('yargs')
 const args = yargs
   .command('bq', 'list go deps using BigQuery', outputOption, runGoDeps)
-  .command('code-search [language]', 'Use GitHub Code Search', yargs => {
+  .command('repo-search [language]', 'Collect from GitHub Repo Search', yargs => {
     yargs.positional('language', {
       describe: 'Programing language.'
     })
     tokenOption(yargs)
-  }, runCodeSearch)
+  }, runRepoSearch)
   .command('readme', 're-write the readme file w/ latest data', () => {}, readmeCommand)
   .argv
 
