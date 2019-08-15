@@ -25,6 +25,7 @@ so we don't know why this is the case.
 #### Go Repositories
 
 Total Matches: 1064
+
 Total Results (Limited by GitHUB API): 266
 
 | repo | watchers | forks | size | created | pushed |
@@ -300,6 +301,7 @@ Total Results (Limited by GitHUB API): 266
 #### JS Repositories
 
 Total Matches: 108810
+
 Total Results (Limited by GitHUB API): 1109
 
 | repo | watchers | forks | size | created | pushed |
