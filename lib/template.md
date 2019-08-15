@@ -26,6 +26,14 @@ so we don't know why this is the case.
 
 REPO_SEARCH_GO
 
+The above set is limited to the 10 most recently created. 
+[Full table here.](./results/repo_search_go.md)
+
 #### JS Repositories
 
 REPO_SEARCH_JS
+
+The above set is limited to the 10 most recently created. 
+[Full table here.](./results/repo_search_js.md)
+
+

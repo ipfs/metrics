@@ -48,8 +48,7 @@ const tokenOption = yargs => {
 }
 
 const readmeCommand = async argv => {
-  const string = await makeReadme()
-  fs.writeFileSync('./README.md', string)
+  await makeReadme()
 }
 
 const yargs = require('yargs')
