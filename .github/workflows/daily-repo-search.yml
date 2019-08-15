@@ -12,13 +12,25 @@ jobs:
       uses: actions/npm@master
       with:
         args: install
-    - name: Log Go Metrics 
+    - name: Collect Go Metrics 
       uses: actions/npm@master
       env:
-        GOOGLE_CREDENTIAL_B64: ${{ secrets.GOOGLE_CREDENTIAL_B64 }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         entrypoint: node
         args: cli.js repo-search go --output=logs
+    - name: Collect JS Metrics 
+      uses: actions/npm@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        entrypoint: node
+        args: cli.js repo-search javascript --output=logs
+   - name: Re-write README
+      uses: actions/npm@master
+      with:
+        entrypoint: node
+        args: cli.js readme
     - name: Publish Logs to Repo
       uses: mikeal/publish-to-github-action@master
       env:
