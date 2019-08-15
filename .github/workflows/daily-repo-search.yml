@@ -26,7 +26,7 @@ jobs:
       with:
         entrypoint: node
         args: cli.js repo-search javascript --output=logs
-   - name: Re-write README
+    - name: Re-write README
       uses: actions/npm@master
       with:
         entrypoint: node
