@@ -4,13 +4,14 @@ const godeps = require('./lib/go-deps')
 const path = require('path')
 const fs = require('fs')
 const codeSearch = require('./lib/code-search')
+const makeReadme = require('./lib/make-readme')
 
 const now = () => new Date()
-const v = '-v1'
-const logfile = (n) => (n || '') + now().toISOString().slice(0, 19) + v + '.log'
+const v = '--v1'
+const logfile = (n) => (n || '') + now().toISOString().slice(0, 19) + v + '.json'
 
 const log = (name, obj, argv) => {
-  name = name + '-'
+  name = name + '--'
   const str = JSON.stringify(obj, null, 2)
   if (argv.output) {
     fs.writeFileSync(path.join(argv.output, logfile(name)), str)
@@ -46,6 +47,11 @@ const tokenOption = yargs => {
   })
 }
 
+const readmeCommand = async argv => {
+  let string = await makeReadme()
+  fs.writeFileSync('./README.md', string)
+}
+
 const yargs = require('yargs')
 const args = yargs
   .command('bq', 'list go deps using BigQuery', outputOption, runGoDeps)
@@ -55,6 +61,7 @@ const args = yargs
     })
     tokenOption(yargs)
   }, runCodeSearch)
+  .command('readme', 're-write the readme file w/ latest data', () => {}, readmeCommand)
   .argv
 
 if (!args._.length) {
