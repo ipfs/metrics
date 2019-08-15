@@ -26,7 +26,7 @@ Total: 266
 | [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51481| 2019-07-14 | 2019-08-11 |
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 0 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
-| [realChainLife/factory24-ipfs-course-tests](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
+| [realChainLife/factory24-ipfs-course-test...](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
 | [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 10 | 1 | 63| 2019-07-10 | 2019-08-12 |
 | [RTradeLtd/coredag](https://github.com/RTradeLtd/coredag)| 1 | 0 | 21| 2019-07-01 | 2019-07-02 |
 | [drbh/ipfs-cid-revival](https://github.com/drbh/ipfs-cid-revival)| 1 | 0 | 1| 2019-06-29 | 2019-06-29 |
@@ -295,7 +295,7 @@ Total: 12090
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
-| [matryoshka-technologies/IPFS-Distributed-Web-uploaded](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
+| [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
 | [ipfs/log-ipfs-dependencies](https://github.com/ipfs/log-ipfs-dependencies)| 4 | 0 | 26| 2019-08-13 | 2019-08-15 |
 | [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
 | [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 738| 2019-08-13 | 2019-08-13 |
@@ -310,7 +310,7 @@ Total: 12090
 | [tcyrus/ipfs-podcasts](https://github.com/tcyrus/ipfs-podcasts)| 1 | 0 | 443| 2019-08-02 | 2019-08-08 |
 | [BlocklabNL/OEHU-IPFS-backend](https://github.com/BlocklabNL/OEHU-IPFS-backend)| 0 | 0 | 482| 2019-08-01 | 2019-08-14 |
 | [JustMaier/pubsub-service-worker](https://github.com/JustMaier/pubsub-service-worker)| 0 | 0 | 4| 2019-08-01 | 2019-08-01 |
-| [LorenzoZaccagnini/proof-of-existence-dapp](https://github.com/LorenzoZaccagnini/proof-of-existence-dapp)| 0 | 0 | 511| 2019-07-29 | 2019-08-09 |
+| [LorenzoZaccagnini/proof-of-existence-dap...](https://github.com/LorenzoZaccagnini/proof-of-existence-dapp)| 0 | 0 | 511| 2019-07-29 | 2019-08-09 |
 | [teddycode/custom-js-ipfs](https://github.com/teddycode/custom-js-ipfs)| 0 | 0 | 112| 2019-07-29 | 2019-07-30 |
 | [contributionls/matters2ipfs](https://github.com/contributionls/matters2ipfs)| 11 | 2 | 1606| 2019-07-28 | 2019-07-30 |
 | [Jacky-MYD/vue-dapp-demo](https://github.com/Jacky-MYD/vue-dapp-demo)| 0 | 0 | 4855| 2019-07-28 | 2019-07-30 |
@@ -325,7 +325,7 @@ Total: 12090
 | [edsonayllon/arweave-ipfsjs-deployment](https://github.com/edsonayllon/arweave-ipfsjs-deployment)| 0 | 0 | 3277| 2019-07-13 | 2019-07-15 |
 | [anarkrypto/nano-file-system](https://github.com/anarkrypto/nano-file-system)| 1 | 0 | 124| 2019-07-12 | 2019-08-04 |
 | [edsonayllon/ipfsjs-react-web-starter](https://github.com/edsonayllon/ipfsjs-react-web-starter)| 0 | 0 | 353| 2019-07-12 | 2019-07-12 |
-| [anarkrypto/upload-files-to-ipfs-from-browser-panel](https://github.com/anarkrypto/upload-files-to-ipfs-from-browser-panel)| 3 | 2 | 1032| 2019-07-12 | 2019-08-02 |
+| [anarkrypto/upload-files-to-ipfs-from-bro...](https://github.com/anarkrypto/upload-files-to-ipfs-from-browser-panel)| 3 | 2 | 1032| 2019-07-12 | 2019-08-02 |
 | [sb857/author](https://github.com/sb857/author)| 1 | 0 | 81652| 2019-07-11 | 2019-07-11 |
 | [christroutner/ipfs-stay-connected](https://github.com/christroutner/ipfs-stay-connected)| 1 | 0 | 182| 2019-07-10 | 2019-07-16 |
 | [christroutner/koa-ipfs-bchjs](https://github.com/christroutner/koa-ipfs-bchjs)| 0 | 0 | 157| 2019-07-10 | 2019-07-11 |
@@ -354,14 +354,14 @@ Total: 12090
 | [wilsonphee/practise](https://github.com/wilsonphee/practise)| 0 | 0 | 5| 2019-06-11 | 2019-06-11 |
 | [bguiz/ipfs-hands-on](https://github.com/bguiz/ipfs-hands-on)| 0 | 0 | 5| 2019-06-11 | 2019-06-11 |
 | [dapps-dev-club/ipfs-hands-on](https://github.com/dapps-dev-club/ipfs-hands-on)| 1 | 1 | 4| 2019-06-10 | 2019-06-11 |
-| [Pratyush-Ranjan/Ethereum-with-IPFS_imgae-upload](https://github.com/Pratyush-Ranjan/Ethereum-with-IPFS_imgae-upload)| 0 | 0 | 384| 2019-06-09 | 2019-06-22 |
+| [Pratyush-Ranjan/Ethereum-with-IPFS_imgae...](https://github.com/Pratyush-Ranjan/Ethereum-with-IPFS_imgae-upload)| 0 | 0 | 384| 2019-06-09 | 2019-06-22 |
 | [jameMEELP/Project-I4C](https://github.com/jameMEELP/Project-I4C)| 0 | 0 | 64780| 2019-06-08 | 2019-06-10 |
 | [caiovini/e-commerce-ipfs](https://github.com/caiovini/e-commerce-ipfs)| 0 | 0 | 342| 2019-06-06 | 2019-07-07 |
 | [smackthat/open-data-repo](https://github.com/smackthat/open-data-repo)| 0 | 0 | 167| 2019-06-04 | 2019-07-02 |
 | [ESD6-blockr/blockr-ipfs-api](https://github.com/ESD6-blockr/blockr-ipfs-api)| 0 | 0 | 32| 2019-06-04 | 2019-06-17 |
 | [ipfs-shipyard/ipfs-provider](https://github.com/ipfs-shipyard/ipfs-provider)| 4 | 0 | 174| 2019-06-03 | 2019-06-14 |
 | [themultiarno/IPFS](https://github.com/themultiarno/IPFS)| 0 | 0 | 327| 2019-06-02 | 2019-06-02 |
-| [RumeelHussain/Consensys-Academy-Dev-BootCamp-2018-Final-Project](https://github.com/RumeelHussain/Consensys-Academy-Dev-BootCamp-2018-Final-Project)| 0 | 0 | 554| 2019-06-02 | 2019-06-02 |
+| [RumeelHussain/Consensys-Academy-Dev-Boot...](https://github.com/RumeelHussain/Consensys-Academy-Dev-BootCamp-2018-Final-Project)| 0 | 0 | 554| 2019-06-02 | 2019-06-02 |
 | [SunCowbee/ipfs-cms](https://github.com/SunCowbee/ipfs-cms)| 0 | 0 | 212| 2019-06-01 | 2019-06-01 |
 | [kevinmurphy678/Hyperchat](https://github.com/kevinmurphy678/Hyperchat)| 0 | 0 | 8486| 2019-05-27 | 2019-05-27 |
 | [xialvjun/star_gate](https://github.com/xialvjun/star_gate)| 0 | 0 | 419| 2019-05-27 | 2019-06-10 |
@@ -396,7 +396,7 @@ Total: 12090
 | [davisv7/specter](https://github.com/davisv7/specter)| 0 | 0 | 527| 2019-04-21 | 2019-05-01 |
 | [ibipfs/itemplates](https://github.com/ibipfs/itemplates)| 0 | 0 | 47902| 2019-04-20 | 2019-05-09 |
 | [almonit/almonit-plugin](https://github.com/almonit/almonit-plugin)| 0 | 2 | 15742| 2019-04-18 | 2019-08-01 |
-| [AqeelKazmi/ipfs-IpfsPubSub-OrbitDb-Nodeapp](https://github.com/AqeelKazmi/ipfs-IpfsPubSub-OrbitDb-Nodeapp)| 0 | 0 | 5403| 2019-04-17 | 2019-04-17 |
+| [AqeelKazmi/ipfs-IpfsPubSub-OrbitDb-Nodea...](https://github.com/AqeelKazmi/ipfs-IpfsPubSub-OrbitDb-Nodeapp)| 0 | 0 | 5403| 2019-04-17 | 2019-04-17 |
 | [lyrx/pyramids](https://github.com/lyrx/pyramids)| 2 | 0 | 8492| 2019-04-16 | 2019-06-30 |
 | [christroutner/memo-push](https://github.com/christroutner/memo-push)| 2 | 0 | 386| 2019-04-16 | 2019-08-15 |
 | [autonome/ipfs-lighthouse](https://github.com/autonome/ipfs-lighthouse)| 1 | 0 | 608| 2019-04-15 | 2019-04-15 |
@@ -451,11 +451,11 @@ Total: 12090
 | [ipfs/camp](https://github.com/ipfs/camp)| 127 | 34 | 79435| 2019-02-26 | 2019-08-12 |
 | [henrique1837/MachineLearningToken](https://github.com/henrique1837/MachineLearningToken)| 1 | 0 | 19930| 2019-02-25 | 2019-02-26 |
 | [177shivam/IPFS-File-Upload](https://github.com/177shivam/IPFS-File-Upload)| 0 | 0 | 362| 2019-02-23 | 2019-02-23 |
-| [smart-signature/smart-signature-prototype-website](https://github.com/smart-signature/smart-signature-prototype-website)| 0 | 3 | 1075| 2019-02-22 | 2019-03-08 |
+| [smart-signature/smart-signature-prototyp...](https://github.com/smart-signature/smart-signature-prototype-website)| 0 | 3 | 1075| 2019-02-22 | 2019-03-08 |
 | [rolortizg/ethInsta](https://github.com/rolortizg/ethInsta)| 0 | 0 | 112| 2019-02-22 | 2019-02-22 |
 | [vasa-develop/ultimate-ipfs-series](https://github.com/vasa-develop/ultimate-ipfs-series)| 8 | 3 | 43| 2019-02-22 | 2019-07-23 |
 | [jimilai/ethereum-token-erc721](https://github.com/jimilai/ethereum-token-erc721)| 6 | 4 | 7| 2019-02-22 | 2019-02-22 |
-| [daijiale/IPFS-and-Blockchain-Principles-and-Practice](https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice)| 4 | 0 | 1697| 2019-02-21 | 2019-08-04 |
+| [daijiale/IPFS-and-Blockchain-Principles-...](https://github.com/daijiale/IPFS-and-Blockchain-Principles-and-Practice)| 4 | 0 | 1697| 2019-02-21 | 2019-08-04 |
 | [prattlenetwork/PrattleNetwork](https://github.com/prattlenetwork/PrattleNetwork)| 0 | 0 | 48| 2019-02-18 | 2019-02-18 |
 | [GarethOates/ethdenver-project](https://github.com/GarethOates/ethdenver-project)| 0 | 0 | 23449| 2019-02-17 | 2019-02-19 |
 | [nicovalencia/ipfs-stash](https://github.com/nicovalencia/ipfs-stash)| 8 | 2 | 3993| 2019-02-16 | 2019-02-18 |
@@ -464,7 +464,7 @@ Total: 12090
 | [aragonone/metadata-dao](https://github.com/aragonone/metadata-dao)| 7 | 0 | 944| 2019-02-13 | 2019-02-14 |
 | [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy)| 498 | 23 | 824| 2019-02-13 | 2019-08-05 |
 | [openberry-ac/instagram](https://github.com/openberry-ac/instagram)| 21 | 7 | 233| 2019-02-13 | 2019-07-03 |
-| [mankenavenkatesh/ipfs-file-upload-download](https://github.com/mankenavenkatesh/ipfs-file-upload-download)| 0 | 0 | 12| 2019-02-06 | 2019-02-06 |
+| [mankenavenkatesh/ipfs-file-upload-downlo...](https://github.com/mankenavenkatesh/ipfs-file-upload-download)| 0 | 0 | 12| 2019-02-06 | 2019-02-06 |
 | [sponnet/addreth3](https://github.com/sponnet/addreth3)| 0 | 0 | 132| 2019-02-05 | 2019-06-24 |
 | [gustavofsantos/ipfs-share](https://github.com/gustavofsantos/ipfs-share)| 2 | 0 | 616| 2019-02-04 | 2019-02-05 |
 | [krishnagoyal104/IpfsDrive](https://github.com/krishnagoyal104/IpfsDrive)| 0 | 0 | 480| 2019-02-04 | 2019-02-21 |
@@ -487,7 +487,7 @@ Total: 12090
 | [hazae41/ipfs-files.user.js](https://github.com/hazae41/ipfs-files.user.js)| 0 | 0 | 6| 2019-01-15 | 2019-01-15 |
 | [JChanceHud/cidbadge](https://github.com/JChanceHud/cidbadge)| 0 | 0 | 7| 2019-01-15 | 2019-01-19 |
 | [alanshaw/ipfs-only-hash](https://github.com/alanshaw/ipfs-only-hash)| 3 | 2 | 515| 2019-01-13 | 2019-03-31 |
-| [gustavofsantos/ipfs-browser-download-content](https://github.com/gustavofsantos/ipfs-browser-download-content)| 2 | 0 | 1687| 2019-01-13 | 2019-01-19 |
+| [gustavofsantos/ipfs-browser-download-con...](https://github.com/gustavofsantos/ipfs-browser-download-content)| 2 | 0 | 1687| 2019-01-13 | 2019-01-19 |
 | [svitekpavel/everpaper.io](https://github.com/svitekpavel/everpaper.io)| 0 | 0 | 922| 2019-01-13 | 2019-06-30 |
 | [dU4E/0xsu-front-end](https://github.com/dU4E/0xsu-front-end)| 0 | 0 | 526| 2019-01-12 | 2019-05-19 |
 | [CaelRowley/ipfs-platform-smartcontract](https://github.com/CaelRowley/ipfs-platform-smartcontract)| 0 | 0 | 8| 2019-01-12 | 2019-01-12 |
@@ -576,13 +576,13 @@ Total: 12090
 | [zy445566/ipfs-desktop](https://github.com/zy445566/ipfs-desktop)| 1 | 0 | 52308| 2018-11-11 | 2018-11-23 |
 | [AlexTan-b-z/A-DAPP-for-CloudStorage](https://github.com/AlexTan-b-z/A-DAPP-for-CloudStorage)| 8 | 2 | 19364| 2018-11-11 | 2018-11-11 |
 | [chainskills/depositum](https://github.com/chainskills/depositum)| 1 | 0 | 1724| 2018-11-10 | 2018-11-30 |
-| [abhilashreddyy/blogging-Dapp-IPFS-and-blockchain](https://github.com/abhilashreddyy/blogging-Dapp-IPFS-and-blockchain)| 0 | 0 | 3118| 2018-11-10 | 2018-11-10 |
+| [abhilashreddyy/blogging-Dapp-IPFS-and-bl...](https://github.com/abhilashreddyy/blogging-Dapp-IPFS-and-blockchain)| 0 | 0 | 3118| 2018-11-10 | 2018-11-10 |
 | [neohex/railway-poc-](https://github.com/neohex/railway-poc-)| 0 | 0 | 11| 2018-11-10 | 2018-11-10 |
 | [niponchi/ipfs-s3-backed](https://github.com/niponchi/ipfs-s3-backed)| 0 | 0 | 78| 2018-11-09 | 2018-11-09 |
 | [zy445566/ipfs-swarm-key-gen](https://github.com/zy445566/ipfs-swarm-key-gen)| 0 | 0 | 3| 2018-11-09 | 2018-11-09 |
 | [Philipid3s/ipfs](https://github.com/Philipid3s/ipfs)| 0 | 0 | 1752| 2018-11-09 | 2018-11-09 |
 | [diegopm2000/ipfslab](https://github.com/diegopm2000/ipfslab)| 0 | 0 | 58| 2018-11-08 | 2018-11-19 |
-| [leenabhandari/Distributed-File-sharing-system](https://github.com/leenabhandari/Distributed-File-sharing-system)| 0 | 0 | 154| 2018-11-08 | 2018-11-08 |
+| [leenabhandari/Distributed-File-sharing-s...](https://github.com/leenabhandari/Distributed-File-sharing-system)| 0 | 0 | 154| 2018-11-08 | 2018-11-08 |
 | [ovanwijk/dlnet](https://github.com/ovanwijk/dlnet)| 1 | 0 | 314| 2018-11-07 | 2018-11-09 |
 | [ovanwijk/qrme](https://github.com/ovanwijk/qrme)| 0 | 0 | 95| 2018-11-07 | 2018-12-16 |
 | [ssmolkin1/ipfake](https://github.com/ssmolkin1/ipfake)| 1 | 0 | 18| 2018-11-07 | 2018-11-07 |
@@ -591,7 +591,7 @@ Total: 12090
 | [PeterYuXu/ebay-project](https://github.com/PeterYuXu/ebay-project)| 0 | 0 | 125| 2018-11-05 | 2018-11-19 |
 | [ipfs-search/ipfs-metadata-api](https://github.com/ipfs-search/ipfs-metadata-api)| 0 | 0 | 23| 2018-11-04 | 2019-03-15 |
 | [ipfs-search/ipfs-search-api](https://github.com/ipfs-search/ipfs-search-api)| 1 | 0 | 24| 2018-11-04 | 2018-11-29 |
-| [deusexmachina892/decentralized-file-upload-with-ipfs](https://github.com/deusexmachina892/decentralized-file-upload-with-ipfs)| 0 | 0 | 20459| 2018-11-04 | 2018-11-04 |
+| [deusexmachina892/decentralized-file-uplo...](https://github.com/deusexmachina892/decentralized-file-upload-with-ipfs)| 0 | 0 | 20459| 2018-11-04 | 2018-11-04 |
 | [rahulthakkar796/IPFS_demo](https://github.com/rahulthakkar796/IPFS_demo)| 0 | 0 | 371| 2018-11-01 | 2018-11-01 |
 | [REVOtic/ipfs-streaming](https://github.com/REVOtic/ipfs-streaming)| 2 | 0 | 13032| 2018-10-31 | 2019-01-29 |
 | [aitianxiang/qtum-ipfs](https://github.com/aitianxiang/qtum-ipfs)| 5 | 3 | 22| 2018-10-31 | 2018-12-13 |
@@ -602,7 +602,7 @@ Total: 12090
 | [bkawk/IPFS-API](https://github.com/bkawk/IPFS-API)| 1 | 0 | 4| 2018-10-23 | 2018-10-23 |
 | [dapplion/DAppNodeTools-ipfsuploader](https://github.com/dapplion/DAppNodeTools-ipfsuploader)| 0 | 0 | 37| 2018-10-21 | 2018-10-21 |
 | [sprusr/ipfs-brain](https://github.com/sprusr/ipfs-brain)| 0 | 0 | 32| 2018-10-20 | 2018-10-21 |
-| [rrohitmaheshwari/Blockchain-IPFS-DistributedFileSystem](https://github.com/rrohitmaheshwari/Blockchain-IPFS-DistributedFileSystem)| 1 | 1 | 70| 2018-10-20 | 2019-05-01 |
+| [rrohitmaheshwari/Blockchain-IPFS-Distrib...](https://github.com/rrohitmaheshwari/Blockchain-IPFS-DistributedFileSystem)| 1 | 1 | 70| 2018-10-20 | 2019-05-01 |
 | [Shasta/metrics-rest](https://github.com/Shasta/metrics-rest)| 1 | 0 | 842| 2018-10-19 | 2018-11-14 |
 | [common-theory/common-hosting](https://github.com/common-theory/common-hosting)| 0 | 0 | 95| 2018-10-18 | 2018-11-06 |
 | [jessebmiller/Chorus](https://github.com/jessebmiller/Chorus)| 0 | 0 | 11| 2018-10-18 | 2018-10-18 |
@@ -611,7 +611,7 @@ Total: 12090
 | [DiaboFong/auctionDapp](https://github.com/DiaboFong/auctionDapp)| 0 | 3 | 46732| 2018-10-17 | 2018-10-19 |
 | [nGoline/gulp-ipfs-publisher](https://github.com/nGoline/gulp-ipfs-publisher)| 0 | 0 | 62| 2018-10-16 | 2018-10-16 |
 | [13689020517/IPFS-](https://github.com/13689020517/IPFS-)| 0 | 1 | 4960| 2018-10-16 | 2018-11-30 |
-| [WadhahEssam/election-application-using-truffle-and-ipfs](https://github.com/WadhahEssam/election-application-using-truffle-and-ipfs)| 0 | 0 | 8813| 2018-10-15 | 2018-10-15 |
+| [WadhahEssam/election-application-using-t...](https://github.com/WadhahEssam/election-application-using-truffle-and-ipfs)| 0 | 0 | 8813| 2018-10-15 | 2018-10-15 |
 | [misiteer/ipfs-react](https://github.com/misiteer/ipfs-react)| 0 | 0 | 211| 2018-10-15 | 2018-10-15 |
 | [ipfs-shipyard/ipfs-npm-registry-mirror](https://github.com/ipfs-shipyard/ipfs-npm-registry-mirror)| 11 | 3 | 4050| 2018-10-14 | 2019-06-26 |
 | [ankitkataria/Zeta](https://github.com/ankitkataria/Zeta)| 5 | 1 | 928| 2018-10-13 | 2018-11-22 |
@@ -653,12 +653,12 @@ Total: 12090
 | [altuntasfatih/PinataTest](https://github.com/altuntasfatih/PinataTest)| 0 | 0 | 787| 2018-09-07 | 2018-09-07 |
 | [austintgriffith/ipfs-pubsub-poc](https://github.com/austintgriffith/ipfs-pubsub-poc)| 3 | 0 | 205| 2018-09-07 | 2018-09-07 |
 | [ipfs-shipyard/ipfsx](https://github.com/ipfs-shipyard/ipfsx)| 17 | 4 | 201| 2018-09-06 | 2018-11-07 |
-| [crazyrabbitLTC/IPFS-EXPRESS-LinkedListDemo](https://github.com/crazyrabbitLTC/IPFS-EXPRESS-LinkedListDemo)| 0 | 0 | 763| 2018-09-05 | 2018-09-08 |
-| [transmute-industries/oracle-cloud-starter-kit](https://github.com/transmute-industries/oracle-cloud-starter-kit)| 1 | 0 | 5267| 2018-09-05 | 2018-09-06 |
+| [crazyrabbitLTC/IPFS-EXPRESS-LinkedListDe...](https://github.com/crazyrabbitLTC/IPFS-EXPRESS-LinkedListDemo)| 0 | 0 | 763| 2018-09-05 | 2018-09-08 |
+| [transmute-industries/oracle-cloud-starte...](https://github.com/transmute-industries/oracle-cloud-starter-kit)| 1 | 0 | 5267| 2018-09-05 | 2018-09-06 |
 | [tak1827/ipfs-local-uploader](https://github.com/tak1827/ipfs-local-uploader)| 0 | 0 | 4| 2018-09-04 | 2018-09-09 |
 | [svitekpavel/decentralized-ebay](https://github.com/svitekpavel/decentralized-ebay)| 1 | 1 | 118| 2018-09-03 | 2018-09-09 |
 | [Pual2088/ETHBlog](https://github.com/Pual2088/ETHBlog)| 1 | 0 | 6| 2018-09-02 | 2018-09-02 |
-| [ContemporaryAnarchy/IPFS-Blockchain-Image](https://github.com/ContemporaryAnarchy/IPFS-Blockchain-Image)| 0 | 0 | 545| 2018-09-02 | 2018-09-02 |
+| [ContemporaryAnarchy/IPFS-Blockchain-Imag...](https://github.com/ContemporaryAnarchy/IPFS-Blockchain-Image)| 0 | 0 | 545| 2018-09-02 | 2018-09-02 |
 | [ipbc-dev/bittube-ipfs-chat](https://github.com/ipbc-dev/bittube-ipfs-chat)| 2 | 0 | 2854| 2018-09-02 | 2018-09-02 |
 | [hackbg/hack-eth-ipfs-document-registry](https://github.com/hackbg/hack-eth-ipfs-document-registry)| 0 | 0 | 225| 2018-09-02 | 2018-09-02 |
 | [MillionDollarDapp/ipfs-manager](https://github.com/MillionDollarDapp/ipfs-manager)| 1 | 0 | 12| 2018-08-31 | 2019-05-12 |
@@ -666,14 +666,14 @@ Total: 12090
 | [Miraj98/prana](https://github.com/Miraj98/prana)| 3 | 2 | 55917| 2018-08-31 | 2018-09-09 |
 | [bitfalls/Town-Square](https://github.com/bitfalls/Town-Square)| 0 | 5 | 7024| 2018-08-30 | 2018-08-27 |
 | [EOSADD/EOS-ADD-IPFS](https://github.com/EOSADD/EOS-ADD-IPFS)| 2 | 0 | 332| 2018-08-30 | 2018-08-30 |
-| [biko-the-bird/react_ipfs_gun_redux_express_starter](https://github.com/biko-the-bird/react_ipfs_gun_redux_express_starter)| 2 | 1 | 321| 2018-08-29 | 2018-09-15 |
+| [biko-the-bird/react_ipfs_gun_redux_expre...](https://github.com/biko-the-bird/react_ipfs_gun_redux_express_starter)| 2 | 1 | 321| 2018-08-29 | 2018-09-15 |
 | [ebadiere/lib](https://github.com/ebadiere/lib)| 0 | 0 | 83| 2018-08-29 | 2018-09-02 |
 | [knownorigin/known-origin-onboarder](https://github.com/knownorigin/known-origin-onboarder)| 0 | 0 | 19065| 2018-08-28 | 2019-07-26 |
 | [q1kka/notarization-component](https://github.com/q1kka/notarization-component)| 3 | 0 | 398| 2018-08-27 | 2019-02-27 |
 | [BlockchainIST/certist](https://github.com/BlockchainIST/certist)| 1 | 0 | 182| 2018-08-27 | 2018-09-05 |
 | [marcdown/fyles](https://github.com/marcdown/fyles)| 0 | 0 | 18079| 2018-08-26 | 2018-12-30 |
 | [Aboualy/React.js_App](https://github.com/Aboualy/React.js_App)| 0 | 0 | 3929| 2018-08-26 | 2018-08-26 |
-| [zastrin/ebay-on-ethereum-ipfs-starter-project](https://github.com/zastrin/ebay-on-ethereum-ipfs-starter-project)| 1 | 2 | 74| 2018-08-25 | 2019-02-27 |
+| [zastrin/ebay-on-ethereum-ipfs-starter-pr...](https://github.com/zastrin/ebay-on-ethereum-ipfs-starter-project)| 1 | 2 | 74| 2018-08-25 | 2019-02-27 |
 | [techcoderx/IPFSBotSilent](https://github.com/techcoderx/IPFSBotSilent)| 1 | 0 | 13273| 2018-08-24 | 2019-03-20 |
 | [swarmcity/SwarmCityApiMin](https://github.com/swarmcity/SwarmCityApiMin)| 0 | 1 | 87| 2018-08-24 | 2018-09-11 |
 | [blockrockettech/erc721-ipfs-uploader](https://github.com/blockrockettech/erc721-ipfs-uploader)| 0 | 0 | 1036| 2018-08-23 | 2018-08-24 |
@@ -708,7 +708,7 @@ Total: 12090
 | [jlubbers08/IPFS-UX](https://github.com/jlubbers08/IPFS-UX)| 1 | 0 | 17818| 2018-07-28 | 2018-07-28 |
 | [jlubbers08/IPFS-Bridge](https://github.com/jlubbers08/IPFS-Bridge)| 12 | 0 | 2138| 2018-07-28 | 2018-11-13 |
 | [fullstacktechnos/ipfs-dag](https://github.com/fullstacktechnos/ipfs-dag)| 0 | 0 | 13| 2018-07-26 | 2018-07-26 |
-| [fullstacktechnos/userprofile_ipfs_smartcontract](https://github.com/fullstacktechnos/userprofile_ipfs_smartcontract)| 1 | 1 | 1568| 2018-07-26 | 2018-07-26 |
+| [fullstacktechnos/userprofile_ipfs_smartc...](https://github.com/fullstacktechnos/userprofile_ipfs_smartcontract)| 1 | 1 | 1568| 2018-07-26 | 2018-07-26 |
 | [techcoderx/DTube-IPFS-Bot](https://github.com/techcoderx/DTube-IPFS-Bot)| 3 | 2 | 13528| 2018-07-26 | 2019-07-17 |
 | [ChluNetwork/chlu-collector](https://github.com/ChluNetwork/chlu-collector)| 0 | 0 | 342| 2018-07-26 | 2018-09-28 |
 | [R9295/correctiv-ipfs-archive](https://github.com/R9295/correctiv-ipfs-archive)| 0 | 0 | 30| 2018-07-26 | 2018-08-12 |
@@ -724,7 +724,7 @@ Total: 12090
 | [PortalNetwork/nifty-game](https://github.com/PortalNetwork/nifty-game)| 35 | 16 | 62570| 2018-07-23 | 2018-11-04 |
 | [lgrzegorek/DApp](https://github.com/lgrzegorek/DApp)| 0 | 0 | 41524| 2018-07-22 | 2018-10-23 |
 | [whs/ipfs-encrypted-share](https://github.com/whs/ipfs-encrypted-share)| 11 | 1 | 104| 2018-07-22 | 2018-08-12 |
-| [MuhammadIbrahim24/Node.js--IPFSTestingSynchronous](https://github.com/MuhammadIbrahim24/Node.js--IPFSTestingSynchronous)| 0 | 0 | 2| 2018-07-22 | 2018-07-22 |
+| [MuhammadIbrahim24/Node.js--IPFSTestingSy...](https://github.com/MuhammadIbrahim24/Node.js--IPFSTestingSynchronous)| 0 | 0 | 2| 2018-07-22 | 2018-07-22 |
 | [mtsalenc/iuvo](https://github.com/mtsalenc/iuvo)| 5 | 0 | 2290| 2018-07-22 | 2019-03-25 |
 | [MatthewStanciu/TheWritersBlock](https://github.com/MatthewStanciu/TheWritersBlock)| 0 | 0 | 7585| 2018-07-21 | 2018-10-17 |
 | [GuillaumeCz/dpki-Ethereum](https://github.com/GuillaumeCz/dpki-Ethereum)| 0 | 0 | 9367| 2018-07-21 | 2018-10-20 |
@@ -864,13 +864,13 @@ Total: 12090
 | [Eximua/filego](https://github.com/Eximua/filego)| 12 | 1 | 76| 2018-04-27 | 2018-12-02 |
 | [johnytiago/startrail-block-cache](https://github.com/johnytiago/startrail-block-cache)| 0 | 0 | 2| 2018-04-25 | 2018-04-25 |
 | [alchmy/youtube2ipfs](https://github.com/alchmy/youtube2ipfs)| 2 | 0 | 26| 2018-04-25 | 2018-04-26 |
-| [PortalNetwork/portal-network-browser-extension](https://github.com/PortalNetwork/portal-network-browser-extension)| 14 | 4 | 3910| 2018-04-23 | 2018-10-04 |
+| [PortalNetwork/portal-network-browser-ext...](https://github.com/PortalNetwork/portal-network-browser-extension)| 14 | 4 | 3910| 2018-04-23 | 2018-10-04 |
 | [ConsenSys/ipfs-cluster-k8s-sidecar](https://github.com/ConsenSys/ipfs-cluster-k8s-sidecar)| 5 | 2 | 42| 2018-04-22 | 2018-06-12 |
 | [TalaikisInc/ipfs-uploader](https://github.com/TalaikisInc/ipfs-uploader)| 9 | 3 | 120| 2018-04-21 | 2019-04-08 |
 | [Tiemma/ivs-solidity](https://github.com/Tiemma/ivs-solidity)| 6 | 0 | 1543| 2018-04-21 | 2018-05-07 |
 | [mikeshultz/ipfs-store](https://github.com/mikeshultz/ipfs-store)| 0 | 0 | 5| 2018-04-21 | 2018-04-26 |
 | [DistributedLedgerTechnologies/ipfs-eth](https://github.com/DistributedLedgerTechnologies/ipfs-eth)| 0 | 0 | 119| 2018-04-20 | 2018-04-20 |
-| [gcblockchain-chainedeblocsgc/spectrum-fund](https://github.com/gcblockchain-chainedeblocsgc/spectrum-fund)| 0 | 0 | 10053| 2018-04-20 | 2018-04-23 |
+| [gcblockchain-chainedeblocsgc/spectrum-fu...](https://github.com/gcblockchain-chainedeblocsgc/spectrum-fund)| 0 | 0 | 10053| 2018-04-20 | 2018-04-23 |
 | [TalaikisInc/actofindependence](https://github.com/TalaikisInc/actofindependence)| 1 | 0 | 993| 2018-04-19 | 2019-07-03 |
 | [ksystemsio/KSYS1_IPFS_DSE](https://github.com/ksystemsio/KSYS1_IPFS_DSE)| 0 | 0 | 3266| 2018-04-17 | 2018-04-18 |
 | [tableflip/share-via-ipfs](https://github.com/tableflip/share-via-ipfs)| 3 | 1 | 555| 2018-04-17 | 2018-06-01 |
@@ -897,7 +897,7 @@ Total: 12090
 | [ipfs-shipyard/window.ipfs-is-required](https://github.com/ipfs-shipyard/window.ipfs-is-required)| 7 | 1 | 36| 2018-04-04 | 2019-07-14 |
 | [ipfs-shipyard/window.ipfs-fallback](https://github.com/ipfs-shipyard/window.ipfs-fallback)| 13 | 1 | 131| 2018-04-04 | 2018-11-19 |
 | [ShiftNrg/shift-hydra](https://github.com/ShiftNrg/shift-hydra)| 8 | 3 | 3145| 2018-04-04 | 2018-07-05 |
-| [arkintof/CryptoNews-Ethereum-Smart-Contract](https://github.com/arkintof/CryptoNews-Ethereum-Smart-Contract)| 0 | 0 | 48| 2018-04-03 | 2018-04-03 |
+| [arkintof/CryptoNews-Ethereum-Smart-Contr...](https://github.com/arkintof/CryptoNews-Ethereum-Smart-Contract)| 0 | 0 | 48| 2018-04-03 | 2018-04-03 |
 | [HarunD/ipfs-box](https://github.com/HarunD/ipfs-box)| 4 | 1 | 3442| 2018-04-03 | 2018-04-03 |
 | [alanshaw/ipfs-common-shake](https://github.com/alanshaw/ipfs-common-shake)| 1 | 0 | 65| 2018-04-03 | 2018-04-03 |
 | [W3stside/react-ipfs](https://github.com/W3stside/react-ipfs)| 0 | 0 | 171| 2018-04-03 | 2018-04-03 |
@@ -905,7 +905,7 @@ Total: 12090
 | [JackGitH/ipfs-http-demo](https://github.com/JackGitH/ipfs-http-demo)| 0 | 0 | 121| 2018-04-01 | 2018-04-01 |
 | [tableflip/interavatar](https://github.com/tableflip/interavatar)| 1 | 0 | 30| 2018-03-30 | 2018-03-30 |
 | [pawarvishal/ipfs-examples](https://github.com/pawarvishal/ipfs-examples)| 0 | 0 | 1| 2018-03-30 | 2018-03-30 |
-| [jimilai/ethereum-dapp-ipfs-node.js-mongodb](https://github.com/jimilai/ethereum-dapp-ipfs-node.js-mongodb)| 21 | 7 | 12| 2018-03-30 | 2018-03-30 |
+| [jimilai/ethereum-dapp-ipfs-node.js-mongo...](https://github.com/jimilai/ethereum-dapp-ipfs-node.js-mongodb)| 21 | 7 | 12| 2018-03-30 | 2018-03-30 |
 | [ambewas/ipfs-chat-app](https://github.com/ambewas/ipfs-chat-app)| 0 | 0 | 158| 2018-03-29 | 2018-03-29 |
 | [rajraj/ipfs-pubsub-demo](https://github.com/rajraj/ipfs-pubsub-demo)| 0 | 0 | 40| 2018-03-28 | 2018-03-28 |
 | [hsyndeniz/node-ipfs](https://github.com/hsyndeniz/node-ipfs)| 3 | 0 | 74| 2018-03-26 | 2018-05-06 |
@@ -914,7 +914,7 @@ Total: 12090
 | [0zAND1z/ethereum-ipfs](https://github.com/0zAND1z/ethereum-ipfs)| 1 | 0 | 362| 2018-03-22 | 2018-03-22 |
 | [kanej/pinhorse](https://github.com/kanej/pinhorse)| 0 | 0 | 157| 2018-03-21 | 2018-03-21 |
 | [tableflip/multiaddr-to-uri](https://github.com/tableflip/multiaddr-to-uri)| 3 | 3 | 145| 2018-03-20 | 2019-07-11 |
-| [Preetam007/hyperledger_composer_file_storage](https://github.com/Preetam007/hyperledger_composer_file_storage)| 15 | 17 | 1577| 2018-03-20 | 2019-05-01 |
+| [Preetam007/hyperledger_composer_file_sto...](https://github.com/Preetam007/hyperledger_composer_file_storage)| 15 | 17 | 1577| 2018-03-20 | 2019-05-01 |
 | [linonetwo/ipfs-browser-gateway](https://github.com/linonetwo/ipfs-browser-gateway)| 20 | 6 | 10689| 2018-03-18 | 2019-08-09 |
 | [deepakshankar94/tenderSystemBlockchain](https://github.com/deepakshankar94/tenderSystemBlockchain)| 1 | 1 | 1911| 2018-03-17 | 2018-03-20 |
 | [halonproject/eth-pub-sub](https://github.com/halonproject/eth-pub-sub)| 1 | 0 | 108| 2018-03-16 | 2018-10-09 |
@@ -931,7 +931,7 @@ Total: 12090
 | [linonetwo/ipfs-uploader-browser](https://github.com/linonetwo/ipfs-uploader-browser)| 12 | 2 | 116| 2018-03-07 | 2018-08-21 |
 | [tsonev85/MedTrace](https://github.com/tsonev85/MedTrace)| 2 | 0 | 365| 2018-03-06 | 2018-03-15 |
 | [tableflip/ipfs-peer-map-example](https://github.com/tableflip/ipfs-peer-map-example)| 9 | 1 | 122| 2018-03-05 | 2018-07-31 |
-| [PaddyMc/decentralised-ecosystem-prototype](https://github.com/PaddyMc/decentralised-ecosystem-prototype)| 0 | 1 | 21273| 2018-03-05 | 2018-12-28 |
+| [PaddyMc/decentralised-ecosystem-prototyp...](https://github.com/PaddyMc/decentralised-ecosystem-prototype)| 0 | 1 | 21273| 2018-03-05 | 2018-12-28 |
 | [ubiq/shokku](https://github.com/ubiq/shokku)| 26 | 7 | 998| 2018-03-05 | 2018-05-16 |
 | [hackethon2018ipfs/ipfs](https://github.com/hackethon2018ipfs/ipfs)| 1 | 0 | 167| 2018-03-03 | 2018-03-03 |
 | [micheldejoode/The-Bible-Decentralised](https://github.com/micheldejoode/The-Bible-Decentralised)| 1 | 0 | 1634| 2018-03-01 | 2018-03-20 |
@@ -957,7 +957,7 @@ Total: 12090
 | [matryx/-Deprecated-MatryxExplorer](https://github.com/matryx/-Deprecated-MatryxExplorer)| 5 | 0 | 8354| 2018-02-10 | 2019-02-11 |
 | [libp2p/js-libp2p-connection-manager](https://github.com/libp2p/js-libp2p-connection-manager)| 13 | 7 | 44| 2018-02-07 | 2019-06-26 |
 | [zerostatic/upload-file-via-browser-ipfs](https://github.com/zerostatic/upload-file-via-browser-ipfs)| 0 | 0 | 473| 2018-02-07 | 2018-02-07 |
-| [shinchan121/Decentralised-Market-Place-on-Ethereum](https://github.com/shinchan121/Decentralised-Market-Place-on-Ethereum)| 3 | 2 | 193| 2018-02-06 | 2018-02-06 |
+| [shinchan121/Decentralised-Market-Place-o...](https://github.com/shinchan121/Decentralised-Market-Place-on-Ethereum)| 3 | 2 | 193| 2018-02-06 | 2018-02-06 |
 | [redacademy/vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs)| 1307 | 81 | 6590| 2018-02-05 | 2018-03-24 |
 | [leNicDev/ipfs-gui](https://github.com/leNicDev/ipfs-gui)| 1 | 0 | 662| 2018-02-04 | 2018-02-27 |
 | [shyim/ipfs-fileuploader](https://github.com/shyim/ipfs-fileuploader)| 0 | 0 | 168| 2018-02-04 | 2019-01-25 |
@@ -1170,7 +1170,7 @@ Total: 12090
 | [alanshaw/joi-extension-ipfs](https://github.com/alanshaw/joi-extension-ipfs)| 0 | 0 | 5| 2016-11-14 | 2017-01-31 |
 | [konsumer/ipfs-blip](https://github.com/konsumer/ipfs-blip)| 0 | 0 | 65| 2016-11-10 | 2016-11-11 |
 | [Mithgol/node-uue2ipfs](https://github.com/Mithgol/node-uue2ipfs)| 1 | 0 | 12| 2016-11-09 | 2018-04-11 |
-| [elavoie/pando-ipfs-libp2p-integration-experiment](https://github.com/elavoie/pando-ipfs-libp2p-integration-experiment)| 0 | 0 | 22| 2016-11-04 | 2017-01-11 |
+| [elavoie/pando-ipfs-libp2p-integration-ex...](https://github.com/elavoie/pando-ipfs-libp2p-integration-experiment)| 0 | 0 | 22| 2016-11-04 | 2017-01-11 |
 | [Dispersionjs/ipfs-disperse](https://github.com/Dispersionjs/ipfs-disperse)| 4 | 2 | 11| 2016-10-24 | 2016-10-24 |
 | [dignifiedquire/anno](https://github.com/dignifiedquire/anno)| 4 | 2 | 2442| 2016-10-20 | 2016-10-31 |
 | [OR13/monarch-portal](https://github.com/OR13/monarch-portal)| 3 | 2 | 4000| 2016-10-20 | 2016-10-22 |
