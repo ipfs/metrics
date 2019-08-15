@@ -1,0 +1,25 @@
+on: 
+  schedule:
+  - cron: 0 0 * * 0
+name: Weekly BigQuery Collection
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: NPM Build
+      uses: actions/npm@master
+      with:
+        args: install
+    - name: Log Go Metrics 
+      uses: actions/npm@master
+      env:
+        GOOGLE_CREDENTIAL_B64: ${{ secrets.GOOGLE_CREDENTIAL_B64 }}
+      with:
+        entrypoint: node
+        args: cli.js bq --output=logs
+    - name: Publish Logs to Repo
+      uses: mikeal/publish-to-github-action@master
+      env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

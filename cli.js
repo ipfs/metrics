@@ -3,6 +3,7 @@
 const godeps = require('./lib/go-deps')
 const path = require('path')
 const fs = require('fs')
+const codeSearch = require('./lib/code-search')
 
 const now = () => new Date()
 const v = '-v1'
@@ -20,7 +21,16 @@ const log = (name, obj, argv) => {
 
 const runGoDeps = async argv => {
   const deps = await godeps()
-  log('go', deps, argv)
+  log('bq_go', deps, argv)
+}
+
+const runCodeSearch = async argv => {
+  const lang = argv.language
+  if (!lang) throw new Error('Missing required argument: language')
+  const token = argv.token
+  if (!token) throw new Error('Missing required argument: token')
+  const results = await codeSearch(token, lang)
+  log(`code_search_${lang}`, results, argv)
 }
 
 const outputOption = yargs => {
@@ -29,9 +39,22 @@ const outputOption = yargs => {
   })
 }
 
+const tokenOption = yargs => {
+  yargs.options('token', {
+    describe: 'GitHub token. Defaults to env variable GHTOKEN || GITHUB_TOKEN.',
+    default: process.env.GHTOKEN || process.env.GITHUB_TOKEN
+  })
+}
+
 const yargs = require('yargs')
 const args = yargs
-  .command('go', 'list go deps', outputOption, runGoDeps)
+  .command('bq', 'list go deps using BigQuery', outputOption, runGoDeps)
+  .command('code-search [language]', 'Use GitHub Code Search', yargs => {
+    yargs.positional('language', {
+      describe: 'Programing language.'
+    })
+    tokenOption(yargs)
+  }, runCodeSearch)
   .argv
 
 if (!args._.length) {
