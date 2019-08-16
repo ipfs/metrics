@@ -9,8 +9,15 @@ in [timestamped json](./logs) files in this repo.
 
 ### Google Trends
 
+We're collecting the "interest over time" metric from Google Trends. From Google *"Numbers 
+represent search interest relative to the highest point on the chart for the given region and 
+time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is 
+half as popular. Likewise a score of 0 means the term was less than 1% as popular as the peak."*
+
 This is the google trend data for searches of the term "IPFS" for the
 last 12 months. The last 10 years is [available here.](./results/google-trends.md)
+
+
 
 Google Trends:
 *  8/2019: 65
