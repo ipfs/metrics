@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 65
-*  7/2019: 69
-*  6/2019: 76
-*  5/2019: 76
-*  4/2019: 74
-*  3/2019: 77
-*  2/2019: 73
+*  8/2019: 66
+*  7/2019: 68
+*  6/2019: 74
+*  5/2019: 75
+*  4/2019: 75
+*  3/2019: 74
+*  2/2019: 72
 *  1/2019: 79
-*  12/2018: 74
-*  11/2018: 79
-*  10/2018: 84
-*  9/2018: 98
+*  12/2018: 76
+*  11/2018: 77
+*  10/2018: 83
+*  9/2018: 99
 
 ### GitHub Search
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 108810
+Total Matches: 60450
 
-Total Results (Limited by GitHUB API): 1109
+Total Results (Limited by GitHUB API): 1104
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 1109
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
 | [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 4 | 0 | 142| 2019-08-13 | 2019-08-15 |
+| [ipfs/metrics](https://github.com/ipfs/metrics)| 4 | 0 | 350| 2019-08-13 | 2019-08-16 |
 | [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
 | [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 738| 2019-08-13 | 2019-08-13 |
 | [bocahrokok/ipfs-app](https://github.com/bocahrokok/ipfs-app)| 0 | 0 | 46610| 2019-08-12 | 2019-08-14 |
