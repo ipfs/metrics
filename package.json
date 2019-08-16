@@ -11,6 +11,7 @@
     "bent": "^6.0.3",
     "google-trends-api": "^4.9.0",
     "parse-link-header": "^1.0.1",
+    "sleep-promise": "^8.0.1",
     "yargs": "^13.3.0"
   },
   "devDependencies": {
