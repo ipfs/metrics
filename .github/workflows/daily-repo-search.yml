@@ -1,6 +1,6 @@
 on: 
   schedule:
-  - cron: 0 0 * * *
+  - cron: 0 2 * * *
 name: Daily Repo Search Collection
 jobs:
   build:
