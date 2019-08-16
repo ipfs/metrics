@@ -53,8 +53,8 @@ const readmeCommand = async argv => {
 }
 
 const trendsCommand = async argv => {
-  let data = await trends()
-  let json = JSON.stringify(data, null, 2)
+  const data = await trends()
+  const json = JSON.stringify(data, null, 2)
   if (argv.output) fs.writeFileSync(path.join(argv.output, 'google_trends.json'), json)
   else console.log(json)
 }

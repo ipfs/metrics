@@ -7,6 +7,13 @@ in [timestamped json](./logs) files in this repo.
 
 ## Recent Data
 
+### Google Trends
+
+This is the google trend data for searches of the term "IPFS" for the
+last 12 months. The last 10 years is [available here.](./results/google-trends.md)
+
+GOOGLE_TRENDS
+
 ### GitHub Search
 
 These do a repository search, filtered by language, for "ipfs." This search
@@ -35,5 +42,3 @@ REPO_SEARCH_JS
 
 The above set is limited to the 10 most recently created. 
 [Full table here.](./results/repo_search_js.md)
-
-
