@@ -9,6 +9,7 @@
   "dependencies": {
     "@google-cloud/bigquery": "^4.1.8",
     "bent": "^6.0.3",
+    "google-trends-api": "^4.9.0",
     "parse-link-header": "^1.0.1",
     "yargs": "^13.3.0"
   },

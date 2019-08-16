@@ -5,6 +5,7 @@ const path = require('path')
 const fs = require('fs')
 const repoSearch = require('./lib/repo-search')
 const makeReadme = require('./lib/make-readme')
+const trends = require('./lib/trends')
 
 const now = () => new Date()
 const v = '--v1'
@@ -51,6 +52,13 @@ const readmeCommand = async argv => {
   await makeReadme()
 }
 
+const trendsCommand = async argv => {
+  let data = await trends()
+  let json = JSON.stringify(data, null, 2)
+  if (argv.output) fs.writeFileSync(path.join(argv.output, 'google_trends.json'), json)
+  else console.log(json)
+}
+
 const yargs = require('yargs')
 const args = yargs
   .command('bq', 'list go deps using BigQuery', outputOption, runGoDeps)
@@ -60,6 +68,7 @@ const args = yargs
     })
     tokenOption(yargs)
   }, runRepoSearch)
+  .command('trends', 'collect google trends data', outputOption, trendsCommand)
   .command('readme', 're-write the readme file w/ latest data', () => {}, readmeCommand)
   .argv
 

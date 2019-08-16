@@ -1,7 +1,7 @@
 on: 
   schedule:
   - cron: 0 2 * * *
-name: Daily Repo Search Collection
+name: Daily Collection
 jobs:
   build:
     name: Build
@@ -26,6 +26,11 @@ jobs:
       with:
         entrypoint: node
         args: cli.js repo-search javascript --output=logs
+    - name: Collect Google Trends 
+      uses: actions/npm@master
+      with:
+        entrypoint: node
+        args: cli.js trends --output=logs
     - name: Re-write README
       uses: actions/npm@master
       with:
