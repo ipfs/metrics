@@ -1,6 +1,6 @@
 on: 
   schedule:
-  - cron: 0 * * * *
+  - cron: 1/4 * * * *
 name: Daily Collection
 jobs:
   build:
