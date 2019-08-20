@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 72
-*  7/2019: 67
-*  6/2019: 78
-*  5/2019: 79
-*  4/2019: 75
-*  3/2019: 76
-*  2/2019: 70
-*  1/2019: 75
-*  12/2018: 74
+*  8/2019: 63
+*  7/2019: 66
+*  6/2019: 72
+*  5/2019: 77
+*  4/2019: 74
+*  3/2019: 72
+*  2/2019: 69
+*  1/2019: 73
+*  12/2018: 75
 *  11/2018: 79
 *  10/2018: 82
-*  9/2018: 96
+*  9/2018: 90
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 60500
+Total Matches: 60550
 
-Total Results (Limited by GitHUB API): 1105
+Total Results (Limited by GitHUB API): 1106
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 320| 2019-08-19 | 2019-08-19 |
 | [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
 | [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 0 | 0 | 945| 2019-08-16 | 2019-08-16 |
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
 | [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 4 | 0 | 216| 2019-08-13 | 2019-08-18 |
+| [ipfs/metrics](https://github.com/ipfs/metrics)| 4 | 0 | 279| 2019-08-13 | 2019-08-19 |
 | [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
 | [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 738| 2019-08-13 | 2019-08-13 |
 | [bocahrokok/ipfs-app](https://github.com/bocahrokok/ipfs-app)| 0 | 0 | 46610| 2019-08-12 | 2019-08-14 |
-| [rvagg/js-ds-zipcar](https://github.com/rvagg/js-ds-zipcar)| 2 | 0 | 25| 2019-08-12 | 2019-08-13 |
 
 
 The above set is limited to the 10 most recently created. 
