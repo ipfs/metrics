@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 62
-*  7/2019: 68
+*  8/2019: 60
+*  7/2019: 61
 *  6/2019: 72
-*  5/2019: 73
-*  4/2019: 76
-*  3/2019: 70
-*  2/2019: 70
-*  1/2019: 75
-*  12/2018: 76
-*  11/2018: 76
-*  10/2018: 83
-*  9/2018: 95
+*  5/2019: 76
+*  4/2019: 73
+*  3/2019: 72
+*  2/2019: 67
+*  1/2019: 74
+*  12/2018: 72
+*  11/2018: 75
+*  10/2018: 77
+*  9/2018: 94
 
 ### GitHub Search
 
@@ -73,20 +73,20 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 60539
+Total Matches: 60588
 
 Total Results (Limited by GitHUB API): 1107
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [pranavrao870/online-docs](https://github.com/pranavrao870/online-docs)| 0 | 0 | 5| 2019-08-20 | 2019-08-20 |
-| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 349| 2019-08-19 | 2019-08-20 |
+| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 406| 2019-08-19 | 2019-08-21 |
 | [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
 | [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 0 | 0 | 945| 2019-08-16 | 2019-08-16 |
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
 | [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 5 | 3 | 346| 2019-08-13 | 2019-08-20 |
+| [ipfs/metrics](https://github.com/ipfs/metrics)| 5 | 3 | 412| 2019-08-13 | 2019-08-21 |
 | [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
 | [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 738| 2019-08-13 | 2019-08-13 |
 
