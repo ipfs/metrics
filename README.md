@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 60
-*  7/2019: 61
-*  6/2019: 72
+*  8/2019: 62
+*  7/2019: 69
+*  6/2019: 76
 *  5/2019: 76
 *  4/2019: 73
-*  3/2019: 72
-*  2/2019: 67
-*  1/2019: 74
-*  12/2018: 72
-*  11/2018: 75
-*  10/2018: 77
-*  9/2018: 94
+*  3/2019: 77
+*  2/2019: 71
+*  1/2019: 71
+*  12/2018: 73
+*  11/2018: 76
+*  10/2018: 83
+*  9/2018: 88
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1068
+Total Matches: 1060
 
-Total Results (Limited by GitHUB API): 267
+Total Results (Limited by GitHUB API): 265
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 267
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 | [RTradeLtd/cluster-lite](https://github.com/RTradeLtd/cluster-lite)| 0 | 0 | 133| 2019-07-17 | 2019-07-20 |
-| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51483| 2019-07-14 | 2019-08-20 |
+| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51491| 2019-07-14 | 2019-08-22 |
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 0 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [realChainLife/factory24-ipfs-course-test...](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 60588
+Total Matches: 60698
 
-Total Results (Limited by GitHUB API): 1107
+Total Results (Limited by GitHUB API): 1110
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 1107
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
 | [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 5 | 3 | 412| 2019-08-13 | 2019-08-21 |
+| [ipfs/metrics](https://github.com/ipfs/metrics)| 5 | 3 | 478| 2019-08-13 | 2019-08-22 |
 | [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
 | [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 738| 2019-08-13 | 2019-08-13 |
 

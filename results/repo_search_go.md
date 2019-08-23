@@ -1,6 +1,6 @@
-Total Matches: 1068
+Total Matches: 1060
 
-Total Results (Limited by GitHUB API): 267
+Total Results (Limited by GitHUB API): 265
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -9,7 +9,7 @@ Total Results (Limited by GitHUB API): 267
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 | [RTradeLtd/cluster-lite](https://github.com/RTradeLtd/cluster-lite)| 0 | 0 | 133| 2019-07-17 | 2019-07-20 |
-| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51483| 2019-07-14 | 2019-08-20 |
+| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51491| 2019-07-14 | 2019-08-22 |
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 0 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [realChainLife/factory24-ipfs-course-test...](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
@@ -85,9 +85,7 @@ Total Results (Limited by GitHUB API): 267
 | [csxuejin/ipfstools](https://github.com/csxuejin/ipfstools)| 0 | 0 | 10| 2018-10-24 | 2018-10-29 |
 | [HelloWorldJackLiu/IPFS](https://github.com/HelloWorldJackLiu/IPFS)| 0 | 0 | 23601| 2018-10-23 | 2018-10-23 |
 | [dempsey-ycr/ihtPrivateSDK](https://github.com/dempsey-ycr/ihtPrivateSDK)| 0 | 0 | 9058| 2018-10-22 | 2018-11-22 |
-| [lvxv/go-ipfs](https://github.com/lvxv/go-ipfs)| 0 | 0 | 29822| 2018-10-19 | 2018-10-19 |
 | [RTradeLtd/rtfs](https://github.com/RTradeLtd/rtfs)| 8 | 5 | 2464| 2018-10-18 | 2019-07-31 |
-| [lvxv/gogoproto](https://github.com/lvxv/gogoproto)| 0 | 0 | 30336| 2018-10-17 | 2018-10-24 |
 | [ipfs/go-ipfs-files](https://github.com/ipfs/go-ipfs-files)| 9 | 8 | 77| 2018-10-16 | 2019-08-16 |
 | [RTradeLtd/Nexus](https://github.com/RTradeLtd/Nexus)| 6 | 3 | 322| 2018-10-14 | 2019-08-01 |
 | [orbit-drive/orbit-drive](https://github.com/orbit-drive/orbit-drive)| 0 | 0 | 161| 2018-10-13 | 2019-07-13 |
@@ -149,7 +147,7 @@ Total Results (Limited by GitHUB API): 267
 | [halonproject/hydra-go](https://github.com/halonproject/hydra-go)| 3 | 0 | 71| 2018-03-21 | 2018-10-26 |
 | [jeroenouw/BlockchainGO](https://github.com/jeroenouw/BlockchainGO)| 1 | 1 | 12| 2018-03-17 | 2018-04-01 |
 | [hsanjuan/gx2cluster](https://github.com/hsanjuan/gx2cluster)| 5 | 0 | 9| 2018-03-15 | 2019-03-07 |
-| [textileio/go-textile](https://github.com/textileio/go-textile)| 290 | 32 | 88280| 2018-03-07 | 2019-08-21 |
+| [textileio/go-textile](https://github.com/textileio/go-textile)| 291 | 32 | 88280| 2018-03-07 | 2019-08-21 |
 | [DecenterApps/Cryptage](https://github.com/DecenterApps/Cryptage)| 3 | 0 | 79388| 2018-02-27 | 2019-04-01 |
 | [whyrusleeping/toychain](https://github.com/whyrusleeping/toychain)| 19 | 7 | 30| 2018-02-20 | 2018-02-20 |
 | [arcalinea/simplechain](https://github.com/arcalinea/simplechain)| 39 | 4 | 35| 2018-02-16 | 2018-05-14 |
@@ -199,7 +197,7 @@ Total Results (Limited by GitHUB API): 267
 | [yenkuanlee/go-ipfs-with-domain-name](https://github.com/yenkuanlee/go-ipfs-with-domain-name)| 2 | 0 | 12906| 2017-02-16 | 2017-02-16 |
 | [qri-io/go-ds-s3](https://github.com/qri-io/go-ds-s3)| 3 | 2 | 5| 2017-02-07 | 2018-07-19 |
 | [extrasalt/distbox](https://github.com/extrasalt/distbox)| 0 | 0 | 67| 2017-02-03 | 2017-05-23 |
-| [ipfs/go-ipfs-cmds](https://github.com/ipfs/go-ipfs-cmds)| 33 | 19 | 1083| 2017-01-28 | 2019-07-16 |
+| [ipfs/go-ipfs-cmds](https://github.com/ipfs/go-ipfs-cmds)| 33 | 19 | 1087| 2017-01-28 | 2019-08-22 |
 | [whyrusleeping/iptest](https://github.com/whyrusleeping/iptest)| 0 | 0 | 2| 2017-01-24 | 2017-01-24 |
 | [ipfs/ipfs-pack](https://github.com/ipfs/ipfs-pack)| 55 | 13 | 71| 2017-01-24 | 2019-02-28 |
 | [whyrusleeping/repofix](https://github.com/whyrusleeping/repofix)| 0 | 0 | 1| 2017-01-18 | 2017-01-18 |
@@ -270,4 +268,4 @@ Total Results (Limited by GitHUB API): 267
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [cryptix/interplanetary](https://github.com/cryptix/interplanetary)| 0 | 1 | 1348| 2014-12-19 | 2014-12-09 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 9 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 8636 | 1544 | 37211| 2014-06-26 | 2019-08-21 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 8636 | 1546 | 37265| 2014-06-26 | 2019-08-22 |
