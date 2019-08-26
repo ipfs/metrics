@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 62
-*  7/2019: 66
+*  8/2019: 68
+*  7/2019: 65
 *  6/2019: 76
-*  5/2019: 77
-*  4/2019: 75
-*  3/2019: 74
+*  5/2019: 74
+*  4/2019: 77
+*  3/2019: 75
 *  2/2019: 68
-*  1/2019: 72
-*  12/2018: 72
-*  11/2018: 73
-*  10/2018: 81
-*  9/2018: 94
+*  1/2019: 74
+*  12/2018: 73
+*  11/2018: 78
+*  10/2018: 84
+*  9/2018: 96
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 60703
+Total Matches: 60850
 
-Total Results (Limited by GitHUB API): 1112
+Total Results (Limited by GitHUB API): 1114
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [abrar-syed/IPFS-File-Uploader](https://github.com/abrar-syed/IPFS-File-Uploader)| 0 | 0 | 29| 2019-08-23 | 2019-08-23 |
+| [ranjanbinwani/Veracious](https://github.com/ranjanbinwani/Veracious)| 0 | 1 | 6222| 2019-08-24 | 2019-08-25 |
+| [abrar-syed/IPFS-File-Uploader](https://github.com/abrar-syed/IPFS-File-Uploader)| 1 | 0 | 29| 2019-08-23 | 2019-08-23 |
 | [pranavrao870/online-docs](https://github.com/pranavrao870/online-docs)| 0 | 0 | 5| 2019-08-20 | 2019-08-20 |
 | [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 406| 2019-08-19 | 2019-08-21 |
 | [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
@@ -87,8 +88,7 @@ Total Results (Limited by GitHUB API): 1112
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
 | [matryoshka-technologies/IPFS-Distributed...](https://github.com/matryoshka-technologies/IPFS-Distributed-Web-uploaded)| 0 | 0 | 488| 2019-08-14 | 2019-08-14 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 5 | 3 | 543| 2019-08-13 | 2019-08-23 |
-| [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
+| [ipfs/metrics](https://github.com/ipfs/metrics)| 5 | 2 | 616| 2019-08-13 | 2019-08-25 |
 
 
 The above set is limited to the 10 most recently created. 
