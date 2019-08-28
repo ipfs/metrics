@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 57
+*  8/2019: 61
 *  7/2019: 63
-*  6/2019: 70
-*  5/2019: 74
-*  4/2019: 70
-*  3/2019: 72
-*  2/2019: 64
-*  1/2019: 73
-*  12/2018: 66
-*  11/2018: 72
-*  10/2018: 75
-*  9/2018: 89
+*  6/2019: 72
+*  5/2019: 76
+*  4/2019: 75
+*  3/2019: 77
+*  2/2019: 68
+*  1/2019: 74
+*  12/2018: 72
+*  11/2018: 76
+*  10/2018: 80
+*  9/2018: 95
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 265
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 0 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [realChainLife/factory24-ipfs-course-test...](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
-| [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 10 | 1 | 63| 2019-07-10 | 2019-08-12 |
+| [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 11 | 1 | 63| 2019-07-10 | 2019-08-12 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,17 +73,17 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 60950
+Total Matches: 61000
 
 Total Results (Limited by GitHUB API): 1116
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 5| 2019-08-25 | 2019-08-26 |
-| [ranjanbinwani/Veracious](https://github.com/ranjanbinwani/Veracious)| 0 | 1 | 6222| 2019-08-24 | 2019-08-25 |
+| [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 11| 2019-08-25 | 2019-08-27 |
+| [ranjanbinwani/Veracious](https://github.com/ranjanbinwani/Veracious)| 0 | 1 | 6536| 2019-08-24 | 2019-08-27 |
 | [abrar-syed/IPFS-File-Uploader](https://github.com/abrar-syed/IPFS-File-Uploader)| 1 | 0 | 29| 2019-08-23 | 2019-08-23 |
 | [pranavrao870/online-docs](https://github.com/pranavrao870/online-docs)| 0 | 0 | 5| 2019-08-20 | 2019-08-20 |
-| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 406| 2019-08-19 | 2019-08-21 |
+| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 580| 2019-08-19 | 2019-08-27 |
 | [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
 | [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 0 | 0 | 947| 2019-08-16 | 2019-08-26 |
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
