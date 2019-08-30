@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 61
-*  7/2019: 66
-*  6/2019: 73
-*  5/2019: 75
-*  4/2019: 72
-*  3/2019: 72
-*  2/2019: 70
-*  1/2019: 72
-*  12/2018: 79
-*  11/2018: 76
-*  10/2018: 82
-*  9/2018: 95
+*  8/2019: 64
+*  7/2019: 68
+*  6/2019: 74
+*  5/2019: 76
+*  4/2019: 74
+*  3/2019: 77
+*  2/2019: 62
+*  1/2019: 76
+*  12/2018: 78
+*  11/2018: 81
+*  10/2018: 84
+*  9/2018: 99
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61050
+Total Matches: 61078
 
-Total Results (Limited by GitHUB API): 1117
+Total Results (Limited by GitHUB API): 1120
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
 | [osmarpb97/ipfs-test](https://github.com/osmarpb97/ipfs-test)| 0 | 0 | 1065| 2019-08-28 | 2019-08-28 |
 | [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 11| 2019-08-25 | 2019-08-27 |
 | [ranjanbinwani/Veracious](https://github.com/ranjanbinwani/Veracious)| 0 | 1 | 6536| 2019-08-24 | 2019-08-27 |
 | [abrar-syed/IPFS-File-Uploader](https://github.com/abrar-syed/IPFS-File-Uploader)| 1 | 0 | 29| 2019-08-23 | 2019-08-23 |
 | [pranavrao870/online-docs](https://github.com/pranavrao870/online-docs)| 0 | 0 | 5| 2019-08-20 | 2019-08-20 |
-| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 580| 2019-08-19 | 2019-08-27 |
+| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 585| 2019-08-19 | 2019-08-29 |
 | [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
 | [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 0 | 0 | 947| 2019-08-16 | 2019-08-26 |
 | [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
-| [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
 
 
 The above set is limited to the 10 most recently created. 
