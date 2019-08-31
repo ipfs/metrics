@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  8/2019: 64
-*  7/2019: 68
-*  6/2019: 74
-*  5/2019: 76
-*  4/2019: 74
-*  3/2019: 77
-*  2/2019: 62
-*  1/2019: 76
-*  12/2018: 78
-*  11/2018: 81
-*  10/2018: 84
-*  9/2018: 99
+*  7/2019: 64
+*  6/2019: 76
+*  5/2019: 74
+*  4/2019: 70
+*  3/2019: 74
+*  2/2019: 71
+*  1/2019: 73
+*  12/2018: 77
+*  11/2018: 76
+*  10/2018: 77
+*  9/2018: 94
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61078
+Total Matches: 61200
 
-Total Results (Limited by GitHUB API): 1120
+Total Results (Limited by GitHUB API): 1121
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 84| 2019-08-30 | 2019-08-30 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
 | [osmarpb97/ipfs-test](https://github.com/osmarpb97/ipfs-test)| 0 | 0 | 1065| 2019-08-28 | 2019-08-28 |
 | [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 11| 2019-08-25 | 2019-08-27 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1120
 | [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 585| 2019-08-19 | 2019-08-29 |
 | [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
 | [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 0 | 0 | 947| 2019-08-16 | 2019-08-26 |
-| [SunCowbee/TruffleIpfs](https://github.com/SunCowbee/TruffleIpfs)| 0 | 0 | 341| 2019-08-15 | 2019-08-15 |
 
 
 The above set is limited to the 10 most recently created. 
