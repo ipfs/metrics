@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2019: 64
-*  7/2019: 65
-*  6/2019: 75
-*  5/2019: 69
-*  4/2019: 69
-*  3/2019: 71
-*  2/2019: 71
-*  1/2019: 71
+*  9/2019: 17
+*  8/2019: 65
+*  7/2019: 73
+*  6/2019: 74
+*  5/2019: 82
+*  4/2019: 71
+*  3/2019: 69
+*  2/2019: 69
+*  1/2019: 76
 *  12/2018: 70
-*  11/2018: 79
-*  10/2018: 75
-*  9/2018: 95
+*  11/2018: 77
+*  10/2018: 86
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61300
+Total Matches: 61350
 
-Total Results (Limited by GitHUB API): 1123
+Total Results (Limited by GitHUB API): 1124
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 1 | 0 | 7| 2019-09-03 | 2019-09-03 |
 | [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 0 | 0 | 279| 2019-08-31 | 2019-08-31 |
 | [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 117| 2019-08-30 | 2019-08-31 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
 | [osmarpb97/ipfs-test](https://github.com/osmarpb97/ipfs-test)| 0 | 0 | 1065| 2019-08-28 | 2019-08-28 |
-| [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 21| 2019-08-25 | 2019-09-02 |
+| [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 27| 2019-08-25 | 2019-09-03 |
 | [ranjanbinwani/Veracious](https://github.com/ranjanbinwani/Veracious)| 0 | 1 | 6536| 2019-08-24 | 2019-08-27 |
 | [abrar-syed/IPFS-File-Uploader](https://github.com/abrar-syed/IPFS-File-Uploader)| 1 | 0 | 29| 2019-08-23 | 2019-08-23 |
 | [pranavrao870/online-docs](https://github.com/pranavrao870/online-docs)| 0 | 0 | 5| 2019-08-20 | 2019-08-20 |
 | [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 585| 2019-08-19 | 2019-08-29 |
-| [autonome/ipfs-stackbot](https://github.com/autonome/ipfs-stackbot)| 1 | 0 | 14| 2019-08-16 | 2019-08-17 |
 
 
 The above set is limited to the 10 most recently created. 
