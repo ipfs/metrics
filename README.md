@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 17
-*  8/2019: 65
-*  7/2019: 73
-*  6/2019: 74
-*  5/2019: 82
-*  4/2019: 71
-*  3/2019: 69
-*  2/2019: 69
-*  1/2019: 76
-*  12/2018: 70
-*  11/2018: 77
-*  10/2018: 86
+*  9/2019: 41
+*  8/2019: 66
+*  7/2019: 64
+*  6/2019: 76
+*  5/2019: 73
+*  4/2019: 73
+*  3/2019: 70
+*  2/2019: 67
+*  1/2019: 75
+*  12/2018: 71
+*  11/2018: 76
+*  10/2018: 77
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61350
+Total Matches: 61500
 
-Total Results (Limited by GitHUB API): 1124
+Total Results (Limited by GitHUB API): 1126
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 1 | 0 | 7| 2019-09-03 | 2019-09-03 |
+| [leekheang/ipfs_tutorial](https://github.com/leekheang/ipfs_tutorial)| 0 | 0 | 38709| 2019-09-05 | 2019-09-05 |
+| [devinhaeng/eth_ipfs](https://github.com/devinhaeng/eth_ipfs)| 0 | 0 | 100| 2019-09-05 | 2019-09-05 |
+| [TonyRice/micro-ipfs](https://github.com/TonyRice/micro-ipfs)| 0 | 0 | 74| 2019-09-04 | 2019-09-05 |
+| [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 1 | 1 | 7| 2019-09-03 | 2019-09-03 |
 | [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 0 | 0 | 279| 2019-08-31 | 2019-08-31 |
 | [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 117| 2019-08-30 | 2019-08-31 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
 | [osmarpb97/ipfs-test](https://github.com/osmarpb97/ipfs-test)| 0 | 0 | 1065| 2019-08-28 | 2019-08-28 |
 | [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 27| 2019-08-25 | 2019-09-03 |
 | [ranjanbinwani/Veracious](https://github.com/ranjanbinwani/Veracious)| 0 | 1 | 6536| 2019-08-24 | 2019-08-27 |
-| [abrar-syed/IPFS-File-Uploader](https://github.com/abrar-syed/IPFS-File-Uploader)| 1 | 0 | 29| 2019-08-23 | 2019-08-23 |
-| [pranavrao870/online-docs](https://github.com/pranavrao870/online-docs)| 0 | 0 | 5| 2019-08-20 | 2019-08-20 |
-| [iuwqyir/ipfs-upload](https://github.com/iuwqyir/ipfs-upload)| 0 | 0 | 585| 2019-08-19 | 2019-08-29 |
 
 
 The above set is limited to the 10 most recently created. 
