@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 53
-*  8/2019: 63
+*  9/2019: 60
+*  8/2019: 66
 *  7/2019: 67
-*  6/2019: 75
-*  5/2019: 76
-*  4/2019: 72
-*  3/2019: 77
+*  6/2019: 70
+*  5/2019: 75
+*  4/2019: 76
+*  3/2019: 76
 *  2/2019: 70
 *  1/2019: 75
 *  12/2018: 77
-*  11/2018: 78
-*  10/2018: 80
+*  11/2018: 83
+*  10/2018: 87
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61476
+Total Matches: 61600
 
 Total Results (Limited by GitHUB API): 1128
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [KapsonLabs/ipfs-file-tests](https://github.com/KapsonLabs/ipfs-file-tests)| 0 | 0 | 305| 2019-09-09 | 2019-09-09 |
 | [jogamod/Eth-Dapp-IPFS-React](https://github.com/jogamod/Eth-Dapp-IPFS-React)| 0 | 0 | 286| 2019-09-05 | 2019-09-07 |
 | [leekheang/ipfs_tutorial](https://github.com/leekheang/ipfs_tutorial)| 0 | 0 | 38709| 2019-09-05 | 2019-09-05 |
 | [devinhaeng/eth_ipfs](https://github.com/devinhaeng/eth_ipfs)| 0 | 0 | 100| 2019-09-05 | 2019-09-05 |
 | [TonyRice/micro-ipfs](https://github.com/TonyRice/micro-ipfs)| 0 | 0 | 74| 2019-09-04 | 2019-09-05 |
 | [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 1 | 1 | 7| 2019-09-03 | 2019-09-03 |
-| [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 0 | 1 | 279| 2019-08-31 | 2019-08-31 |
+| [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 0 | 2 | 279| 2019-08-31 | 2019-08-31 |
 | [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 117| 2019-08-30 | 2019-08-31 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
 | [osmarpb97/ipfs-test](https://github.com/osmarpb97/ipfs-test)| 0 | 0 | 1065| 2019-08-28 | 2019-08-28 |
-| [jimpick/ipfs-buddy](https://github.com/jimpick/ipfs-buddy)| 0 | 0 | 27| 2019-08-25 | 2019-09-03 |
 
 
 The above set is limited to the 10 most recently created. 
