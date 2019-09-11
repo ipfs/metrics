@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 60
-*  8/2019: 66
-*  7/2019: 67
-*  6/2019: 70
-*  5/2019: 75
-*  4/2019: 76
-*  3/2019: 76
-*  2/2019: 70
+*  9/2019: 56
+*  8/2019: 68
+*  7/2019: 71
+*  6/2019: 76
+*  5/2019: 70
+*  4/2019: 73
+*  3/2019: 77
+*  2/2019: 71
 *  1/2019: 75
-*  12/2018: 77
-*  11/2018: 83
-*  10/2018: 87
+*  12/2018: 71
+*  11/2018: 75
+*  10/2018: 79
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1056
+Total Matches: 1060
 
-Total Results (Limited by GitHUB API): 264
+Total Results (Limited by GitHUB API): 265
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
 | [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 4| 2019-08-13 | 2019-08-13 |
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
-| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51491| 2019-07-14 | 2019-08-22 |
+| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51498| 2019-07-14 | 2019-09-10 |
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 1 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [realChainLife/factory24-ipfs-course-test...](https://github.com/realChainLife/factory24-ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
 | [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 11 | 1 | 63| 2019-07-10 | 2019-08-12 |
-| [RTradeLtd/coredag](https://github.com/RTradeLtd/coredag)| 1 | 0 | 21| 2019-07-01 | 2019-07-02 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61600
+Total Matches: 61650
 
-Total Results (Limited by GitHUB API): 1128
+Total Results (Limited by GitHUB API): 1130
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pythonpete32/meme-of-the-day](https://github.com/pythonpete32/meme-of-the-day)| 0 | 0 | 276| 2019-09-10 | 2019-09-10 |
 | [KapsonLabs/ipfs-file-tests](https://github.com/KapsonLabs/ipfs-file-tests)| 0 | 0 | 305| 2019-09-09 | 2019-09-09 |
 | [jogamod/Eth-Dapp-IPFS-React](https://github.com/jogamod/Eth-Dapp-IPFS-React)| 0 | 0 | 286| 2019-09-05 | 2019-09-07 |
 | [leekheang/ipfs_tutorial](https://github.com/leekheang/ipfs_tutorial)| 0 | 0 | 38709| 2019-09-05 | 2019-09-05 |
 | [devinhaeng/eth_ipfs](https://github.com/devinhaeng/eth_ipfs)| 0 | 0 | 100| 2019-09-05 | 2019-09-05 |
-| [TonyRice/micro-ipfs](https://github.com/TonyRice/micro-ipfs)| 0 | 0 | 74| 2019-09-04 | 2019-09-05 |
+| [TonyRice/micro-ipfs](https://github.com/TonyRice/micro-ipfs)| 0 | 0 | 77| 2019-09-04 | 2019-09-10 |
 | [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 1 | 1 | 7| 2019-09-03 | 2019-09-03 |
 | [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 0 | 2 | 279| 2019-08-31 | 2019-08-31 |
 | [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 117| 2019-08-30 | 2019-08-31 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
-| [osmarpb97/ipfs-test](https://github.com/osmarpb97/ipfs-test)| 0 | 0 | 1065| 2019-08-28 | 2019-08-28 |
 
 
 The above set is limited to the 10 most recently created. 
