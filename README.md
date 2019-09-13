@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 61
-*  8/2019: 65
-*  7/2019: 64
-*  6/2019: 78
+*  9/2019: 67
+*  8/2019: 64
+*  7/2019: 65
+*  6/2019: 77
 *  5/2019: 79
-*  4/2019: 70
-*  3/2019: 75
-*  2/2019: 68
-*  1/2019: 77
-*  12/2018: 71
-*  11/2018: 79
-*  10/2018: 87
+*  4/2019: 78
+*  3/2019: 74
+*  2/2019: 70
+*  1/2019: 76
+*  12/2018: 75
+*  11/2018: 77
+*  10/2018: 82
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1052
 
-Total Results (Limited by GitHUB API): 263
+Total Results (Limited by GitHUB API): 262
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 61700
 
-Total Results (Limited by GitHUB API): 1130
+Total Results (Limited by GitHUB API): 1129
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 1130
 | [devinhaeng/eth_ipfs](https://github.com/devinhaeng/eth_ipfs)| 0 | 0 | 100| 2019-09-05 | 2019-09-05 |
 | [TonyRice/micro-ipfs](https://github.com/TonyRice/micro-ipfs)| 0 | 0 | 77| 2019-09-04 | 2019-09-10 |
 | [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 1 | 2 | 7| 2019-09-03 | 2019-09-03 |
-| [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 0 | 2 | 279| 2019-08-31 | 2019-08-31 |
+| [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 1 | 2 | 279| 2019-08-31 | 2019-08-31 |
 | [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 117| 2019-08-30 | 2019-08-31 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 27| 2019-08-29 | 2019-08-29 |
 
