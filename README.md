@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 66
-*  8/2019: 63
-*  7/2019: 65
-*  6/2019: 75
-*  5/2019: 74
-*  4/2019: 73
-*  3/2019: 75
-*  2/2019: 68
-*  1/2019: 72
-*  12/2018: 70
-*  11/2018: 76
-*  10/2018: 81
+*  9/2019: 59
+*  8/2019: 67
+*  7/2019: 67
+*  6/2019: 71
+*  5/2019: 73
+*  4/2019: 75
+*  3/2019: 72
+*  2/2019: 66
+*  1/2019: 71
+*  12/2018: 72
+*  11/2018: 73
+*  10/2018: 82
 
 ### GitHub Search
 
@@ -73,18 +73,18 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 61900
+Total Matches: 61889
 
-Total Results (Limited by GitHUB API): 1133
+Total Results (Limited by GitHUB API): 1132
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [georgeaf99/NYCMeshChatService](https://github.com/georgeaf99/NYCMeshChatService)| 0 | 0 | 72| 2019-09-15 | 2019-09-15 |
-| [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4376| 2019-09-15 | 2019-09-15 |
+| [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4400| 2019-09-15 | 2019-09-16 |
 | [peterhuba/d-chat](https://github.com/peterhuba/d-chat)| 0 | 0 | 260| 2019-09-15 | 2019-09-15 |
 | [sebastiantf/ipfs-memeoftheday](https://github.com/sebastiantf/ipfs-memeoftheday)| 0 | 0 | 210| 2019-09-14 | 2019-09-14 |
 | [pythonpete32/meme-of-the-day](https://github.com/pythonpete32/meme-of-the-day)| 0 | 0 | 1068| 2019-09-10 | 2019-09-11 |
-| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 2 | 0 | 218| 2019-09-09 | 2019-09-12 |
+| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 3 | 0 | 230| 2019-09-09 | 2019-09-16 |
 | [KapsonLabs/ipfs-file-tests](https://github.com/KapsonLabs/ipfs-file-tests)| 0 | 0 | 305| 2019-09-09 | 2019-09-09 |
 | [jogamod/Eth-Dapp-IPFS-React](https://github.com/jogamod/Eth-Dapp-IPFS-React)| 0 | 0 | 286| 2019-09-05 | 2019-09-07 |
 | [leekheang/ipfs_tutorial](https://github.com/leekheang/ipfs_tutorial)| 0 | 0 | 38709| 2019-09-05 | 2019-09-05 |
