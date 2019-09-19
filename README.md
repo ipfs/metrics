@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 57
-*  8/2019: 68
+*  9/2019: 60
+*  8/2019: 64
 *  7/2019: 66
-*  6/2019: 72
+*  6/2019: 71
 *  5/2019: 77
-*  4/2019: 73
-*  3/2019: 74
-*  2/2019: 70
+*  4/2019: 72
+*  3/2019: 76
+*  2/2019: 68
 *  1/2019: 76
-*  12/2018: 77
-*  11/2018: 83
-*  10/2018: 82
+*  12/2018: 73
+*  11/2018: 74
+*  10/2018: 86
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62000
+Total Matches: 62150
 
-Total Results (Limited by GitHUB API): 1135
+Total Results (Limited by GitHUB API): 1139
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 74| 2019-09-18 | 2019-09-18 |
+| [ipfs-shipyard/js-ipfs-contributors](https://github.com/ipfs-shipyard/js-ipfs-contributors)| 0 | 0 | 755| 2019-09-18 | 2019-09-18 |
 | [georgeaf99/NYCMeshChatService](https://github.com/georgeaf99/NYCMeshChatService)| 0 | 0 | 72| 2019-09-15 | 2019-09-15 |
-| [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4409| 2019-09-15 | 2019-09-17 |
+| [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4399| 2019-09-15 | 2019-09-18 |
 | [peterhuba/d-chat](https://github.com/peterhuba/d-chat)| 0 | 0 | 260| 2019-09-15 | 2019-09-15 |
 | [sebastiantf/ipfs-memeoftheday](https://github.com/sebastiantf/ipfs-memeoftheday)| 0 | 0 | 210| 2019-09-14 | 2019-09-14 |
 | [pythonpete32/meme-of-the-day](https://github.com/pythonpete32/meme-of-the-day)| 0 | 0 | 1443| 2019-09-10 | 2019-09-17 |
-| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 3 | 0 | 438| 2019-09-09 | 2019-09-17 |
+| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 3 | 0 | 394| 2019-09-09 | 2019-09-18 |
 | [KapsonLabs/ipfs-file-tests](https://github.com/KapsonLabs/ipfs-file-tests)| 0 | 0 | 305| 2019-09-09 | 2019-09-09 |
-| [jogamod/Eth-Dapp-IPFS-React](https://github.com/jogamod/Eth-Dapp-IPFS-React)| 0 | 0 | 286| 2019-09-05 | 2019-09-07 |
-| [leekheang/ipfs_tutorial](https://github.com/leekheang/ipfs_tutorial)| 0 | 0 | 38709| 2019-09-05 | 2019-09-05 |
-| [devinhaeng/eth_ipfs](https://github.com/devinhaeng/eth_ipfs)| 0 | 0 | 100| 2019-09-05 | 2019-09-05 |
+| [ryanio/ipfs-pin-market-contracts](https://github.com/ryanio/ipfs-pin-market-contracts)| 0 | 0 | 146| 2019-09-08 | 2019-09-17 |
 
 
 The above set is limited to the 10 most recently created. 
