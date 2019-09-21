@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 65
-*  8/2019: 69
-*  7/2019: 69
-*  6/2019: 75
-*  5/2019: 77
-*  4/2019: 73
-*  3/2019: 70
-*  2/2019: 71
-*  1/2019: 72
-*  12/2018: 78
-*  11/2018: 77
-*  10/2018: 85
+*  9/2019: 62
+*  8/2019: 65
+*  7/2019: 68
+*  6/2019: 74
+*  5/2019: 78
+*  4/2019: 70
+*  3/2019: 76
+*  2/2019: 67
+*  1/2019: 77
+*  12/2018: 71
+*  11/2018: 76
+*  10/2018: 78
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62150
+Total Matches: 62200
 
-Total Results (Limited by GitHUB API): 1138
+Total Results (Limited by GitHUB API): 1139
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 74| 2019-09-18 | 2019-09-18 |
+| [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 1 | 0 | 46| 2019-09-20 | 2019-09-20 |
+| [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 94| 2019-09-18 | 2019-09-20 |
 | [ipfs-shipyard/js-ipfs-contributors](https://github.com/ipfs-shipyard/js-ipfs-contributors)| 0 | 0 | 755| 2019-09-18 | 2019-09-18 |
 | [georgeaf99/NYCMeshChatService](https://github.com/georgeaf99/NYCMeshChatService)| 0 | 0 | 72| 2019-09-15 | 2019-09-15 |
 | [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4399| 2019-09-15 | 2019-09-18 |
 | [peterhuba/d-chat](https://github.com/peterhuba/d-chat)| 0 | 0 | 260| 2019-09-15 | 2019-09-15 |
 | [sebastiantf/ipfs-memeoftheday](https://github.com/sebastiantf/ipfs-memeoftheday)| 0 | 0 | 210| 2019-09-14 | 2019-09-14 |
 | [pythonpete32/meme-of-the-day](https://github.com/pythonpete32/meme-of-the-day)| 0 | 0 | 1443| 2019-09-10 | 2019-09-17 |
-| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 3 | 0 | 402| 2019-09-09 | 2019-09-19 |
+| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 3 | 0 | 403| 2019-09-09 | 2019-09-20 |
 | [KapsonLabs/ipfs-file-tests](https://github.com/KapsonLabs/ipfs-file-tests)| 0 | 0 | 305| 2019-09-09 | 2019-09-09 |
-| [ryanio/ipfs-pin-market-contracts](https://github.com/ryanio/ipfs-pin-market-contracts)| 0 | 0 | 146| 2019-09-08 | 2019-09-17 |
 
 
 The above set is limited to the 10 most recently created. 
