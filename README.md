@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 62
-*  8/2019: 65
-*  7/2019: 68
-*  6/2019: 74
-*  5/2019: 78
-*  4/2019: 70
-*  3/2019: 76
-*  2/2019: 67
-*  1/2019: 77
-*  12/2018: 71
-*  11/2018: 76
-*  10/2018: 78
+*  9/2019: 63
+*  8/2019: 66
+*  7/2019: 67
+*  6/2019: 77
+*  5/2019: 76
+*  4/2019: 76
+*  3/2019: 73
+*  2/2019: 66
+*  1/2019: 72
+*  12/2018: 73
+*  11/2018: 79
+*  10/2018: 83
 
 ### GitHub Search
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62200
+Total Matches: 62350
 
 Total Results (Limited by GitHUB API): 1139
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 1 | 0 | 46| 2019-09-20 | 2019-09-20 |
+| [ryanio/ipfs-pin-market-app](https://github.com/ryanio/ipfs-pin-market-app)| 0 | 0 | 374| 2019-09-22 | 2019-09-22 |
+| [Aveesh52/IPFS-image-uploads](https://github.com/Aveesh52/IPFS-image-uploads)| 0 | 0 | 274| 2019-09-21 | 2019-09-21 |
+| [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 1 | 0 | 48| 2019-09-20 | 2019-09-22 |
 | [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 94| 2019-09-18 | 2019-09-20 |
 | [ipfs-shipyard/js-ipfs-contributors](https://github.com/ipfs-shipyard/js-ipfs-contributors)| 0 | 0 | 755| 2019-09-18 | 2019-09-18 |
 | [georgeaf99/NYCMeshChatService](https://github.com/georgeaf99/NYCMeshChatService)| 0 | 0 | 72| 2019-09-15 | 2019-09-15 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1139
 | [peterhuba/d-chat](https://github.com/peterhuba/d-chat)| 0 | 0 | 260| 2019-09-15 | 2019-09-15 |
 | [sebastiantf/ipfs-memeoftheday](https://github.com/sebastiantf/ipfs-memeoftheday)| 0 | 0 | 210| 2019-09-14 | 2019-09-14 |
 | [pythonpete32/meme-of-the-day](https://github.com/pythonpete32/meme-of-the-day)| 0 | 0 | 1443| 2019-09-10 | 2019-09-17 |
-| [openworklabs/quasar](https://github.com/openworklabs/quasar)| 3 | 0 | 403| 2019-09-09 | 2019-09-20 |
-| [KapsonLabs/ipfs-file-tests](https://github.com/KapsonLabs/ipfs-file-tests)| 0 | 0 | 305| 2019-09-09 | 2019-09-09 |
 
 
 The above set is limited to the 10 most recently created. 
