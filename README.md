@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 63
-*  8/2019: 66
-*  7/2019: 67
-*  6/2019: 77
+*  9/2019: 60
+*  8/2019: 67
+*  7/2019: 65
+*  6/2019: 74
 *  5/2019: 76
-*  4/2019: 76
-*  3/2019: 73
-*  2/2019: 66
-*  1/2019: 72
+*  4/2019: 73
+*  3/2019: 77
+*  2/2019: 70
+*  1/2019: 75
 *  12/2018: 73
-*  11/2018: 79
-*  10/2018: 83
+*  11/2018: 78
+*  10/2018: 79
 
 ### GitHub Search
 
@@ -62,7 +62,7 @@ Total Results (Limited by GitHUB API): 264
 | [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 4| 2019-08-13 | 2019-08-13 |
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
-| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 0 | 0 | 51498| 2019-07-14 | 2019-09-10 |
+| [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 1 | 1 | 51498| 2019-07-14 | 2019-09-10 |
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 1 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62350
+Total Matches: 62450
 
-Total Results (Limited by GitHUB API): 1139
+Total Results (Limited by GitHUB API): 1141
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pythonpete32/memeKing](https://github.com/pythonpete32/memeKing)| 1 | 0 | 12573| 2019-09-23 | 2019-09-23 |
+| [kapil1221/Electronic-Health-Record](https://github.com/kapil1221/Electronic-Health-Record)| 0 | 0 | 268| 2019-09-23 | 2019-09-23 |
 | [ryanio/ipfs-pin-market-app](https://github.com/ryanio/ipfs-pin-market-app)| 0 | 0 | 374| 2019-09-22 | 2019-09-22 |
 | [Aveesh52/IPFS-image-uploads](https://github.com/Aveesh52/IPFS-image-uploads)| 0 | 0 | 274| 2019-09-21 | 2019-09-21 |
 | [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 1 | 0 | 48| 2019-09-20 | 2019-09-22 |
 | [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 94| 2019-09-18 | 2019-09-20 |
 | [ipfs-shipyard/js-ipfs-contributors](https://github.com/ipfs-shipyard/js-ipfs-contributors)| 0 | 0 | 755| 2019-09-18 | 2019-09-18 |
 | [georgeaf99/NYCMeshChatService](https://github.com/georgeaf99/NYCMeshChatService)| 0 | 0 | 72| 2019-09-15 | 2019-09-15 |
-| [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4399| 2019-09-15 | 2019-09-18 |
+| [reuixiy/meme-ipfs](https://github.com/reuixiy/meme-ipfs)| 0 | 0 | 4402| 2019-09-15 | 2019-09-23 |
 | [peterhuba/d-chat](https://github.com/peterhuba/d-chat)| 0 | 0 | 260| 2019-09-15 | 2019-09-15 |
-| [sebastiantf/ipfs-memeoftheday](https://github.com/sebastiantf/ipfs-memeoftheday)| 0 | 0 | 210| 2019-09-14 | 2019-09-14 |
-| [pythonpete32/meme-of-the-day](https://github.com/pythonpete32/meme-of-the-day)| 0 | 0 | 1443| 2019-09-10 | 2019-09-17 |
 
 
 The above set is limited to the 10 most recently created. 
