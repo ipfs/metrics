@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 60
-*  8/2019: 67
-*  7/2019: 65
-*  6/2019: 74
+*  9/2019: 61
+*  8/2019: 64
+*  7/2019: 68
+*  6/2019: 73
 *  5/2019: 76
-*  4/2019: 73
-*  3/2019: 77
-*  2/2019: 70
-*  1/2019: 75
-*  12/2018: 73
+*  4/2019: 70
+*  3/2019: 75
+*  2/2019: 66
+*  1/2019: 76
+*  12/2018: 71
 *  11/2018: 78
-*  10/2018: 79
+*  10/2018: 84
 
 ### GitHub Search
 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62450
+Total Matches: 62500
 
-Total Results (Limited by GitHUB API): 1141
+Total Results (Limited by GitHUB API): 1143
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [pythonpete32/memeKing](https://github.com/pythonpete32/memeKing)| 1 | 0 | 12573| 2019-09-23 | 2019-09-23 |
 | [kapil1221/Electronic-Health-Record](https://github.com/kapil1221/Electronic-Health-Record)| 0 | 0 | 268| 2019-09-23 | 2019-09-23 |
-| [ryanio/ipfs-pin-market-app](https://github.com/ryanio/ipfs-pin-market-app)| 0 | 0 | 374| 2019-09-22 | 2019-09-22 |
+| [ryanio/ipfs-pin-market-dapp](https://github.com/ryanio/ipfs-pin-market-dapp)| 0 | 0 | 395| 2019-09-22 | 2019-09-24 |
 | [Aveesh52/IPFS-image-uploads](https://github.com/Aveesh52/IPFS-image-uploads)| 0 | 0 | 274| 2019-09-21 | 2019-09-21 |
 | [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 1 | 0 | 48| 2019-09-20 | 2019-09-22 |
 | [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 94| 2019-09-18 | 2019-09-20 |
