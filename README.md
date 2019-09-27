@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 65
-*  8/2019: 59
-*  7/2019: 62
-*  6/2019: 77
+*  9/2019: 60
+*  8/2019: 68
+*  7/2019: 63
+*  6/2019: 74
 *  5/2019: 76
-*  4/2019: 79
+*  4/2019: 73
 *  3/2019: 72
-*  2/2019: 70
-*  1/2019: 76
-*  12/2018: 80
-*  11/2018: 75
-*  10/2018: 83
+*  2/2019: 67
+*  1/2019: 77
+*  12/2018: 73
+*  11/2018: 74
+*  10/2018: 84
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62600
+Total Matches: 62650
 
-Total Results (Limited by GitHUB API): 1145
+Total Results (Limited by GitHUB API): 1146
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [cryptowhaler/Decentralized_Dropbox](https://github.com/cryptowhaler/Decentralized_Dropbox)| 0 | 0 | 1218| 2019-09-26 | 2019-09-26 |
 | [ACE857/MediCon](https://github.com/ACE857/MediCon)| 0 | 0 | 13529| 2019-09-25 | 2019-09-25 |
 | [Ideea-inc/Pin-js](https://github.com/Ideea-inc/Pin-js)| 0 | 0 | 5| 2019-09-25 | 2019-09-25 |
 | [pythonpete32/memeKing](https://github.com/pythonpete32/memeKing)| 1 | 0 | 12573| 2019-09-23 | 2019-09-23 |
 | [kapil1221/Electronic-Health-Record](https://github.com/kapil1221/Electronic-Health-Record)| 0 | 0 | 268| 2019-09-23 | 2019-09-23 |
 | [ryanio/ipfs-pin-market-dapp](https://github.com/ryanio/ipfs-pin-market-dapp)| 0 | 0 | 405| 2019-09-22 | 2019-09-25 |
 | [Aveesh52/IPFS-image-uploads](https://github.com/Aveesh52/IPFS-image-uploads)| 0 | 0 | 274| 2019-09-21 | 2019-09-21 |
-| [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 1 | 0 | 48| 2019-09-20 | 2019-09-22 |
+| [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 2 | 0 | 48| 2019-09-20 | 2019-09-22 |
 | [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 94| 2019-09-18 | 2019-09-20 |
 | [ipfs-shipyard/js-ipfs-contributors](https://github.com/ipfs-shipyard/js-ipfs-contributors)| 0 | 0 | 755| 2019-09-18 | 2019-09-18 |
-| [ohager/pinbox-app](https://github.com/ohager/pinbox-app)| 1 | 0 | 779| 2019-09-18 | 2019-09-25 |
 
 
 The above set is limited to the 10 most recently created. 
