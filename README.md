@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 60
-*  8/2019: 68
-*  7/2019: 63
-*  6/2019: 74
-*  5/2019: 76
-*  4/2019: 73
-*  3/2019: 72
-*  2/2019: 67
-*  1/2019: 77
-*  12/2018: 73
-*  11/2018: 74
-*  10/2018: 84
+*  9/2019: 61
+*  8/2019: 63
+*  7/2019: 67
+*  6/2019: 77
+*  5/2019: 77
+*  4/2019: 72
+*  3/2019: 74
+*  2/2019: 66
+*  1/2019: 75
+*  12/2018: 74
+*  11/2018: 77
+*  10/2018: 82
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1056
+Total Matches: 1060
 
-Total Results (Limited by GitHUB API): 264
+Total Results (Limited by GitHUB API): 265
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [quorumcontrol/go-ds-dynamodb](https://github.com/quorumcontrol/go-ds-dynamodb)| 0 | 0 | 6| 2019-09-27 | 2019-09-27 |
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 264
 | [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 1 | 1 | 51498| 2019-07-14 | 2019-09-10 |
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 1 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
-| [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62650
+Total Matches: 62600
 
-Total Results (Limited by GitHUB API): 1146
+Total Results (Limited by GitHUB API): 1144
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
