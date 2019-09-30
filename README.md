@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 61
-*  8/2019: 63
-*  7/2019: 67
-*  6/2019: 77
-*  5/2019: 77
-*  4/2019: 72
-*  3/2019: 74
-*  2/2019: 66
-*  1/2019: 75
-*  12/2018: 74
+*  9/2019: 58
+*  8/2019: 64
+*  7/2019: 66
+*  6/2019: 74
+*  5/2019: 76
+*  4/2019: 70
+*  3/2019: 80
+*  2/2019: 69
+*  1/2019: 73
+*  12/2018: 72
 *  11/2018: 77
-*  10/2018: 82
+*  10/2018: 77
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1060
 
-Total Results (Limited by GitHUB API): 265
+Total Results (Limited by GitHUB API): 264
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62600
+Total Matches: 62700
 
-Total Results (Limited by GitHUB API): 1144
+Total Results (Limited by GitHUB API): 1147
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
+| [timothymugayi/ipfs-distributed-storage-d...](https://github.com/timothymugayi/ipfs-distributed-storage-dapp)| 0 | 0 | 81| 2019-09-28 | 2019-09-28 |
 | [cryptowhaler/Decentralized_Dropbox](https://github.com/cryptowhaler/Decentralized_Dropbox)| 0 | 0 | 1218| 2019-09-26 | 2019-09-26 |
 | [ACE857/MediCon](https://github.com/ACE857/MediCon)| 0 | 0 | 13529| 2019-09-25 | 2019-09-25 |
 | [Ideea-inc/Pin-js](https://github.com/Ideea-inc/Pin-js)| 0 | 0 | 5| 2019-09-25 | 2019-09-25 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1144
 | [ryanio/ipfs-pin-market-dapp](https://github.com/ryanio/ipfs-pin-market-dapp)| 0 | 0 | 405| 2019-09-22 | 2019-09-25 |
 | [Aveesh52/IPFS-image-uploads](https://github.com/Aveesh52/IPFS-image-uploads)| 0 | 0 | 274| 2019-09-21 | 2019-09-21 |
 | [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 2 | 0 | 48| 2019-09-20 | 2019-09-22 |
-| [Permissionless-Software-Foundation/chat-...](https://github.com/Permissionless-Software-Foundation/chat-bootstrap-server)| 0 | 0 | 94| 2019-09-18 | 2019-09-20 |
-| [ipfs-shipyard/js-ipfs-contributors](https://github.com/ipfs-shipyard/js-ipfs-contributors)| 0 | 0 | 755| 2019-09-18 | 2019-09-18 |
 
 
 The above set is limited to the 10 most recently created. 
