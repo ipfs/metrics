@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 58
-*  8/2019: 64
-*  7/2019: 66
-*  6/2019: 74
-*  5/2019: 76
-*  4/2019: 70
-*  3/2019: 80
-*  2/2019: 69
-*  1/2019: 73
-*  12/2018: 72
-*  11/2018: 77
+*  9/2019: 55
+*  8/2019: 65
+*  7/2019: 64
+*  6/2019: 71
+*  5/2019: 70
+*  4/2019: 69
+*  3/2019: 70
+*  2/2019: 65
+*  1/2019: 69
+*  12/2018: 71
+*  11/2018: 70
 *  10/2018: 77
 
 ### GitHub Search
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1060
 
-Total Results (Limited by GitHUB API): 264
+Total Results (Limited by GitHUB API): 265
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62700
+Total Matches: 62850
 
-Total Results (Limited by GitHUB API): 1147
+Total Results (Limited by GitHUB API): 1150
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 128| 2019-09-30 | 2019-09-30 |
+| [jaykch/blockchain-got-rekt](https://github.com/jaykch/blockchain-got-rekt)| 0 | 0 | 284| 2019-09-30 | 2019-09-30 |
 | [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
 | [timothymugayi/ipfs-distributed-storage-d...](https://github.com/timothymugayi/ipfs-distributed-storage-dapp)| 0 | 0 | 81| 2019-09-28 | 2019-09-28 |
 | [cryptowhaler/Decentralized_Dropbox](https://github.com/cryptowhaler/Decentralized_Dropbox)| 0 | 0 | 1218| 2019-09-26 | 2019-09-26 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1147
 | [pythonpete32/memeKing](https://github.com/pythonpete32/memeKing)| 1 | 0 | 12573| 2019-09-23 | 2019-09-23 |
 | [kapil1221/Electronic-Health-Record](https://github.com/kapil1221/Electronic-Health-Record)| 0 | 0 | 268| 2019-09-23 | 2019-09-23 |
 | [ryanio/ipfs-pin-market-dapp](https://github.com/ryanio/ipfs-pin-market-dapp)| 0 | 0 | 405| 2019-09-22 | 2019-09-25 |
-| [Aveesh52/IPFS-image-uploads](https://github.com/Aveesh52/IPFS-image-uploads)| 0 | 0 | 274| 2019-09-21 | 2019-09-21 |
-| [graphprotocol/ipfs-sync](https://github.com/graphprotocol/ipfs-sync)| 2 | 0 | 48| 2019-09-20 | 2019-09-22 |
 
 
 The above set is limited to the 10 most recently created. 
