@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 55
-*  8/2019: 65
-*  7/2019: 64
-*  6/2019: 71
-*  5/2019: 70
-*  4/2019: 69
-*  3/2019: 70
-*  2/2019: 65
-*  1/2019: 69
-*  12/2018: 71
-*  11/2018: 70
-*  10/2018: 77
+*  9/2019: 62
+*  8/2019: 67
+*  7/2019: 69
+*  6/2019: 76
+*  5/2019: 78
+*  4/2019: 75
+*  3/2019: 74
+*  2/2019: 69
+*  1/2019: 79
+*  12/2018: 72
+*  11/2018: 84
+*  10/2018: 84
 
 ### GitHub Search
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 62850
+Total Matches: 63000
 
-Total Results (Limited by GitHUB API): 1150
+Total Results (Limited by GitHUB API): 1153
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 128| 2019-09-30 | 2019-09-30 |
+| [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
+| [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
+| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 169| 2019-09-30 | 2019-10-01 |
 | [jaykch/blockchain-got-rekt](https://github.com/jaykch/blockchain-got-rekt)| 0 | 0 | 284| 2019-09-30 | 2019-09-30 |
 | [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
 | [timothymugayi/ipfs-distributed-storage-d...](https://github.com/timothymugayi/ipfs-distributed-storage-dapp)| 0 | 0 | 81| 2019-09-28 | 2019-09-28 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1150
 | [ACE857/MediCon](https://github.com/ACE857/MediCon)| 0 | 0 | 13529| 2019-09-25 | 2019-09-25 |
 | [Ideea-inc/Pin-js](https://github.com/Ideea-inc/Pin-js)| 0 | 0 | 5| 2019-09-25 | 2019-09-25 |
 | [pythonpete32/memeKing](https://github.com/pythonpete32/memeKing)| 1 | 0 | 12573| 2019-09-23 | 2019-09-23 |
-| [kapil1221/Electronic-Health-Record](https://github.com/kapil1221/Electronic-Health-Record)| 0 | 0 | 268| 2019-09-23 | 2019-09-23 |
-| [ryanio/ipfs-pin-market-dapp](https://github.com/ryanio/ipfs-pin-market-dapp)| 0 | 0 | 405| 2019-09-22 | 2019-09-25 |
 
 
 The above set is limited to the 10 most recently created. 
