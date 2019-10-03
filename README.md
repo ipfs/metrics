@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 62
-*  8/2019: 67
-*  7/2019: 69
-*  6/2019: 76
-*  5/2019: 78
-*  4/2019: 75
-*  3/2019: 74
-*  2/2019: 69
-*  1/2019: 79
-*  12/2018: 72
-*  11/2018: 84
-*  10/2018: 84
+*  9/2019: 58
+*  8/2019: 62
+*  7/2019: 67
+*  6/2019: 72
+*  5/2019: 74
+*  4/2019: 72
+*  3/2019: 72
+*  2/2019: 67
+*  1/2019: 74
+*  12/2018: 73
+*  11/2018: 74
+*  10/2018: 83
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63000
+Total Matches: 63138
 
-Total Results (Limited by GitHUB API): 1153
+Total Results (Limited by GitHUB API): 1154
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [prayaglehana/ipfspubsub](https://github.com/prayaglehana/ipfspubsub)| 0 | 0 | 949| 2019-10-02 | 2019-10-02 |
+| [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 89| 2019-10-02 | 2019-10-02 |
 | [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
 | [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
-| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 169| 2019-09-30 | 2019-10-01 |
+| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 172| 2019-09-30 | 2019-10-02 |
 | [jaykch/blockchain-got-rekt](https://github.com/jaykch/blockchain-got-rekt)| 0 | 0 | 284| 2019-09-30 | 2019-09-30 |
 | [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
 | [timothymugayi/ipfs-distributed-storage-d...](https://github.com/timothymugayi/ipfs-distributed-storage-dapp)| 0 | 0 | 81| 2019-09-28 | 2019-09-28 |
 | [cryptowhaler/Decentralized_Dropbox](https://github.com/cryptowhaler/Decentralized_Dropbox)| 0 | 0 | 1218| 2019-09-26 | 2019-09-26 |
 | [ACE857/MediCon](https://github.com/ACE857/MediCon)| 0 | 0 | 13529| 2019-09-25 | 2019-09-25 |
-| [Ideea-inc/Pin-js](https://github.com/Ideea-inc/Pin-js)| 0 | 0 | 5| 2019-09-25 | 2019-09-25 |
-| [pythonpete32/memeKing](https://github.com/pythonpete32/memeKing)| 1 | 0 | 12573| 2019-09-23 | 2019-09-23 |
 
 
 The above set is limited to the 10 most recently created. 
