@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2019: 58
-*  8/2019: 62
+*  10/2019: 42
+*  9/2019: 61
+*  8/2019: 64
 *  7/2019: 67
 *  6/2019: 72
-*  5/2019: 74
+*  5/2019: 72
 *  4/2019: 72
-*  3/2019: 72
-*  2/2019: 67
-*  1/2019: 74
-*  12/2018: 73
+*  3/2019: 73
+*  2/2019: 66
+*  1/2019: 75
+*  12/2018: 76
 *  11/2018: 74
-*  10/2018: 83
 
 ### GitHub Search
 
@@ -73,17 +73,17 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63138
+Total Matches: 63100
 
 Total Results (Limited by GitHUB API): 1154
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [prayaglehana/ipfspubsub](https://github.com/prayaglehana/ipfspubsub)| 0 | 0 | 949| 2019-10-02 | 2019-10-02 |
-| [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 89| 2019-10-02 | 2019-10-02 |
+| [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 92| 2019-10-02 | 2019-10-03 |
 | [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
 | [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
-| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 172| 2019-09-30 | 2019-10-02 |
+| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 469| 2019-09-30 | 2019-10-03 |
 | [jaykch/blockchain-got-rekt](https://github.com/jaykch/blockchain-got-rekt)| 0 | 0 | 284| 2019-09-30 | 2019-09-30 |
 | [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
 | [timothymugayi/ipfs-distributed-storage-d...](https://github.com/timothymugayi/ipfs-distributed-storage-dapp)| 0 | 0 | 81| 2019-09-28 | 2019-09-28 |
