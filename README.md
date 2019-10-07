@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 78
-*  9/2019: 65
-*  8/2019: 70
-*  7/2019: 70
-*  6/2019: 78
-*  5/2019: 81
-*  4/2019: 74
-*  3/2019: 79
-*  2/2019: 71
-*  1/2019: 80
-*  12/2018: 76
-*  11/2018: 81
+*  10/2019: 67
+*  9/2019: 61
+*  8/2019: 59
+*  7/2019: 64
+*  6/2019: 72
+*  5/2019: 73
+*  4/2019: 69
+*  3/2019: 72
+*  2/2019: 65
+*  1/2019: 72
+*  12/2018: 72
+*  11/2018: 74
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1060
+Total Matches: 1056
 
-Total Results (Limited by GitHUB API): 265
+Total Results (Limited by GitHUB API): 261
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63100
+Total Matches: 63223
 
-Total Results (Limited by GitHUB API): 1154
+Total Results (Limited by GitHUB API): 1157
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Srinivasan1008/IPFS](https://github.com/Srinivasan1008/IPFS)| 0 | 0 | 585| 2019-10-06 | 2019-10-06 |
+| [jaykch/ethereum-file-share](https://github.com/jaykch/ethereum-file-share)| 0 | 0 | 291| 2019-10-06 | 2019-10-06 |
+| [simpleaswater/ipfs](https://github.com/simpleaswater/ipfs)| 0 | 0 | 3| 2019-10-04 | 2019-10-05 |
+| [DogeSoftware/Memecent](https://github.com/DogeSoftware/Memecent)| 0 | 0 | 4| 2019-10-03 | 2019-10-05 |
 | [prayaglehana/ipfspubsub](https://github.com/prayaglehana/ipfspubsub)| 0 | 0 | 949| 2019-10-02 | 2019-10-02 |
 | [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 92| 2019-10-02 | 2019-10-03 |
 | [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
 | [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
-| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 469| 2019-09-30 | 2019-10-03 |
-| [jaykch/blockchain-got-rekt](https://github.com/jaykch/blockchain-got-rekt)| 0 | 0 | 284| 2019-09-30 | 2019-09-30 |
+| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 626| 2019-09-30 | 2019-10-06 |
 | [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
-| [timothymugayi/ipfs-distributed-storage-d...](https://github.com/timothymugayi/ipfs-distributed-storage-dapp)| 0 | 0 | 81| 2019-09-28 | 2019-09-28 |
-| [cryptowhaler/Decentralized_Dropbox](https://github.com/cryptowhaler/Decentralized_Dropbox)| 0 | 0 | 1218| 2019-09-26 | 2019-09-26 |
-| [ACE857/MediCon](https://github.com/ACE857/MediCon)| 0 | 0 | 13529| 2019-09-25 | 2019-09-25 |
 
 
 The above set is limited to the 10 most recently created. 
