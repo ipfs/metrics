@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 64
-*  9/2019: 63
-*  8/2019: 67
-*  7/2019: 67
+*  10/2019: 56
+*  9/2019: 59
+*  8/2019: 61
+*  7/2019: 63
 *  6/2019: 76
-*  5/2019: 79
-*  4/2019: 75
-*  3/2019: 76
-*  2/2019: 64
-*  1/2019: 75
-*  12/2018: 71
-*  11/2018: 79
+*  5/2019: 74
+*  4/2019: 70
+*  3/2019: 74
+*  2/2019: 63
+*  1/2019: 73
+*  12/2018: 77
+*  11/2018: 75
 
 ### GitHub Search
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63350
+Total Matches: 63300
 
-Total Results (Limited by GitHUB API): 1159
+Total Results (Limited by GitHUB API): 1158
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -87,7 +87,7 @@ Total Results (Limited by GitHUB API): 1159
 | [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 97| 2019-10-02 | 2019-10-07 |
 | [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
 | [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
-| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 1078| 2019-09-30 | 2019-10-08 |
+| [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 1281| 2019-09-30 | 2019-10-10 |
 | [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
 
 
