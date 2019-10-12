@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 56
-*  9/2019: 59
-*  8/2019: 61
-*  7/2019: 63
-*  6/2019: 76
-*  5/2019: 74
+*  10/2019: 65
+*  9/2019: 64
+*  8/2019: 67
+*  7/2019: 69
+*  6/2019: 73
+*  5/2019: 73
 *  4/2019: 70
-*  3/2019: 74
-*  2/2019: 63
-*  1/2019: 73
-*  12/2018: 77
-*  11/2018: 75
+*  3/2019: 72
+*  2/2019: 68
+*  1/2019: 71
+*  12/2018: 74
+*  11/2018: 78
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1064
+Total Matches: 1068
 
-Total Results (Limited by GitHUB API): 266
+Total Results (Limited by GitHUB API): 267
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
 | [quorumcontrol/go-ds-dynamodb](https://github.com/quorumcontrol/go-ds-dynamodb)| 0 | 0 | 6| 2019-09-27 | 2019-09-27 |
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
-| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 4| 2019-08-13 | 2019-08-13 |
+| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 5| 2019-08-13 | 2019-10-11 |
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 | [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 1 | 1 | 51498| 2019-07-14 | 2019-09-10 |
-| [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 1 | 12| 2019-07-12 | 2019-07-28 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63300
+Total Matches: 63350
 
-Total Results (Limited by GitHUB API): 1158
+Total Results (Limited by GitHUB API): 1159
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [turtlecoin/ipfs-cf-checkpointer-node](https://github.com/turtlecoin/ipfs-cf-checkpointer-node)| 1 | 0 | 130| 2019-10-11 | 2019-10-11 |
 | [Srinivasan1008/IPFS](https://github.com/Srinivasan1008/IPFS)| 0 | 0 | 585| 2019-10-06 | 2019-10-06 |
 | [jaykch/ethereum-file-share](https://github.com/jaykch/ethereum-file-share)| 0 | 0 | 291| 2019-10-06 | 2019-10-06 |
 | [simpleaswater/ipfs](https://github.com/simpleaswater/ipfs)| 0 | 0 | 3| 2019-10-04 | 2019-10-05 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1158
 | [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
 | [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
 | [alanshaw/chatterbox-webext](https://github.com/alanshaw/chatterbox-webext)| 2 | 0 | 1281| 2019-09-30 | 2019-10-10 |
-| [Corroborator-Net/Corroborator-Contract](https://github.com/Corroborator-Net/Corroborator-Contract)| 0 | 1 | 24| 2019-09-29 | 2019-09-29 |
 
 
 The above set is limited to the 10 most recently created. 
