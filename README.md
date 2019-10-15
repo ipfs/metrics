@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 65
-*  9/2019: 61
+*  10/2019: 62
+*  9/2019: 62
 *  8/2019: 65
 *  7/2019: 67
-*  6/2019: 80
-*  5/2019: 76
-*  4/2019: 76
-*  3/2019: 75
+*  6/2019: 75
+*  5/2019: 80
+*  4/2019: 73
+*  3/2019: 76
 *  2/2019: 68
-*  1/2019: 79
-*  12/2018: 79
-*  11/2018: 85
+*  1/2019: 77
+*  12/2018: 72
+*  11/2018: 78
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 268
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 0| 2019-10-13 | 2019-10-13 |
+| [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
 | [quorumcontrol/go-ds-dynamodb](https://github.com/quorumcontrol/go-ds-dynamodb)| 0 | 0 | 6| 2019-09-27 | 2019-09-27 |
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63400
+Total Matches: 63450
 
-Total Results (Limited by GitHUB API): 1160
+Total Results (Limited by GitHUB API): 1161
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [turtlecoin/checkpoints-ipfs-helper](https://github.com/turtlecoin/checkpoints-ipfs-helper)| 0 | 0 | 0| 2019-10-14 | 2019-10-14 |
 | [MrRav3n/IPFS-meme-page](https://github.com/MrRav3n/IPFS-meme-page)| 0 | 0 | 11555| 2019-10-12 | 2019-10-13 |
-| [turtlecoin/ipfs-cf-checkpointer-node](https://github.com/turtlecoin/ipfs-cf-checkpointer-node)| 1 | 0 | 212| 2019-10-11 | 2019-10-13 |
+| [turtlecoin/ipfs-cf-checkpointer-node](https://github.com/turtlecoin/ipfs-cf-checkpointer-node)| 1 | 0 | 250| 2019-10-11 | 2019-10-13 |
 | [Srinivasan1008/IPFS](https://github.com/Srinivasan1008/IPFS)| 0 | 0 | 585| 2019-10-06 | 2019-10-06 |
 | [jaykch/ethereum-file-share](https://github.com/jaykch/ethereum-file-share)| 0 | 0 | 291| 2019-10-06 | 2019-10-06 |
 | [simpleaswater/ipfs](https://github.com/simpleaswater/ipfs)| 0 | 0 | 3| 2019-10-04 | 2019-10-05 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1160
 | [prayaglehana/ipfspubsub](https://github.com/prayaglehana/ipfspubsub)| 0 | 0 | 949| 2019-10-02 | 2019-10-02 |
 | [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 97| 2019-10-02 | 2019-10-07 |
 | [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
-| [viraj124/IPFS_Ethereum_Meme_App](https://github.com/viraj124/IPFS_Ethereum_Meme_App)| 0 | 0 | 273| 2019-10-01 | 2019-10-01 |
 
 
 The above set is limited to the 10 most recently created. 
