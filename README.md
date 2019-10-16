@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 62
+*  10/2019: 59
 *  9/2019: 62
-*  8/2019: 65
-*  7/2019: 67
-*  6/2019: 75
-*  5/2019: 80
-*  4/2019: 73
-*  3/2019: 76
-*  2/2019: 68
-*  1/2019: 77
+*  8/2019: 71
+*  7/2019: 68
+*  6/2019: 68
+*  5/2019: 77
+*  4/2019: 72
+*  3/2019: 73
+*  2/2019: 71
+*  1/2019: 78
 *  12/2018: 72
-*  11/2018: 78
+*  11/2018: 77
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63450
+Total Matches: 63500
 
-Total Results (Limited by GitHUB API): 1161
+Total Results (Limited by GitHUB API): 1162
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [turtlecoin/checkpoints-ipfs-helper](https://github.com/turtlecoin/checkpoints-ipfs-helper)| 0 | 0 | 0| 2019-10-14 | 2019-10-14 |
+| [RicardoPineda2301/NEM-Apostille-IPFS](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS)| 0 | 0 | 10172| 2019-10-15 | 2019-10-15 |
+| [turtlecoin/checkpoints-ipfs-helper](https://github.com/turtlecoin/checkpoints-ipfs-helper)| 1 | 0 | 113| 2019-10-14 | 2019-10-15 |
 | [MrRav3n/IPFS-meme-page](https://github.com/MrRav3n/IPFS-meme-page)| 0 | 0 | 11555| 2019-10-12 | 2019-10-13 |
 | [turtlecoin/ipfs-cf-checkpointer-node](https://github.com/turtlecoin/ipfs-cf-checkpointer-node)| 1 | 0 | 250| 2019-10-11 | 2019-10-13 |
 | [Srinivasan1008/IPFS](https://github.com/Srinivasan1008/IPFS)| 0 | 0 | 585| 2019-10-06 | 2019-10-06 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1161
 | [DogeSoftware/Memecent](https://github.com/DogeSoftware/Memecent)| 0 | 0 | 4| 2019-10-03 | 2019-10-05 |
 | [prayaglehana/ipfspubsub](https://github.com/prayaglehana/ipfspubsub)| 0 | 0 | 949| 2019-10-02 | 2019-10-02 |
 | [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 97| 2019-10-02 | 2019-10-07 |
-| [vaultec81/js-datastore-webdav](https://github.com/vaultec81/js-datastore-webdav)| 0 | 0 | 75| 2019-10-01 | 2019-10-01 |
 
 
 The above set is limited to the 10 most recently created. 
