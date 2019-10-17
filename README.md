@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 59
-*  9/2019: 62
-*  8/2019: 71
-*  7/2019: 68
-*  6/2019: 68
-*  5/2019: 77
-*  4/2019: 72
-*  3/2019: 73
-*  2/2019: 71
-*  1/2019: 78
+*  10/2019: 63
+*  9/2019: 61
+*  8/2019: 65
+*  7/2019: 69
+*  6/2019: 76
+*  5/2019: 74
+*  4/2019: 76
+*  3/2019: 71
+*  2/2019: 69
+*  1/2019: 75
 *  12/2018: 72
-*  11/2018: 77
+*  11/2018: 75
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 268
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
-| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 5| 2019-08-13 | 2019-10-11 |
+| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 8| 2019-08-13 | 2019-10-16 |
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63500
+Total Matches: 63650
 
-Total Results (Limited by GitHUB API): 1162
+Total Results (Limited by GitHUB API): 1165
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [oceanprotocol/ipfs](https://github.com/oceanprotocol/ipfs)| 0 | 0 | 24| 2019-10-16 | 2019-10-16 |
+| [bulej93/ipfs_meme](https://github.com/bulej93/ipfs_meme)| 0 | 0 | 314| 2019-10-16 | 2019-10-16 |
 | [RicardoPineda2301/NEM-Apostille-IPFS](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS)| 0 | 0 | 10172| 2019-10-15 | 2019-10-15 |
 | [turtlecoin/checkpoints-ipfs-helper](https://github.com/turtlecoin/checkpoints-ipfs-helper)| 1 | 0 | 113| 2019-10-14 | 2019-10-15 |
 | [MrRav3n/IPFS-meme-page](https://github.com/MrRav3n/IPFS-meme-page)| 0 | 0 | 11555| 2019-10-12 | 2019-10-13 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1162
 | [jaykch/ethereum-file-share](https://github.com/jaykch/ethereum-file-share)| 0 | 0 | 291| 2019-10-06 | 2019-10-06 |
 | [simpleaswater/ipfs](https://github.com/simpleaswater/ipfs)| 0 | 0 | 3| 2019-10-04 | 2019-10-05 |
 | [DogeSoftware/Memecent](https://github.com/DogeSoftware/Memecent)| 0 | 0 | 4| 2019-10-03 | 2019-10-05 |
-| [prayaglehana/ipfspubsub](https://github.com/prayaglehana/ipfspubsub)| 0 | 0 | 949| 2019-10-02 | 2019-10-02 |
-| [ryanio/ipfs-pin-market-pledger](https://github.com/ryanio/ipfs-pin-market-pledger)| 1 | 0 | 97| 2019-10-02 | 2019-10-07 |
 
 
 The above set is limited to the 10 most recently created. 
