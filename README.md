@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 63
+*  10/2019: 60
 *  9/2019: 61
 *  8/2019: 65
-*  7/2019: 69
-*  6/2019: 76
-*  5/2019: 74
-*  4/2019: 76
-*  3/2019: 71
-*  2/2019: 69
-*  1/2019: 75
-*  12/2018: 72
-*  11/2018: 75
+*  7/2019: 65
+*  6/2019: 74
+*  5/2019: 79
+*  4/2019: 68
+*  3/2019: 73
+*  2/2019: 65
+*  1/2019: 70
+*  12/2018: 74
+*  11/2018: 76
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 268
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
-| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 8| 2019-08-13 | 2019-10-16 |
+| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 10| 2019-08-13 | 2019-10-17 |
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 1165
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [oceanprotocol/ipfs](https://github.com/oceanprotocol/ipfs)| 0 | 0 | 24| 2019-10-16 | 2019-10-16 |
+| [jessicaschilling/ipfs-docs-vuepress-nav](https://github.com/jessicaschilling/ipfs-docs-vuepress-nav)| 0 | 0 | 77| 2019-10-17 | 2019-10-17 |
 | [bulej93/ipfs_meme](https://github.com/bulej93/ipfs_meme)| 0 | 0 | 314| 2019-10-16 | 2019-10-16 |
 | [RicardoPineda2301/NEM-Apostille-IPFS](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS)| 0 | 0 | 10172| 2019-10-15 | 2019-10-15 |
 | [turtlecoin/checkpoints-ipfs-helper](https://github.com/turtlecoin/checkpoints-ipfs-helper)| 1 | 0 | 113| 2019-10-14 | 2019-10-15 |
