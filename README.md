@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 60
-*  9/2019: 61
-*  8/2019: 65
-*  7/2019: 65
-*  6/2019: 74
-*  5/2019: 79
-*  4/2019: 68
+*  10/2019: 61
+*  9/2019: 63
+*  8/2019: 71
+*  7/2019: 73
+*  6/2019: 75
+*  5/2019: 75
+*  4/2019: 75
 *  3/2019: 73
-*  2/2019: 65
-*  1/2019: 70
-*  12/2018: 74
-*  11/2018: 76
+*  2/2019: 66
+*  1/2019: 72
+*  12/2018: 73
+*  11/2018: 82
 
 ### GitHub Search
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 63650
+Total Matches: 63750
 
-Total Results (Limited by GitHUB API): 1165
+Total Results (Limited by GitHUB API): 1167
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jessicaschilling/ipfs-docs-vuepress-nav](https://github.com/jessicaschilling/ipfs-docs-vuepress-nav)| 0 | 0 | 77| 2019-10-17 | 2019-10-17 |
+| [coolcode/dfile-rust](https://github.com/coolcode/dfile-rust)| 1 | 0 | 24044| 2019-10-18 | 2019-10-18 |
+| [alx696/js-ipfs](https://github.com/alx696/js-ipfs)| 0 | 0 | 730| 2019-10-18 | 2019-10-18 |
+| [jessicaschilling/ipfs-docs-vuepress-nav](https://github.com/jessicaschilling/ipfs-docs-vuepress-nav)| 1 | 0 | 81| 2019-10-17 | 2019-10-19 |
 | [bulej93/ipfs_meme](https://github.com/bulej93/ipfs_meme)| 0 | 0 | 314| 2019-10-16 | 2019-10-16 |
 | [RicardoPineda2301/NEM-Apostille-IPFS](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS)| 0 | 0 | 10172| 2019-10-15 | 2019-10-15 |
 | [turtlecoin/checkpoints-ipfs-helper](https://github.com/turtlecoin/checkpoints-ipfs-helper)| 1 | 0 | 113| 2019-10-14 | 2019-10-15 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1165
 | [turtlecoin/ipfs-cf-checkpointer-node](https://github.com/turtlecoin/ipfs-cf-checkpointer-node)| 1 | 0 | 250| 2019-10-11 | 2019-10-13 |
 | [Srinivasan1008/IPFS](https://github.com/Srinivasan1008/IPFS)| 0 | 0 | 585| 2019-10-06 | 2019-10-06 |
 | [jaykch/ethereum-file-share](https://github.com/jaykch/ethereum-file-share)| 0 | 0 | 291| 2019-10-06 | 2019-10-06 |
-| [simpleaswater/ipfs](https://github.com/simpleaswater/ipfs)| 0 | 0 | 3| 2019-10-04 | 2019-10-05 |
-| [DogeSoftware/Memecent](https://github.com/DogeSoftware/Memecent)| 0 | 0 | 4| 2019-10-03 | 2019-10-05 |
 
 
 The above set is limited to the 10 most recently created. 
