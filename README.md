@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 70
-*  9/2019: 59
-*  8/2019: 65
-*  7/2019: 70
+*  10/2019: 66
+*  9/2019: 61
+*  8/2019: 68
+*  7/2019: 68
 *  6/2019: 73
-*  5/2019: 75
-*  4/2019: 74
-*  3/2019: 75
-*  2/2019: 70
-*  1/2019: 76
-*  12/2018: 72
-*  11/2018: 79
+*  5/2019: 78
+*  4/2019: 76
+*  3/2019: 78
+*  2/2019: 69
+*  1/2019: 78
+*  12/2018: 74
+*  11/2018: 82
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1072
+Total Matches: 1076
 
-Total Results (Limited by GitHUB API): 268
+Total Results (Limited by GitHUB API): 269
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 84| 2019-10-21 | 2019-10-21 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 268
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
 | [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 10| 2019-08-13 | 2019-10-17 |
 | [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
-| [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 
 
 The above set is limited to the 10 most recently created. 
