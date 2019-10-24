@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 63
-*  9/2019: 59
-*  8/2019: 64
-*  7/2019: 65
-*  6/2019: 75
-*  5/2019: 73
-*  4/2019: 72
-*  3/2019: 75
-*  2/2019: 69
-*  1/2019: 74
-*  12/2018: 72
-*  11/2018: 75
+*  10/2019: 62
+*  9/2019: 58
+*  8/2019: 65
+*  7/2019: 67
+*  6/2019: 70
+*  5/2019: 68
+*  4/2019: 67
+*  3/2019: 73
+*  2/2019: 66
+*  1/2019: 70
+*  12/2018: 71
+*  11/2018: 73
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 269
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 145| 2019-10-21 | 2019-10-22 |
+| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 630| 2019-10-21 | 2019-10-23 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
@@ -79,7 +79,8 @@ Total Results (Limited by GitHUB API): 1176
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 5530| 2019-10-22 | 2019-10-22 |
+| [6ry0u/ipfs-upload-dapp](https://github.com/6ry0u/ipfs-upload-dapp)| 0 | 0 | 301| 2019-10-23 | 2019-10-23 |
+| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9072| 2019-10-22 | 2019-10-23 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
 | [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 185| 2019-10-19 | 2019-10-19 |
@@ -87,7 +88,6 @@ Total Results (Limited by GitHUB API): 1176
 | [bank8426/gu-file-ipfs-front](https://github.com/bank8426/gu-file-ipfs-front)| 0 | 0 | 247| 2019-10-19 | 2019-10-19 |
 | [coolcode/dfile-rust](https://github.com/coolcode/dfile-rust)| 1 | 0 | 24050| 2019-10-18 | 2019-10-22 |
 | [alx696/js-ipfs](https://github.com/alx696/js-ipfs)| 0 | 0 | 734| 2019-10-18 | 2019-10-19 |
-| [jessicaschilling/ipfs-docs-vuepress-nav](https://github.com/jessicaschilling/ipfs-docs-vuepress-nav)| 1 | 0 | 91| 2019-10-17 | 2019-10-22 |
 | [bulej93/ipfs_meme](https://github.com/bulej93/ipfs_meme)| 0 | 0 | 314| 2019-10-16 | 2019-10-16 |
 
 
