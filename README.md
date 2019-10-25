@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 62
-*  9/2019: 58
-*  8/2019: 65
+*  10/2019: 66
+*  9/2019: 63
+*  8/2019: 71
 *  7/2019: 67
-*  6/2019: 70
-*  5/2019: 68
-*  4/2019: 67
-*  3/2019: 73
-*  2/2019: 66
-*  1/2019: 70
-*  12/2018: 71
-*  11/2018: 73
+*  6/2019: 77
+*  5/2019: 81
+*  4/2019: 76
+*  3/2019: 77
+*  2/2019: 72
+*  1/2019: 74
+*  12/2018: 74
+*  11/2018: 82
 
 ### GitHub Search
 
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1076
+Total Matches: 1080
 
-Total Results (Limited by GitHUB API): 269
+Total Results (Limited by GitHUB API): 270
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 630| 2019-10-21 | 2019-10-23 |
+| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 0 | 0 | 12| 2019-10-24 | 2019-10-24 |
+| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 690| 2019-10-21 | 2019-10-24 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 269
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
 | [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 10| 2019-08-13 | 2019-10-17 |
-| [DeedleFake/ipfs-pubpin](https://github.com/DeedleFake/ipfs-pubpin)| 0 | 0 | 7| 2019-08-02 | 2019-08-02 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,14 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64050
+Total Matches: 64000
 
-Total Results (Limited by GitHUB API): 1176
+Total Results (Limited by GitHUB API): 1175
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [6ry0u/ipfs-upload-dapp](https://github.com/6ry0u/ipfs-upload-dapp)| 0 | 0 | 301| 2019-10-23 | 2019-10-23 |
-| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9072| 2019-10-22 | 2019-10-23 |
+| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9075| 2019-10-22 | 2019-10-24 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
 | [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 185| 2019-10-19 | 2019-10-19 |
@@ -89,6 +88,7 @@ Total Results (Limited by GitHUB API): 1176
 | [coolcode/dfile-rust](https://github.com/coolcode/dfile-rust)| 1 | 0 | 24050| 2019-10-18 | 2019-10-22 |
 | [alx696/js-ipfs](https://github.com/alx696/js-ipfs)| 0 | 0 | 734| 2019-10-18 | 2019-10-19 |
 | [bulej93/ipfs_meme](https://github.com/bulej93/ipfs_meme)| 0 | 0 | 314| 2019-10-16 | 2019-10-16 |
+| [RicardoPineda2301/NEM-Apostille-IPFS](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS)| 0 | 0 | 10172| 2019-10-15 | 2019-10-15 |
 
 
 The above set is limited to the 10 most recently created. 
