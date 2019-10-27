@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 67
-*  9/2019: 62
-*  8/2019: 66
-*  7/2019: 70
-*  6/2019: 78
-*  5/2019: 77
+*  10/2019: 66
+*  9/2019: 60
+*  8/2019: 69
+*  7/2019: 66
+*  6/2019: 74
+*  5/2019: 75
 *  4/2019: 74
-*  3/2019: 77
-*  2/2019: 73
-*  1/2019: 79
-*  12/2018: 72
-*  11/2018: 78
+*  3/2019: 76
+*  2/2019: 71
+*  1/2019: 76
+*  12/2018: 73
+*  11/2018: 79
 
 ### GitHub Search
 
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64000
+Total Matches: 64050
 
-Total Results (Limited by GitHUB API): 1175
+Total Results (Limited by GitHUB API): 1176
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9075| 2019-10-22 | 2019-10-24 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
-| [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 185| 2019-10-19 | 2019-10-19 |
+| [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 188| 2019-10-19 | 2019-10-26 |
 | [azania-neptune-labs/DistributionFormIPFS](https://github.com/azania-neptune-labs/DistributionFormIPFS)| 0 | 0 | 26| 2019-10-19 | 2019-10-20 |
 | [bank8426/gu-file-ipfs-front](https://github.com/bank8426/gu-file-ipfs-front)| 0 | 0 | 247| 2019-10-19 | 2019-10-19 |
 | [coolcode/dfile-rust](https://github.com/coolcode/dfile-rust)| 1 | 0 | 24050| 2019-10-18 | 2019-10-22 |
