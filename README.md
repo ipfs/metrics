@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 66
-*  9/2019: 60
-*  8/2019: 69
-*  7/2019: 66
-*  6/2019: 74
-*  5/2019: 75
-*  4/2019: 74
+*  10/2019: 64
+*  9/2019: 61
+*  8/2019: 62
+*  7/2019: 68
+*  6/2019: 76
+*  5/2019: 76
+*  4/2019: 76
 *  3/2019: 76
-*  2/2019: 71
-*  1/2019: 76
-*  12/2018: 73
-*  11/2018: 79
+*  2/2019: 68
+*  1/2019: 77
+*  12/2018: 74
+*  11/2018: 76
 
 ### GitHub Search
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64050
+Total Matches: 64146
 
-Total Results (Limited by GitHUB API): 1176
+Total Results (Limited by GitHUB API): 1178
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-27 |
+| [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
 | [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9075| 2019-10-22 | 2019-10-24 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1176
 | [bank8426/gu-file-ipfs-front](https://github.com/bank8426/gu-file-ipfs-front)| 0 | 0 | 247| 2019-10-19 | 2019-10-19 |
 | [coolcode/dfile-rust](https://github.com/coolcode/dfile-rust)| 1 | 0 | 24050| 2019-10-18 | 2019-10-22 |
 | [alx696/js-ipfs](https://github.com/alx696/js-ipfs)| 0 | 0 | 734| 2019-10-18 | 2019-10-19 |
-| [bulej93/ipfs_meme](https://github.com/bulej93/ipfs_meme)| 0 | 0 | 314| 2019-10-16 | 2019-10-16 |
-| [RicardoPineda2301/NEM-Apostille-IPFS](https://github.com/RicardoPineda2301/NEM-Apostille-IPFS)| 0 | 0 | 10172| 2019-10-15 | 2019-10-15 |
 
 
 The above set is limited to the 10 most recently created. 
