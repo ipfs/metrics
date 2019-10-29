@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 64
-*  9/2019: 61
-*  8/2019: 62
+*  10/2019: 63
+*  9/2019: 59
+*  8/2019: 66
 *  7/2019: 68
-*  6/2019: 76
-*  5/2019: 76
-*  4/2019: 76
-*  3/2019: 76
+*  6/2019: 74
+*  5/2019: 78
+*  4/2019: 72
+*  3/2019: 79
 *  2/2019: 68
-*  1/2019: 77
-*  12/2018: 74
-*  11/2018: 76
+*  1/2019: 75
+*  12/2018: 78
+*  11/2018: 83
 
 ### GitHub Search
 
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1080
+Total Matches: 1084
 
-Total Results (Limited by GitHUB API): 270
+Total Results (Limited by GitHUB API): 271
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 0 | 0 | 12| 2019-10-24 | 2019-10-24 |
+| [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 24| 2019-10-25 | 2019-10-28 |
+| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-28 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 690| 2019-10-21 | 2019-10-24 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 270
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 | [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
-| [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 10| 2019-08-13 | 2019-10-17 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,13 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64146
+Total Matches: 64200
 
-Total Results (Limited by GitHUB API): 1178
+Total Results (Limited by GitHUB API): 1179
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-27 |
+| [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-28 |
 | [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
 | [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9075| 2019-10-22 | 2019-10-24 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
