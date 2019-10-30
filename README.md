@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 63
-*  9/2019: 59
-*  8/2019: 66
-*  7/2019: 68
-*  6/2019: 74
-*  5/2019: 78
-*  4/2019: 72
-*  3/2019: 79
-*  2/2019: 68
-*  1/2019: 75
-*  12/2018: 78
-*  11/2018: 83
+*  10/2019: 62
+*  9/2019: 58
+*  8/2019: 62
+*  7/2019: 66
+*  6/2019: 72
+*  5/2019: 75
+*  4/2019: 74
+*  3/2019: 72
+*  2/2019: 66
+*  1/2019: 73
+*  12/2018: 71
+*  11/2018: 74
 
 ### GitHub Search
 
@@ -50,14 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1084
+Total Matches: 1080
 
-Total Results (Limited by GitHUB API): 271
+Total Results (Limited by GitHUB API): 269
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 24| 2019-10-25 | 2019-10-28 |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-28 |
+| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 690| 2019-10-21 | 2019-10-24 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64200
+Total Matches: 64250
 
-Total Results (Limited by GitHUB API): 1179
+Total Results (Limited by GitHUB API): 1180
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
