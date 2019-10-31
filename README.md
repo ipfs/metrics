@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 62
-*  9/2019: 58
-*  8/2019: 62
-*  7/2019: 66
-*  6/2019: 72
-*  5/2019: 75
-*  4/2019: 74
-*  3/2019: 72
-*  2/2019: 66
-*  1/2019: 73
-*  12/2018: 71
-*  11/2018: 74
+*  10/2019: 64
+*  9/2019: 59
+*  8/2019: 67
+*  7/2019: 69
+*  6/2019: 74
+*  5/2019: 78
+*  4/2019: 78
+*  3/2019: 77
+*  2/2019: 68
+*  1/2019: 78
+*  12/2018: 76
+*  11/2018: 80
 
 ### GitHub Search
 
@@ -52,13 +52,13 @@ so we don't know why this is the case.
 
 Total Matches: 1080
 
-Total Results (Limited by GitHUB API): 269
+Total Results (Limited by GitHUB API): 270
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 24| 2019-10-25 | 2019-10-28 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 690| 2019-10-21 | 2019-10-24 |
+| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 702| 2019-10-21 | 2019-10-30 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64250
+Total Matches: 64194
 
 Total Results (Limited by GitHUB API): 1180
 
@@ -81,7 +81,7 @@ Total Results (Limited by GitHUB API): 1180
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-28 |
 | [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
-| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9075| 2019-10-22 | 2019-10-24 |
+| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9078| 2019-10-22 | 2019-10-30 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
 | [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 188| 2019-10-19 | 2019-10-26 |
