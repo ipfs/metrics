@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 61
-*  9/2019: 59
-*  8/2019: 63
-*  7/2019: 66
-*  6/2019: 74
-*  5/2019: 73
-*  4/2019: 70
-*  3/2019: 73
+*  10/2019: 68
+*  9/2019: 62
+*  8/2019: 67
+*  7/2019: 67
+*  6/2019: 73
+*  5/2019: 75
+*  4/2019: 73
+*  3/2019: 74
 *  2/2019: 68
-*  1/2019: 75
-*  12/2018: 73
-*  11/2018: 77
+*  1/2019: 80
+*  12/2018: 72
+*  11/2018: 78
 
 ### GitHub Search
 
@@ -52,13 +52,13 @@ so we don't know why this is the case.
 
 Total Matches: 1080
 
-Total Results (Limited by GitHUB API): 270
+Total Results (Limited by GitHUB API): 269
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 702| 2019-10-21 | 2019-10-30 |
+| [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64350
+Total Matches: 64400
 
-Total Results (Limited by GitHUB API): 1182
+Total Results (Limited by GitHUB API): 1183
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Emmanuel-umeh/IPFS-Aeternity](https://github.com/Emmanuel-umeh/IPFS-Aeternity)| 0 | 0 | 51| 2019-10-31 | 2019-10-31 |
-| [mkg20001/stardust4ipfs](https://github.com/mkg20001/stardust4ipfs)| 1 | 0 | 8| 2019-10-31 | 2019-10-31 |
+| [mkg20001/stardust4ipfs](https://github.com/mkg20001/stardust4ipfs)| 1 | 0 | 10| 2019-10-31 | 2019-11-01 |
+| [punica-box/wasm-interplanetary-album-box](https://github.com/punica-box/wasm-interplanetary-album-box)| 0 | 0 | 452| 2019-10-29 | 2019-11-01 |
 | [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-28 |
 | [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
 | [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9078| 2019-10-22 | 2019-10-30 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1182
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
 | [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 188| 2019-10-19 | 2019-10-26 |
 | [azania-neptune-labs/DistributionFormIPFS](https://github.com/azania-neptune-labs/DistributionFormIPFS)| 0 | 0 | 26| 2019-10-19 | 2019-10-20 |
-| [bank8426/gu-file-ipfs-front](https://github.com/bank8426/gu-file-ipfs-front)| 0 | 0 | 247| 2019-10-19 | 2019-10-19 |
 
 
 The above set is limited to the 10 most recently created. 
