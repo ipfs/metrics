@@ -1,6 +1,6 @@
 Total Matches: 1080
 
-Total Results (Limited by GitHUB API): 269
+Total Results (Limited by GitHUB API): 270
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -152,12 +152,13 @@ Total Results (Limited by GitHUB API): 269
 | [halonproject/hydra-go](https://github.com/halonproject/hydra-go)| 3 | 0 | 71| 2018-03-21 | 2018-10-26 |
 | [jeroenouw/BlockchainGO](https://github.com/jeroenouw/BlockchainGO)| 1 | 1 | 12| 2018-03-17 | 2018-04-01 |
 | [hsanjuan/gx2cluster](https://github.com/hsanjuan/gx2cluster)| 5 | 0 | 9| 2018-03-15 | 2019-03-07 |
-| [textileio/go-textile](https://github.com/textileio/go-textile)| 311 | 38 | 88521| 2018-03-07 | 2019-10-18 |
+| [textileio/go-textile](https://github.com/textileio/go-textile)| 312 | 38 | 88521| 2018-03-07 | 2019-10-18 |
 | [DecenterApps/Cryptage](https://github.com/DecenterApps/Cryptage)| 3 | 0 | 79388| 2018-02-27 | 2019-04-01 |
 | [whyrusleeping/toychain](https://github.com/whyrusleeping/toychain)| 19 | 7 | 30| 2018-02-20 | 2018-02-20 |
 | [arcalinea/simplechain](https://github.com/arcalinea/simplechain)| 40 | 4 | 35| 2018-02-16 | 2018-05-14 |
 | [ipfs/go-ipfs-pq](https://github.com/ipfs/go-ipfs-pq)| 1 | 1 | 13| 2018-02-15 | 2019-11-01 |
 | [ipfs/go-ipfs-routing](https://github.com/ipfs/go-ipfs-routing)| 6 | 4 | 1237| 2018-02-14 | 2019-05-31 |
+| [ipfs/go-ipfs-ds-help](https://github.com/ipfs/go-ipfs-ds-help)| 2 | 2 | 35| 2018-02-12 | 2019-10-01 |
 | [ipfs/go-ipfs-flags](https://github.com/ipfs/go-ipfs-flags)| 1 | 1 | 6| 2018-02-09 | 2019-04-29 |
 | [jason860306/ipfs_demo](https://github.com/jason860306/ipfs_demo)| 0 | 0 | 14029| 2018-02-09 | 2018-03-05 |
 | [zuuby/zuuby-ipfs](https://github.com/zuuby/zuuby-ipfs)| 1 | 0 | 26| 2018-02-09 | 2018-02-26 |
@@ -272,4 +273,4 @@ Total Results (Limited by GitHUB API): 269
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [cryptix/interplanetary](https://github.com/cryptix/interplanetary)| 0 | 1 | 1348| 2014-12-19 | 2014-12-09 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 8855 | 1596 | 37930| 2014-06-26 | 2019-10-31 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 8860 | 1597 | 37930| 2014-06-26 | 2019-11-02 |
