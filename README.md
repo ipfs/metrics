@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 65
-*  9/2019: 60
+*  10/2019: 64
+*  9/2019: 63
 *  8/2019: 65
 *  7/2019: 66
-*  6/2019: 75
-*  5/2019: 79
-*  4/2019: 76
-*  3/2019: 73
-*  2/2019: 71
-*  1/2019: 79
-*  12/2018: 76
-*  11/2018: 79
+*  6/2019: 73
+*  5/2019: 77
+*  4/2019: 72
+*  3/2019: 75
+*  2/2019: 67
+*  1/2019: 75
+*  12/2018: 72
+*  11/2018: 77
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64400
+Total Matches: 64309
 
-Total Results (Limited by GitHUB API): 1183
+Total Results (Limited by GitHUB API): 1184
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [leeftk/ipfsdemo](https://github.com/leeftk/ipfsdemo)| 0 | 0 | 2035| 2019-11-03 | 2019-11-03 |
 | [Emmanuel-umeh/IPFS-Aeternity](https://github.com/Emmanuel-umeh/IPFS-Aeternity)| 0 | 0 | 51| 2019-10-31 | 2019-10-31 |
 | [mkg20001/stardust4ipfs](https://github.com/mkg20001/stardust4ipfs)| 1 | 0 | 10| 2019-10-31 | 2019-11-01 |
 | [punica-box/wasm-interplanetary-album-box](https://github.com/punica-box/wasm-interplanetary-album-box)| 0 | 0 | 452| 2019-10-29 | 2019-11-01 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1183
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 | [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
 | [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 188| 2019-10-19 | 2019-10-26 |
-| [azania-neptune-labs/DistributionFormIPFS](https://github.com/azania-neptune-labs/DistributionFormIPFS)| 0 | 0 | 26| 2019-10-19 | 2019-10-20 |
 
 
 The above set is limited to the 10 most recently created. 
