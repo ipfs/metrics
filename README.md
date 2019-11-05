@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  10/2019: 64
-*  9/2019: 63
-*  8/2019: 65
-*  7/2019: 66
-*  6/2019: 73
-*  5/2019: 77
-*  4/2019: 72
-*  3/2019: 75
-*  2/2019: 67
+*  9/2019: 55
+*  8/2019: 66
+*  7/2019: 67
+*  6/2019: 72
+*  5/2019: 74
+*  4/2019: 74
+*  3/2019: 73
+*  2/2019: 66
 *  1/2019: 75
-*  12/2018: 72
-*  11/2018: 77
+*  12/2018: 76
+*  11/2018: 79
 
 ### GitHub Search
 
@@ -50,7 +50,7 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1080
+Total Matches: 1084
 
 Total Results (Limited by GitHUB API): 270
 
@@ -58,6 +58,7 @@ Total Results (Limited by GitHUB API): 270
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 147| 2019-10-22 | 2019-11-04 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 270
 | [quorumcontrol/go-ds-dynamodb](https://github.com/quorumcontrol/go-ds-dynamodb)| 0 | 0 | 6| 2019-09-27 | 2019-09-27 |
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 | [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
-| [treeder/ipfsutils](https://github.com/treeder/ipfsutils)| 0 | 0 | 22| 2019-08-17 | 2019-08-18 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64309
+Total Matches: 64550
 
 Total Results (Limited by GitHUB API): 1184
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [floating/uniswap-frontend](https://github.com/floating/uniswap-frontend)| 0 | 0 | 7394| 2019-11-04 | 2019-11-04 |
+| [Rutvik1995/ImageUploadInIPFS](https://github.com/Rutvik1995/ImageUploadInIPFS)| 0 | 0 | 475| 2019-11-04 | 2019-11-04 |
 | [leeftk/ipfsdemo](https://github.com/leeftk/ipfsdemo)| 0 | 0 | 2035| 2019-11-03 | 2019-11-03 |
 | [Emmanuel-umeh/IPFS-Aeternity](https://github.com/Emmanuel-umeh/IPFS-Aeternity)| 0 | 0 | 51| 2019-10-31 | 2019-10-31 |
 | [mkg20001/stardust4ipfs](https://github.com/mkg20001/stardust4ipfs)| 1 | 0 | 10| 2019-10-31 | 2019-11-01 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1184
 | [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
 | [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9078| 2019-10-22 | 2019-10-30 |
 | [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
-| [berlincode/ens-redirect](https://github.com/berlincode/ens-redirect)| 0 | 0 | 254| 2019-10-20 | 2019-10-20 |
-| [bneijt/ipfs-video-frontend](https://github.com/bneijt/ipfs-video-frontend)| 0 | 0 | 188| 2019-10-19 | 2019-10-26 |
 
 
 The above set is limited to the 10 most recently created. 
