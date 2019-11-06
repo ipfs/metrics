@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 64
+*  10/2019: 62
 *  9/2019: 55
-*  8/2019: 66
-*  7/2019: 67
-*  6/2019: 72
-*  5/2019: 74
-*  4/2019: 74
-*  3/2019: 73
-*  2/2019: 66
-*  1/2019: 75
-*  12/2018: 76
-*  11/2018: 79
+*  8/2019: 62
+*  7/2019: 63
+*  6/2019: 70
+*  5/2019: 70
+*  4/2019: 69
+*  3/2019: 70
+*  2/2019: 65
+*  1/2019: 73
+*  12/2018: 69
+*  11/2018: 73
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1084
+Total Matches: 1088
 
-Total Results (Limited by GitHUB API): 270
+Total Results (Limited by GitHUB API): 272
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 147| 2019-10-22 | 2019-11-04 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 5476| 2019-10-22 | 2019-11-05 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
 | [quorumcontrol/go-ds-dynamodb](https://github.com/quorumcontrol/go-ds-dynamodb)| 0 | 0 | 6| 2019-09-27 | 2019-09-27 |
+| [INFURA/go-ipfs-datadog-plugin](https://github.com/INFURA/go-ipfs-datadog-plugin)| 0 | 0 | 117| 2019-09-24 | 2019-11-04 |
 | [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
-| [wanglg007/IPFSClusterDemo](https://github.com/wanglg007/IPFSClusterDemo)| 0 | 0 | 1335| 2019-09-10 | 2019-09-10 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 64550
 
-Total Results (Limited by GitHUB API): 1184
+Total Results (Limited by GitHUB API): 1185
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
