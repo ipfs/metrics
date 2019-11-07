@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2019: 62
-*  9/2019: 55
-*  8/2019: 62
-*  7/2019: 63
-*  6/2019: 70
-*  5/2019: 70
-*  4/2019: 69
-*  3/2019: 70
-*  2/2019: 65
+*  10/2019: 61
+*  9/2019: 57
+*  8/2019: 64
+*  7/2019: 69
+*  6/2019: 72
+*  5/2019: 74
+*  4/2019: 72
+*  3/2019: 71
+*  2/2019: 68
 *  1/2019: 73
-*  12/2018: 69
-*  11/2018: 73
+*  12/2018: 77
+*  11/2018: 77
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1088
+Total Matches: 1100
 
-Total Results (Limited by GitHUB API): 272
+Total Results (Limited by GitHUB API): 275
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
+| [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 5476| 2019-10-22 | 2019-11-05 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 5530| 2019-10-22 | 2019-11-06 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 | [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
 | [quorumcontrol/go-ds-dynamodb](https://github.com/quorumcontrol/go-ds-dynamodb)| 0 | 0 | 6| 2019-09-27 | 2019-09-27 |
-| [INFURA/go-ipfs-datadog-plugin](https://github.com/INFURA/go-ipfs-datadog-plugin)| 0 | 0 | 117| 2019-09-24 | 2019-11-04 |
-| [D-CDC/cdc-backend](https://github.com/D-CDC/cdc-backend)| 0 | 0 | 110| 2019-09-14 | 2019-09-15 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64550
+Total Matches: 64450
 
-Total Results (Limited by GitHUB API): 1185
+Total Results (Limited by GitHUB API): 1183
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
