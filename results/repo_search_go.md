@@ -1,14 +1,15 @@
-Total Matches: 1100
+Total Matches: 1104
 
-Total Results (Limited by GitHUB API): 275
+Total Results (Limited by GitHUB API): 276
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 3| 2019-11-07 | 2019-11-07 |
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 5530| 2019-10-22 | 2019-11-06 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 1 | 0 | 5531| 2019-10-22 | 2019-11-07 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
@@ -24,13 +25,13 @@ Total Results (Limited by GitHUB API): 275
 | [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 1 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
-| [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 20 | 1 | 76| 2019-07-10 | 2019-10-03 |
+| [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 21 | 1 | 76| 2019-07-10 | 2019-10-03 |
 | [RTradeLtd/coredag](https://github.com/RTradeLtd/coredag)| 1 | 0 | 144| 2019-07-01 | 2019-09-29 |
 | [drbh/ipfs-cid-revival](https://github.com/drbh/ipfs-cid-revival)| 1 | 0 | 1| 2019-06-29 | 2019-06-29 |
 | [drbh/ipfs-different-hash-same-data](https://github.com/drbh/ipfs-different-hash-same-data)| 2 | 0 | 9686| 2019-06-29 | 2019-06-29 |
 | [nboeger/ipfs-zeroconf](https://github.com/nboeger/ipfs-zeroconf)| 1 | 1 | 7186| 2019-06-24 | 2019-06-26 |
 | [hsanjuan/go-ipfs-provider-queue-cleaner](https://github.com/hsanjuan/go-ipfs-provider-queue-cleaner)| 1 | 0 | 4| 2019-06-22 | 2019-06-22 |
-| [INFURA/ipfs-pump](https://github.com/INFURA/ipfs-pump)| 0 | 0 | 100| 2019-06-21 | 2019-11-05 |
+| [INFURA/ipfs-pump](https://github.com/INFURA/ipfs-pump)| 2 | 1 | 100| 2019-06-21 | 2019-11-05 |
 | [RTradeLtd/rtfsc](https://github.com/RTradeLtd/rtfsc)| 0 | 0 | 120| 2019-06-14 | 2019-10-03 |
 | [berty/go-orbit-db](https://github.com/berty/go-orbit-db)| 25 | 3 | 197| 2019-06-11 | 2019-11-06 |
 | [jackdoe/ragna](https://github.com/jackdoe/ragna)| 0 | 0 | 7| 2019-06-10 | 2019-06-11 |
@@ -89,7 +90,7 @@ Total Results (Limited by GitHUB API): 275
 | [bjzhang/ipfs-pinbot-weibo](https://github.com/bjzhang/ipfs-pinbot-weibo)| 0 | 0 | 11| 2018-11-10 | 2018-11-10 |
 | [fiatjaf/gravity](https://github.com/fiatjaf/gravity)| 5 | 0 | 5029| 2018-11-09 | 2019-07-27 |
 | [multiplio/cast-render](https://github.com/multiplio/cast-render)| 0 | 1 | 415| 2018-11-07 | 2019-07-15 |
-| [ipfs/go-ipfs-http-client](https://github.com/ipfs/go-ipfs-http-client)| 25 | 8 | 330| 2018-11-06 | 2019-10-29 |
+| [ipfs/go-ipfs-http-client](https://github.com/ipfs/go-ipfs-http-client)| 25 | 8 | 361| 2018-11-06 | 2019-11-07 |
 | [wzulfikar/ipfs-middleware](https://github.com/wzulfikar/ipfs-middleware)| 0 | 0 | 2| 2018-11-05 | 2018-11-05 |
 | [ipfs/iptb-plugins](https://github.com/ipfs/iptb-plugins)| 7 | 4 | 91| 2018-11-02 | 2019-09-25 |
 | [csxuejin/ipfstools](https://github.com/csxuejin/ipfstools)| 0 | 0 | 10| 2018-10-24 | 2018-10-29 |
@@ -102,7 +103,7 @@ Total Results (Limited by GitHUB API): 275
 | [anhbaysgalan1/jot](https://github.com/anhbaysgalan1/jot)| 1 | 0 | 10| 2018-10-11 | 2018-10-07 |
 | [miguelmota/go-ipfsutil](https://github.com/miguelmota/go-ipfsutil)| 4 | 0 | 5| 2018-10-06 | 2018-10-06 |
 | [blocktop/go-store-ipfs](https://github.com/blocktop/go-store-ipfs)| 1 | 0 | 31| 2018-10-02 | 2018-10-08 |
-| [td4b/GoCrypt](https://github.com/td4b/GoCrypt)| 2 | 1 | 216| 2018-09-29 | 2019-05-11 |
+| [td4b/GoCrypt](https://github.com/td4b/GoCrypt)| 2 | 2 | 216| 2018-09-29 | 2019-05-11 |
 | [RTradeLtd/Disperse](https://github.com/RTradeLtd/Disperse)| 2 | 0 | 3| 2018-09-29 | 2018-09-29 |
 | [decentraland/content-service](https://github.com/decentraland/content-service)| 1 | 2 | 22360| 2018-09-24 | 2019-10-21 |
 | [eyedeekay/go-i2p-streaming-transport](https://github.com/eyedeekay/go-i2p-streaming-transport)| 1 | 1 | 1958| 2018-09-23 | 2018-11-29 |
@@ -225,7 +226,7 @@ Total Results (Limited by GitHUB API): 275
 | [kpmy/mipfs](https://github.com/kpmy/mipfs)| 11 | 4 | 59| 2016-09-01 | 2018-09-02 |
 | [libp2p/go-testutil](https://github.com/libp2p/go-testutil)| 6 | 2 | 69| 2016-08-26 | 2019-05-24 |
 | [jakobvarmose/intercrypt](https://github.com/jakobvarmose/intercrypt)| 5 | 2 | 3| 2016-08-19 | 2016-08-19 |
-| [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)| 603 | 110 | 10387| 2016-07-01 | 2019-11-06 |
+| [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)| 603 | 110 | 10353| 2016-07-01 | 2019-11-08 |
 | [ipfs/go-key](https://github.com/ipfs/go-key)| 2 | 3 | 13| 2016-06-13 | 2016-11-23 |
 | [dappstore/dapp](https://github.com/dappstore/dapp)| 0 | 0 | 59| 2016-04-24 | 2016-04-29 |
 | [Floripa-Gophers/ipfs-cluster](https://github.com/Floripa-Gophers/ipfs-cluster)| 9 | 0 | 0| 2016-04-16 | 2016-04-16 |
@@ -266,16 +267,16 @@ Total Results (Limited by GitHUB API): 275
 | [danoctavian/ipfs-to-js](https://github.com/danoctavian/ipfs-to-js)| 0 | 0 | 132| 2015-06-20 | 2015-06-21 |
 | [cryptix/git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs)| 165 | 18 | 772| 2015-06-18 | 2018-10-01 |
 | [whyrusleeping/pinbot](https://github.com/whyrusleeping/pinbot)| 21 | 16 | 67| 2015-05-18 | 2018-05-02 |
-| [ipfs/go-ipfs-api](https://github.com/ipfs/go-ipfs-api)| 215 | 97 | 316| 2015-05-13 | 2019-09-30 |
+| [ipfs/go-ipfs-api](https://github.com/ipfs/go-ipfs-api)| 215 | 98 | 323| 2015-05-13 | 2019-11-07 |
 | [ipfs/fs-repo-migrations](https://github.com/ipfs/fs-repo-migrations)| 30 | 18 | 6230| 2015-04-10 | 2019-08-21 |
-| [ipfs/specs](https://github.com/ipfs/specs)| 804 | 156 | 13940| 2015-03-11 | 2019-11-05 |
+| [ipfs/specs](https://github.com/ipfs/specs)| 805 | 156 | 13948| 2015-03-11 | 2019-11-07 |
 | [rameshvarun/ipfs-share](https://github.com/rameshvarun/ipfs-share)| 47 | 11 | 9| 2015-02-23 | 2018-12-07 |
 | [dborzov/ipfs-commands](https://github.com/dborzov/ipfs-commands)| 2 | 1 | 144| 2015-02-19 | 2015-02-20 |
-| [zignig/astralboot](https://github.com/zignig/astralboot)| 77 | 11 | 7887| 2015-02-16 | 2018-08-04 |
+| [zignig/astralboot](https://github.com/zignig/astralboot)| 78 | 11 | 7887| 2015-02-16 | 2018-08-04 |
 | [whyrusleeping/randobj](https://github.com/whyrusleeping/randobj)| 1 | 0 | 120| 2015-02-12 | 2015-02-17 |
 | [whyrusleeping/ipfs-examples](https://github.com/whyrusleeping/ipfs-examples)| 5 | 4 | 137| 2015-02-11 | 2015-02-20 |
 | [whyrusleeping/go-ipfs-keygen](https://github.com/whyrusleeping/go-ipfs-keygen)| 1 | 0 | 436| 2015-01-24 | 2014-11-18 |
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [cryptix/interplanetary](https://github.com/cryptix/interplanetary)| 0 | 1 | 1348| 2014-12-19 | 2014-12-09 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 8879 | 1605 | 37933| 2014-06-26 | 2019-11-06 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 8888 | 1606 | 37933| 2014-06-26 | 2019-11-06 |
