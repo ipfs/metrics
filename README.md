@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 57
-*  10/2019: 62
-*  9/2019: 61
-*  8/2019: 65
-*  7/2019: 67
-*  6/2019: 77
-*  5/2019: 74
-*  4/2019: 69
-*  3/2019: 74
-*  2/2019: 66
-*  1/2019: 76
-*  12/2018: 75
+*  11/2019: 62
+*  10/2019: 64
+*  9/2019: 62
+*  8/2019: 61
+*  7/2019: 59
+*  6/2019: 73
+*  5/2019: 75
+*  4/2019: 75
+*  3/2019: 72
+*  2/2019: 68
+*  1/2019: 74
+*  12/2018: 80
 
 ### GitHub Search
 
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 276
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 3 | 0 | 5431| 2019-10-22 | 2019-11-09 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 4 | 0 | 5431| 2019-10-22 | 2019-11-09 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64250
+Total Matches: 64300
 
-Total Results (Limited by GitHUB API): 1180
+Total Results (Limited by GitHUB API): 1181
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
