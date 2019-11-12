@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 62
-*  10/2019: 64
-*  9/2019: 62
-*  8/2019: 61
-*  7/2019: 59
-*  6/2019: 73
-*  5/2019: 75
-*  4/2019: 75
-*  3/2019: 72
-*  2/2019: 68
-*  1/2019: 74
-*  12/2018: 80
+*  11/2019: 61
+*  10/2019: 61
+*  9/2019: 58
+*  8/2019: 67
+*  7/2019: 64
+*  6/2019: 74
+*  5/2019: 77
+*  4/2019: 70
+*  3/2019: 70
+*  2/2019: 65
+*  1/2019: 72
+*  12/2018: 73
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1104
+Total Matches: 1108
 
-Total Results (Limited by GitHUB API): 276
+Total Results (Limited by GitHUB API): 277
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 3| 2019-11-07 | 2019-11-07 |
+| [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 4 | 0 | 5431| 2019-10-22 | 2019-11-09 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 4 | 0 | 5432| 2019-10-22 | 2019-11-11 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
-| [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 0 | 0 | 36| 2019-10-08 | 2019-10-08 |
+| [agencyenterprise/pem-utils](https://github.com/agencyenterprise/pem-utils)| 1 | 0 | 36| 2019-10-08 | 2019-10-08 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64300
+Total Matches: 64450
 
-Total Results (Limited by GitHUB API): 1181
+Total Results (Limited by GitHUB API): 1183
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Emmanuel-umeh/IPFSaeternity](https://github.com/Emmanuel-umeh/IPFSaeternity)| 0 | 0 | 68| 2019-11-11 | 2019-11-11 |
+| [Rutvik1995/IpfsFileUploadWithNode.Js](https://github.com/Rutvik1995/IpfsFileUploadWithNode.Js)| 0 | 0 | 10569| 2019-11-11 | 2019-11-11 |
 | [floating/uniswap-frontend](https://github.com/floating/uniswap-frontend)| 0 | 0 | 7394| 2019-11-04 | 2019-11-04 |
 | [Rutvik1995/ImageUploadInIPFS](https://github.com/Rutvik1995/ImageUploadInIPFS)| 0 | 0 | 475| 2019-11-04 | 2019-11-04 |
 | [leeftk/ipfsdemo](https://github.com/leeftk/ipfsdemo)| 0 | 0 | 2035| 2019-11-03 | 2019-11-03 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1181
 | [punica-box/wasm-interplanetary-album-box](https://github.com/punica-box/wasm-interplanetary-album-box)| 0 | 0 | 452| 2019-10-29 | 2019-11-01 |
 | [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-28 |
 | [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
-| [YannBouyeron/Ethereum-DAO](https://github.com/YannBouyeron/Ethereum-DAO)| 0 | 0 | 9078| 2019-10-22 | 2019-10-30 |
-| [hoai97nam/ipfs-upload](https://github.com/hoai97nam/ipfs-upload)| 0 | 0 | 759| 2019-10-22 | 2019-10-22 |
 
 
 The above set is limited to the 10 most recently created. 
