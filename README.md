@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 61
-*  10/2019: 61
-*  9/2019: 58
-*  8/2019: 67
+*  11/2019: 60
+*  10/2019: 62
+*  9/2019: 57
+*  8/2019: 62
 *  7/2019: 64
-*  6/2019: 74
-*  5/2019: 77
-*  4/2019: 70
-*  3/2019: 70
-*  2/2019: 65
+*  6/2019: 69
+*  5/2019: 72
+*  4/2019: 68
+*  3/2019: 67
+*  2/2019: 60
 *  1/2019: 72
-*  12/2018: 73
+*  12/2018: 71
 
 ### GitHub Search
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64450
+Total Matches: 64550
 
-Total Results (Limited by GitHUB API): 1183
+Total Results (Limited by GitHUB API): 1184
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [joshpelkey/joshpelkey.eth](https://github.com/joshpelkey/joshpelkey.eth)| 0 | 0 | 2424| 2019-11-12 | 2019-11-12 |
+| [openworklabs/react-native-ipfs-http-clie...](https://github.com/openworklabs/react-native-ipfs-http-client)| 2 | 0 | 388| 2019-11-12 | 2019-11-12 |
 | [Emmanuel-umeh/IPFSaeternity](https://github.com/Emmanuel-umeh/IPFSaeternity)| 0 | 0 | 68| 2019-11-11 | 2019-11-11 |
 | [Rutvik1995/IpfsFileUploadWithNode.Js](https://github.com/Rutvik1995/IpfsFileUploadWithNode.Js)| 0 | 0 | 10569| 2019-11-11 | 2019-11-11 |
 | [floating/uniswap-frontend](https://github.com/floating/uniswap-frontend)| 0 | 0 | 7394| 2019-11-04 | 2019-11-04 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1183
 | [Emmanuel-umeh/IPFS-Aeternity](https://github.com/Emmanuel-umeh/IPFS-Aeternity)| 0 | 0 | 51| 2019-10-31 | 2019-10-31 |
 | [mkg20001/stardust4ipfs](https://github.com/mkg20001/stardust4ipfs)| 1 | 0 | 10| 2019-10-31 | 2019-11-01 |
 | [punica-box/wasm-interplanetary-album-box](https://github.com/punica-box/wasm-interplanetary-album-box)| 0 | 0 | 452| 2019-10-29 | 2019-11-01 |
-| [JamesXChang/IPFS_blockchain](https://github.com/JamesXChang/IPFS_blockchain)| 0 | 0 | 177| 2019-10-27 | 2019-10-28 |
-| [donets/SpotUp](https://github.com/donets/SpotUp)| 0 | 0 | 100| 2019-10-27 | 2019-10-27 |
 
 
 The above set is limited to the 10 most recently created. 
