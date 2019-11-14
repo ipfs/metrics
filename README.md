@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 60
-*  10/2019: 62
-*  9/2019: 57
+*  11/2019: 66
+*  10/2019: 63
+*  9/2019: 61
 *  8/2019: 62
-*  7/2019: 64
-*  6/2019: 69
-*  5/2019: 72
-*  4/2019: 68
-*  3/2019: 67
-*  2/2019: 60
-*  1/2019: 72
-*  12/2018: 71
+*  7/2019: 65
+*  6/2019: 76
+*  5/2019: 79
+*  4/2019: 72
+*  3/2019: 76
+*  2/2019: 74
+*  1/2019: 76
+*  12/2018: 73
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64550
+Total Matches: 64600
 
-Total Results (Limited by GitHUB API): 1184
+Total Results (Limited by GitHUB API): 1185
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [koushikbhargav/IPFS-and-Ethereum](https://github.com/koushikbhargav/IPFS-and-Ethereum)| 0 | 0 | 258| 2019-11-13 | 2019-11-13 |
 | [joshpelkey/joshpelkey.eth](https://github.com/joshpelkey/joshpelkey.eth)| 0 | 0 | 2424| 2019-11-12 | 2019-11-12 |
 | [openworklabs/react-native-ipfs-http-clie...](https://github.com/openworklabs/react-native-ipfs-http-client)| 2 | 0 | 388| 2019-11-12 | 2019-11-12 |
 | [Emmanuel-umeh/IPFSaeternity](https://github.com/Emmanuel-umeh/IPFSaeternity)| 0 | 0 | 68| 2019-11-11 | 2019-11-11 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1184
 | [leeftk/ipfsdemo](https://github.com/leeftk/ipfsdemo)| 0 | 0 | 2035| 2019-11-03 | 2019-11-03 |
 | [Emmanuel-umeh/IPFS-Aeternity](https://github.com/Emmanuel-umeh/IPFS-Aeternity)| 0 | 0 | 51| 2019-10-31 | 2019-10-31 |
 | [mkg20001/stardust4ipfs](https://github.com/mkg20001/stardust4ipfs)| 1 | 0 | 10| 2019-10-31 | 2019-11-01 |
-| [punica-box/wasm-interplanetary-album-box](https://github.com/punica-box/wasm-interplanetary-album-box)| 0 | 0 | 452| 2019-10-29 | 2019-11-01 |
 
 
 The above set is limited to the 10 most recently created. 
