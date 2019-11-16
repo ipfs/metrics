@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 59
+*  11/2019: 57
 *  10/2019: 62
-*  9/2019: 60
+*  9/2019: 57
 *  8/2019: 65
-*  7/2019: 65
-*  6/2019: 74
+*  7/2019: 68
+*  6/2019: 73
 *  5/2019: 78
-*  4/2019: 75
-*  3/2019: 72
-*  2/2019: 69
-*  1/2019: 71
-*  12/2018: 74
+*  4/2019: 71
+*  3/2019: 68
+*  2/2019: 67
+*  1/2019: 75
+*  12/2018: 73
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1108
 
-Total Results (Limited by GitHUB API): 276
+Total Results (Limited by GitHUB API): 277
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 276
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 | [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 18| 2019-10-24 | 2019-10-29 |
-| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 6 | 0 | 5432| 2019-10-22 | 2019-11-11 |
+| [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 6 | 0 | 5433| 2019-10-22 | 2019-11-15 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
 | [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64650
+Total Matches: 64750
 
-Total Results (Limited by GitHUB API): 1186
+Total Results (Limited by GitHUB API): 1188
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [JamesXChang/ipfs_app](https://github.com/JamesXChang/ipfs_app)| 0 | 0 | 34336| 2019-11-15 | 2019-11-15 |
+| [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 64| 2019-11-15 | 2019-11-15 |
 | [hoai97nam/VoD_framework](https://github.com/hoai97nam/VoD_framework)| 0 | 0 | 2475| 2019-11-14 | 2019-11-14 |
-| [koushikbhargav/IPFS-and-Ethereum](https://github.com/koushikbhargav/IPFS-and-Ethereum)| 0 | 0 | 258| 2019-11-13 | 2019-11-13 |
+| [koushikbhargav/IPFS-and-Ethereum](https://github.com/koushikbhargav/IPFS-and-Ethereum)| 1 | 0 | 258| 2019-11-13 | 2019-11-13 |
 | [joshpelkey/joshpelkey.eth](https://github.com/joshpelkey/joshpelkey.eth)| 0 | 0 | 2424| 2019-11-12 | 2019-11-12 |
 | [openworklabs/react-native-ipfs-http-clie...](https://github.com/openworklabs/react-native-ipfs-http-client)| 2 | 0 | 388| 2019-11-12 | 2019-11-12 |
 | [Emmanuel-umeh/IPFSaeternity](https://github.com/Emmanuel-umeh/IPFSaeternity)| 0 | 0 | 68| 2019-11-11 | 2019-11-11 |
 | [Rutvik1995/IpfsFileUploadWithNode.Js](https://github.com/Rutvik1995/IpfsFileUploadWithNode.Js)| 0 | 0 | 10569| 2019-11-11 | 2019-11-11 |
 | [floating/uniswap-frontend](https://github.com/floating/uniswap-frontend)| 0 | 0 | 7394| 2019-11-04 | 2019-11-04 |
 | [Rutvik1995/ImageUploadInIPFS](https://github.com/Rutvik1995/ImageUploadInIPFS)| 0 | 0 | 475| 2019-11-04 | 2019-11-04 |
-| [leeftk/ipfsdemo](https://github.com/leeftk/ipfsdemo)| 0 | 0 | 2035| 2019-11-03 | 2019-11-03 |
-| [Emmanuel-umeh/IPFS-Aeternity](https://github.com/Emmanuel-umeh/IPFS-Aeternity)| 0 | 0 | 51| 2019-10-31 | 2019-10-31 |
 
 
 The above set is limited to the 10 most recently created. 
