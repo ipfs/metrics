@@ -21,16 +21,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  11/2019: 61
-*  10/2019: 65
+*  10/2019: 64
 *  9/2019: 62
 *  8/2019: 65
-*  7/2019: 69
+*  7/2019: 65
 *  6/2019: 74
-*  5/2019: 74
-*  4/2019: 73
-*  3/2019: 71
-*  2/2019: 64
-*  1/2019: 73
+*  5/2019: 73
+*  4/2019: 76
+*  3/2019: 76
+*  2/2019: 68
+*  1/2019: 76
 *  12/2018: 75
 
 ### GitHub Search
@@ -50,13 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1112
+Total Matches: 1116
 
 Total Results (Limited by GitHUB API): 278
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17898| 2019-11-15 | 2019-11-19 |
+| [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 0 | 453| 2019-11-20 | 2019-11-20 |
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 64869
+Total Matches: 64900
 
 Total Results (Limited by GitHUB API): 1191
 
@@ -81,8 +81,8 @@ Total Results (Limited by GitHUB API): 1191
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
 | [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 0 | 12| 2019-11-18 | 2019-11-18 |
-| [merwane/eternity](https://github.com/merwane/eternity)| 0 | 0 | 230| 2019-11-18 | 2019-11-19 |
-| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 270| 2019-11-16 | 2019-11-19 |
+| [merwane/eternity](https://github.com/merwane/eternity)| 1 | 0 | 232| 2019-11-18 | 2019-11-20 |
+| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 278| 2019-11-16 | 2019-11-20 |
 | [JamesXChang/ipfs_app](https://github.com/JamesXChang/ipfs_app)| 0 | 0 | 34499| 2019-11-15 | 2019-11-16 |
 | [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 64| 2019-11-15 | 2019-11-15 |
 | [hoai97nam/VoD_framework](https://github.com/hoai97nam/VoD_framework)| 0 | 0 | 2475| 2019-11-14 | 2019-11-14 |
