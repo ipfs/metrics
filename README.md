@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 61
-*  10/2019: 64
-*  9/2019: 62
-*  8/2019: 65
-*  7/2019: 65
-*  6/2019: 74
+*  11/2019: 57
+*  10/2019: 58
+*  9/2019: 57
+*  8/2019: 62
+*  7/2019: 63
+*  6/2019: 69
 *  5/2019: 73
-*  4/2019: 76
+*  4/2019: 72
 *  3/2019: 76
-*  2/2019: 68
-*  1/2019: 76
-*  12/2018: 75
+*  2/2019: 66
+*  1/2019: 70
+*  12/2018: 69
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1116
+Total Matches: 1112
 
 Total Results (Limited by GitHUB API): 278
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 0 | 453| 2019-11-20 | 2019-11-20 |
+| [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17898| 2019-11-15 | 2019-11-19 |
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 21| 2019-10-24 | 2019-11-18 |
+| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 23| 2019-10-24 | 2019-11-21 |
 | [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 6 | 0 | 5438| 2019-10-22 | 2019-11-16 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
-| [pontiyaraja/ipfs-pubsub](https://github.com/pontiyaraja/ipfs-pubsub)| 0 | 0 | 17| 2019-10-11 | 2019-10-11 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -82,9 +82,9 @@ Total Results (Limited by GitHUB API): 1191
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
 | [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 0 | 12| 2019-11-18 | 2019-11-18 |
 | [merwane/eternity](https://github.com/merwane/eternity)| 1 | 0 | 232| 2019-11-18 | 2019-11-20 |
-| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 278| 2019-11-16 | 2019-11-20 |
+| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 280| 2019-11-16 | 2019-11-21 |
 | [JamesXChang/ipfs_app](https://github.com/JamesXChang/ipfs_app)| 0 | 0 | 34499| 2019-11-15 | 2019-11-16 |
-| [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 64| 2019-11-15 | 2019-11-15 |
+| [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 66| 2019-11-15 | 2019-11-21 |
 | [hoai97nam/VoD_framework](https://github.com/hoai97nam/VoD_framework)| 0 | 0 | 2475| 2019-11-14 | 2019-11-14 |
 | [koushikbhargav/IPFS-and-Ethereum](https://github.com/koushikbhargav/IPFS-and-Ethereum)| 1 | 0 | 258| 2019-11-13 | 2019-11-13 |
 | [joshpelkey/joshpelkey.eth](https://github.com/joshpelkey/joshpelkey.eth)| 0 | 0 | 2424| 2019-11-12 | 2019-11-12 |
