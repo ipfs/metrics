@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 61
-*  10/2019: 64
-*  9/2019: 62
-*  8/2019: 66
+*  11/2019: 60
+*  10/2019: 67
+*  9/2019: 60
+*  8/2019: 69
 *  7/2019: 69
-*  6/2019: 76
-*  5/2019: 75
-*  4/2019: 75
-*  3/2019: 73
-*  2/2019: 71
-*  1/2019: 73
-*  12/2018: 70
+*  6/2019: 74
+*  5/2019: 77
+*  4/2019: 74
+*  3/2019: 75
+*  2/2019: 69
+*  1/2019: 75
+*  12/2018: 74
 
 ### GitHub Search
 
@@ -82,9 +82,9 @@ Total Results (Limited by GitHUB API): 1191
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
 | [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 0 | 12| 2019-11-18 | 2019-11-18 |
 | [merwane/eternity](https://github.com/merwane/eternity)| 1 | 0 | 232| 2019-11-18 | 2019-11-20 |
-| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 282| 2019-11-16 | 2019-11-22 |
+| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 285| 2019-11-16 | 2019-11-23 |
 | [JamesXChang/ipfs_app](https://github.com/JamesXChang/ipfs_app)| 0 | 0 | 34499| 2019-11-15 | 2019-11-16 |
-| [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 86| 2019-11-15 | 2019-11-23 |
+| [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 110| 2019-11-15 | 2019-11-23 |
 | [hoai97nam/VoD_framework](https://github.com/hoai97nam/VoD_framework)| 0 | 0 | 2475| 2019-11-14 | 2019-11-14 |
 | [koushikbhargav/IPFS-and-Ethereum](https://github.com/koushikbhargav/IPFS-and-Ethereum)| 1 | 0 | 258| 2019-11-13 | 2019-11-13 |
 | [joshpelkey/joshpelkey.eth](https://github.com/joshpelkey/joshpelkey.eth)| 0 | 0 | 2424| 2019-11-12 | 2019-11-12 |
