@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 65
-*  10/2019: 65
-*  9/2019: 60
-*  8/2019: 65
-*  7/2019: 64
-*  6/2019: 73
-*  5/2019: 78
-*  4/2019: 73
-*  3/2019: 73
-*  2/2019: 66
-*  1/2019: 76
-*  12/2018: 75
+*  11/2019: 55
+*  10/2019: 66
+*  9/2019: 62
+*  8/2019: 66
+*  7/2019: 67
+*  6/2019: 72
+*  5/2019: 73
+*  4/2019: 74
+*  3/2019: 74
+*  2/2019: 71
+*  1/2019: 74
+*  12/2018: 71
 
 ### GitHub Search
 
@@ -79,11 +79,11 @@ Total Results (Limited by GitHUB API): 1194
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 0| 2019-11-25 | 2019-11-25 |
+| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 270| 2019-11-25 | 2019-11-25 |
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
 | [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 0 | 12| 2019-11-18 | 2019-11-18 |
 | [merwane/eternity](https://github.com/merwane/eternity)| 1 | 0 | 232| 2019-11-18 | 2019-11-20 |
-| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 285| 2019-11-16 | 2019-11-23 |
+| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 286| 2019-11-16 | 2019-11-25 |
 | [JamesXChang/ipfs_app](https://github.com/JamesXChang/ipfs_app)| 0 | 0 | 34499| 2019-11-15 | 2019-11-16 |
 | [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 110| 2019-11-15 | 2019-11-23 |
 | [hoai97nam/VoD_framework](https://github.com/hoai97nam/VoD_framework)| 0 | 0 | 2475| 2019-11-14 | 2019-11-14 |
