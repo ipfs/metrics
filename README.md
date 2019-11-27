@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 55
-*  10/2019: 66
-*  9/2019: 62
+*  11/2019: 58
+*  10/2019: 63
+*  9/2019: 63
 *  8/2019: 66
-*  7/2019: 67
-*  6/2019: 72
-*  5/2019: 73
-*  4/2019: 74
-*  3/2019: 74
-*  2/2019: 71
+*  7/2019: 66
+*  6/2019: 75
+*  5/2019: 81
+*  4/2019: 72
+*  3/2019: 75
+*  2/2019: 69
 *  1/2019: 74
-*  12/2018: 71
+*  12/2018: 75
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65050
+Total Matches: 65150
 
-Total Results (Limited by GitHUB API): 1194
+Total Results (Limited by GitHUB API): 1196
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pabloiarriola/electronic-health-records](https://github.com/pabloiarriola/electronic-health-records)| 0 | 0 | 501| 2019-11-26 | 2019-11-26 |
 | [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 270| 2019-11-25 | 2019-11-25 |
+| [imerkle/arweave-ipfs-server](https://github.com/imerkle/arweave-ipfs-server)| 0 | 0 | 157| 2019-11-23 | 2019-11-24 |
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
 | [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 0 | 12| 2019-11-18 | 2019-11-18 |
 | [merwane/eternity](https://github.com/merwane/eternity)| 1 | 0 | 232| 2019-11-18 | 2019-11-20 |
-| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 286| 2019-11-16 | 2019-11-25 |
+| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 288| 2019-11-16 | 2019-11-26 |
 | [JamesXChang/ipfs_app](https://github.com/JamesXChang/ipfs_app)| 0 | 0 | 34499| 2019-11-15 | 2019-11-16 |
 | [RTradeLtd/directory-upload](https://github.com/RTradeLtd/directory-upload)| 0 | 0 | 110| 2019-11-15 | 2019-11-23 |
 | [hoai97nam/VoD_framework](https://github.com/hoai97nam/VoD_framework)| 0 | 0 | 2475| 2019-11-14 | 2019-11-14 |
-| [koushikbhargav/IPFS-and-Ethereum](https://github.com/koushikbhargav/IPFS-and-Ethereum)| 1 | 0 | 258| 2019-11-13 | 2019-11-13 |
-| [joshpelkey/joshpelkey.eth](https://github.com/joshpelkey/joshpelkey.eth)| 0 | 0 | 2424| 2019-11-12 | 2019-11-12 |
 
 
 The above set is limited to the 10 most recently created. 
