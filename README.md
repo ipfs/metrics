@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 55
-*  10/2019: 64
-*  9/2019: 63
-*  8/2019: 62
-*  7/2019: 67
-*  6/2019: 70
-*  5/2019: 71
-*  4/2019: 70
-*  3/2019: 73
+*  11/2019: 60
+*  10/2019: 61
+*  9/2019: 60
+*  8/2019: 64
+*  7/2019: 66
+*  6/2019: 72
+*  5/2019: 76
+*  4/2019: 71
+*  3/2019: 72
 *  2/2019: 68
-*  1/2019: 73
-*  12/2018: 71
+*  1/2019: 72
+*  12/2018: 74
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65200
+Total Matches: 65250
 
-Total Results (Limited by GitHUB API): 1197
+Total Results (Limited by GitHUB API): 1198
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Lucas-Kohorst/ipfs-wiki-search](https://github.com/Lucas-Kohorst/ipfs-wiki-search)| 0 | 0 | 902| 2019-11-29 | 2019-11-29 |
 | [yadong-nian/eth-ipfs](https://github.com/yadong-nian/eth-ipfs)| 0 | 0 | 157| 2019-11-28 | 2019-11-28 |
 | [nk307/Digital-Educational-Certificate-Au...](https://github.com/nk307/Digital-Educational-Certificate-Authentication-using-Blockchain-and-IPFS)| 0 | 0 | 17993| 2019-11-28 | 2019-11-28 |
 | [pabloiarriola/electronic-health-records](https://github.com/pabloiarriola/electronic-health-records)| 0 | 0 | 501| 2019-11-26 | 2019-11-26 |
-| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 276| 2019-11-25 | 2019-11-27 |
+| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 282| 2019-11-25 | 2019-11-29 |
 | [imerkle/arweave-ipfs-explorer](https://github.com/imerkle/arweave-ipfs-explorer)| 0 | 0 | 418| 2019-11-23 | 2019-11-28 |
-| [imerkle/arweave-ipfs-server](https://github.com/imerkle/arweave-ipfs-server)| 0 | 0 | 157| 2019-11-23 | 2019-11-28 |
+| [imerkle/arweave-ipfs-server](https://github.com/imerkle/arweave-ipfs-server)| 0 | 0 | 173| 2019-11-23 | 2019-11-29 |
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
 | [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 1 | 12| 2019-11-18 | 2019-11-18 |
 | [merwane/eternity](https://github.com/merwane/eternity)| 1 | 0 | 232| 2019-11-18 | 2019-11-20 |
-| [matprime/decentralized-memes](https://github.com/matprime/decentralized-memes)| 0 | 0 | 290| 2019-11-16 | 2019-11-27 |
 
 
 The above set is limited to the 10 most recently created. 
