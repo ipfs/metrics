@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2019: 58
-*  10/2019: 64
-*  9/2019: 60
-*  8/2019: 70
-*  7/2019: 69
-*  6/2019: 75
-*  5/2019: 74
-*  4/2019: 71
-*  3/2019: 79
-*  2/2019: 70
-*  1/2019: 71
-*  12/2018: 70
+*  11/2019: 59
+*  10/2019: 60
+*  9/2019: 62
+*  8/2019: 62
+*  7/2019: 62
+*  6/2019: 79
+*  5/2019: 72
+*  4/2019: 72
+*  3/2019: 70
+*  2/2019: 65
+*  1/2019: 68
+*  12/2018: 71
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65300
+Total Matches: 65350
 
-Total Results (Limited by GitHUB API): 1199
+Total Results (Limited by GitHUB API): 1200
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [dalau6/ipfs-app](https://github.com/dalau6/ipfs-app)| 0 | 0 | 34| 2019-12-01 | 2019-12-01 |
 | [shoupn/pgp-node](https://github.com/shoupn/pgp-node)| 0 | 0 | 73| 2019-11-30 | 2019-11-30 |
 | [Lucas-Kohorst/ipfs-wiki-search](https://github.com/Lucas-Kohorst/ipfs-wiki-search)| 0 | 0 | 902| 2019-11-29 | 2019-11-29 |
 | [yadong-nian/eth-ipfs](https://github.com/yadong-nian/eth-ipfs)| 0 | 0 | 157| 2019-11-28 | 2019-11-28 |
 | [nk307/Digital-Educational-Certificate-Au...](https://github.com/nk307/Digital-Educational-Certificate-Authentication-using-Blockchain-and-IPFS)| 0 | 0 | 17993| 2019-11-28 | 2019-11-28 |
 | [pabloiarriola/electronic-health-records](https://github.com/pabloiarriola/electronic-health-records)| 0 | 0 | 501| 2019-11-26 | 2019-11-26 |
-| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 285| 2019-11-25 | 2019-11-30 |
+| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 286| 2019-11-25 | 2019-12-01 |
 | [imerkle/arweave-ipfs-explorer](https://github.com/imerkle/arweave-ipfs-explorer)| 0 | 0 | 418| 2019-11-23 | 2019-11-28 |
 | [imerkle/arweave-ipfs-server](https://github.com/imerkle/arweave-ipfs-server)| 0 | 0 | 181| 2019-11-23 | 2019-11-30 |
 | [jimpick/ipfs-p2p-proxy](https://github.com/jimpick/ipfs-p2p-proxy)| 0 | 0 | 28| 2019-11-19 | 2019-11-19 |
-| [fission-suite/heroku-ipfs-ghost](https://github.com/fission-suite/heroku-ipfs-ghost)| 0 | 1 | 12| 2019-11-18 | 2019-11-18 |
 
 
 The above set is limited to the 10 most recently created. 
