@@ -9,16 +9,11 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: NPM Build
-      uses: actions/npm@master
-      with:
-        args: install
+      run: npm install
     - name: Log Go Metrics 
-      uses: actions/npm@master
       env:
         GOOGLE_CREDENTIAL_B64: ${{ secrets.GOOGLE_CREDENTIAL_B64 }}
-      with:
-        entrypoint: node
-        args: cli.js bq --output=logs
+      run: node cli.js bq --output=logs
     - name: Publish Logs to Repo
       uses: mikeal/publish-to-github-action@master
       env:
