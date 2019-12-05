@@ -17,7 +17,7 @@ jobs:
     - name: Collect JS Metrics 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: cli.js repo-search javascript --output=logs
+      run: node cli.js repo-search javascript --output=logs
     - name: Collect Google Trends 
       run: node cli.js trends --output=logs
     - name: Re-write README
