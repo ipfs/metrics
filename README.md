@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 67
-*  11/2019: 62
+*  12/2019: 61
+*  11/2019: 61
 *  10/2019: 65
-*  9/2019: 64
-*  8/2019: 65
-*  7/2019: 67
-*  6/2019: 74
-*  5/2019: 75
-*  4/2019: 71
-*  3/2019: 75
-*  2/2019: 66
-*  1/2019: 72
+*  9/2019: 65
+*  8/2019: 68
+*  7/2019: 68
+*  6/2019: 82
+*  5/2019: 74
+*  4/2019: 75
+*  3/2019: 80
+*  2/2019: 69
+*  1/2019: 74
 
 ### GitHub Search
 
@@ -56,8 +56,8 @@ Total Results (Limited by GitHUB API): 281
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13954| 2019-12-05 | 2019-12-05 |
-| [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14758| 2019-12-03 | 2019-12-04 |
+| [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13955| 2019-12-05 | 2019-12-06 |
+| [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14760| 2019-12-03 | 2019-12-06 |
 | [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 1 | 1 | 89| 2019-11-22 | 2019-12-05 |
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
 | [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17908| 2019-11-15 | 2019-11-28 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65350
+Total Matches: 65400
 
-Total Results (Limited by GitHUB API): 1199
+Total Results (Limited by GitHUB API): 1201
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
