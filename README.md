@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 61
-*  11/2019: 61
+*  12/2019: 49
+*  11/2019: 52
 *  10/2019: 65
-*  9/2019: 65
-*  8/2019: 68
+*  9/2019: 60
+*  8/2019: 64
 *  7/2019: 68
-*  6/2019: 82
-*  5/2019: 74
-*  4/2019: 75
-*  3/2019: 80
-*  2/2019: 69
+*  6/2019: 74
+*  5/2019: 75
+*  4/2019: 71
+*  3/2019: 75
+*  2/2019: 67
 *  1/2019: 74
 
 ### GitHub Search
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1124
 
-Total Results (Limited by GitHUB API): 281
+Total Results (Limited by GitHUB API): 279
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65400
+Total Matches: 65550
 
-Total Results (Limited by GitHUB API): 1201
+Total Results (Limited by GitHUB API): 1204
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 423| 2019-12-07 | 2019-12-07 |
+| [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
+| [Tranxilium/lb2pro-firmware-reup](https://github.com/Tranxilium/lb2pro-firmware-reup)| 0 | 0 | 9674| 2019-12-05 | 2019-12-05 |
 | [cwaring/vuepress-plugin-ipfs](https://github.com/cwaring/vuepress-plugin-ipfs)| 0 | 0 | 1| 2019-12-04 | 2019-12-04 |
 | [dalau6/ipfs-app](https://github.com/dalau6/ipfs-app)| 0 | 0 | 34| 2019-12-01 | 2019-12-01 |
 | [shoupn/pgp-node](https://github.com/shoupn/pgp-node)| 0 | 0 | 75| 2019-11-30 | 2019-12-05 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1201
 | [yadong-nian/eth-ipfs](https://github.com/yadong-nian/eth-ipfs)| 0 | 0 | 157| 2019-11-28 | 2019-11-28 |
 | [nk307/Digital-Educational-Certificate-Au...](https://github.com/nk307/Digital-Educational-Certificate-Authentication-using-Blockchain-and-IPFS)| 0 | 0 | 17993| 2019-11-28 | 2019-11-28 |
 | [pabloiarriola/electronic-health-records](https://github.com/pabloiarriola/electronic-health-records)| 0 | 0 | 501| 2019-11-26 | 2019-11-26 |
-| [ryanpedersen42/cat-roulette](https://github.com/ryanpedersen42/cat-roulette)| 0 | 0 | 561| 2019-11-25 | 2019-12-03 |
-| [imerkle/arweave-ipfs-explorer](https://github.com/imerkle/arweave-ipfs-explorer)| 0 | 0 | 418| 2019-11-23 | 2019-11-28 |
-| [imerkle/arweave-ipfs-server](https://github.com/imerkle/arweave-ipfs-server)| 0 | 0 | 181| 2019-11-23 | 2019-11-30 |
 
 
 The above set is limited to the 10 most recently created. 
