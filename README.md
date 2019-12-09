@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 49
-*  11/2019: 52
-*  10/2019: 65
+*  12/2019: 55
+*  11/2019: 60
+*  10/2019: 66
 *  9/2019: 60
 *  8/2019: 64
-*  7/2019: 68
+*  7/2019: 66
 *  6/2019: 74
-*  5/2019: 75
-*  4/2019: 71
-*  3/2019: 75
-*  2/2019: 67
-*  1/2019: 74
+*  5/2019: 69
+*  4/2019: 75
+*  3/2019: 73
+*  2/2019: 72
+*  1/2019: 76
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1124
 
-Total Results (Limited by GitHUB API): 279
+Total Results (Limited by GitHUB API): 281
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 279
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 23| 2019-10-24 | 2019-11-21 |
+| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 25| 2019-10-24 | 2019-12-08 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 1204
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 423| 2019-12-07 | 2019-12-07 |
+| [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 438| 2019-12-07 | 2019-12-08 |
 | [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
 | [Tranxilium/lb2pro-firmware-reup](https://github.com/Tranxilium/lb2pro-firmware-reup)| 0 | 0 | 9674| 2019-12-05 | 2019-12-05 |
 | [cwaring/vuepress-plugin-ipfs](https://github.com/cwaring/vuepress-plugin-ipfs)| 0 | 0 | 1| 2019-12-04 | 2019-12-04 |
