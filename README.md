@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 55
-*  11/2019: 60
-*  10/2019: 66
-*  9/2019: 60
-*  8/2019: 64
-*  7/2019: 66
-*  6/2019: 74
-*  5/2019: 69
-*  4/2019: 75
-*  3/2019: 73
-*  2/2019: 72
-*  1/2019: 76
+*  12/2019: 64
+*  11/2019: 53
+*  10/2019: 61
+*  9/2019: 57
+*  8/2019: 65
+*  7/2019: 68
+*  6/2019: 71
+*  5/2019: 73
+*  4/2019: 72
+*  3/2019: 72
+*  2/2019: 68
+*  1/2019: 75
 
 ### GitHub Search
 
@@ -57,8 +57,8 @@ Total Results (Limited by GitHUB API): 281
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13955| 2019-12-05 | 2019-12-06 |
-| [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14760| 2019-12-03 | 2019-12-06 |
-| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 1 | 1 | 89| 2019-11-22 | 2019-12-05 |
+| [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
+| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 2 | 1 | 89| 2019-11-22 | 2019-12-05 |
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
 | [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17908| 2019-11-15 | 2019-11-28 |
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
@@ -75,11 +75,11 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 65550
 
-Total Results (Limited by GitHUB API): 1204
+Total Results (Limited by GitHUB API): 1203
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 438| 2019-12-07 | 2019-12-08 |
+| [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
 | [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
 | [Tranxilium/lb2pro-firmware-reup](https://github.com/Tranxilium/lb2pro-firmware-reup)| 0 | 0 | 9674| 2019-12-05 | 2019-12-05 |
 | [cwaring/vuepress-plugin-ipfs](https://github.com/cwaring/vuepress-plugin-ipfs)| 0 | 0 | 1| 2019-12-04 | 2019-12-04 |
