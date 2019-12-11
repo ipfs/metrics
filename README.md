@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 64
-*  11/2019: 53
-*  10/2019: 61
-*  9/2019: 57
-*  8/2019: 65
+*  12/2019: 65
+*  11/2019: 59
+*  10/2019: 63
+*  9/2019: 60
+*  8/2019: 68
 *  7/2019: 68
-*  6/2019: 71
-*  5/2019: 73
+*  6/2019: 77
+*  5/2019: 77
 *  4/2019: 72
-*  3/2019: 72
-*  2/2019: 68
-*  1/2019: 75
+*  3/2019: 77
+*  2/2019: 71
+*  1/2019: 76
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 281
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13955| 2019-12-05 | 2019-12-06 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
-| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 2 | 1 | 89| 2019-11-22 | 2019-12-05 |
+| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 2 | 3 | 119| 2019-11-22 | 2019-12-10 |
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
 | [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17908| 2019-11-15 | 2019-11-28 |
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65550
+Total Matches: 65650
 
-Total Results (Limited by GitHUB API): 1203
+Total Results (Limited by GitHUB API): 1205
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
 | [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
 | [Tranxilium/lb2pro-firmware-reup](https://github.com/Tranxilium/lb2pro-firmware-reup)| 0 | 0 | 9674| 2019-12-05 | 2019-12-05 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1203
 | [Lucas-Kohorst/ipfs-wiki-search](https://github.com/Lucas-Kohorst/ipfs-wiki-search)| 0 | 0 | 902| 2019-11-29 | 2019-11-29 |
 | [yadong-nian/eth-ipfs](https://github.com/yadong-nian/eth-ipfs)| 0 | 0 | 157| 2019-11-28 | 2019-11-28 |
 | [nk307/Digital-Educational-Certificate-Au...](https://github.com/nk307/Digital-Educational-Certificate-Authentication-using-Blockchain-and-IPFS)| 0 | 0 | 17993| 2019-11-28 | 2019-11-28 |
-| [pabloiarriola/electronic-health-records](https://github.com/pabloiarriola/electronic-health-records)| 0 | 0 | 501| 2019-11-26 | 2019-11-26 |
 
 
 The above set is limited to the 10 most recently created. 
