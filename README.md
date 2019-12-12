@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 65
-*  11/2019: 59
-*  10/2019: 63
-*  9/2019: 60
-*  8/2019: 68
-*  7/2019: 68
-*  6/2019: 77
-*  5/2019: 77
-*  4/2019: 72
-*  3/2019: 77
-*  2/2019: 71
-*  1/2019: 76
+*  12/2019: 58
+*  11/2019: 58
+*  10/2019: 61
+*  9/2019: 59
+*  8/2019: 65
+*  7/2019: 66
+*  6/2019: 72
+*  5/2019: 73
+*  4/2019: 73
+*  3/2019: 73
+*  2/2019: 67
+*  1/2019: 74
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65650
+Total Matches: 65600
 
-Total Results (Limited by GitHUB API): 1205
+Total Results (Limited by GitHUB API): 1204
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
 | [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
-| [Tranxilium/lb2pro-firmware-reup](https://github.com/Tranxilium/lb2pro-firmware-reup)| 0 | 0 | 9674| 2019-12-05 | 2019-12-05 |
 | [cwaring/vuepress-plugin-ipfs](https://github.com/cwaring/vuepress-plugin-ipfs)| 0 | 0 | 1| 2019-12-04 | 2019-12-04 |
 | [dalau6/ipfs-app](https://github.com/dalau6/ipfs-app)| 0 | 0 | 34| 2019-12-01 | 2019-12-01 |
 | [shoupn/pgp-node](https://github.com/shoupn/pgp-node)| 0 | 0 | 75| 2019-11-30 | 2019-12-05 |
 | [Lucas-Kohorst/ipfs-wiki-search](https://github.com/Lucas-Kohorst/ipfs-wiki-search)| 0 | 0 | 902| 2019-11-29 | 2019-11-29 |
 | [yadong-nian/eth-ipfs](https://github.com/yadong-nian/eth-ipfs)| 0 | 0 | 157| 2019-11-28 | 2019-11-28 |
 | [nk307/Digital-Educational-Certificate-Au...](https://github.com/nk307/Digital-Educational-Certificate-Authentication-using-Blockchain-and-IPFS)| 0 | 0 | 17993| 2019-11-28 | 2019-11-28 |
+| [pabloiarriola/electronic-health-records](https://github.com/pabloiarriola/electronic-health-records)| 0 | 0 | 501| 2019-11-26 | 2019-11-26 |
 
 
 The above set is limited to the 10 most recently created. 
