@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  12/2019: 64
-*  11/2019: 57
+*  11/2019: 60
 *  10/2019: 64
 *  9/2019: 59
-*  8/2019: 65
+*  8/2019: 63
 *  7/2019: 67
-*  6/2019: 72
-*  5/2019: 76
-*  4/2019: 70
-*  3/2019: 76
-*  2/2019: 68
-*  1/2019: 71
+*  6/2019: 77
+*  5/2019: 77
+*  4/2019: 73
+*  3/2019: 75
+*  2/2019: 65
+*  1/2019: 74
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1124
+Total Matches: 1128
 
-Total Results (Limited by GitHUB API): 281
+Total Results (Limited by GitHUB API): 282
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13955| 2019-12-05 | 2019-12-06 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
 | [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 2 | 3 | 122| 2019-11-22 | 2019-12-12 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 281
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 25| 2019-10-24 | 2019-12-08 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,12 +75,12 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 65750
 
-Total Results (Limited by GitHUB API): 1207
+Total Results (Limited by GitHUB API): 1208
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 399| 2019-12-12 | 2019-12-12 |
-| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 353| 2019-12-12 | 2019-12-12 |
+| [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
+| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 405| 2019-12-12 | 2019-12-13 |
 | [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 | [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
