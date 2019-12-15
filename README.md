@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 64
-*  11/2019: 60
-*  10/2019: 64
-*  9/2019: 59
-*  8/2019: 63
+*  12/2019: 60
+*  11/2019: 59
+*  10/2019: 60
+*  9/2019: 62
+*  8/2019: 64
 *  7/2019: 67
-*  6/2019: 77
+*  6/2019: 75
 *  5/2019: 77
-*  4/2019: 73
+*  4/2019: 74
 *  3/2019: 75
-*  2/2019: 65
+*  2/2019: 68
 *  1/2019: 74
 
 ### GitHub Search
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1128
+Total Matches: 1132
 
-Total Results (Limited by GitHUB API): 282
+Total Results (Limited by GitHUB API): 283
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13955| 2019-12-05 | 2019-12-06 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 282
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
-| [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
 
 
 The above set is limited to the 10 most recently created. 
