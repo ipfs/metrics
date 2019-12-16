@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 60
-*  11/2019: 59
-*  10/2019: 60
-*  9/2019: 62
-*  8/2019: 64
-*  7/2019: 67
-*  6/2019: 75
+*  12/2019: 61
+*  11/2019: 62
+*  10/2019: 64
+*  9/2019: 59
+*  8/2019: 69
+*  7/2019: 63
+*  6/2019: 76
 *  5/2019: 77
-*  4/2019: 74
-*  3/2019: 75
-*  2/2019: 68
-*  1/2019: 74
+*  4/2019: 73
+*  3/2019: 77
+*  2/2019: 67
+*  1/2019: 73
 
 ### GitHub Search
 
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65750
+Total Matches: 65800
 
-Total Results (Limited by GitHUB API): 1208
+Total Results (Limited by GitHUB API): 1209
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 | [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
-| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 405| 2019-12-12 | 2019-12-13 |
+| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 405| 2019-12-12 | 2019-12-15 |
 | [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 | [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1208
 | [cwaring/vuepress-plugin-ipfs](https://github.com/cwaring/vuepress-plugin-ipfs)| 0 | 0 | 1| 2019-12-04 | 2019-12-04 |
 | [dalau6/ipfs-app](https://github.com/dalau6/ipfs-app)| 0 | 0 | 34| 2019-12-01 | 2019-12-01 |
 | [shoupn/pgp-node](https://github.com/shoupn/pgp-node)| 0 | 0 | 75| 2019-11-30 | 2019-12-05 |
-| [Lucas-Kohorst/ipfs-wiki-search](https://github.com/Lucas-Kohorst/ipfs-wiki-search)| 0 | 0 | 902| 2019-11-29 | 2019-11-29 |
 
 
 The above set is limited to the 10 most recently created. 
