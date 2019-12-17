@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 61
-*  11/2019: 62
-*  10/2019: 64
-*  9/2019: 59
-*  8/2019: 69
-*  7/2019: 63
-*  6/2019: 76
-*  5/2019: 77
-*  4/2019: 73
+*  12/2019: 65
+*  11/2019: 59
+*  10/2019: 65
+*  9/2019: 62
+*  8/2019: 64
+*  7/2019: 67
+*  6/2019: 75
+*  5/2019: 73
+*  4/2019: 71
 *  3/2019: 77
-*  2/2019: 67
-*  1/2019: 73
+*  2/2019: 70
+*  1/2019: 75
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1132
+Total Matches: 1136
 
-Total Results (Limited by GitHUB API): 283
+Total Results (Limited by GitHUB API): 284
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65800
+Total Matches: 65950
 
-Total Results (Limited by GitHUB API): 1209
+Total Results (Limited by GitHUB API): 1212
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [sotolab/node_upload_ipfs](https://github.com/sotolab/node_upload_ipfs)| 0 | 0 | 474| 2019-12-16 | 2019-12-16 |
+| [inakineitor/ipfs-multiplexer](https://github.com/inakineitor/ipfs-multiplexer)| 0 | 0 | 224| 2019-12-16 | 2019-12-16 |
+| [johngrantuk/numerai-helper](https://github.com/johngrantuk/numerai-helper)| 0 | 0 | 121| 2019-12-15 | 2019-12-16 |
 | [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 | [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
 | [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 405| 2019-12-12 | 2019-12-15 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1209
 | [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
 | [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
-| [cwaring/vuepress-plugin-ipfs](https://github.com/cwaring/vuepress-plugin-ipfs)| 0 | 0 | 1| 2019-12-04 | 2019-12-04 |
-| [dalau6/ipfs-app](https://github.com/dalau6/ipfs-app)| 0 | 0 | 34| 2019-12-01 | 2019-12-01 |
-| [shoupn/pgp-node](https://github.com/shoupn/pgp-node)| 0 | 0 | 75| 2019-11-30 | 2019-12-05 |
 
 
 The above set is limited to the 10 most recently created. 
