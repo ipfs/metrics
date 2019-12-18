@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 65
-*  11/2019: 59
-*  10/2019: 65
+*  12/2019: 61
+*  11/2019: 54
+*  10/2019: 61
 *  9/2019: 62
-*  8/2019: 64
-*  7/2019: 67
+*  8/2019: 66
+*  7/2019: 66
 *  6/2019: 75
-*  5/2019: 73
-*  4/2019: 71
-*  3/2019: 77
-*  2/2019: 70
-*  1/2019: 75
+*  5/2019: 77
+*  4/2019: 74
+*  3/2019: 75
+*  2/2019: 65
+*  1/2019: 73
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1136
 
-Total Results (Limited by GitHUB API): 284
+Total Results (Limited by GitHUB API): 283
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 65950
+Total Matches: 66000
 
-Total Results (Limited by GitHUB API): 1212
+Total Results (Limited by GitHUB API): 1213
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [yehia67/IPFS-Tangle-Database-System](https://github.com/yehia67/IPFS-Tangle-Database-System)| 0 | 0 | 31| 2019-12-17 | 2019-12-17 |
 | [sotolab/node_upload_ipfs](https://github.com/sotolab/node_upload_ipfs)| 0 | 0 | 474| 2019-12-16 | 2019-12-16 |
 | [inakineitor/ipfs-multiplexer](https://github.com/inakineitor/ipfs-multiplexer)| 0 | 0 | 224| 2019-12-16 | 2019-12-16 |
 | [johngrantuk/numerai-helper](https://github.com/johngrantuk/numerai-helper)| 0 | 0 | 121| 2019-12-15 | 2019-12-16 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1212
 | [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 | [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
 | [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
-| [PauloLuan/react-web-ipfs](https://github.com/PauloLuan/react-web-ipfs)| 0 | 0 | 560| 2019-12-07 | 2019-12-07 |
 
 
 The above set is limited to the 10 most recently created. 
