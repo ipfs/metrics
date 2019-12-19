@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 61
-*  11/2019: 54
+*  12/2019: 58
+*  11/2019: 56
 *  10/2019: 61
-*  9/2019: 62
-*  8/2019: 66
-*  7/2019: 66
-*  6/2019: 75
-*  5/2019: 77
+*  9/2019: 58
+*  8/2019: 69
+*  7/2019: 68
+*  6/2019: 72
+*  5/2019: 78
 *  4/2019: 74
-*  3/2019: 75
-*  2/2019: 65
-*  1/2019: 73
+*  3/2019: 74
+*  2/2019: 67
+*  1/2019: 69
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1136
 
-Total Results (Limited by GitHUB API): 283
+Total Results (Limited by GitHUB API): 284
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66000
+Total Matches: 66039
 
-Total Results (Limited by GitHUB API): 1213
+Total Results (Limited by GitHUB API): 1212
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [SvenMeyer/IPFS_upload_React](https://github.com/SvenMeyer/IPFS_upload_React)| 0 | 0 | 618| 2019-12-18 | 2019-12-18 |
 | [yehia67/IPFS-Tangle-Database-System](https://github.com/yehia67/IPFS-Tangle-Database-System)| 0 | 0 | 31| 2019-12-17 | 2019-12-17 |
 | [sotolab/node_upload_ipfs](https://github.com/sotolab/node_upload_ipfs)| 0 | 0 | 474| 2019-12-16 | 2019-12-16 |
 | [inakineitor/ipfs-multiplexer](https://github.com/inakineitor/ipfs-multiplexer)| 0 | 0 | 224| 2019-12-16 | 2019-12-16 |
 | [johngrantuk/numerai-helper](https://github.com/johngrantuk/numerai-helper)| 0 | 0 | 121| 2019-12-15 | 2019-12-16 |
 | [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 | [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
-| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 405| 2019-12-12 | 2019-12-15 |
+| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 406| 2019-12-12 | 2019-12-18 |
 | [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 | [Stremio/stremio-addon-ipfs](https://github.com/Stremio/stremio-addon-ipfs)| 0 | 0 | 2| 2019-12-10 | 2019-12-10 |
-| [allilou/orbitdb-wkx-leaflet-draw](https://github.com/allilou/orbitdb-wkx-leaflet-draw)| 0 | 0 | 513| 2019-12-07 | 2019-12-09 |
 
 
 The above set is limited to the 10 most recently created. 
