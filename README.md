@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 67
-*  11/2019: 60
-*  10/2019: 65
+*  12/2019: 61
+*  11/2019: 55
+*  10/2019: 63
 *  9/2019: 61
-*  8/2019: 68
-*  7/2019: 66
-*  6/2019: 78
-*  5/2019: 78
-*  4/2019: 74
-*  3/2019: 72
-*  2/2019: 70
-*  1/2019: 79
+*  8/2019: 65
+*  7/2019: 70
+*  6/2019: 75
+*  5/2019: 77
+*  4/2019: 76
+*  3/2019: 75
+*  2/2019: 67
+*  1/2019: 74
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1136
+Total Matches: 1140
 
-Total Results (Limited by GitHUB API): 284
+Total Results (Limited by GitHUB API): 285
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 20| 2019-12-23 | 2019-12-23 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 13955| 2019-12-05 | 2019-12-06 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 284
 | [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17913| 2019-11-15 | 2019-12-21 |
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
-| [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66100
+Total Matches: 66150
 
-Total Results (Limited by GitHUB API): 1214
+Total Results (Limited by GitHUB API): 1216
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [santaklouse/ipfs-simple-chat](https://github.com/santaklouse/ipfs-simple-chat)| 0 | 0 | 1| 2019-12-23 | 2019-12-23 |
 | [AemieJ/FileManager-Dapp](https://github.com/AemieJ/FileManager-Dapp)| 0 | 0 | 218| 2019-12-20 | 2019-12-21 |
 | [SvenMeyer/IPFS_upload_React](https://github.com/SvenMeyer/IPFS_upload_React)| 0 | 0 | 618| 2019-12-18 | 2019-12-18 |
 | [yehia67/IPFS-Tangle-Database-System](https://github.com/yehia67/IPFS-Tangle-Database-System)| 0 | 0 | 31| 2019-12-17 | 2019-12-17 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1214
 | [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 | [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
 | [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 406| 2019-12-12 | 2019-12-18 |
-| [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 
 
 The above set is limited to the 10 most recently created. 
