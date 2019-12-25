@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 61
-*  11/2019: 55
-*  10/2019: 63
-*  9/2019: 61
+*  12/2019: 63
+*  11/2019: 58
+*  10/2019: 65
+*  9/2019: 62
 *  8/2019: 65
-*  7/2019: 70
+*  7/2019: 68
 *  6/2019: 75
 *  5/2019: 77
-*  4/2019: 76
-*  3/2019: 75
+*  4/2019: 77
+*  3/2019: 76
 *  2/2019: 67
-*  1/2019: 74
+*  1/2019: 73
 
 ### GitHub Search
 
@@ -73,13 +73,12 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66150
+Total Matches: 66100
 
-Total Results (Limited by GitHUB API): 1216
+Total Results (Limited by GitHUB API): 1214
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [santaklouse/ipfs-simple-chat](https://github.com/santaklouse/ipfs-simple-chat)| 0 | 0 | 1| 2019-12-23 | 2019-12-23 |
 | [AemieJ/FileManager-Dapp](https://github.com/AemieJ/FileManager-Dapp)| 0 | 0 | 218| 2019-12-20 | 2019-12-21 |
 | [SvenMeyer/IPFS_upload_React](https://github.com/SvenMeyer/IPFS_upload_React)| 0 | 0 | 618| 2019-12-18 | 2019-12-18 |
 | [yehia67/IPFS-Tangle-Database-System](https://github.com/yehia67/IPFS-Tangle-Database-System)| 0 | 0 | 31| 2019-12-17 | 2019-12-17 |
@@ -89,6 +88,7 @@ Total Results (Limited by GitHUB API): 1216
 | [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 | [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
 | [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 406| 2019-12-12 | 2019-12-18 |
+| [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 
 
 The above set is limited to the 10 most recently created. 
