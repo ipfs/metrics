@@ -1,9 +1,10 @@
-Total Matches: 1140
+Total Matches: 1144
 
-Total Results (Limited by GitHUB API): 285
+Total Results (Limited by GitHUB API): 286
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 20| 2019-12-23 | 2019-12-23 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
@@ -16,7 +17,7 @@ Total Results (Limited by GitHUB API): 285
 | [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 | [fernandoabolafio/gostampbot](https://github.com/fernandoabolafio/gostampbot)| 0 | 0 | 39| 2019-10-26 | 2019-11-06 |
 | [jian-yu/ipfs-connector](https://github.com/jian-yu/ipfs-connector)| 0 | 0 | 34| 2019-10-25 | 2019-10-31 |
-| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 3 | 0 | 25| 2019-10-24 | 2019-12-08 |
+| [0zAND1z/ipld-crud](https://github.com/0zAND1z/ipld-crud)| 4 | 0 | 25| 2019-10-24 | 2019-12-08 |
 | [textileio/grpc-ipfs-lite](https://github.com/textileio/grpc-ipfs-lite)| 8 | 0 | 5438| 2019-10-22 | 2019-11-16 |
 | [glvd/cluster](https://github.com/glvd/cluster)| 0 | 0 | 713| 2019-10-21 | 2019-11-01 |
 | [ipfs-search/ipfs-sniffer](https://github.com/ipfs-search/ipfs-sniffer)| 0 | 0 | 30| 2019-10-13 | 2019-10-14 |
@@ -158,7 +159,7 @@ Total Results (Limited by GitHUB API): 285
 | [arunthampi/ipfs-example](https://github.com/arunthampi/ipfs-example)| 1 | 1 | 4685| 2018-04-26 | 2018-04-26 |
 | [jinichu/Ivan-Planetary-File-System](https://github.com/jinichu/Ivan-Planetary-File-System)| 1 | 0 | 5680| 2018-04-23 | 2018-04-25 |
 | [ellcrys/go-libp2p-crypto](https://github.com/ellcrys/go-libp2p-crypto)| 0 | 0 | 80| 2018-04-21 | 2018-04-30 |
-| [ipsn/go-ipfs](https://github.com/ipsn/go-ipfs)| 31 | 6 | 73960| 2018-04-15 | 2019-04-07 |
+| [ipsn/go-ipfs](https://github.com/ipsn/go-ipfs)| 30 | 6 | 73960| 2018-04-15 | 2019-04-07 |
 | [CXTChain/ifs-img-server](https://github.com/CXTChain/ifs-img-server)| 0 | 0 | 29| 2018-04-12 | 2018-04-12 |
 | [arnaucube/padArchiver](https://github.com/arnaucube/padArchiver)| 2 | 0 | 29180| 2018-04-11 | 2018-04-15 |
 | [ipfs/go-ipfs-exchange-offline](https://github.com/ipfs/go-ipfs-exchange-offline)| 5 | 1 | 84| 2018-04-03 | 2019-12-18 |
@@ -288,4 +289,4 @@ Total Results (Limited by GitHUB API): 285
 | [whyrusleeping/go-ipfs-keygen](https://github.com/whyrusleeping/go-ipfs-keygen)| 1 | 0 | 436| 2015-01-24 | 2014-11-18 |
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 9111 | 1650 | 38191| 2014-06-26 | 2019-12-23 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 9116 | 1652 | 38191| 2014-06-26 | 2019-12-25 |

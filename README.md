@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 63
-*  11/2019: 58
+*  12/2019: 62
+*  11/2019: 57
 *  10/2019: 65
-*  9/2019: 62
-*  8/2019: 65
-*  7/2019: 68
-*  6/2019: 75
-*  5/2019: 77
-*  4/2019: 77
-*  3/2019: 76
-*  2/2019: 67
+*  9/2019: 60
+*  8/2019: 63
+*  7/2019: 67
+*  6/2019: 77
+*  5/2019: 78
+*  4/2019: 74
+*  3/2019: 72
+*  2/2019: 66
 *  1/2019: 73
 
 ### GitHub Search
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1140
+Total Matches: 1144
 
-Total Results (Limited by GitHUB API): 285
+Total Results (Limited by GitHUB API): 286
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 20| 2019-12-23 | 2019-12-23 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 285
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
 | [AndreiD/arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge)| 0 | 0 | 17913| 2019-11-15 | 2019-12-21 |
 | [mad-day/ircfs](https://github.com/mad-day/ircfs)| 0 | 0 | 7| 2019-11-07 | 2019-11-11 |
-| [wanglg007/go-textile](https://github.com/wanglg007/go-textile)| 0 | 0 | 986| 2019-11-06 | 2019-11-06 |
 
 
 The above set is limited to the 10 most recently created. 
