@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2019: 60
-*  11/2019: 59
+*  12/2019: 55
+*  11/2019: 55
 *  10/2019: 62
-*  9/2019: 62
+*  9/2019: 54
 *  8/2019: 61
-*  7/2019: 65
-*  6/2019: 75
+*  7/2019: 63
+*  6/2019: 72
 *  5/2019: 73
-*  4/2019: 73
-*  3/2019: 70
-*  2/2019: 67
-*  1/2019: 75
+*  4/2019: 69
+*  3/2019: 73
+*  2/2019: 69
+*  1/2019: 68
 
 ### GitHub Search
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66000
+Total Matches: 65950
 
-Total Results (Limited by GitHUB API): 1212
+Total Results (Limited by GitHUB API): 1211
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 1212
 | [johngrantuk/numerai-helper](https://github.com/johngrantuk/numerai-helper)| 0 | 0 | 121| 2019-12-15 | 2019-12-16 |
 | [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 | [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
-| [BCDevs/DecentStore](https://github.com/BCDevs/DecentStore)| 0 | 0 | 406| 2019-12-12 | 2019-12-18 |
+| [Salmandabbakuti/DecentStore](https://github.com/Salmandabbakuti/DecentStore)| 1 | 0 | 16| 2019-12-12 | 2019-12-12 |
 
 
 The above set is limited to the 10 most recently created. 
