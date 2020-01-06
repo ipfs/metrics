@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 47
-*  12/2019: 57
-*  11/2019: 60
-*  10/2019: 63
-*  9/2019: 59
-*  8/2019: 60
-*  7/2019: 64
-*  6/2019: 76
-*  5/2019: 77
+*  1/2020: 58
+*  12/2019: 58
+*  11/2019: 59
+*  10/2019: 68
+*  9/2019: 62
+*  8/2019: 67
+*  7/2019: 69
+*  6/2019: 75
+*  5/2019: 79
 *  4/2019: 73
-*  3/2019: 70
-*  2/2019: 64
+*  3/2019: 77
+*  2/2019: 69
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 1212
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 116| 2020-01-03 | 2020-01-03 |
+| [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 117| 2020-01-03 | 2020-01-05 |
 | [josselinchevalay/ipfs-lowdb-adapter](https://github.com/josselinchevalay/ipfs-lowdb-adapter)| 0 | 0 | 286| 2019-12-27 | 2019-12-27 |
 | [AemieJ/FileManager-Dapp](https://github.com/AemieJ/FileManager-Dapp)| 0 | 0 | 228| 2019-12-20 | 2019-12-28 |
 | [SvenMeyer/IPFS_upload_React](https://github.com/SvenMeyer/IPFS_upload_React)| 0 | 0 | 618| 2019-12-18 | 2019-12-18 |
