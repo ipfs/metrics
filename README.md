@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 57
-*  12/2019: 57
-*  11/2019: 58
-*  10/2019: 63
-*  9/2019: 64
-*  8/2019: 67
-*  7/2019: 70
+*  1/2020: 55
+*  12/2019: 54
+*  11/2019: 55
+*  10/2019: 65
+*  9/2019: 58
+*  8/2019: 65
+*  7/2019: 67
 *  6/2019: 74
-*  5/2019: 78
-*  4/2019: 80
-*  3/2019: 81
-*  2/2019: 73
+*  5/2019: 76
+*  4/2019: 71
+*  3/2019: 73
+*  2/2019: 67
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66100
+Total Matches: 66150
 
-Total Results (Limited by GitHUB API): 1214
+Total Results (Limited by GitHUB API): 1215
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [SohaibIbneAli/IPFS-Blockchain](https://github.com/SohaibIbneAli/IPFS-Blockchain)| 0 | 0 | 972| 2020-01-09 | 2020-01-09 |
 | [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 117| 2020-01-03 | 2020-01-05 |
 | [josselinchevalay/ipfs-lowdb-adapter](https://github.com/josselinchevalay/ipfs-lowdb-adapter)| 0 | 0 | 286| 2019-12-27 | 2019-12-27 |
 | [AemieJ/FileManager-Dapp](https://github.com/AemieJ/FileManager-Dapp)| 0 | 0 | 228| 2019-12-20 | 2019-12-28 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1214
 | [inakineitor/ipfs-multiplexer](https://github.com/inakineitor/ipfs-multiplexer)| 0 | 0 | 224| 2019-12-16 | 2019-12-16 |
 | [johngrantuk/numerai-helper](https://github.com/johngrantuk/numerai-helper)| 0 | 0 | 121| 2019-12-15 | 2019-12-16 |
 | [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
-| [jjanczur/SolidityDrive](https://github.com/jjanczur/SolidityDrive)| 0 | 0 | 727| 2019-12-12 | 2019-12-13 |
 
 
 The above set is limited to the 10 most recently created. 
