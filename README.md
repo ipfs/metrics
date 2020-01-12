@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 51
-*  12/2019: 54
-*  11/2019: 57
-*  10/2019: 67
-*  9/2019: 57
-*  8/2019: 66
-*  7/2019: 65
-*  6/2019: 76
-*  5/2019: 76
-*  4/2019: 70
-*  3/2019: 74
+*  1/2020: 57
+*  12/2019: 57
+*  11/2019: 62
+*  10/2019: 66
+*  9/2019: 61
+*  8/2019: 64
+*  7/2019: 61
+*  6/2019: 73
+*  5/2019: 74
+*  4/2019: 74
+*  3/2019: 73
 *  2/2019: 69
 
 ### GitHub Search
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 289
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
-| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 3 | 3 | 199| 2019-11-22 | 2020-01-08 |
+| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 4 | 3 | 199| 2019-11-22 | 2020-01-08 |
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
 | [guillaumemichel/ipfs-local](https://github.com/guillaumemichel/ipfs-local)| 0 | 0 | 37519| 2019-11-15 | 2020-01-05 |
 
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66150
+Total Matches: 66071
 
 Total Results (Limited by GitHUB API): 1215
 
