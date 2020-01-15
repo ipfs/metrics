@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 57
-*  12/2019: 60
-*  11/2019: 60
-*  10/2019: 64
-*  9/2019: 61
-*  8/2019: 65
+*  1/2020: 53
+*  12/2019: 53
+*  11/2019: 59
+*  10/2019: 62
+*  9/2019: 60
+*  8/2019: 61
 *  7/2019: 66
-*  6/2019: 75
-*  5/2019: 76
-*  4/2019: 72
-*  3/2019: 71
-*  2/2019: 72
+*  6/2019: 73
+*  5/2019: 73
+*  4/2019: 70
+*  3/2019: 74
+*  2/2019: 67
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 289
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 8439| 2019-12-23 | 2020-01-03 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
-| [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2019-12-13 |
+| [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2020-01-14 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
 | [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 4 | 3 | 199| 2019-11-22 | 2020-01-08 |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66100
+Total Matches: 66150
 
-Total Results (Limited by GitHUB API): 1214
+Total Results (Limited by GitHUB API): 1215
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [aswathsrimari/IPFS-Blockchain](https://github.com/aswathsrimari/IPFS-Blockchain)| 0 | 0 | 554| 2020-01-14 | 2020-01-14 |
 | [SohaibIbneAli/IPFS-Blockchain](https://github.com/SohaibIbneAli/IPFS-Blockchain)| 0 | 0 | 972| 2020-01-09 | 2020-01-09 |
 | [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 117| 2020-01-03 | 2020-01-05 |
 | [josselinchevalay/ipfs-lowdb-adapter](https://github.com/josselinchevalay/ipfs-lowdb-adapter)| 0 | 0 | 286| 2019-12-27 | 2019-12-27 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1214
 | [sotolab/node_upload_ipfs](https://github.com/sotolab/node_upload_ipfs)| 0 | 0 | 474| 2019-12-16 | 2019-12-16 |
 | [inakineitor/ipfs-multiplexer](https://github.com/inakineitor/ipfs-multiplexer)| 0 | 0 | 224| 2019-12-16 | 2019-12-16 |
 | [johngrantuk/numerai-helper](https://github.com/johngrantuk/numerai-helper)| 0 | 0 | 121| 2019-12-15 | 2019-12-16 |
-| [bhuwanadhikari/ipfs-with-blockchain](https://github.com/bhuwanadhikari/ipfs-with-blockchain)| 0 | 0 | 315| 2019-12-15 | 2019-12-15 |
 
 
 The above set is limited to the 10 most recently created. 
