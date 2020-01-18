@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 54
-*  12/2019: 55
+*  1/2020: 56
+*  12/2019: 57
 *  11/2019: 59
-*  10/2019: 64
-*  9/2019: 59
-*  8/2019: 67
-*  7/2019: 66
+*  10/2019: 62
+*  9/2019: 60
+*  8/2019: 63
+*  7/2019: 63
 *  6/2019: 76
-*  5/2019: 77
-*  4/2019: 75
-*  3/2019: 74
-*  2/2019: 69
+*  5/2019: 75
+*  4/2019: 73
+*  3/2019: 71
+*  2/2019: 71
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66300
+Total Matches: 66400
 
-Total Results (Limited by GitHUB API): 1217
+Total Results (Limited by GitHUB API): 1219
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 96| 2020-01-16 | 2020-01-16 |
-| [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 2 | 0 | 278| 2020-01-16 | 2020-01-16 |
-| [quorumcontrol/ipfs-deploy-github-action](https://github.com/quorumcontrol/ipfs-deploy-github-action)| 0 | 0 | 14654| 2020-01-15 | 2020-01-16 |
+| [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
+| [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 489| 2020-01-17 | 2020-01-17 |
+| [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 98| 2020-01-16 | 2020-01-16 |
+| [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 3 | 0 | 278| 2020-01-16 | 2020-01-16 |
+| [quorumcontrol/ipfs-deploy-github-action](https://github.com/quorumcontrol/ipfs-deploy-github-action)| 0 | 0 | 14656| 2020-01-15 | 2020-01-17 |
 | [nirmit1509/Pdf-uploader-on-ipfs](https://github.com/nirmit1509/Pdf-uploader-on-ipfs)| 0 | 0 | 376| 2020-01-15 | 2020-01-15 |
 | [SohaibIbneAli/IPFS-Blockchain](https://github.com/SohaibIbneAli/IPFS-Blockchain)| 0 | 0 | 972| 2020-01-09 | 2020-01-09 |
 | [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 117| 2020-01-03 | 2020-01-05 |
 | [josselinchevalay/ipfs-lowdb-adapter](https://github.com/josselinchevalay/ipfs-lowdb-adapter)| 0 | 0 | 367| 2019-12-27 | 2020-01-16 |
 | [AemieJ/FileManager-Dapp](https://github.com/AemieJ/FileManager-Dapp)| 0 | 0 | 228| 2019-12-20 | 2019-12-28 |
-| [SvenMeyer/IPFS_upload_React](https://github.com/SvenMeyer/IPFS_upload_React)| 0 | 0 | 618| 2019-12-18 | 2019-12-18 |
-| [yehia67/IPFS-Tangle-Database-System](https://github.com/yehia67/IPFS-Tangle-Database-System)| 0 | 0 | 31| 2019-12-17 | 2019-12-17 |
 
 
 The above set is limited to the 10 most recently created. 
