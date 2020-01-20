@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 58
-*  12/2019: 56
-*  11/2019: 60
+*  1/2020: 57
+*  12/2019: 57
+*  11/2019: 59
 *  10/2019: 65
-*  9/2019: 56
-*  8/2019: 63
-*  7/2019: 68
-*  6/2019: 75
-*  5/2019: 77
-*  4/2019: 75
-*  3/2019: 76
-*  2/2019: 68
+*  9/2019: 62
+*  8/2019: 68
+*  7/2019: 67
+*  6/2019: 73
+*  5/2019: 74
+*  4/2019: 74
+*  3/2019: 71
+*  2/2019: 66
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1156
+Total Matches: 1160
 
-Total Results (Limited by GitHUB API): 289
+Total Results (Limited by GitHUB API): 290
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 0 | 0 | 36| 2020-01-19 | 2020-01-19 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 8439| 2019-12-23 | 2020-01-03 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 289
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
 | [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 4 | 3 | 199| 2019-11-22 | 2020-01-08 |
 | [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
-| [guillaumemichel/ipfs-local](https://github.com/guillaumemichel/ipfs-local)| 0 | 0 | 37519| 2019-11-15 | 2020-01-05 |
 
 
 The above set is limited to the 10 most recently created. 
