@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 57
+*  1/2020: 60
 *  12/2019: 57
-*  11/2019: 59
+*  11/2019: 58
 *  10/2019: 65
 *  9/2019: 62
-*  8/2019: 68
-*  7/2019: 67
-*  6/2019: 73
-*  5/2019: 74
-*  4/2019: 74
-*  3/2019: 71
-*  2/2019: 66
+*  8/2019: 65
+*  7/2019: 66
+*  6/2019: 76
+*  5/2019: 79
+*  4/2019: 73
+*  3/2019: 75
+*  2/2019: 68
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 290
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 0 | 0 | 36| 2020-01-19 | 2020-01-19 |
+| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 0 | 0 | 36| 2020-01-19 | 2020-01-20 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 8439| 2019-12-23 | 2020-01-03 |
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66400
+Total Matches: 66500
 
-Total Results (Limited by GitHUB API): 1219
+Total Results (Limited by GitHUB API): 1221
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 0| 2020-01-20 | 2020-01-20 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
-| [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 489| 2020-01-17 | 2020-01-17 |
+| [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 491| 2020-01-17 | 2020-01-20 |
 | [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 98| 2020-01-16 | 2020-01-16 |
 | [utkarshtrivedi56/Store-Chain](https://github.com/utkarshtrivedi56/Store-Chain)| 0 | 0 | 2580| 2020-01-16 | 2020-01-18 |
 | [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 3 | 0 | 278| 2020-01-16 | 2020-01-16 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1219
 | [nirmit1509/Pdf-uploader-on-ipfs](https://github.com/nirmit1509/Pdf-uploader-on-ipfs)| 0 | 0 | 376| 2020-01-15 | 2020-01-15 |
 | [SohaibIbneAli/IPFS-Blockchain](https://github.com/SohaibIbneAli/IPFS-Blockchain)| 0 | 0 | 972| 2020-01-09 | 2020-01-09 |
 | [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 117| 2020-01-03 | 2020-01-05 |
-| [josselinchevalay/ipfs-lowdb-adapter](https://github.com/josselinchevalay/ipfs-lowdb-adapter)| 0 | 0 | 367| 2019-12-27 | 2020-01-16 |
 
 
 The above set is limited to the 10 most recently created. 
