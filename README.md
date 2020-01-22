@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 60
-*  12/2019: 57
+*  1/2020: 55
+*  12/2019: 54
 *  11/2019: 58
 *  10/2019: 65
-*  9/2019: 62
-*  8/2019: 65
-*  7/2019: 66
-*  6/2019: 76
-*  5/2019: 79
-*  4/2019: 73
-*  3/2019: 75
+*  9/2019: 58
+*  8/2019: 72
+*  7/2019: 69
+*  6/2019: 73
+*  5/2019: 81
+*  4/2019: 74
+*  3/2019: 76
 *  2/2019: 68
 
 ### GitHub Search
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1160
+Total Matches: 1164
 
-Total Results (Limited by GitHUB API): 290
+Total Results (Limited by GitHUB API): 291
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 0 | 0 | 36| 2020-01-19 | 2020-01-20 |
+| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 0 | 0 | 45| 2020-01-19 | 2020-01-21 |
+| [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 0 | 0 | 21| 2020-01-14 | 2020-01-21 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 8439| 2019-12-23 | 2020-01-03 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 290
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
 | [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 4 | 3 | 199| 2019-11-22 | 2020-01-08 |
-| [MichaelMure/go-ipfs-pinner](https://github.com/MichaelMure/go-ipfs-pinner)| 1 | 1 | 453| 2019-11-20 | 2019-12-05 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 1221
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 0| 2020-01-20 | 2020-01-20 |
+| [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 137| 2020-01-20 | 2020-01-20 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
 | [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 491| 2020-01-17 | 2020-01-20 |
 | [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 98| 2020-01-16 | 2020-01-16 |
