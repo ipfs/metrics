@@ -20,16 +20,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 55
+*  1/2020: 56
 *  12/2019: 54
 *  11/2019: 58
-*  10/2019: 65
-*  9/2019: 58
-*  8/2019: 72
-*  7/2019: 69
-*  6/2019: 73
-*  5/2019: 81
-*  4/2019: 74
+*  10/2019: 68
+*  9/2019: 63
+*  8/2019: 68
+*  7/2019: 66
+*  6/2019: 74
+*  5/2019: 80
+*  4/2019: 76
 *  3/2019: 76
 *  2/2019: 68
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66500
+Total Matches: 66550
 
-Total Results (Limited by GitHUB API): 1221
+Total Results (Limited by GitHUB API): 1222
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 137| 2020-01-20 | 2020-01-20 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
-| [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 491| 2020-01-17 | 2020-01-20 |
+| [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 619| 2020-01-17 | 2020-01-22 |
 | [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 98| 2020-01-16 | 2020-01-16 |
 | [utkarshtrivedi56/Store-Chain](https://github.com/utkarshtrivedi56/Store-Chain)| 0 | 0 | 2580| 2020-01-16 | 2020-01-18 |
 | [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 3 | 0 | 278| 2020-01-16 | 2020-01-16 |
 | [quorumcontrol/ipfs-deploy-github-action](https://github.com/quorumcontrol/ipfs-deploy-github-action)| 0 | 0 | 14656| 2020-01-15 | 2020-01-17 |
 | [nirmit1509/Pdf-uploader-on-ipfs](https://github.com/nirmit1509/Pdf-uploader-on-ipfs)| 0 | 0 | 376| 2020-01-15 | 2020-01-15 |
+| [AlphaMycelium/orbit-potato](https://github.com/AlphaMycelium/orbit-potato)| 0 | 0 | 1013| 2020-01-12 | 2020-01-22 |
 | [SohaibIbneAli/IPFS-Blockchain](https://github.com/SohaibIbneAli/IPFS-Blockchain)| 0 | 0 | 972| 2020-01-09 | 2020-01-09 |
-| [Velenir/nextjs-ipfs-example](https://github.com/Velenir/nextjs-ipfs-example)| 0 | 0 | 117| 2020-01-03 | 2020-01-05 |
 
 
 The above set is limited to the 10 most recently created. 
