@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 57
-*  12/2019: 51
-*  11/2019: 55
-*  10/2019: 59
-*  9/2019: 54
-*  8/2019: 65
-*  7/2019: 63
+*  1/2020: 62
+*  12/2019: 55
+*  11/2019: 63
+*  10/2019: 64
+*  9/2019: 63
+*  8/2019: 68
+*  7/2019: 68
 *  6/2019: 74
-*  5/2019: 76
-*  4/2019: 71
-*  3/2019: 71
-*  2/2019: 67
+*  5/2019: 78
+*  4/2019: 74
+*  3/2019: 76
+*  2/2019: 68
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1164
+Total Matches: 1168
 
-Total Results (Limited by GitHUB API): 291
+Total Results (Limited by GitHUB API): 292
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 1 | 0 | 47| 2020-01-19 | 2020-01-23 |
 | [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 0 | 0 | 21| 2020-01-14 | 2020-01-21 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
+| [utropicmedia/storj-IPFS](https://github.com/utropicmedia/storj-IPFS)| 1 | 0 | 326| 2020-01-03 | 2020-01-25 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 8439| 2019-12-23 | 2020-01-03 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2020-01-14 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
 | [pontiyaraja/ipfs-practice](https://github.com/pontiyaraja/ipfs-practice)| 0 | 0 | 14778| 2019-12-03 | 2019-12-09 |
-| [textileio/go-foldersync](https://github.com/textileio/go-foldersync)| 4 | 3 | 199| 2019-11-22 | 2020-01-08 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66650
+Total Matches: 66700
 
-Total Results (Limited by GitHUB API): 1224
+Total Results (Limited by GitHUB API): 1225
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [cervoneluca/ipfs-frbr](https://github.com/cervoneluca/ipfs-frbr)| 0 | 0 | 566| 2020-01-23 | 2020-01-24 |
+| [christroutner/cashstrap](https://github.com/christroutner/cashstrap)| 0 | 0 | 591| 2020-01-24 | 2020-01-24 |
+| [cervoneluca/ipfs-frbr](https://github.com/cervoneluca/ipfs-frbr)| 0 | 0 | 1173| 2020-01-23 | 2020-01-24 |
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 137| 2020-01-20 | 2020-01-20 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
 | [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 619| 2020-01-17 | 2020-01-22 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1224
 | [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 3 | 1 | 278| 2020-01-16 | 2020-01-23 |
 | [quorumcontrol/ipfs-deploy-github-action](https://github.com/quorumcontrol/ipfs-deploy-github-action)| 0 | 0 | 14656| 2020-01-15 | 2020-01-17 |
 | [nirmit1509/Pdf-uploader-on-ipfs](https://github.com/nirmit1509/Pdf-uploader-on-ipfs)| 0 | 0 | 376| 2020-01-15 | 2020-01-15 |
-| [AlphaMycelium/orbit-potato](https://github.com/AlphaMycelium/orbit-potato)| 0 | 0 | 1013| 2020-01-12 | 2020-01-22 |
 
 
 The above set is limited to the 10 most recently created. 
