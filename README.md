@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 62
-*  12/2019: 55
-*  11/2019: 63
-*  10/2019: 64
-*  9/2019: 63
-*  8/2019: 68
-*  7/2019: 68
-*  6/2019: 74
-*  5/2019: 78
-*  4/2019: 74
-*  3/2019: 76
-*  2/2019: 68
+*  1/2020: 57
+*  12/2019: 53
+*  11/2019: 58
+*  10/2019: 63
+*  9/2019: 62
+*  8/2019: 64
+*  7/2019: 63
+*  6/2019: 73
+*  5/2019: 72
+*  4/2019: 71
+*  3/2019: 71
+*  2/2019: 65
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66700
+Total Matches: 66750
 
-Total Results (Limited by GitHUB API): 1225
+Total Results (Limited by GitHUB API): 1226
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [maikgr/ipfs-repo-previewer](https://github.com/maikgr/ipfs-repo-previewer)| 0 | 0 | 399| 2020-01-26 | 2020-01-26 |
 | [christroutner/cashstrap](https://github.com/christroutner/cashstrap)| 0 | 0 | 591| 2020-01-24 | 2020-01-24 |
 | [cervoneluca/ipfs-frbr](https://github.com/cervoneluca/ipfs-frbr)| 0 | 0 | 1173| 2020-01-23 | 2020-01-24 |
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 137| 2020-01-20 | 2020-01-20 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1225
 | [utkarshtrivedi56/Store-Chain](https://github.com/utkarshtrivedi56/Store-Chain)| 0 | 0 | 2580| 2020-01-16 | 2020-01-18 |
 | [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 3 | 1 | 278| 2020-01-16 | 2020-01-23 |
 | [quorumcontrol/ipfs-deploy-github-action](https://github.com/quorumcontrol/ipfs-deploy-github-action)| 0 | 0 | 14656| 2020-01-15 | 2020-01-17 |
-| [nirmit1509/Pdf-uploader-on-ipfs](https://github.com/nirmit1509/Pdf-uploader-on-ipfs)| 0 | 0 | 376| 2020-01-15 | 2020-01-15 |
 
 
 The above set is limited to the 10 most recently created. 
