@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 57
-*  12/2019: 53
-*  11/2019: 58
+*  1/2020: 58
+*  12/2019: 56
+*  11/2019: 56
 *  10/2019: 63
-*  9/2019: 62
-*  8/2019: 64
-*  7/2019: 63
-*  6/2019: 73
-*  5/2019: 72
+*  9/2019: 61
+*  8/2019: 65
+*  7/2019: 61
+*  6/2019: 75
+*  5/2019: 77
 *  4/2019: 71
-*  3/2019: 71
-*  2/2019: 65
+*  3/2019: 76
+*  2/2019: 67
 
 ### GitHub Search
 
@@ -50,7 +50,7 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1168
+Total Matches: 1172
 
 Total Results (Limited by GitHUB API): 292
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66750
+Total Matches: 66850
 
-Total Results (Limited by GitHUB API): 1226
+Total Results (Limited by GitHUB API): 1228
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [maikgr/ipfs-repo-previewer](https://github.com/maikgr/ipfs-repo-previewer)| 0 | 0 | 399| 2020-01-26 | 2020-01-26 |
+| [Ackleymilita/ipfs-with-Ethereum-blockcha...](https://github.com/Ackleymilita/ipfs-with-Ethereum-blockchain)| 0 | 0 | 372| 2020-01-27 | 2020-01-27 |
+| [Ackleymilita/ipfs](https://github.com/Ackleymilita/ipfs)| 0 | 0 | 10004| 2020-01-27 | 2020-01-27 |
+| [maikgr/ipfs-repo-previewer](https://github.com/maikgr/ipfs-repo-previewer)| 0 | 0 | 3284| 2020-01-26 | 2020-01-27 |
 | [christroutner/cashstrap](https://github.com/christroutner/cashstrap)| 0 | 0 | 591| 2020-01-24 | 2020-01-24 |
 | [cervoneluca/ipfs-frbr](https://github.com/cervoneluca/ipfs-frbr)| 0 | 0 | 1173| 2020-01-23 | 2020-01-24 |
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 137| 2020-01-20 | 2020-01-20 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1226
 | [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 619| 2020-01-17 | 2020-01-22 |
 | [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 98| 2020-01-16 | 2020-01-16 |
 | [utkarshtrivedi56/Store-Chain](https://github.com/utkarshtrivedi56/Store-Chain)| 0 | 0 | 2580| 2020-01-16 | 2020-01-18 |
-| [hugomrdias/ipfs-react-native](https://github.com/hugomrdias/ipfs-react-native)| 3 | 1 | 278| 2020-01-16 | 2020-01-23 |
-| [quorumcontrol/ipfs-deploy-github-action](https://github.com/quorumcontrol/ipfs-deploy-github-action)| 0 | 0 | 14656| 2020-01-15 | 2020-01-17 |
 
 
 The above set is limited to the 10 most recently created. 

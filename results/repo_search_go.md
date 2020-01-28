@@ -1,4 +1,4 @@
-Total Matches: 1168
+Total Matches: 1172
 
 Total Results (Limited by GitHUB API): 292
 
@@ -42,6 +42,7 @@ Total Results (Limited by GitHUB API): 292
 | [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 21 | 1 | 90| 2019-07-10 | 2019-12-02 |
 | [rahulakarapu/Basic-Blockchain](https://github.com/rahulakarapu/Basic-Blockchain)| 0 | 0 | 17639| 2019-07-03 | 2019-07-03 |
 | [RTradeLtd/coredag](https://github.com/RTradeLtd/coredag)| 1 | 0 | 144| 2019-07-01 | 2019-09-29 |
+| [ipfs-shipyard/gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs)| 6 | 3 | 2226| 2019-06-30 | 2020-01-27 |
 | [drbh/ipfs-cid-revival](https://github.com/drbh/ipfs-cid-revival)| 1 | 0 | 1| 2019-06-29 | 2019-06-29 |
 | [drbh/ipfs-different-hash-same-data](https://github.com/drbh/ipfs-different-hash-same-data)| 2 | 0 | 9686| 2019-06-29 | 2019-06-29 |
 | [nboeger/ipfs-zeroconf](https://github.com/nboeger/ipfs-zeroconf)| 1 | 1 | 7186| 2019-06-24 | 2019-06-26 |
@@ -189,7 +190,6 @@ Total Results (Limited by GitHUB API): 292
 | [ipfs/go-jaeger-plugin](https://github.com/ipfs/go-jaeger-plugin)| 5 | 2 | 242| 2018-01-04 | 2019-06-26 |
 | [getlantern/ipfswrapper](https://github.com/getlantern/ipfswrapper)| 1 | 0 | 11| 2017-12-15 | 2017-12-21 |
 | [ipfs/ipfs-metrics](https://github.com/ipfs/ipfs-metrics)| 3 | 4 | 20| 2017-11-17 | 2019-03-02 |
-| [cc14514/go-ipfs](https://github.com/cc14514/go-ipfs)| 4 | 0 | 27536| 2017-11-14 | 2017-11-15 |
 | [praveenmunagapati/trinity](https://github.com/praveenmunagapati/trinity)| 0 | 0 | 234| 2017-10-27 | 2017-06-12 |
 | [ipfs/go-ipfs-addr](https://github.com/ipfs/go-ipfs-addr)| 5 | 3 | 46| 2017-10-24 | 2019-07-23 |
 | [vritxii/govirus](https://github.com/vritxii/govirus)| 0 | 0 | 159| 2017-10-24 | 2017-10-24 |
@@ -242,7 +242,7 @@ Total Results (Limited by GitHUB API): 292
 | [kpmy/mipfs](https://github.com/kpmy/mipfs)| 11 | 4 | 59| 2016-09-01 | 2018-09-02 |
 | [libp2p/go-testutil](https://github.com/libp2p/go-testutil)| 6 | 2 | 69| 2016-08-26 | 2019-05-24 |
 | [jakobvarmose/intercrypt](https://github.com/jakobvarmose/intercrypt)| 5 | 2 | 3| 2016-08-19 | 2016-08-19 |
-| [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)| 648 | 115 | 10791| 2016-07-01 | 2020-01-06 |
+| [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)| 649 | 115 | 10791| 2016-07-01 | 2020-01-06 |
 | [ipfs/go-key](https://github.com/ipfs/go-key)| 2 | 3 | 13| 2016-06-13 | 2016-11-23 |
 | [dappstore/dapp](https://github.com/dappstore/dapp)| 0 | 0 | 59| 2016-04-24 | 2016-04-29 |
 | [Floripa-Gophers/ipfs-cluster](https://github.com/Floripa-Gophers/ipfs-cluster)| 9 | 0 | 0| 2016-04-16 | 2016-04-16 |
@@ -295,4 +295,4 @@ Total Results (Limited by GitHUB API): 292
 | [whyrusleeping/go-ipfs-keygen](https://github.com/whyrusleeping/go-ipfs-keygen)| 1 | 0 | 436| 2015-01-24 | 2014-11-18 |
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 9252 | 1670 | 38329| 2014-06-26 | 2020-01-24 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 9256 | 1669 | 38335| 2014-06-26 | 2020-01-27 |
