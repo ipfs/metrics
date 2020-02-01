@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 55
-*  12/2019: 56
-*  11/2019: 59
-*  10/2019: 60
-*  9/2019: 60
-*  8/2019: 64
-*  7/2019: 58
-*  6/2019: 74
+*  1/2020: 60
+*  12/2019: 53
+*  11/2019: 55
+*  10/2019: 58
+*  9/2019: 56
+*  8/2019: 61
+*  7/2019: 62
+*  6/2019: 72
 *  5/2019: 71
-*  4/2019: 71
-*  3/2019: 73
-*  2/2019: 63
+*  4/2019: 69
+*  3/2019: 67
+*  2/2019: 64
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1176
 
-Total Results (Limited by GitHUB API): 294
+Total Results (Limited by GitHUB API): 292
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 66728
+Total Matches: 67000
 
-Total Results (Limited by GitHUB API): 1229
+Total Results (Limited by GitHUB API): 1230
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [serveba/integriblob](https://github.com/serveba/integriblob)| 0 | 0 | 3| 2020-01-31 | 2020-01-31 |
 | [cladular/ipfs-add-folder](https://github.com/cladular/ipfs-add-folder)| 0 | 0 | 347| 2020-01-28 | 2020-01-29 |
 | [Ackleymilita/ipfs-with-Ethereum-blockcha...](https://github.com/Ackleymilita/ipfs-with-Ethereum-blockchain)| 0 | 0 | 373| 2020-01-27 | 2020-01-29 |
 | [Ackleymilita/ipfs](https://github.com/Ackleymilita/ipfs)| 0 | 0 | 10004| 2020-01-27 | 2020-01-27 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1229
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 409| 2020-01-20 | 2020-01-30 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
 | [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 619| 2020-01-17 | 2020-01-22 |
-| [kleros/json-to-ipfs](https://github.com/kleros/json-to-ipfs)| 0 | 0 | 98| 2020-01-16 | 2020-01-16 |
 
 
 The above set is limited to the 10 most recently created. 
