@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 60
-*  12/2019: 53
-*  11/2019: 55
-*  10/2019: 58
-*  9/2019: 56
-*  8/2019: 61
-*  7/2019: 62
-*  6/2019: 72
+*  1/2020: 58
+*  12/2019: 51
+*  11/2019: 56
+*  10/2019: 60
+*  9/2019: 60
+*  8/2019: 60
+*  7/2019: 64
+*  6/2019: 73
 *  5/2019: 71
-*  4/2019: 69
-*  3/2019: 67
-*  2/2019: 64
+*  4/2019: 70
+*  3/2019: 68
+*  2/2019: 65
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1176
 
-Total Results (Limited by GitHUB API): 292
+Total Results (Limited by GitHUB API): 294
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -79,13 +79,13 @@ Total Results (Limited by GitHUB API): 1230
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [serveba/integriblob](https://github.com/serveba/integriblob)| 0 | 0 | 3| 2020-01-31 | 2020-01-31 |
+| [VidhwanJava/Chain-Cuffs](https://github.com/VidhwanJava/Chain-Cuffs)| 0 | 0 | 424| 2020-02-01 | 2020-02-01 |
+| [serveba/integriblob](https://github.com/serveba/integriblob)| 0 | 0 | 7| 2020-01-31 | 2020-02-01 |
 | [cladular/ipfs-add-folder](https://github.com/cladular/ipfs-add-folder)| 0 | 0 | 347| 2020-01-28 | 2020-01-29 |
 | [Ackleymilita/ipfs-with-Ethereum-blockcha...](https://github.com/Ackleymilita/ipfs-with-Ethereum-blockchain)| 0 | 0 | 373| 2020-01-27 | 2020-01-29 |
 | [Ackleymilita/ipfs](https://github.com/Ackleymilita/ipfs)| 0 | 0 | 10004| 2020-01-27 | 2020-01-27 |
 | [maikgr/ipfs-repo-previewer](https://github.com/maikgr/ipfs-repo-previewer)| 0 | 0 | 3284| 2020-01-26 | 2020-01-27 |
 | [christroutner/cashstrap](https://github.com/christroutner/cashstrap)| 0 | 0 | 591| 2020-01-24 | 2020-01-24 |
-| [cervoneluca/ipfs-frbr](https://github.com/cervoneluca/ipfs-frbr)| 0 | 0 | 1173| 2020-01-23 | 2020-01-24 |
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 409| 2020-01-20 | 2020-01-30 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
 | [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 619| 2020-01-17 | 2020-01-22 |
