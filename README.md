@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 58
-*  12/2019: 51
+*  1/2020: 59
+*  12/2019: 55
 *  11/2019: 56
-*  10/2019: 60
+*  10/2019: 63
 *  9/2019: 60
-*  8/2019: 60
-*  7/2019: 64
-*  6/2019: 73
+*  8/2019: 65
+*  7/2019: 62
+*  6/2019: 75
 *  5/2019: 71
-*  4/2019: 70
-*  3/2019: 68
+*  4/2019: 71
+*  3/2019: 73
 *  2/2019: 65
 
 ### GitHub Search
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67000
+Total Matches: 67050
 
-Total Results (Limited by GitHUB API): 1230
+Total Results (Limited by GitHUB API): 1231
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [VidhwanJava/Chain-Cuffs](https://github.com/VidhwanJava/Chain-Cuffs)| 0 | 0 | 424| 2020-02-01 | 2020-02-01 |
+| [jmsofarelli/capsules-space](https://github.com/jmsofarelli/capsules-space)| 0 | 0 | 838| 2020-02-02 | 2020-02-02 |
+| [VidhwanJava/Chain-Cuffs](https://github.com/VidhwanJava/Chain-Cuffs)| 0 | 0 | 508| 2020-02-01 | 2020-02-02 |
 | [serveba/integriblob](https://github.com/serveba/integriblob)| 0 | 0 | 7| 2020-01-31 | 2020-02-01 |
 | [cladular/ipfs-add-folder](https://github.com/cladular/ipfs-add-folder)| 0 | 0 | 347| 2020-01-28 | 2020-01-29 |
 | [Ackleymilita/ipfs-with-Ethereum-blockcha...](https://github.com/Ackleymilita/ipfs-with-Ethereum-blockchain)| 0 | 0 | 373| 2020-01-27 | 2020-01-29 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1230
 | [christroutner/cashstrap](https://github.com/christroutner/cashstrap)| 0 | 0 | 591| 2020-01-24 | 2020-01-24 |
 | [jwicks31/VerifyHash](https://github.com/jwicks31/VerifyHash)| 0 | 0 | 409| 2020-01-20 | 2020-01-30 |
 | [BlastillROID/ipfs-nodejs](https://github.com/BlastillROID/ipfs-nodejs)| 0 | 0 | 35| 2020-01-17 | 2020-01-17 |
-| [vexanium/Gravatar](https://github.com/vexanium/Gravatar)| 0 | 0 | 619| 2020-01-17 | 2020-01-22 |
 
 
 The above set is limited to the 10 most recently created. 
