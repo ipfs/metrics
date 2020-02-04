@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2020: 59
+*  2/2020: 32
+*  1/2020: 60
 *  12/2019: 55
-*  11/2019: 56
-*  10/2019: 63
-*  9/2019: 60
-*  8/2019: 65
-*  7/2019: 62
-*  6/2019: 75
-*  5/2019: 71
-*  4/2019: 71
-*  3/2019: 73
-*  2/2019: 65
+*  11/2019: 59
+*  10/2019: 65
+*  9/2019: 61
+*  8/2019: 63
+*  7/2019: 67
+*  6/2019: 78
+*  5/2019: 75
+*  4/2019: 73
+*  3/2019: 76
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 294
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 19| 2020-01-28 | 2020-01-30 |
-| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 1 | 0 | 47| 2020-01-19 | 2020-01-23 |
+| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 2 | 0 | 47| 2020-01-19 | 2020-01-23 |
 | [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 0 | 0 | 21| 2020-01-14 | 2020-01-21 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
 | [utropicmedia/storj-IPFS](https://github.com/utropicmedia/storj-IPFS)| 1 | 0 | 326| 2020-01-03 | 2020-01-25 |
