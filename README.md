@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 41
-*  1/2020: 62
-*  12/2019: 56
-*  11/2019: 60
-*  10/2019: 67
+*  2/2020: 45
+*  1/2020: 64
+*  12/2019: 57
+*  11/2019: 65
+*  10/2019: 61
 *  9/2019: 60
-*  8/2019: 69
-*  7/2019: 67
-*  6/2019: 74
-*  5/2019: 75
-*  4/2019: 74
-*  3/2019: 76
+*  8/2019: 63
+*  7/2019: 64
+*  6/2019: 75
+*  5/2019: 77
+*  4/2019: 75
+*  3/2019: 75
 
 ### GitHub Search
 
@@ -50,12 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1176
+Total Matches: 1184
 
-Total Results (Limited by GitHUB API): 292
+Total Results (Limited by GitHUB API): 296
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 5| 2020-02-05 | 2020-02-05 |
+| [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 42| 2020-02-03 | 2020-02-05 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 19| 2020-01-28 | 2020-01-30 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 3 | 0 | 47| 2020-01-19 | 2020-01-23 |
 | [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 0 | 0 | 21| 2020-01-14 | 2020-01-21 |
@@ -64,8 +66,6 @@ Total Results (Limited by GitHUB API): 292
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 1 | 0 | 8439| 2019-12-23 | 2020-01-03 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
-| [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2020-01-14 |
-| [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67214
+Total Matches: 67500
 
-Total Results (Limited by GitHUB API): 1233
+Total Results (Limited by GitHUB API): 1236
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 0 | 0 | 0| 2020-02-05 | 2020-02-05 |
+| [mathaip/Ipfs-App](https://github.com/mathaip/Ipfs-App)| 0 | 0 | 195| 2020-02-05 | 2020-02-05 |
+| [deepcrazy/file_upload_ipfs-exercise3](https://github.com/deepcrazy/file_upload_ipfs-exercise3)| 0 | 0 | 174| 2020-02-05 | 2020-02-05 |
+| [ewerter/IPFSTest](https://github.com/ewerter/IPFSTest)| 0 | 0 | 167| 2020-02-05 | 2020-02-05 |
+| [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [algarecu/ipfs-merkle-proof](https://github.com/algarecu/ipfs-merkle-proof)| 0 | 0 | 152| 2020-02-04 | 2020-02-04 |
-| [vrde/ipfs-cdn](https://github.com/vrde/ipfs-cdn)| 1 | 0 | 1097| 2020-02-04 | 2020-02-04 |
-| [liuabin/simplest-ipfs-video](https://github.com/liuabin/simplest-ipfs-video)| 0 | 0 | 1| 2020-02-03 | 2020-02-04 |
+| [vrde/ipfs-cdn](https://github.com/vrde/ipfs-cdn)| 1 | 0 | 1107| 2020-02-04 | 2020-02-05 |
+| [liuabin/simplest-ipfs-video](https://github.com/liuabin/simplest-ipfs-video)| 0 | 0 | 2| 2020-02-03 | 2020-02-05 |
 | [jmsofarelli/capsules-space](https://github.com/jmsofarelli/capsules-space)| 0 | 0 | 838| 2020-02-02 | 2020-02-02 |
 | [VidhwanJava/Chain-Cuffs](https://github.com/VidhwanJava/Chain-Cuffs)| 0 | 0 | 508| 2020-02-01 | 2020-02-02 |
 | [serveba/integriblob](https://github.com/serveba/integriblob)| 0 | 0 | 7| 2020-01-31 | 2020-02-01 |
-| [cladular/ipfs-add-folder](https://github.com/cladular/ipfs-add-folder)| 0 | 0 | 347| 2020-01-28 | 2020-01-29 |
-| [Ackleymilita/ipfs-with-Ethereum-blockcha...](https://github.com/Ackleymilita/ipfs-with-Ethereum-blockchain)| 0 | 0 | 373| 2020-01-27 | 2020-01-29 |
-| [Ackleymilita/ipfs](https://github.com/Ackleymilita/ipfs)| 0 | 0 | 10004| 2020-01-27 | 2020-01-27 |
 
 
 The above set is limited to the 10 most recently created. 
