@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 45
-*  1/2020: 64
-*  12/2019: 57
-*  11/2019: 65
-*  10/2019: 61
-*  9/2019: 60
-*  8/2019: 63
-*  7/2019: 64
-*  6/2019: 75
-*  5/2019: 77
-*  4/2019: 75
-*  3/2019: 75
+*  2/2020: 56
+*  1/2020: 62
+*  12/2019: 59
+*  11/2019: 55
+*  10/2019: 66
+*  9/2019: 62
+*  8/2019: 61
+*  7/2019: 68
+*  6/2019: 74
+*  5/2019: 78
+*  4/2019: 74
+*  3/2019: 79
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 296
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 5| 2020-02-05 | 2020-02-05 |
+| [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 10| 2020-02-05 | 2020-02-06 |
 | [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 42| 2020-02-03 | 2020-02-05 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 19| 2020-01-28 | 2020-01-30 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 3 | 0 | 47| 2020-01-19 | 2020-01-23 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67500
+Total Matches: 67600
 
-Total Results (Limited by GitHUB API): 1236
+Total Results (Limited by GitHUB API): 1237
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 0| 2020-02-06 | 2020-02-06 |
+| [RhinocerosBomb/ipfstest](https://github.com/RhinocerosBomb/ipfstest)| 0 | 0 | 340| 2020-02-06 | 2020-02-06 |
 | [mathaip/Ipfs-App](https://github.com/mathaip/Ipfs-App)| 0 | 0 | 195| 2020-02-05 | 2020-02-05 |
 | [deepcrazy/file_upload_ipfs-exercise3](https://github.com/deepcrazy/file_upload_ipfs-exercise3)| 0 | 0 | 174| 2020-02-05 | 2020-02-05 |
 | [ewerter/IPFSTest](https://github.com/ewerter/IPFSTest)| 0 | 0 | 167| 2020-02-05 | 2020-02-05 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [algarecu/ipfs-merkle-proof](https://github.com/algarecu/ipfs-merkle-proof)| 0 | 0 | 152| 2020-02-04 | 2020-02-04 |
-| [vrde/ipfs-cdn](https://github.com/vrde/ipfs-cdn)| 1 | 0 | 1107| 2020-02-04 | 2020-02-05 |
+| [vrde/ipfs-cdn](https://github.com/vrde/ipfs-cdn)| 1 | 0 | 1108| 2020-02-04 | 2020-02-05 |
 | [liuabin/simplest-ipfs-video](https://github.com/liuabin/simplest-ipfs-video)| 0 | 0 | 2| 2020-02-03 | 2020-02-05 |
 | [jmsofarelli/capsules-space](https://github.com/jmsofarelli/capsules-space)| 0 | 0 | 838| 2020-02-02 | 2020-02-02 |
-| [VidhwanJava/Chain-Cuffs](https://github.com/VidhwanJava/Chain-Cuffs)| 0 | 0 | 508| 2020-02-01 | 2020-02-02 |
-| [serveba/integriblob](https://github.com/serveba/integriblob)| 0 | 0 | 7| 2020-01-31 | 2020-02-01 |
 
 
 The above set is limited to the 10 most recently created. 
