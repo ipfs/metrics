@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 56
-*  1/2020: 62
-*  12/2019: 59
-*  11/2019: 55
-*  10/2019: 66
-*  9/2019: 62
-*  8/2019: 61
-*  7/2019: 68
-*  6/2019: 74
-*  5/2019: 78
-*  4/2019: 74
-*  3/2019: 79
+*  2/2020: 58
+*  1/2020: 55
+*  12/2019: 50
+*  11/2019: 58
+*  10/2019: 59
+*  9/2019: 54
+*  8/2019: 67
+*  7/2019: 66
+*  6/2019: 65
+*  5/2019: 72
+*  4/2019: 68
+*  3/2019: 70
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 296
 | [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 42| 2020-02-03 | 2020-02-05 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 19| 2020-01-28 | 2020-01-30 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 3 | 0 | 47| 2020-01-19 | 2020-01-23 |
-| [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 0 | 0 | 21| 2020-01-14 | 2020-01-21 |
+| [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 1 | 0 | 21| 2020-01-14 | 2020-01-21 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
 | [utropicmedia/storj-IPFS](https://github.com/utropicmedia/storj-IPFS)| 1 | 0 | 326| 2020-01-03 | 2020-01-25 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67600
+Total Matches: 67628
 
-Total Results (Limited by GitHUB API): 1237
+Total Results (Limited by GitHUB API): 1236
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 0| 2020-02-06 | 2020-02-06 |
+| [graylan0/onelovedtube-front](https://github.com/graylan0/onelovedtube-front)| 0 | 0 | 3588| 2020-02-07 | 2020-02-07 |
+| [techcoderx/ipsync-client](https://github.com/techcoderx/ipsync-client)| 0 | 0 | 3| 2020-02-07 | 2020-02-07 |
+| [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 2| 2020-02-06 | 2020-02-07 |
 | [RhinocerosBomb/ipfstest](https://github.com/RhinocerosBomb/ipfstest)| 0 | 0 | 340| 2020-02-06 | 2020-02-06 |
 | [mathaip/Ipfs-App](https://github.com/mathaip/Ipfs-App)| 0 | 0 | 195| 2020-02-05 | 2020-02-05 |
 | [deepcrazy/file_upload_ipfs-exercise3](https://github.com/deepcrazy/file_upload_ipfs-exercise3)| 0 | 0 | 174| 2020-02-05 | 2020-02-05 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1237
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 | [algarecu/ipfs-merkle-proof](https://github.com/algarecu/ipfs-merkle-proof)| 0 | 0 | 152| 2020-02-04 | 2020-02-04 |
 | [vrde/ipfs-cdn](https://github.com/vrde/ipfs-cdn)| 1 | 0 | 1108| 2020-02-04 | 2020-02-05 |
-| [liuabin/simplest-ipfs-video](https://github.com/liuabin/simplest-ipfs-video)| 0 | 0 | 2| 2020-02-03 | 2020-02-05 |
-| [jmsofarelli/capsules-space](https://github.com/jmsofarelli/capsules-space)| 0 | 0 | 838| 2020-02-02 | 2020-02-02 |
 
 
 The above set is limited to the 10 most recently created. 
