@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 67
-*  1/2020: 59
-*  12/2019: 56
-*  11/2019: 63
-*  10/2019: 60
-*  9/2019: 63
-*  8/2019: 61
-*  7/2019: 70
-*  6/2019: 77
-*  5/2019: 72
+*  2/2020: 64
+*  1/2020: 60
+*  12/2019: 60
+*  11/2019: 60
+*  10/2019: 63
+*  9/2019: 60
+*  8/2019: 69
+*  7/2019: 72
+*  6/2019: 79
+*  5/2019: 83
 *  4/2019: 74
-*  3/2019: 77
+*  3/2019: 73
 
 ### GitHub Search
 
@@ -56,9 +56,9 @@ Total Results (Limited by GitHUB API): 296
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 10| 2020-02-05 | 2020-02-06 |
+| [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 16| 2020-02-05 | 2020-02-10 |
 | [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 42| 2020-02-03 | 2020-02-05 |
-| [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 19| 2020-01-28 | 2020-01-30 |
+| [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 21| 2020-01-28 | 2020-02-10 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 3 | 0 | 47| 2020-01-19 | 2020-01-23 |
 | [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 1 | 0 | 21| 2020-01-14 | 2020-01-21 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67700
+Total Matches: 67538
 
-Total Results (Limited by GitHUB API): 1239
+Total Results (Limited by GitHUB API): 1226
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
 | [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 484| 2020-02-09 | 2020-02-09 |
 | [graylan0/onelovedtube-front](https://github.com/graylan0/onelovedtube-front)| 1 | 0 | 3588| 2020-02-07 | 2020-02-07 |
-| [techcoderx/ipsync-client](https://github.com/techcoderx/ipsync-client)| 1 | 0 | 3| 2020-02-07 | 2020-02-07 |
+| [techcoderx/ipsync-client](https://github.com/techcoderx/ipsync-client)| 1 | 0 | 14| 2020-02-07 | 2020-02-10 |
 | [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 2| 2020-02-06 | 2020-02-07 |
 | [RhinocerosBomb/ipfstest](https://github.com/RhinocerosBomb/ipfstest)| 0 | 0 | 340| 2020-02-06 | 2020-02-06 |
 | [mathaip/Ipfs-App](https://github.com/mathaip/Ipfs-App)| 0 | 0 | 195| 2020-02-05 | 2020-02-05 |
 | [deepcrazy/file_upload_ipfs-exercise3](https://github.com/deepcrazy/file_upload_ipfs-exercise3)| 0 | 0 | 175| 2020-02-05 | 2020-02-08 |
 | [ewerter/IPFSTest](https://github.com/ewerter/IPFSTest)| 0 | 0 | 167| 2020-02-05 | 2020-02-05 |
 | [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
-| [algarecu/ipfs-merkle-proof](https://github.com/algarecu/ipfs-merkle-proof)| 0 | 0 | 152| 2020-02-04 | 2020-02-04 |
 
 
 The above set is limited to the 10 most recently created. 
