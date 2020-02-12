@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 64
-*  1/2020: 60
-*  12/2019: 60
-*  11/2019: 60
+*  2/2020: 48
+*  1/2020: 55
+*  12/2019: 54
+*  11/2019: 59
 *  10/2019: 63
-*  9/2019: 60
-*  8/2019: 69
-*  7/2019: 72
-*  6/2019: 79
-*  5/2019: 83
-*  4/2019: 74
-*  3/2019: 73
+*  9/2019: 57
+*  8/2019: 68
+*  7/2019: 58
+*  6/2019: 71
+*  5/2019: 71
+*  4/2019: 69
+*  3/2019: 74
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67538
+Total Matches: 67750
 
-Total Results (Limited by GitHUB API): 1226
+Total Results (Limited by GitHUB API): 1240
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 254| 2020-02-11 | 2020-02-11 |
 | [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
 | [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 484| 2020-02-09 | 2020-02-09 |
-| [graylan0/onelovedtube-front](https://github.com/graylan0/onelovedtube-front)| 1 | 0 | 3588| 2020-02-07 | 2020-02-07 |
-| [techcoderx/ipsync-client](https://github.com/techcoderx/ipsync-client)| 1 | 0 | 14| 2020-02-07 | 2020-02-10 |
-| [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 2| 2020-02-06 | 2020-02-07 |
+| [graylan0/onelovedtube-front](https://github.com/graylan0/onelovedtube-front)| 1 | 0 | 3588| 2020-02-07 | 2020-02-11 |
+| [techcoderx/ipsync-client](https://github.com/techcoderx/ipsync-client)| 2 | 0 | 14| 2020-02-07 | 2020-02-10 |
+| [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 5| 2020-02-06 | 2020-02-11 |
 | [RhinocerosBomb/ipfstest](https://github.com/RhinocerosBomb/ipfstest)| 0 | 0 | 340| 2020-02-06 | 2020-02-06 |
 | [mathaip/Ipfs-App](https://github.com/mathaip/Ipfs-App)| 0 | 0 | 195| 2020-02-05 | 2020-02-05 |
 | [deepcrazy/file_upload_ipfs-exercise3](https://github.com/deepcrazy/file_upload_ipfs-exercise3)| 0 | 0 | 175| 2020-02-05 | 2020-02-08 |
 | [ewerter/IPFSTest](https://github.com/ewerter/IPFSTest)| 0 | 0 | 167| 2020-02-05 | 2020-02-05 |
-| [mikeal/export-ipld-graph](https://github.com/mikeal/export-ipld-graph)| 1 | 0 | 1| 2020-02-05 | 2020-02-05 |
 
 
 The above set is limited to the 10 most recently created. 
