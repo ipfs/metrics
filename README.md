@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 48
-*  1/2020: 55
-*  12/2019: 54
-*  11/2019: 59
-*  10/2019: 63
-*  9/2019: 57
-*  8/2019: 68
-*  7/2019: 58
-*  6/2019: 71
-*  5/2019: 71
-*  4/2019: 69
-*  3/2019: 74
+*  2/2020: 51
+*  1/2020: 62
+*  12/2019: 55
+*  11/2019: 62
+*  10/2019: 66
+*  9/2019: 64
+*  8/2019: 64
+*  7/2019: 70
+*  6/2019: 74
+*  5/2019: 74
+*  4/2019: 73
+*  3/2019: 76
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67750
+Total Matches: 67800
 
-Total Results (Limited by GitHUB API): 1240
+Total Results (Limited by GitHUB API): 1241
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 254| 2020-02-11 | 2020-02-11 |
+| [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
+| [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 254| 2020-02-11 | 2020-02-12 |
 | [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
 | [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 484| 2020-02-09 | 2020-02-09 |
 | [graylan0/onelovedtube-front](https://github.com/graylan0/onelovedtube-front)| 1 | 0 | 3588| 2020-02-07 | 2020-02-11 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1240
 | [RhinocerosBomb/ipfstest](https://github.com/RhinocerosBomb/ipfstest)| 0 | 0 | 340| 2020-02-06 | 2020-02-06 |
 | [mathaip/Ipfs-App](https://github.com/mathaip/Ipfs-App)| 0 | 0 | 195| 2020-02-05 | 2020-02-05 |
 | [deepcrazy/file_upload_ipfs-exercise3](https://github.com/deepcrazy/file_upload_ipfs-exercise3)| 0 | 0 | 175| 2020-02-05 | 2020-02-08 |
-| [ewerter/IPFSTest](https://github.com/ewerter/IPFSTest)| 0 | 0 | 167| 2020-02-05 | 2020-02-05 |
 
 
 The above set is limited to the 10 most recently created. 
