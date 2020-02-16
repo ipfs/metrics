@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 62
-*  1/2020: 63
+*  2/2020: 54
+*  1/2020: 59
 *  12/2019: 56
-*  11/2019: 58
-*  10/2019: 72
-*  9/2019: 60
-*  8/2019: 69
-*  7/2019: 70
-*  6/2019: 73
-*  5/2019: 80
-*  4/2019: 71
-*  3/2019: 79
+*  11/2019: 57
+*  10/2019: 63
+*  9/2019: 62
+*  8/2019: 63
+*  7/2019: 66
+*  6/2019: 76
+*  5/2019: 77
+*  4/2019: 75
+*  3/2019: 73
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 67883
+Total Matches: 67794
 
-Total Results (Limited by GitHUB API): 1243
+Total Results (Limited by GitHUB API): 1244
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 0 | 0 | 591| 2020-02-14 | 2020-02-15 |
 | [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
 | [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 255| 2020-02-11 | 2020-02-12 |
 | [spherinder/censorship-resistant-jokes](https://github.com/spherinder/censorship-resistant-jokes)| 0 | 0 | 6| 2020-02-10 | 2020-02-13 |
 | [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
 | [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 484| 2020-02-09 | 2020-02-09 |
-| [unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)| 3 | 0 | 201| 2020-02-08 | 2020-02-14 |
+| [unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)| 3 | 1 | 201| 2020-02-08 | 2020-02-15 |
 | [graylan0/onelovedtube-front](https://github.com/graylan0/onelovedtube-front)| 1 | 0 | 3588| 2020-02-07 | 2020-02-11 |
 | [techcoderx/ipsync-client](https://github.com/techcoderx/ipsync-client)| 2 | 0 | 14| 2020-02-07 | 2020-02-10 |
 | [mikeal/ipfs-for-car](https://github.com/mikeal/ipfs-for-car)| 0 | 0 | 5| 2020-02-06 | 2020-02-11 |
-| [RhinocerosBomb/ipfstest](https://github.com/RhinocerosBomb/ipfstest)| 0 | 0 | 340| 2020-02-06 | 2020-02-06 |
 
 
 The above set is limited to the 10 most recently created. 
