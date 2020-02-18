@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 62
-*  1/2020: 62
-*  12/2019: 55
-*  11/2019: 56
-*  10/2019: 66
-*  9/2019: 61
-*  8/2019: 65
-*  7/2019: 67
-*  6/2019: 71
-*  5/2019: 75
-*  4/2019: 74
+*  2/2020: 60
+*  1/2020: 60
+*  12/2019: 60
+*  11/2019: 59
+*  10/2019: 65
+*  9/2019: 58
+*  8/2019: 67
+*  7/2019: 66
+*  6/2019: 73
+*  5/2019: 78
+*  4/2019: 73
 *  3/2019: 74
 
 ### GitHub Search
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 297
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 21| 2020-01-28 | 2020-02-10 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 3 | 0 | 47| 2020-01-19 | 2020-01-23 |
 | [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 1 | 0 | 21| 2020-01-14 | 2020-01-21 |
-| [schollz/ipfs-connect](https://github.com/schollz/ipfs-connect)| 5 | 1 | 15| 2020-01-08 | 2020-02-13 |
+| [schollz/ipfs-connect](https://github.com/schollz/ipfs-connect)| 6 | 1 | 15| 2020-01-08 | 2020-02-13 |
 | [cusspvz/react-native-ipfs](https://github.com/cusspvz/react-native-ipfs)| 0 | 0 | 159| 2020-01-06 | 2020-01-10 |
 | [utropicmedia/storj-IPFS](https://github.com/utropicmedia/storj-IPFS)| 1 | 0 | 326| 2020-01-03 | 2020-01-25 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
@@ -79,15 +79,15 @@ Total Results (Limited by GitHUB API): 1247
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 0| 2020-02-16 | 2020-02-17 |
+| [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
 | [ethdev279/hlf-ipod](https://github.com/ethdev279/hlf-ipod)| 0 | 0 | 5| 2020-02-16 | 2020-02-16 |
-| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 0 | 0 | 1331| 2020-02-14 | 2020-02-16 |
+| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 1341| 2020-02-14 | 2020-02-17 |
 | [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
 | [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 255| 2020-02-11 | 2020-02-12 |
 | [spherinder/censorship-resistant-jokes](https://github.com/spherinder/censorship-resistant-jokes)| 0 | 0 | 6| 2020-02-10 | 2020-02-13 |
 | [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
-| [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 485| 2020-02-09 | 2020-02-16 |
+| [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 493| 2020-02-09 | 2020-02-17 |
 | [unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)| 4 | 1 | 203| 2020-02-08 | 2020-02-16 |
 
 
