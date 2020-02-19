@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 60
-*  1/2020: 60
-*  12/2019: 60
-*  11/2019: 59
-*  10/2019: 65
-*  9/2019: 58
-*  8/2019: 67
-*  7/2019: 66
-*  6/2019: 73
-*  5/2019: 78
-*  4/2019: 73
-*  3/2019: 74
+*  2/2020: 55
+*  1/2020: 63
+*  12/2019: 59
+*  11/2019: 60
+*  10/2019: 64
+*  9/2019: 61
+*  8/2019: 68
+*  7/2019: 65
+*  6/2019: 77
+*  5/2019: 71
+*  4/2019: 77
+*  3/2019: 76
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68100
+Total Matches: 68200
 
-Total Results (Limited by GitHUB API): 1247
+Total Results (Limited by GitHUB API): 1248
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
 | [ethdev279/hlf-ipod](https://github.com/ethdev279/hlf-ipod)| 0 | 0 | 5| 2020-02-16 | 2020-02-16 |
-| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 1341| 2020-02-14 | 2020-02-17 |
+| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 13066| 2020-02-14 | 2020-02-18 |
 | [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
 | [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 255| 2020-02-11 | 2020-02-12 |
 | [spherinder/censorship-resistant-jokes](https://github.com/spherinder/censorship-resistant-jokes)| 0 | 0 | 6| 2020-02-10 | 2020-02-13 |
 | [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
 | [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 493| 2020-02-09 | 2020-02-17 |
-| [unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)| 4 | 1 | 203| 2020-02-08 | 2020-02-16 |
+| [unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)| 4 | 1 | 226| 2020-02-08 | 2020-02-18 |
 
 
 The above set is limited to the 10 most recently created. 
