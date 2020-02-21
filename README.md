@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 60
-*  1/2020: 63
-*  12/2019: 60
+*  2/2020: 59
+*  1/2020: 60
+*  12/2019: 55
 *  11/2019: 61
-*  10/2019: 69
-*  9/2019: 63
-*  8/2019: 68
-*  7/2019: 69
-*  6/2019: 78
-*  5/2019: 77
-*  4/2019: 75
-*  3/2019: 83
+*  10/2019: 63
+*  9/2019: 61
+*  8/2019: 62
+*  7/2019: 67
+*  6/2019: 77
+*  5/2019: 73
+*  4/2019: 71
+*  3/2019: 71
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68200
+Total Matches: 68300
 
-Total Results (Limited by GitHUB API): 1248
+Total Results (Limited by GitHUB API): 1250
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 0 | 0 | 7926| 2020-02-20 | 2020-02-20 |
+| [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 731| 2020-02-19 | 2020-02-20 |
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
 | [ethdev279/hlf-ipod](https://github.com/ethdev279/hlf-ipod)| 0 | 0 | 5| 2020-02-16 | 2020-02-16 |
-| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 13070| 2020-02-14 | 2020-02-19 |
+| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 13093| 2020-02-14 | 2020-02-20 |
 | [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
 | [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 255| 2020-02-11 | 2020-02-12 |
 | [spherinder/censorship-resistant-jokes](https://github.com/spherinder/censorship-resistant-jokes)| 0 | 0 | 6| 2020-02-10 | 2020-02-13 |
 | [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
-| [RaedsLab/ether-auction](https://github.com/RaedsLab/ether-auction)| 0 | 0 | 499| 2020-02-09 | 2020-02-19 |
-| [unlock-protocol/locked.fyi](https://github.com/unlock-protocol/locked.fyi)| 4 | 1 | 226| 2020-02-08 | 2020-02-18 |
 
 
 The above set is limited to the 10 most recently created. 
