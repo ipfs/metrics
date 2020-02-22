@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 59
-*  1/2020: 60
-*  12/2019: 55
-*  11/2019: 61
-*  10/2019: 63
-*  9/2019: 61
-*  8/2019: 62
-*  7/2019: 67
-*  6/2019: 77
+*  2/2020: 62
+*  1/2020: 57
+*  12/2019: 53
+*  11/2019: 58
+*  10/2019: 64
+*  9/2019: 58
+*  8/2019: 65
+*  7/2019: 64
+*  6/2019: 76
 *  5/2019: 73
-*  4/2019: 71
-*  3/2019: 71
+*  4/2019: 74
+*  3/2019: 78
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 297
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 49| 2020-02-05 | 2020-02-16 |
-| [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 42| 2020-02-03 | 2020-02-05 |
+| [likecoin/likecoin-iscn-ipld](https://github.com/likecoin/likecoin-iscn-ipld)| 0 | 0 | 43| 2020-02-03 | 2020-02-21 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 21| 2020-01-28 | 2020-02-10 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 3 | 0 | 47| 2020-01-19 | 2020-01-23 |
 | [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 1 | 0 | 21| 2020-01-14 | 2020-01-21 |
@@ -79,8 +79,9 @@ Total Results (Limited by GitHUB API): 1250
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 0 | 0 | 7926| 2020-02-20 | 2020-02-20 |
-| [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 731| 2020-02-19 | 2020-02-20 |
+| [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 0| 2020-02-21 | 2020-02-21 |
+| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 0 | 0 | 7929| 2020-02-20 | 2020-02-21 |
+| [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 736| 2020-02-19 | 2020-02-21 |
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
 | [ethdev279/hlf-ipod](https://github.com/ethdev279/hlf-ipod)| 0 | 0 | 5| 2020-02-16 | 2020-02-16 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1250
 | [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
 | [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 255| 2020-02-11 | 2020-02-12 |
 | [spherinder/censorship-resistant-jokes](https://github.com/spherinder/censorship-resistant-jokes)| 0 | 0 | 6| 2020-02-10 | 2020-02-13 |
-| [vivekchauhan12000/ipfssharing](https://github.com/vivekchauhan12000/ipfssharing)| 0 | 0 | 16| 2020-02-10 | 2020-02-10 |
 
 
 The above set is limited to the 10 most recently created. 
