@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 62
-*  1/2020: 57
-*  12/2019: 53
-*  11/2019: 58
-*  10/2019: 64
-*  9/2019: 58
+*  2/2020: 63
+*  1/2020: 59
+*  12/2019: 57
+*  11/2019: 56
+*  10/2019: 63
+*  9/2019: 63
 *  8/2019: 65
-*  7/2019: 64
-*  6/2019: 76
-*  5/2019: 73
-*  4/2019: 74
-*  3/2019: 78
+*  7/2019: 62
+*  6/2019: 74
+*  5/2019: 77
+*  4/2019: 73
+*  3/2019: 74
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68300
+Total Matches: 68389
 
-Total Results (Limited by GitHUB API): 1250
+Total Results (Limited by GitHUB API): 1252
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 0| 2020-02-21 | 2020-02-21 |
-| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 0 | 0 | 7929| 2020-02-20 | 2020-02-21 |
-| [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 736| 2020-02-19 | 2020-02-21 |
+| [alqamahjsr/EthBazaar](https://github.com/alqamahjsr/EthBazaar)| 0 | 0 | 604| 2020-02-22 | 2020-02-22 |
+| [thisisraghavkumar/DataShare](https://github.com/thisisraghavkumar/DataShare)| 0 | 0 | 558| 2020-02-22 | 2020-02-22 |
+| [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 266| 2020-02-21 | 2020-02-21 |
+| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 0 | 0 | 7929| 2020-02-20 | 2020-02-22 |
+| [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 903| 2020-02-19 | 2020-02-22 |
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
 | [ethdev279/hlf-ipod](https://github.com/ethdev279/hlf-ipod)| 0 | 0 | 5| 2020-02-16 | 2020-02-16 |
 | [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 13093| 2020-02-14 | 2020-02-20 |
 | [MicheleMongardi/Test-IPFS-JS](https://github.com/MicheleMongardi/Test-IPFS-JS)| 0 | 1 | 112| 2020-02-11 | 2020-02-12 |
-| [syscoin/ipfs-controller](https://github.com/syscoin/ipfs-controller)| 0 | 0 | 255| 2020-02-11 | 2020-02-12 |
-| [spherinder/censorship-resistant-jokes](https://github.com/spherinder/censorship-resistant-jokes)| 0 | 0 | 6| 2020-02-10 | 2020-02-13 |
 
 
 The above set is limited to the 10 most recently created. 
