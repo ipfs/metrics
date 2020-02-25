@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 63
-*  1/2020: 59
+*  2/2020: 58
+*  1/2020: 60
 *  12/2019: 55
-*  11/2019: 59
-*  10/2019: 63
-*  9/2019: 59
-*  8/2019: 66
-*  7/2019: 68
-*  6/2019: 75
-*  5/2019: 77
-*  4/2019: 69
+*  11/2019: 61
+*  10/2019: 65
+*  9/2019: 58
+*  8/2019: 63
+*  7/2019: 67
+*  6/2019: 76
+*  5/2019: 79
+*  4/2019: 73
 *  3/2019: 75
 
 ### GitHub Search
@@ -75,14 +75,14 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 68400
 
-Total Results (Limited by GitHUB API): 1251
+Total Results (Limited by GitHUB API): 1252
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [alqamahjsr/EthBazaar](https://github.com/alqamahjsr/EthBazaar)| 0 | 0 | 604| 2020-02-22 | 2020-02-22 |
 | [thisisraghavkumar/DataShare](https://github.com/thisisraghavkumar/DataShare)| 0 | 0 | 558| 2020-02-22 | 2020-02-22 |
 | [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 266| 2020-02-21 | 2020-02-21 |
-| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 1 | 0 | 7929| 2020-02-20 | 2020-02-22 |
+| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 1 | 0 | 7929| 2020-02-20 | 2020-02-24 |
 | [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 903| 2020-02-19 | 2020-02-22 |
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
