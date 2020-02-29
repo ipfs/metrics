@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 62
-*  1/2020: 63
+*  2/2020: 61
+*  1/2020: 59
 *  12/2019: 57
-*  11/2019: 61
-*  10/2019: 68
-*  9/2019: 59
-*  8/2019: 68
-*  7/2019: 67
-*  6/2019: 79
-*  5/2019: 76
-*  4/2019: 73
-*  3/2019: 76
+*  11/2019: 60
+*  10/2019: 62
+*  9/2019: 62
+*  8/2019: 63
+*  7/2019: 69
+*  6/2019: 73
+*  5/2019: 77
+*  4/2019: 71
+*  3/2019: 72
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68400
+Total Matches: 68450
 
-Total Results (Limited by GitHUB API): 1250
+Total Results (Limited by GitHUB API): 1253
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [josselinchevalay/todo-ipfs](https://github.com/josselinchevalay/todo-ipfs)| 0 | 0 | 286| 2020-02-28 | 2020-02-28 |
 | [KurtMerbeth/ethily](https://github.com/KurtMerbeth/ethily)| 0 | 1 | 195| 2020-02-26 | 2020-02-26 |
 | [alqamahjsr/EthBazaar](https://github.com/alqamahjsr/EthBazaar)| 0 | 0 | 604| 2020-02-22 | 2020-02-22 |
 | [thisisraghavkumar/DataShare](https://github.com/thisisraghavkumar/DataShare)| 0 | 0 | 558| 2020-02-22 | 2020-02-22 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1250
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
 | [ethdev279/hlf-ipod](https://github.com/ethdev279/hlf-ipod)| 0 | 0 | 5| 2020-02-16 | 2020-02-16 |
-| [pirateksh/OmniEther](https://github.com/pirateksh/OmniEther)| 2 | 1 | 13093| 2020-02-14 | 2020-02-20 |
 
 
 The above set is limited to the 10 most recently created. 
