@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2020: 61
-*  1/2020: 59
+*  2/2020: 57
+*  1/2020: 60
 *  12/2019: 57
-*  11/2019: 60
-*  10/2019: 62
-*  9/2019: 62
-*  8/2019: 63
-*  7/2019: 69
+*  11/2019: 56
+*  10/2019: 66
+*  9/2019: 60
+*  8/2019: 67
+*  7/2019: 67
 *  6/2019: 73
-*  5/2019: 77
-*  4/2019: 71
-*  3/2019: 72
+*  5/2019: 76
+*  4/2019: 72
+*  3/2019: 77
 
 ### GitHub Search
 
@@ -84,7 +84,7 @@ Total Results (Limited by GitHUB API): 1253
 | [alqamahjsr/EthBazaar](https://github.com/alqamahjsr/EthBazaar)| 0 | 0 | 604| 2020-02-22 | 2020-02-22 |
 | [thisisraghavkumar/DataShare](https://github.com/thisisraghavkumar/DataShare)| 0 | 0 | 558| 2020-02-22 | 2020-02-22 |
 | [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 266| 2020-02-21 | 2020-02-21 |
-| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 7 | 0 | 26654| 2020-02-20 | 2020-02-27 |
+| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 8 | 0 | 25549| 2020-02-20 | 2020-02-29 |
 | [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 2 | 0 | 903| 2020-02-19 | 2020-02-22 |
 | [caseykey/ipfs-music-player](https://github.com/caseykey/ipfs-music-player)| 0 | 0 | 4976| 2020-02-16 | 2020-02-17 |
 | [SaikrishnaReddy1919/TodoList](https://github.com/SaikrishnaReddy1919/TodoList)| 0 | 0 | 172| 2020-02-16 | 2020-02-16 |
