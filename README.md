@@ -22,16 +22,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 Google Trends:
 *  3/2020: 58
 *  2/2020: 58
-*  1/2020: 58
+*  1/2020: 61
 *  12/2019: 55
-*  11/2019: 57
-*  10/2019: 65
-*  9/2019: 60
-*  8/2019: 64
-*  7/2019: 66
-*  6/2019: 78
-*  5/2019: 77
-*  4/2019: 69
+*  11/2019: 55
+*  10/2019: 63
+*  9/2019: 64
+*  8/2019: 65
+*  7/2019: 64
+*  6/2019: 74
+*  5/2019: 78
+*  4/2019: 73
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1505
+Total Matches: 1515
 
-Total Results (Limited by GitHUB API): 301
+Total Results (Limited by GitHUB API): 303
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 0 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 46| 2020-03-03 | 2020-03-07 |
+| [jolatechno/ipfs-compute](https://github.com/jolatechno/ipfs-compute)| 0 | 0 | 45| 2020-03-04 | 2020-03-08 |
+| [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 89| 2020-03-03 | 2020-03-08 |
+| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 69| 2020-03-03 | 2020-03-08 |
 | [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100438| 2020-03-03 | 2020-03-04 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 21888| 2020-02-05 | 2020-02-27 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 21| 2020-01-28 | 2020-02-10 |
 | [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 4 | 0 | 47| 2020-01-19 | 2020-01-23 |
-| [ipfs-search/ipfs-search-2](https://github.com/ipfs-search/ipfs-search-2)| 1 | 0 | 21| 2020-01-14 | 2020-01-21 |
-| [schollz/ipfs-connect](https://github.com/schollz/ipfs-connect)| 6 | 1 | 15| 2020-01-08 | 2020-02-13 |
 
 
 The above set is limited to the 10 most recently created. 
