@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 58
-*  2/2020: 58
-*  1/2020: 61
-*  12/2019: 55
-*  11/2019: 55
-*  10/2019: 63
-*  9/2019: 64
-*  8/2019: 65
-*  7/2019: 64
-*  6/2019: 74
-*  5/2019: 78
-*  4/2019: 73
+*  3/2020: 54
+*  2/2020: 59
+*  1/2020: 62
+*  12/2019: 52
+*  11/2019: 59
+*  10/2019: 61
+*  9/2019: 59
+*  8/2019: 66
+*  7/2019: 63
+*  6/2019: 72
+*  5/2019: 76
+*  4/2019: 72
 
 ### GitHub Search
 
@@ -57,10 +57,10 @@ Total Results (Limited by GitHUB API): 303
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 0 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/ipfs-compute](https://github.com/jolatechno/ipfs-compute)| 0 | 0 | 45| 2020-03-04 | 2020-03-08 |
-| [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 89| 2020-03-03 | 2020-03-08 |
-| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 69| 2020-03-03 | 2020-03-08 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100438| 2020-03-03 | 2020-03-04 |
+| [jolatechno/ipfs-compute](https://github.com/jolatechno/ipfs-compute)| 0 | 0 | 46| 2020-03-04 | 2020-03-09 |
+| [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 93| 2020-03-03 | 2020-03-09 |
+| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 82| 2020-03-03 | 2020-03-09 |
+| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100440| 2020-03-03 | 2020-03-09 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 21888| 2020-02-05 | 2020-02-27 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 68600
 
-Total Results (Limited by GitHUB API): 1252
+Total Results (Limited by GitHUB API): 1256
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
