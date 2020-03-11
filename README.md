@@ -21,16 +21,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  3/2020: 54
-*  2/2020: 59
-*  1/2020: 62
+*  2/2020: 63
+*  1/2020: 61
 *  12/2019: 52
 *  11/2019: 59
-*  10/2019: 61
-*  9/2019: 59
-*  8/2019: 66
-*  7/2019: 63
+*  10/2019: 63
+*  9/2019: 60
+*  8/2019: 69
+*  7/2019: 67
 *  6/2019: 72
-*  5/2019: 76
+*  5/2019: 75
 *  4/2019: 72
 
 ### GitHub Search
@@ -57,10 +57,10 @@ Total Results (Limited by GitHUB API): 303
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 0 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/ipfs-compute](https://github.com/jolatechno/ipfs-compute)| 0 | 0 | 46| 2020-03-04 | 2020-03-09 |
-| [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 93| 2020-03-03 | 2020-03-09 |
-| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 82| 2020-03-03 | 2020-03-09 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100440| 2020-03-03 | 2020-03-09 |
+| [jolatechno/ipfs-compute](https://github.com/jolatechno/ipfs-compute)| 0 | 0 | 46| 2020-03-04 | 2020-03-10 |
+| [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 101| 2020-03-03 | 2020-03-10 |
+| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 115| 2020-03-03 | 2020-03-10 |
+| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100445| 2020-03-03 | 2020-03-10 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 21888| 2020-02-05 | 2020-02-27 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
@@ -87,7 +87,7 @@ Total Results (Limited by GitHUB API): 1256
 | [KurtMerbeth/ethily](https://github.com/KurtMerbeth/ethily)| 0 | 1 | 195| 2020-02-26 | 2020-02-26 |
 | [alqamahjsr/EthBazaar](https://github.com/alqamahjsr/EthBazaar)| 0 | 0 | 604| 2020-02-22 | 2020-02-22 |
 | [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 266| 2020-02-21 | 2020-02-21 |
-| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 8 | 1 | 25714| 2020-02-20 | 2020-03-07 |
+| [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 8 | 1 | 25728| 2020-02-20 | 2020-03-10 |
 | [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 3 | 0 | 903| 2020-02-19 | 2020-02-22 |
 
 
