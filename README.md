@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 54
-*  2/2020: 63
-*  1/2020: 61
-*  12/2019: 52
+*  3/2020: 55
+*  2/2020: 59
+*  1/2020: 62
+*  12/2019: 60
 *  11/2019: 59
 *  10/2019: 63
-*  9/2019: 60
-*  8/2019: 69
-*  7/2019: 67
-*  6/2019: 72
-*  5/2019: 75
-*  4/2019: 72
+*  9/2019: 64
+*  8/2019: 61
+*  7/2019: 64
+*  6/2019: 74
+*  5/2019: 68
+*  4/2019: 76
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1515
+Total Matches: 1520
 
-Total Results (Limited by GitHUB API): 303
+Total Results (Limited by GitHUB API): 304
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 0 | 0 | 33| 2020-03-05 | 2020-03-05 |
 | [jolatechno/ipfs-compute](https://github.com/jolatechno/ipfs-compute)| 0 | 0 | 46| 2020-03-04 | 2020-03-10 |
 | [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 101| 2020-03-03 | 2020-03-10 |
-| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 115| 2020-03-03 | 2020-03-10 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100445| 2020-03-03 | 2020-03-10 |
+| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 124| 2020-03-03 | 2020-03-11 |
+| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100450| 2020-03-03 | 2020-03-11 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 21888| 2020-02-05 | 2020-02-27 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 21| 2020-01-28 | 2020-02-10 |
-| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 4 | 0 | 47| 2020-01-19 | 2020-01-23 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68600
+Total Matches: 68650
 
-Total Results (Limited by GitHUB API): 1256
+Total Results (Limited by GitHUB API): 1257
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
