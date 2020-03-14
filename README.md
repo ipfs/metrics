@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 52
-*  2/2020: 63
-*  1/2020: 59
-*  12/2019: 59
-*  11/2019: 61
-*  10/2019: 63
-*  9/2019: 65
-*  8/2019: 66
-*  7/2019: 65
-*  6/2019: 76
-*  5/2019: 72
-*  4/2019: 70
+*  3/2020: 54
+*  2/2020: 58
+*  1/2020: 58
+*  12/2019: 57
+*  11/2019: 60
+*  10/2019: 66
+*  9/2019: 61
+*  8/2019: 65
+*  7/2019: 69
+*  6/2019: 75
+*  5/2019: 76
+*  4/2019: 72
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1515
+Total Matches: 1520
 
-Total Results (Limited by GitHUB API): 303
+Total Results (Limited by GitHUB API): 304
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
-| [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 0 | 0 | 33| 2020-03-05 | 2020-03-05 |
+| [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 2 | 0 | 33| 2020-03-05 | 2020-03-05 |
 | [jolatechno/ipfs-compute-plugin](https://github.com/jolatechno/ipfs-compute-plugin)| 0 | 0 | 133| 2020-03-03 | 2020-03-12 |
 | [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 0 | 0 | 124| 2020-03-03 | 2020-03-11 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100450| 2020-03-03 | 2020-03-11 |
+| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 0 | 0 | 100457| 2020-03-03 | 2020-03-13 |
+| [guillaumemichel/crux-ipfs](https://github.com/guillaumemichel/crux-ipfs)| 0 | 0 | 166090| 2020-02-17 | 2020-02-17 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 21888| 2020-02-05 | 2020-02-27 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
 | [sug0/go-ipfs-boards](https://github.com/sug0/go-ipfs-boards)| 0 | 0 | 21| 2020-01-28 | 2020-02-10 |
-| [simpleaswater/twitter-pinbot](https://github.com/simpleaswater/twitter-pinbot)| 4 | 0 | 47| 2020-01-19 | 2020-01-23 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68650
+Total Matches: 68641
 
-Total Results (Limited by GitHUB API): 1257
+Total Results (Limited by GitHUB API): 1250
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [SignpostMarv/ocremix-ipfs-data](https://github.com/SignpostMarv/ocremix-ipfs-data)| 0 | 0 | 5143| 2020-03-13 | 2020-03-13 |
 | [PinataCloud/ipfs-node-connection-handler](https://github.com/PinataCloud/ipfs-node-connection-handler)| 1 | 0 | 17| 2020-03-03 | 2020-03-05 |
 | [RangerMauve/webrun-plugin-ipfs](https://github.com/RangerMauve/webrun-plugin-ipfs)| 0 | 0 | 80| 2020-03-02 | 2020-03-02 |
 | [adrianleb/nextjs-daijs-example](https://github.com/adrianleb/nextjs-daijs-example)| 1 | 0 | 147| 2020-03-01 | 2020-03-05 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1257
 | [alqamahjsr/EthBazaar](https://github.com/alqamahjsr/EthBazaar)| 0 | 0 | 604| 2020-02-22 | 2020-02-22 |
 | [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 266| 2020-02-21 | 2020-02-21 |
 | [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action)| 8 | 1 | 25728| 2020-02-20 | 2020-03-10 |
-| [textileio/gatsby-ipfs-blog](https://github.com/textileio/gatsby-ipfs-blog)| 3 | 0 | 903| 2020-02-19 | 2020-02-22 |
 
 
 The above set is limited to the 10 most recently created. 
