@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 53
-*  2/2020: 56
-*  1/2020: 58
-*  12/2019: 53
-*  11/2019: 55
-*  10/2019: 59
-*  9/2019: 55
-*  8/2019: 62
-*  7/2019: 62
-*  6/2019: 71
-*  5/2019: 69
-*  4/2019: 70
+*  3/2020: 59
+*  2/2020: 60
+*  1/2020: 61
+*  12/2019: 59
+*  11/2019: 61
+*  10/2019: 68
+*  9/2019: 63
+*  8/2019: 65
+*  7/2019: 69
+*  6/2019: 74
+*  5/2019: 73
+*  4/2019: 72
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1520
+Total Matches: 1525
 
-Total Results (Limited by GitHUB API): 304
+Total Results (Limited by GitHUB API): 305
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 0 | 0 | 63| 2020-03-19 | 2020-03-19 |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 2 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/ipfs-mpi](https://github.com/jolatechno/ipfs-mpi)| 0 | 0 | 60| 2020-03-04 | 2020-03-18 |
-| [jolatechno/ipfs-mpi-plugin](https://github.com/jolatechno/ipfs-mpi-plugin)| 0 | 0 | 139| 2020-03-03 | 2020-03-18 |
+| [jolatechno/ipfs-mpi](https://github.com/jolatechno/ipfs-mpi)| 0 | 0 | 62| 2020-03-04 | 2020-03-19 |
+| [jolatechno/ipfs-mpi-plugin](https://github.com/jolatechno/ipfs-mpi-plugin)| 0 | 0 | 128| 2020-03-03 | 2020-03-19 |
 | [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 1 | 0 | 166| 2020-03-03 | 2020-03-15 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 1 | 0 | 101288| 2020-03-03 | 2020-03-18 |
+| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 1 | 0 | 101674| 2020-03-03 | 2020-03-19 |
 | [guillaumemichel/crux-ipfs](https://github.com/guillaumemichel/crux-ipfs)| 0 | 0 | 166090| 2020-02-17 | 2020-02-17 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 26828| 2020-02-05 | 2020-03-16 |
-| [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 0 | 0 | 46| 2020-02-03 | 2020-03-02 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68750
+Total Matches: 68850
 
-Total Results (Limited by GitHUB API): 1259
+Total Results (Limited by GitHUB API): 1257
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [denismp/mi4-exercise8](https://github.com/denismp/mi4-exercise8)| 0 | 0 | 476| 2020-03-18 | 2020-03-19 |
 | [myanzik/image_upload](https://github.com/myanzik/image_upload)| 0 | 0 | 393| 2020-03-17 | 2020-03-17 |
 | [zhengxiaochen/ipfs_iota_data_management](https://github.com/zhengxiaochen/ipfs_iota_data_management)| 0 | 0 | 102| 2020-03-14 | 2020-03-14 |
 | [Etienereum/EthIPFS](https://github.com/Etienereum/EthIPFS)| 0 | 0 | 264| 2020-03-14 | 2020-03-14 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1259
 | [adrianleb/nextjs-daijs-example](https://github.com/adrianleb/nextjs-daijs-example)| 1 | 0 | 147| 2020-03-01 | 2020-03-05 |
 | [ismailcanvardar/ipfs-smart-contract](https://github.com/ismailcanvardar/ipfs-smart-contract)| 0 | 0 | 510| 2020-02-29 | 2020-03-02 |
 | [josselinchevalay/todo-ipfs](https://github.com/josselinchevalay/todo-ipfs)| 0 | 0 | 286| 2020-02-28 | 2020-02-28 |
-| [KurtMerbeth/ethily](https://github.com/KurtMerbeth/ethily)| 0 | 1 | 195| 2020-02-26 | 2020-02-26 |
 
 
 The above set is limited to the 10 most recently created. 
