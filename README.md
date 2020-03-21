@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 59
-*  2/2020: 60
-*  1/2020: 61
-*  12/2019: 59
-*  11/2019: 61
-*  10/2019: 68
-*  9/2019: 63
-*  8/2019: 65
-*  7/2019: 69
-*  6/2019: 74
-*  5/2019: 73
-*  4/2019: 72
+*  3/2020: 55
+*  2/2020: 56
+*  1/2020: 60
+*  12/2019: 56
+*  11/2019: 58
+*  10/2019: 63
+*  9/2019: 64
+*  8/2019: 64
+*  7/2019: 67
+*  6/2019: 71
+*  5/2019: 75
+*  4/2019: 73
 
 ### GitHub Search
 
@@ -59,10 +59,10 @@ Total Results (Limited by GitHUB API): 305
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 0 | 0 | 63| 2020-03-19 | 2020-03-19 |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 2 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/ipfs-mpi](https://github.com/jolatechno/ipfs-mpi)| 0 | 0 | 62| 2020-03-04 | 2020-03-19 |
-| [jolatechno/ipfs-mpi-plugin](https://github.com/jolatechno/ipfs-mpi-plugin)| 0 | 0 | 128| 2020-03-03 | 2020-03-19 |
+| [jolatechno/ipfs-mpi](https://github.com/jolatechno/ipfs-mpi)| 0 | 0 | 62| 2020-03-04 | 2020-03-20 |
+| [jolatechno/ipfs-mpi-plugin](https://github.com/jolatechno/ipfs-mpi-plugin)| 0 | 0 | 130| 2020-03-03 | 2020-03-20 |
 | [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 1 | 0 | 166| 2020-03-03 | 2020-03-15 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 1 | 0 | 101674| 2020-03-03 | 2020-03-19 |
+| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 1 | 0 | 103385| 2020-03-03 | 2020-03-20 |
 | [guillaumemichel/crux-ipfs](https://github.com/guillaumemichel/crux-ipfs)| 0 | 0 | 166090| 2020-02-17 | 2020-02-17 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 | [zot/ipfs-p2p-websocket](https://github.com/zot/ipfs-p2p-websocket)| 0 | 0 | 26828| 2020-02-05 | 2020-03-16 |
@@ -73,13 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 68850
+Total Matches: 68800
 
-Total Results (Limited by GitHUB API): 1257
+Total Results (Limited by GitHUB API): 1258
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [denismp/mi4-exercise8](https://github.com/denismp/mi4-exercise8)| 0 | 0 | 476| 2020-03-18 | 2020-03-19 |
+| [denismp/mi4-exercise8](https://github.com/denismp/mi4-exercise8)| 0 | 0 | 861| 2020-03-18 | 2020-03-20 |
 | [myanzik/image_upload](https://github.com/myanzik/image_upload)| 0 | 0 | 393| 2020-03-17 | 2020-03-17 |
 | [zhengxiaochen/ipfs_iota_data_management](https://github.com/zhengxiaochen/ipfs_iota_data_management)| 0 | 0 | 102| 2020-03-14 | 2020-03-14 |
 | [Etienereum/EthIPFS](https://github.com/Etienereum/EthIPFS)| 0 | 0 | 264| 2020-03-14 | 2020-03-14 |
