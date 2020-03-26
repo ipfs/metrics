@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 56
-*  2/2020: 61
-*  1/2020: 58
-*  12/2019: 57
+*  3/2020: 52
+*  2/2020: 56
+*  1/2020: 55
+*  12/2019: 52
 *  11/2019: 57
-*  10/2019: 64
-*  9/2019: 62
-*  8/2019: 68
-*  7/2019: 67
+*  10/2019: 63
+*  9/2019: 59
+*  8/2019: 64
+*  7/2019: 62
 *  6/2019: 76
-*  5/2019: 78
-*  4/2019: 74
+*  5/2019: 70
+*  4/2019: 68
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1530
+Total Matches: 1525
 
-Total Results (Limited by GitHUB API): 306
+Total Results (Limited by GitHUB API): 305
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -61,11 +61,11 @@ Total Results (Limited by GitHUB API): 306
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 2 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/ipfs-mpi](https://github.com/jolatechno/ipfs-mpi)| 0 | 0 | 7096| 2020-03-04 | 2020-03-24 |
+| [jolatechno/ipfs-mpi](https://github.com/jolatechno/ipfs-mpi)| 0 | 0 | 7054| 2020-03-04 | 2020-03-25 |
 | [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 1 | 0 | 173| 2020-03-03 | 2020-03-22 |
-| [sencvkk/go-ipfs](https://github.com/sencvkk/go-ipfs)| 1 | 0 | 104466| 2020-03-03 | 2020-03-24 |
 | [guillaumemichel/crux-ipfs](https://github.com/guillaumemichel/crux-ipfs)| 0 | 0 | 166090| 2020-02-17 | 2020-02-17 |
-| [scriptkitty/ipfs-crawler](https://github.com/scriptkitty/ipfs-crawler)| 8 | 0 | 89| 2020-02-17 | 2020-03-24 |
+| [scriptkitty/ipfs-crawler](https://github.com/scriptkitty/ipfs-crawler)| 8 | 0 | 92| 2020-02-17 | 2020-03-25 |
+| [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 0 | 21039| 2020-02-10 | 2020-02-21 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69050
+Total Matches: 69100
 
-Total Results (Limited by GitHUB API): 1260
+Total Results (Limited by GitHUB API): 1263
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [sanketpathak64/file-upload-using-IPFS](https://github.com/sanketpathak64/file-upload-using-IPFS)| 0 | 0 | 286| 2020-03-24 | 2020-03-24 |
+| [denismp/mi4-exercise8-2](https://github.com/denismp/mi4-exercise8-2)| 0 | 0 | 1279| 2020-03-24 | 2020-03-25 |
 | [ariels1996/KOK-dApp-demo](https://github.com/ariels1996/KOK-dApp-demo)| 0 | 0 | 214| 2020-03-24 | 2020-03-24 |
 | [gomezgoiri/tictactoe-game](https://github.com/gomezgoiri/tictactoe-game)| 0 | 0 | 275| 2020-03-22 | 2020-03-23 |
 | [denismp/mi4-exercise8](https://github.com/denismp/mi4-exercise8)| 0 | 0 | 1832| 2020-03-18 | 2020-03-24 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1260
 | [Etienereum/EthIPFS](https://github.com/Etienereum/EthIPFS)| 0 | 0 | 264| 2020-03-14 | 2020-03-14 |
 | [SignpostMarv/ocremix-ipfs-data](https://github.com/SignpostMarv/ocremix-ipfs-data)| 0 | 0 | 5442| 2020-03-13 | 2020-03-18 |
 | [PinataCloud/ipfs-node-connection-handler](https://github.com/PinataCloud/ipfs-node-connection-handler)| 1 | 0 | 17| 2020-03-03 | 2020-03-05 |
-| [RangerMauve/webrun-plugin-ipfs](https://github.com/RangerMauve/webrun-plugin-ipfs)| 0 | 0 | 80| 2020-03-02 | 2020-03-02 |
 
 
 The above set is limited to the 10 most recently created. 
