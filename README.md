@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2020: 48
-*  2/2020: 52
-*  1/2020: 54
-*  12/2019: 48
-*  11/2019: 49
-*  10/2019: 60
-*  9/2019: 56
-*  8/2019: 60
+*  4/2020: 87
+*  3/2020: 57
+*  2/2020: 60
+*  1/2020: 60
+*  12/2019: 55
+*  11/2019: 59
+*  10/2019: 62
+*  9/2019: 55
+*  8/2019: 64
 *  7/2019: 63
-*  6/2019: 61
-*  5/2019: 65
-*  4/2019: 61
+*  6/2019: 70
+*  5/2019: 68
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1535
+Total Matches: 1540
 
-Total Results (Limited by GitHUB API): 307
+Total Results (Limited by GitHUB API): 308
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [dbarasti/ipfs-monitoring](https://github.com/dbarasti/ipfs-monitoring)| 0 | 0 | 20| 2020-04-03 | 2020-04-03 |
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 8| 2020-03-31 | 2020-04-01 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
 | [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 98| 2020-03-26 | 2020-04-02 |
@@ -64,8 +65,7 @@ Total Results (Limited by GitHUB API): 307
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 1 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/libp2p-mpi](https://github.com/jolatechno/libp2p-mpi)| 0 | 0 | 7695| 2020-03-04 | 2020-04-02 |
-| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 1 | 0 | 173| 2020-03-03 | 2020-03-22 |
+| [jolatechno/libp2p-mpi](https://github.com/jolatechno/libp2p-mpi)| 0 | 0 | 7708| 2020-03-04 | 2020-04-03 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,12 +75,12 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 69400
 
-Total Results (Limited by GitHUB API): 1266
+Total Results (Limited by GitHUB API): 1265
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [luisvid/IPFS-SmartContract](https://github.com/luisvid/IPFS-SmartContract)| 0 | 0 | 0| 2020-04-02 | 2020-04-02 |
-| [zemse/decentralised-registration-ipfs](https://github.com/zemse/decentralised-registration-ipfs)| 0 | 0 | 3500| 2020-03-30 | 2020-03-30 |
+| [luisvid/IPFS-SmartContract](https://github.com/luisvid/IPFS-SmartContract)| 0 | 0 | 346| 2020-04-02 | 2020-04-02 |
+| [zemse/decentralised-registration-ipfs](https://github.com/zemse/decentralised-registration-ipfs)| 0 | 0 | 3502| 2020-03-30 | 2020-04-03 |
 | [tabcat/ipfs-serve](https://github.com/tabcat/ipfs-serve)| 0 | 0 | 9| 2020-03-26 | 2020-03-27 |
 | [sanketpathak64/file-upload-using-IPFS](https://github.com/sanketpathak64/file-upload-using-IPFS)| 0 | 0 | 288| 2020-03-24 | 2020-03-26 |
 | [denismp/mi4-exercise8-2](https://github.com/denismp/mi4-exercise8-2)| 0 | 0 | 2580| 2020-03-24 | 2020-03-26 |
