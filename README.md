@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 87
-*  3/2020: 57
+*  4/2020: 75
+*  3/2020: 50
 *  2/2020: 60
-*  1/2020: 60
-*  12/2019: 55
-*  11/2019: 59
-*  10/2019: 62
-*  9/2019: 55
-*  8/2019: 64
-*  7/2019: 63
-*  6/2019: 70
-*  5/2019: 68
+*  1/2020: 57
+*  12/2019: 56
+*  11/2019: 58
+*  10/2019: 57
+*  9/2019: 57
+*  8/2019: 51
+*  7/2019: 61
+*  6/2019: 80
+*  5/2019: 73
 
 ### GitHub Search
 
@@ -50,13 +50,12 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1540
+Total Matches: 1535
 
-Total Results (Limited by GitHUB API): 308
+Total Results (Limited by GitHUB API): 307
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [dbarasti/ipfs-monitoring](https://github.com/dbarasti/ipfs-monitoring)| 0 | 0 | 20| 2020-04-03 | 2020-04-03 |
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 8| 2020-03-31 | 2020-04-01 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
 | [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 98| 2020-03-26 | 2020-04-02 |
@@ -65,7 +64,8 @@ Total Results (Limited by GitHUB API): 308
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 0 | 0 | 23| 2020-03-11 | 2020-03-11 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 1 | 0 | 33| 2020-03-05 | 2020-03-05 |
-| [jolatechno/libp2p-mpi](https://github.com/jolatechno/libp2p-mpi)| 0 | 0 | 7708| 2020-03-04 | 2020-04-03 |
+| [jolatechno/libp2p-mpi](https://github.com/jolatechno/libp2p-mpi)| 0 | 0 | 7095| 2020-03-04 | 2020-04-04 |
+| [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 1 | 0 | 173| 2020-03-03 | 2020-03-22 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69400
+Total Matches: 69350
 
-Total Results (Limited by GitHUB API): 1265
+Total Results (Limited by GitHUB API): 1264
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
