@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 59
-*  3/2020: 56
-*  2/2020: 58
-*  1/2020: 58
-*  12/2019: 57
-*  11/2019: 56
-*  10/2019: 65
-*  9/2019: 57
-*  8/2019: 63
-*  7/2019: 72
-*  6/2019: 80
-*  5/2019: 77
+*  4/2020: 63
+*  3/2020: 57
+*  2/2020: 56
+*  1/2020: 56
+*  12/2019: 54
+*  11/2019: 59
+*  10/2019: 59
+*  9/2019: 54
+*  8/2019: 66
+*  7/2019: 69
+*  6/2019: 72
+*  5/2019: 68
 
 ### GitHub Search
 
@@ -50,21 +50,21 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1545
+Total Matches: 1550
 
-Total Results (Limited by GitHUB API): 309
+Total Results (Limited by GitHUB API): 310
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [itzg/go-ipfs-client](https://github.com/itzg/go-ipfs-client)| 0 | 0 | 30| 2020-04-05 | 2020-04-05 |
-| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 0 | 0 | 50| 2020-04-03 | 2020-04-06 |
-| [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 13| 2020-03-31 | 2020-04-06 |
+| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10161| 2020-04-03 | 2020-04-07 |
+| [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 17| 2020-03-31 | 2020-04-07 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
 | [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 98| 2020-03-26 | 2020-04-02 |
 | [RTradeLtd/ipcoronafs](https://github.com/RTradeLtd/ipcoronafs)| 2 | 1 | 28327| 2020-03-23 | 2020-03-23 |
 | [jolatechno/mpi-peerstore](https://github.com/jolatechno/mpi-peerstore)| 0 | 0 | 61| 2020-03-21 | 2020-03-30 |
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
-| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 38| 2020-03-11 | 2020-04-06 |
+| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 38| 2020-03-11 | 2020-04-07 |
 | [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 1 | 0 | 33| 2020-03-05 | 2020-03-05 |
 
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 13876
+Total Matches: 69450
 
-Total Results (Limited by GitHUB API): 999
+Total Results (Limited by GitHUB API): 1266
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [BhaskarDutta2209/Meme_Of_The_Day](https://github.com/BhaskarDutta2209/Meme_Of_The_Day)| 0 | 0 | 251| 2020-04-07 | 2020-04-07 |
+| [rubcv/IPFS-API](https://github.com/rubcv/IPFS-API)| 0 | 0 | 28| 2020-04-07 | 2020-04-07 |
+| [luisvid/IPFS-SmartContract](https://github.com/luisvid/IPFS-SmartContract)| 0 | 0 | 346| 2020-04-02 | 2020-04-02 |
+| [zemse/decentralised-registration-ipfs](https://github.com/zemse/decentralised-registration-ipfs)| 0 | 0 | 3502| 2020-03-30 | 2020-04-03 |
 | [tabcat/ipfs-serve](https://github.com/tabcat/ipfs-serve)| 0 | 0 | 9| 2020-03-26 | 2020-03-27 |
+| [sanketpathak64/file-upload-using-IPFS](https://github.com/sanketpathak64/file-upload-using-IPFS)| 0 | 0 | 288| 2020-03-24 | 2020-03-26 |
 | [denismp/mi4-exercise8-2](https://github.com/denismp/mi4-exercise8-2)| 0 | 0 | 2580| 2020-03-24 | 2020-03-26 |
+| [ariels1996/KOK-dApp-demo](https://github.com/ariels1996/KOK-dApp-demo)| 0 | 0 | 324| 2020-03-24 | 2020-04-06 |
 | [gomezgoiri/tictactoe-game](https://github.com/gomezgoiri/tictactoe-game)| 0 | 0 | 591| 2020-03-22 | 2020-03-28 |
-| [alanshaw/ipfs-browser-sandbox](https://github.com/alanshaw/ipfs-browser-sandbox)| 10 | 2 | 6711| 2020-03-19 | 2020-04-01 |
-| [denismp/mi4-exercise8](https://github.com/denismp/mi4-exercise8)| 0 | 0 | 1832| 2020-03-18 | 2020-03-24 |
-| [myanzik/image_upload](https://github.com/myanzik/image_upload)| 0 | 0 | 405| 2020-03-17 | 2020-03-26 |
-| [SignpostMarv/ocremix-ipfs-data](https://github.com/SignpostMarv/ocremix-ipfs-data)| 0 | 0 | 5442| 2020-03-13 | 2020-03-18 |
-| [adrianleb/nextjs-daijs-example](https://github.com/adrianleb/nextjs-daijs-example)| 1 | 0 | 462| 2020-03-01 | 2020-04-05 |
-| [ismailcanvardar/ipfs-smart-contract](https://github.com/ismailcanvardar/ipfs-smart-contract)| 0 | 0 | 510| 2020-02-29 | 2020-03-02 |
-| [dmerrill6/site-from-ipfs-browser-node](https://github.com/dmerrill6/site-from-ipfs-browser-node)| 0 | 0 | 266| 2020-02-21 | 2020-02-21 |
+| [alanshaw/ipfs-browser-sandbox](https://github.com/alanshaw/ipfs-browser-sandbox)| 10 | 2 | 6733| 2020-03-19 | 2020-04-07 |
 
 
 The above set is limited to the 10 most recently created. 
