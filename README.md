@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 56
-*  3/2020: 54
-*  2/2020: 55
-*  1/2020: 58
-*  12/2019: 54
-*  11/2019: 55
-*  10/2019: 60
-*  9/2019: 47
-*  8/2019: 71
-*  7/2019: 67
-*  6/2019: 68
-*  5/2019: 74
+*  4/2020: 54
+*  3/2020: 59
+*  2/2020: 56
+*  1/2020: 55
+*  12/2019: 52
+*  11/2019: 52
+*  10/2019: 59
+*  9/2019: 62
+*  8/2019: 67
+*  7/2019: 63
+*  6/2019: 71
+*  5/2019: 72
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1550
+Total Matches: 1555
 
-Total Results (Limited by GitHUB API): 308
+Total Results (Limited by GitHUB API): 311
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mborho/terraform-provider-ipfs](https://github.com/mborho/terraform-provider-ipfs)| 2 | 0 | 26| 2020-04-09 | 2020-04-09 |
 | [itzg/go-ipfs-client](https://github.com/itzg/go-ipfs-client)| 0 | 0 | 30| 2020-04-05 | 2020-04-05 |
-| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10161| 2020-04-03 | 2020-04-07 |
+| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10164| 2020-04-03 | 2020-04-09 |
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 19| 2020-03-31 | 2020-04-08 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
 | [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 98| 2020-03-26 | 2020-04-02 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 308
 | [jolatechno/mpi-peerstore](https://github.com/jolatechno/mpi-peerstore)| 0 | 0 | 61| 2020-03-21 | 2020-03-30 |
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
 | [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 38| 2020-03-11 | 2020-04-07 |
-| [dzhelezov/ipfs-crawler](https://github.com/dzhelezov/ipfs-crawler)| 1 | 0 | 33| 2020-03-05 | 2020-03-05 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69500
+Total Matches: 69550
 
-Total Results (Limited by GitHUB API): 1269
+Total Results (Limited by GitHUB API): 1271
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 622| 2020-04-07 | 2020-04-09 |
+| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 94| 2020-04-09 | 2020-04-09 |
+| [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 629| 2020-04-07 | 2020-04-09 |
 | [BhaskarDutta2209/Meme_Of_The_Day](https://github.com/BhaskarDutta2209/Meme_Of_The_Day)| 0 | 0 | 251| 2020-04-07 | 2020-04-07 |
 | [rubcv/IPFS-API](https://github.com/rubcv/IPFS-API)| 0 | 0 | 28| 2020-04-07 | 2020-04-07 |
 | [luisvid/IPFS-SmartContract](https://github.com/luisvid/IPFS-SmartContract)| 0 | 0 | 346| 2020-04-02 | 2020-04-02 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1269
 | [sanketpathak64/file-upload-using-IPFS](https://github.com/sanketpathak64/file-upload-using-IPFS)| 0 | 0 | 288| 2020-03-24 | 2020-03-26 |
 | [denismp/mi4-exercise8-2](https://github.com/denismp/mi4-exercise8-2)| 0 | 0 | 2580| 2020-03-24 | 2020-03-26 |
 | [ariels1996/KOK-dApp-demo](https://github.com/ariels1996/KOK-dApp-demo)| 0 | 0 | 324| 2020-03-24 | 2020-04-06 |
-| [gomezgoiri/tictactoe-game](https://github.com/gomezgoiri/tictactoe-game)| 0 | 0 | 591| 2020-03-22 | 2020-03-28 |
 
 
 The above set is limited to the 10 most recently created. 
