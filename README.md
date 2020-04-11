@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 54
-*  3/2020: 59
-*  2/2020: 56
-*  1/2020: 55
+*  4/2020: 65
+*  3/2020: 56
+*  2/2020: 59
+*  1/2020: 61
 *  12/2019: 52
-*  11/2019: 52
-*  10/2019: 59
-*  9/2019: 62
-*  8/2019: 67
-*  7/2019: 63
-*  6/2019: 71
-*  5/2019: 72
+*  11/2019: 58
+*  10/2019: 58
+*  9/2019: 56
+*  8/2019: 65
+*  7/2019: 65
+*  6/2019: 62
+*  5/2019: 75
 
 ### GitHub Search
 
@@ -58,10 +58,10 @@ Total Results (Limited by GitHUB API): 311
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mborho/terraform-provider-ipfs](https://github.com/mborho/terraform-provider-ipfs)| 2 | 0 | 26| 2020-04-09 | 2020-04-09 |
 | [itzg/go-ipfs-client](https://github.com/itzg/go-ipfs-client)| 0 | 0 | 30| 2020-04-05 | 2020-04-05 |
-| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10164| 2020-04-03 | 2020-04-09 |
+| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10169| 2020-04-03 | 2020-04-10 |
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 19| 2020-03-31 | 2020-04-08 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
-| [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 98| 2020-03-26 | 2020-04-02 |
+| [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 103| 2020-03-26 | 2020-04-10 |
 | [RTradeLtd/ipcoronafs](https://github.com/RTradeLtd/ipcoronafs)| 2 | 1 | 28327| 2020-03-23 | 2020-03-23 |
 | [jolatechno/mpi-peerstore](https://github.com/jolatechno/mpi-peerstore)| 0 | 0 | 61| 2020-03-21 | 2020-03-30 |
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69550
+Total Matches: 69600
 
-Total Results (Limited by GitHUB API): 1271
+Total Results (Limited by GitHUB API): 1268
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 94| 2020-04-09 | 2020-04-09 |
-| [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 629| 2020-04-07 | 2020-04-09 |
+| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 96| 2020-04-09 | 2020-04-10 |
+| [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 707| 2020-04-07 | 2020-04-10 |
 | [BhaskarDutta2209/Meme_Of_The_Day](https://github.com/BhaskarDutta2209/Meme_Of_The_Day)| 0 | 0 | 251| 2020-04-07 | 2020-04-07 |
 | [rubcv/IPFS-API](https://github.com/rubcv/IPFS-API)| 0 | 0 | 28| 2020-04-07 | 2020-04-07 |
 | [luisvid/IPFS-SmartContract](https://github.com/luisvid/IPFS-SmartContract)| 0 | 0 | 346| 2020-04-02 | 2020-04-02 |
