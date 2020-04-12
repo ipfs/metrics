@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 65
+*  4/2020: 64
 *  3/2020: 56
-*  2/2020: 59
-*  1/2020: 61
-*  12/2019: 52
-*  11/2019: 58
-*  10/2019: 58
-*  9/2019: 56
+*  2/2020: 57
+*  1/2020: 63
+*  12/2019: 59
+*  11/2019: 56
+*  10/2019: 61
+*  9/2019: 59
 *  8/2019: 65
-*  7/2019: 65
-*  6/2019: 62
-*  5/2019: 75
+*  7/2019: 69
+*  6/2019: 73
+*  5/2019: 81
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 311
 | [RTradeLtd/ipcoronafs](https://github.com/RTradeLtd/ipcoronafs)| 2 | 1 | 28327| 2020-03-23 | 2020-03-23 |
 | [jolatechno/mpi-peerstore](https://github.com/jolatechno/mpi-peerstore)| 0 | 0 | 61| 2020-03-21 | 2020-03-30 |
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
-| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 38| 2020-03-11 | 2020-04-07 |
+| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 45| 2020-03-11 | 2020-04-11 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,11 +75,11 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 69600
 
-Total Results (Limited by GitHUB API): 1268
+Total Results (Limited by GitHUB API): 1272
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 96| 2020-04-09 | 2020-04-10 |
+| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 102| 2020-04-09 | 2020-04-11 |
 | [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 707| 2020-04-07 | 2020-04-10 |
 | [BhaskarDutta2209/Meme_Of_The_Day](https://github.com/BhaskarDutta2209/Meme_Of_The_Day)| 0 | 0 | 251| 2020-04-07 | 2020-04-07 |
 | [rubcv/IPFS-API](https://github.com/rubcv/IPFS-API)| 0 | 0 | 28| 2020-04-07 | 2020-04-07 |
