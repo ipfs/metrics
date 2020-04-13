@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 64
+*  4/2020: 57
 *  3/2020: 56
-*  2/2020: 57
-*  1/2020: 63
-*  12/2019: 59
-*  11/2019: 56
-*  10/2019: 61
-*  9/2019: 59
+*  2/2020: 64
+*  1/2020: 60
+*  12/2019: 56
+*  11/2019: 59
+*  10/2019: 70
+*  9/2019: 60
 *  8/2019: 65
-*  7/2019: 69
+*  7/2019: 68
 *  6/2019: 73
-*  5/2019: 81
+*  5/2019: 72
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 311
 | [RTradeLtd/ipcoronafs](https://github.com/RTradeLtd/ipcoronafs)| 2 | 1 | 28327| 2020-03-23 | 2020-03-23 |
 | [jolatechno/mpi-peerstore](https://github.com/jolatechno/mpi-peerstore)| 0 | 0 | 61| 2020-03-21 | 2020-03-30 |
 | [RTradeLtd/iprfc](https://github.com/RTradeLtd/iprfc)| 1 | 0 | 63| 2020-03-19 | 2020-03-19 |
-| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 45| 2020-03-11 | 2020-04-11 |
+| [Wondertan/go-blockstream](https://github.com/Wondertan/go-blockstream)| 1 | 0 | 55| 2020-03-11 | 2020-04-12 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69600
+Total Matches: 69520
 
-Total Results (Limited by GitHUB API): 1272
+Total Results (Limited by GitHUB API): 1268
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
