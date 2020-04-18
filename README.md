@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  4/2020: 69
-*  3/2020: 60
-*  2/2020: 54
-*  1/2020: 58
-*  12/2019: 47
-*  11/2019: 63
-*  10/2019: 67
-*  9/2019: 58
+*  3/2020: 58
+*  2/2020: 52
+*  1/2020: 63
+*  12/2019: 53
+*  11/2019: 57
+*  10/2019: 61
+*  9/2019: 59
 *  8/2019: 61
-*  7/2019: 59
-*  6/2019: 74
-*  5/2019: 72
+*  7/2019: 65
+*  6/2019: 71
+*  5/2019: 74
 
 ### GitHub Search
 
@@ -60,11 +60,11 @@ Total Results (Limited by GitHUB API): 315
 | [romanblanco/graffiti-ipfs](https://github.com/romanblanco/graffiti-ipfs)| 0 | 0 | 38| 2020-04-15 | 2020-04-15 |
 | [mborho/terraform-provider-ipfs](https://github.com/mborho/terraform-provider-ipfs)| 2 | 0 | 26| 2020-04-09 | 2020-04-09 |
 | [itzg/go-ipfs-client](https://github.com/itzg/go-ipfs-client)| 0 | 0 | 30| 2020-04-05 | 2020-04-05 |
-| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10171| 2020-04-03 | 2020-04-14 |
-| [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 19| 2020-03-31 | 2020-04-08 |
+| [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 1 | 0 | 10172| 2020-04-03 | 2020-04-17 |
+| [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 23| 2020-03-31 | 2020-04-17 |
 | [giobart/IPFS-statistics-generator](https://github.com/giobart/IPFS-statistics-generator)| 0 | 0 | 33308| 2020-03-30 | 2020-04-16 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
-| [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 111| 2020-03-26 | 2020-04-16 |
+| [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 112| 2020-03-26 | 2020-04-17 |
 | [RTradeLtd/ipcoronafs](https://github.com/RTradeLtd/ipcoronafs)| 2 | 1 | 28327| 2020-03-23 | 2020-03-23 |
 
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69850
+Total Matches: 69900
 
-Total Results (Limited by GitHUB API): 1276
+Total Results (Limited by GitHUB API): 1277
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [MartinG2020/ipfs-meme-otd](https://github.com/MartinG2020/ipfs-meme-otd)| 0 | 0 | 199| 2020-04-17 | 2020-04-17 |
 | [plegma-ai/DBlogger](https://github.com/plegma-ai/DBlogger)| 0 | 0 | 9| 2020-04-16 | 2020-04-16 |
 | [thecodacus/DBlogger](https://github.com/thecodacus/DBlogger)| 0 | 0 | 10| 2020-04-16 | 2020-04-16 |
 | [vporton/ipfs-search](https://github.com/vporton/ipfs-search)| 0 | 0 | 41| 2020-04-15 | 2020-04-15 |
-| [kr4cher/ipfs-chat](https://github.com/kr4cher/ipfs-chat)| 1 | 0 | 191| 2020-04-15 | 2020-04-15 |
-| [BhaskarDutta2209/IPFS_Gallery](https://github.com/BhaskarDutta2209/IPFS_Gallery)| 0 | 0 | 302| 2020-04-14 | 2020-04-14 |
-| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 102| 2020-04-09 | 2020-04-16 |
+| [kr4cher/ipfs-chat](https://github.com/kr4cher/ipfs-chat)| 2 | 0 | 191| 2020-04-15 | 2020-04-15 |
+| [BhaskarDutta2209/IPFS_Gallery](https://github.com/BhaskarDutta2209/IPFS_Gallery)| 0 | 0 | 304| 2020-04-14 | 2020-04-17 |
+| [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 128| 2020-04-09 | 2020-04-17 |
 | [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 707| 2020-04-07 | 2020-04-10 |
 | [BhaskarDutta2209/Meme_Of_The_Day](https://github.com/BhaskarDutta2209/Meme_Of_The_Day)| 0 | 0 | 251| 2020-04-07 | 2020-04-07 |
 | [rubcv/IPFS-API](https://github.com/rubcv/IPFS-API)| 0 | 0 | 28| 2020-04-07 | 2020-04-07 |
-| [luisvid/IPFS-SmartContract](https://github.com/luisvid/IPFS-SmartContract)| 0 | 0 | 346| 2020-04-02 | 2020-04-02 |
 
 
 The above set is limited to the 10 most recently created. 
