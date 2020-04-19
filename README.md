@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 69
-*  3/2020: 58
-*  2/2020: 52
-*  1/2020: 63
+*  4/2020: 68
+*  3/2020: 60
+*  2/2020: 58
+*  1/2020: 59
 *  12/2019: 53
 *  11/2019: 57
-*  10/2019: 61
+*  10/2019: 70
 *  9/2019: 59
-*  8/2019: 61
-*  7/2019: 65
-*  6/2019: 71
-*  5/2019: 74
+*  8/2019: 63
+*  7/2019: 64
+*  6/2019: 66
+*  5/2019: 72
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1575
+Total Matches: 1570
 
-Total Results (Limited by GitHUB API): 315
+Total Results (Limited by GitHUB API): 314
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,18 +73,18 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 69900
+Total Matches: 69850
 
-Total Results (Limited by GitHUB API): 1277
+Total Results (Limited by GitHUB API): 1276
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [MartinG2020/ipfs-meme-otd](https://github.com/MartinG2020/ipfs-meme-otd)| 0 | 0 | 199| 2020-04-17 | 2020-04-17 |
 | [plegma-ai/DBlogger](https://github.com/plegma-ai/DBlogger)| 0 | 0 | 9| 2020-04-16 | 2020-04-16 |
-| [thecodacus/DBlogger](https://github.com/thecodacus/DBlogger)| 0 | 0 | 10| 2020-04-16 | 2020-04-16 |
+| [thecodacus/DBlogger](https://github.com/thecodacus/DBlogger)| 0 | 0 | 12| 2020-04-16 | 2020-04-18 |
 | [vporton/ipfs-search](https://github.com/vporton/ipfs-search)| 0 | 0 | 41| 2020-04-15 | 2020-04-15 |
 | [kr4cher/ipfs-chat](https://github.com/kr4cher/ipfs-chat)| 2 | 0 | 191| 2020-04-15 | 2020-04-15 |
-| [BhaskarDutta2209/IPFS_Gallery](https://github.com/BhaskarDutta2209/IPFS_Gallery)| 0 | 0 | 304| 2020-04-14 | 2020-04-17 |
+| [BhaskarDutta2209/IPFS_Gallery](https://github.com/BhaskarDutta2209/IPFS_Gallery)| 0 | 0 | 346| 2020-04-14 | 2020-04-18 |
 | [ferru97/node-ipfs-monitor](https://github.com/ferru97/node-ipfs-monitor)| 0 | 0 | 128| 2020-04-09 | 2020-04-17 |
 | [moebiusprogram/notarize-api](https://github.com/moebiusprogram/notarize-api)| 0 | 0 | 707| 2020-04-07 | 2020-04-10 |
 | [BhaskarDutta2209/Meme_Of_The_Day](https://github.com/BhaskarDutta2209/Meme_Of_The_Day)| 0 | 0 | 251| 2020-04-07 | 2020-04-07 |
