@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 68
-*  3/2020: 60
-*  2/2020: 58
+*  4/2020: 76
+*  3/2020: 61
+*  2/2020: 56
 *  1/2020: 59
-*  12/2019: 53
-*  11/2019: 57
-*  10/2019: 70
-*  9/2019: 59
-*  8/2019: 63
-*  7/2019: 64
-*  6/2019: 66
-*  5/2019: 72
+*  12/2019: 57
+*  11/2019: 48
+*  10/2019: 58
+*  9/2019: 66
+*  8/2019: 53
+*  7/2019: 69
+*  6/2019: 81
+*  5/2019: 69
 
 ### GitHub Search
 
@@ -50,12 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1570
+Total Matches: 1580
 
-Total Results (Limited by GitHUB API): 314
+Total Results (Limited by GitHUB API): 316
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [tarekbadrshalaan/ipfs.house](https://github.com/tarekbadrshalaan/ipfs.house)| 0 | 0 | 2| 2020-04-19 | 2020-04-19 |
+| [festoney8/ipfs-study](https://github.com/festoney8/ipfs-study)| 0 | 0 | 3029| 2020-04-19 | 2020-04-19 |
 | [RTradeLtd/go-datastores](https://github.com/RTradeLtd/go-datastores)| 1 | 0 | 70| 2020-04-15 | 2020-04-16 |
 | [romanblanco/graffiti-ipfs](https://github.com/romanblanco/graffiti-ipfs)| 0 | 0 | 38| 2020-04-15 | 2020-04-15 |
 | [mborho/terraform-provider-ipfs](https://github.com/mborho/terraform-provider-ipfs)| 2 | 0 | 26| 2020-04-09 | 2020-04-09 |
@@ -64,8 +66,6 @@ Total Results (Limited by GitHUB API): 314
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 23| 2020-03-31 | 2020-04-17 |
 | [giobart/IPFS-statistics-generator](https://github.com/giobart/IPFS-statistics-generator)| 0 | 0 | 33308| 2020-03-30 | 2020-04-16 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
-| [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 112| 2020-03-26 | 2020-04-17 |
-| [RTradeLtd/ipcoronafs](https://github.com/RTradeLtd/ipcoronafs)| 2 | 1 | 28327| 2020-03-23 | 2020-03-23 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 69850
 
-Total Results (Limited by GitHUB API): 1276
+Total Results (Limited by GitHUB API): 1273
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
