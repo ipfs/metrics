@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 68
-*  3/2020: 54
-*  2/2020: 52
+*  4/2020: 58
+*  3/2020: 56
+*  2/2020: 55
 *  1/2020: 58
-*  12/2019: 55
-*  11/2019: 59
-*  10/2019: 69
-*  9/2019: 57
-*  8/2019: 66
-*  7/2019: 65
-*  6/2019: 67
-*  5/2019: 68
+*  12/2019: 54
+*  11/2019: 55
+*  10/2019: 62
+*  9/2019: 64
+*  8/2019: 64
+*  7/2019: 62
+*  6/2019: 74
+*  5/2019: 75
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1575
+Total Matches: 1580
 
-Total Results (Limited by GitHUB API): 315
+Total Results (Limited by GitHUB API): 316
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [hsanjuan/mfs-replace-root](https://github.com/hsanjuan/mfs-replace-root)| 0 | 0 | 49| 2020-04-21 | 2020-04-21 |
 | [tarekbadrshalaan/ipfs.house](https://github.com/tarekbadrshalaan/ipfs.house)| 0 | 0 | 2| 2020-04-19 | 2020-04-19 |
 | [RTradeLtd/go-datastores](https://github.com/RTradeLtd/go-datastores)| 1 | 0 | 70| 2020-04-15 | 2020-04-16 |
 | [romanblanco/graffiti-ipfs](https://github.com/romanblanco/graffiti-ipfs)| 0 | 0 | 38| 2020-04-15 | 2020-04-15 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 315
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 23| 2020-03-31 | 2020-04-17 |
 | [giobart/IPFS-statistics-generator](https://github.com/giobart/IPFS-statistics-generator)| 0 | 0 | 33308| 2020-03-30 | 2020-04-16 |
 | [RTradeLtd/ipld-eml](https://github.com/RTradeLtd/ipld-eml)| 5 | 0 | 42700| 2020-03-27 | 2020-03-30 |
-| [RTradeLtd/go-temporalx-sdk](https://github.com/RTradeLtd/go-temporalx-sdk)| 3 | 0 | 112| 2020-03-26 | 2020-04-17 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 69900
 
-Total Results (Limited by GitHUB API): 1274
+Total Results (Limited by GitHUB API): 1276
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
