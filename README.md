@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 64
-*  3/2020: 53
-*  2/2020: 51
-*  1/2020: 54
-*  12/2019: 54
-*  11/2019: 58
-*  10/2019: 60
-*  9/2019: 55
-*  8/2019: 63
-*  7/2019: 68
-*  6/2019: 69
-*  5/2019: 73
+*  4/2020: 65
+*  3/2020: 59
+*  2/2020: 61
+*  1/2020: 63
+*  12/2019: 58
+*  11/2019: 60
+*  10/2019: 64
+*  9/2019: 63
+*  8/2019: 67
+*  7/2019: 67
+*  6/2019: 75
+*  5/2019: 74
 
 ### GitHub Search
 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70100
+Total Matches: 69970
 
-Total Results (Limited by GitHUB API): 1278
+Total Results (Limited by GitHUB API): 1277
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 373| 2020-04-23 | 2020-04-23 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 505| 2020-04-23 | 2020-04-24 |
 | [vaibs28/SecureFileSharingBlockchain](https://github.com/vaibs28/SecureFileSharingBlockchain)| 0 | 0 | 1035| 2020-04-22 | 2020-04-23 |
-| [Sladuca/trustory](https://github.com/Sladuca/trustory)| 0 | 0 | 479| 2020-04-22 | 2020-04-23 |
+| [Sladuca/trustory](https://github.com/Sladuca/trustory)| 0 | 0 | 486| 2020-04-22 | 2020-04-24 |
 | [MartinG2020/ipfs-meme-otd](https://github.com/MartinG2020/ipfs-meme-otd)| 0 | 0 | 199| 2020-04-17 | 2020-04-17 |
 | [plegma-ai/DBlogger](https://github.com/plegma-ai/DBlogger)| 0 | 0 | 9| 2020-04-16 | 2020-04-16 |
 | [thecodacus/DBlogger](https://github.com/thecodacus/DBlogger)| 0 | 0 | 12| 2020-04-16 | 2020-04-18 |
