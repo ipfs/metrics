@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 63
-*  3/2020: 58
-*  2/2020: 59
-*  1/2020: 55
-*  12/2019: 49
-*  11/2019: 57
-*  10/2019: 55
-*  9/2019: 58
-*  8/2019: 66
-*  7/2019: 61
-*  6/2019: 74
-*  5/2019: 76
+*  4/2020: 70
+*  3/2020: 62
+*  2/2020: 57
+*  1/2020: 57
+*  12/2019: 54
+*  11/2019: 61
+*  10/2019: 65
+*  9/2019: 60
+*  8/2019: 64
+*  7/2019: 72
+*  6/2019: 70
+*  5/2019: 77
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1600
+Total Matches: 1595
 
-Total Results (Limited by GitHUB API): 320
+Total Results (Limited by GitHUB API): 319
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 320
 | [hsanjuan/mfs-replace-root](https://github.com/hsanjuan/mfs-replace-root)| 0 | 0 | 49| 2020-04-21 | 2020-04-22 |
 | [tarekbadrshalaan/ipfs.house](https://github.com/tarekbadrshalaan/ipfs.house)| 0 | 0 | 2| 2020-04-19 | 2020-04-19 |
 | [ipfs/test-plans](https://github.com/ipfs/test-plans)| 0 | 0 | 49| 2020-04-16 | 2020-04-22 |
-| [RTradeLtd/go-datastores](https://github.com/RTradeLtd/go-datastores)| 1 | 0 | 125| 2020-04-15 | 2020-04-23 |
+| [RTradeLtd/go-datastores](https://github.com/RTradeLtd/go-datastores)| 2 | 0 | 125| 2020-04-15 | 2020-04-23 |
 | [romanblanco/graffiti-ipfs](https://github.com/romanblanco/graffiti-ipfs)| 0 | 0 | 38| 2020-04-15 | 2020-04-15 |
 | [mborho/terraform-provider-ipfs](https://github.com/mborho/terraform-provider-ipfs)| 3 | 0 | 29| 2020-04-09 | 2020-04-20 |
 | [itzg/go-ipfs-client](https://github.com/itzg/go-ipfs-client)| 0 | 0 | 30| 2020-04-05 | 2020-04-05 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70050
+Total Matches: 70100
 
-Total Results (Limited by GitHUB API): 1277
+Total Results (Limited by GitHUB API): 1278
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [santhoshtr/wikipedia-ipfs](https://github.com/santhoshtr/wikipedia-ipfs)| 2 | 0 | 1167| 2020-04-25 | 2020-04-25 |
 | [DougAnderson444/sapper-webpack-now-ipfs](https://github.com/DougAnderson444/sapper-webpack-now-ipfs)| 0 | 0 | 345| 2020-04-25 | 2020-04-25 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 514| 2020-04-23 | 2020-04-25 |
 | [vaibs28/SecureFileSharingBlockchain](https://github.com/vaibs28/SecureFileSharingBlockchain)| 0 | 0 | 1035| 2020-04-22 | 2020-04-23 |
-| [Sladuca/trustory](https://github.com/Sladuca/trustory)| 0 | 0 | 516| 2020-04-22 | 2020-04-25 |
+| [Sladuca/trustory](https://github.com/Sladuca/trustory)| 0 | 0 | 591| 2020-04-22 | 2020-04-26 |
 | [MartinG2020/ipfs-meme-otd](https://github.com/MartinG2020/ipfs-meme-otd)| 0 | 0 | 199| 2020-04-17 | 2020-04-17 |
 | [plegma-ai/DBlogger](https://github.com/plegma-ai/DBlogger)| 0 | 0 | 9| 2020-04-16 | 2020-04-16 |
 | [thecodacus/DBlogger](https://github.com/thecodacus/DBlogger)| 0 | 0 | 12| 2020-04-16 | 2020-04-18 |
 | [vporton/ipfs-search](https://github.com/vporton/ipfs-search)| 0 | 0 | 41| 2020-04-15 | 2020-04-15 |
 | [kr4cher/ipfs-chat](https://github.com/kr4cher/ipfs-chat)| 2 | 0 | 191| 2020-04-15 | 2020-04-15 |
-| [BhaskarDutta2209/IPFS_Gallery](https://github.com/BhaskarDutta2209/IPFS_Gallery)| 0 | 0 | 346| 2020-04-14 | 2020-04-18 |
 
 
 The above set is limited to the 10 most recently created. 
