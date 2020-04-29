@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 64
-*  3/2020: 60
-*  2/2020: 53
-*  1/2020: 60
-*  12/2019: 45
-*  11/2019: 50
-*  10/2019: 68
-*  9/2019: 54
-*  8/2019: 64
-*  7/2019: 78
-*  6/2019: 76
-*  5/2019: 78
+*  4/2020: 66
+*  3/2020: 56
+*  2/2020: 62
+*  1/2020: 53
+*  12/2019: 60
+*  11/2019: 62
+*  10/2019: 64
+*  9/2019: 60
+*  8/2019: 63
+*  7/2019: 68
+*  6/2019: 75
+*  5/2019: 75
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1595
+Total Matches: 1600
 
-Total Results (Limited by GitHUB API): 319
+Total Results (Limited by GitHUB API): 318
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70100
+Total Matches: 69889
 
-Total Results (Limited by GitHUB API): 1278
+Total Results (Limited by GitHUB API): 1277
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [santhoshtr/wikipedia-ipfs](https://github.com/santhoshtr/wikipedia-ipfs)| 3 | 0 | 1167| 2020-04-25 | 2020-04-25 |
+| [santhoshtr/wikipedia-ipfs](https://github.com/santhoshtr/wikipedia-ipfs)| 6 | 2 | 1176| 2020-04-25 | 2020-04-28 |
 | [DougAnderson444/sapper-webpack-now-ipfs](https://github.com/DougAnderson444/sapper-webpack-now-ipfs)| 0 | 0 | 345| 2020-04-25 | 2020-04-25 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 523| 2020-04-23 | 2020-04-27 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 698| 2020-04-23 | 2020-04-28 |
 | [vaibs28/SecureFileSharingBlockchain](https://github.com/vaibs28/SecureFileSharingBlockchain)| 0 | 0 | 1035| 2020-04-22 | 2020-04-23 |
 | [Sladuca/trustory](https://github.com/Sladuca/trustory)| 0 | 0 | 591| 2020-04-22 | 2020-04-26 |
 | [MartinG2020/ipfs-meme-otd](https://github.com/MartinG2020/ipfs-meme-otd)| 0 | 0 | 199| 2020-04-17 | 2020-04-17 |
