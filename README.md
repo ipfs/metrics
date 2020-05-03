@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2020: 62
+*  4/2020: 68
 *  3/2020: 55
-*  2/2020: 59
-*  1/2020: 59
-*  12/2019: 59
-*  11/2019: 57
-*  10/2019: 66
-*  9/2019: 59
-*  8/2019: 66
-*  7/2019: 65
-*  6/2019: 68
-*  5/2019: 73
+*  2/2020: 62
+*  1/2020: 57
+*  12/2019: 51
+*  11/2019: 56
+*  10/2019: 63
+*  9/2019: 60
+*  8/2019: 64
+*  7/2019: 61
+*  6/2019: 72
+*  5/2019: 72
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1605
 
-Total Results (Limited by GitHUB API): 320
+Total Results (Limited by GitHUB API): 321
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70450
+Total Matches: 70132
 
-Total Results (Limited by GitHUB API): 1281
+Total Results (Limited by GitHUB API): 1282
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Aditya-Keerthi/ipfs-db](https://github.com/Aditya-Keerthi/ipfs-db)| 0 | 0 | 357| 2020-05-02 | 2020-05-02 |
 | [rranshous/TrustyPin](https://github.com/rranshous/TrustyPin)| 0 | 0 | 563| 2020-04-30 | 2020-04-30 |
 | [Tanyashinde/Ethegram](https://github.com/Tanyashinde/Ethegram)| 0 | 0 | 14105| 2020-04-30 | 2020-04-30 |
 | [fazo96/ipfs-video-mirror](https://github.com/fazo96/ipfs-video-mirror)| 0 | 0 | 17| 2020-04-29 | 2020-04-30 |
 | [naman-modi/doc-upload-ipfs](https://github.com/naman-modi/doc-upload-ipfs)| 0 | 0 | 12835| 2020-04-29 | 2020-04-29 |
 | [santhoshtr/wikipedia-ipfs](https://github.com/santhoshtr/wikipedia-ipfs)| 34 | 3 | 1181| 2020-04-25 | 2020-04-29 |
 | [DougAnderson444/sapper-webpack-now-ipfs](https://github.com/DougAnderson444/sapper-webpack-now-ipfs)| 0 | 0 | 345| 2020-04-25 | 2020-04-25 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 1281| 2020-04-23 | 2020-05-01 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-upload-server)| 0 | 0 | 1282| 2020-04-23 | 2020-05-02 |
 | [vaibs28/SecureFileSharingBlockchain](https://github.com/vaibs28/SecureFileSharingBlockchain)| 0 | 0 | 1035| 2020-04-22 | 2020-04-23 |
 | [Sladuca/trustory](https://github.com/Sladuca/trustory)| 0 | 0 | 812| 2020-04-22 | 2020-04-29 |
-| [leoherzog/LinuxExchangeIPFSSeedbox](https://github.com/leoherzog/LinuxExchangeIPFSSeedbox)| 0 | 0 | 5| 2020-04-18 | 2020-05-01 |
 
 
 The above set is limited to the 10 most recently created. 
