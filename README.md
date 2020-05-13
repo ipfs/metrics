@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 74
+*  5/2020: 81
 *  4/2020: 65
-*  3/2020: 56
-*  2/2020: 59
-*  1/2020: 66
-*  12/2019: 50
-*  11/2019: 53
+*  3/2020: 57
+*  2/2020: 55
+*  1/2020: 60
+*  12/2019: 51
+*  11/2019: 57
 *  10/2019: 63
-*  9/2019: 65
-*  8/2019: 65
-*  7/2019: 68
-*  6/2019: 72
+*  9/2019: 58
+*  8/2019: 68
+*  7/2019: 63
+*  6/2019: 67
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 324
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1771| 2020-05-10 | 2020-05-11 |
+| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1788| 2020-05-10 | 2020-05-12 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
 | [whyrusleeping/ipcr](https://github.com/whyrusleeping/ipcr)| 4 | 0 | 6| 2020-05-04 | 2020-05-04 |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70650
+Total Matches: 70750
 
-Total Results (Limited by GitHUB API): 1283
+Total Results (Limited by GitHUB API): 1285
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 121| 2020-05-11 | 2020-05-12 |
+| [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 1 | 0 | 375| 2020-05-11 | 2020-05-11 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
 | [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
 | [alexvotofuture/dAppVid](https://github.com/alexvotofuture/dAppVid)| 0 | 0 | 1119| 2020-05-06 | 2020-05-10 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1283
 | [Tanyashinde/Ethegram](https://github.com/Tanyashinde/Ethegram)| 0 | 0 | 14105| 2020-04-30 | 2020-04-30 |
 | [fazo96/ipfs-video-mirror](https://github.com/fazo96/ipfs-video-mirror)| 0 | 0 | 17| 2020-04-29 | 2020-04-30 |
 | [naman-modi/doc-upload-ipfs](https://github.com/naman-modi/doc-upload-ipfs)| 0 | 0 | 12839| 2020-04-29 | 2020-05-03 |
-| [koumoul-dev/ipfs-tiles](https://github.com/koumoul-dev/ipfs-tiles)| 0 | 0 | 143| 2020-04-25 | 2020-05-10 |
-| [santhoshtr/wikipedia-ipfs](https://github.com/santhoshtr/wikipedia-ipfs)| 117 | 6 | 1181| 2020-04-25 | 2020-04-29 |
 
 
 The above set is limited to the 10 most recently created. 
