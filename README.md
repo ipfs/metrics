@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 81
-*  4/2020: 65
-*  3/2020: 57
-*  2/2020: 55
-*  1/2020: 60
-*  12/2019: 51
-*  11/2019: 57
-*  10/2019: 63
-*  9/2019: 58
-*  8/2019: 68
-*  7/2019: 63
-*  6/2019: 67
+*  5/2020: 64
+*  4/2020: 67
+*  3/2020: 54
+*  2/2020: 53
+*  1/2020: 53
+*  12/2019: 49
+*  11/2019: 51
+*  10/2019: 60
+*  9/2019: 54
+*  8/2019: 60
+*  7/2019: 62
+*  6/2019: 66
 
 ### GitHub Search
 
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 1285
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 121| 2020-05-11 | 2020-05-12 |
+| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 202| 2020-05-11 | 2020-05-13 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 1 | 0 | 375| 2020-05-11 | 2020-05-11 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
 | [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
