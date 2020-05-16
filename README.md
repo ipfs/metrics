@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 71
-*  4/2020: 67
-*  3/2020: 63
-*  2/2020: 58
-*  1/2020: 63
-*  12/2019: 55
+*  5/2020: 70
+*  4/2020: 64
+*  3/2020: 58
+*  2/2020: 61
+*  1/2020: 66
+*  12/2019: 60
 *  11/2019: 58
-*  10/2019: 66
-*  9/2019: 59
-*  8/2019: 62
-*  7/2019: 67
-*  6/2019: 75
+*  10/2019: 58
+*  9/2019: 70
+*  8/2019: 59
+*  7/2019: 70
+*  6/2019: 72
 
 ### GitHub Search
 
@@ -50,13 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1620
+Total Matches: 1625
 
-Total Results (Limited by GitHUB API): 324
+Total Results (Limited by GitHUB API): 325
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1788| 2020-05-10 | 2020-05-12 |
+| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1840| 2020-05-10 | 2020-05-15 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
 | [whyrusleeping/ipcr](https://github.com/whyrusleeping/ipcr)| 4 | 0 | 6| 2020-05-04 | 2020-05-04 |
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70750
+Total Matches: 70713
 
 Total Results (Limited by GitHUB API): 1286
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 200| 2020-05-11 | 2020-05-15 |
+| [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
+| [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 4| 2020-05-15 | 2020-05-15 |
+| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 286| 2020-05-11 | 2020-05-15 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 1 | 0 | 375| 2020-05-11 | 2020-05-11 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
 | [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1286
 | [bc-ticketing/ipfs-multihash-analysis](https://github.com/bc-ticketing/ipfs-multihash-analysis)| 0 | 0 | 130| 2020-05-03 | 2020-05-07 |
 | [rranshous/TrustyPin](https://github.com/rranshous/TrustyPin)| 0 | 0 | 643| 2020-04-30 | 2020-05-03 |
 | [Tanyashinde/Ethegram](https://github.com/Tanyashinde/Ethegram)| 0 | 0 | 14105| 2020-04-30 | 2020-04-30 |
-| [fazo96/ipfs-video-mirror](https://github.com/fazo96/ipfs-video-mirror)| 0 | 0 | 17| 2020-04-29 | 2020-04-30 |
-| [naman-modi/doc-upload-ipfs](https://github.com/naman-modi/doc-upload-ipfs)| 0 | 0 | 12839| 2020-04-29 | 2020-05-03 |
 
 
 The above set is limited to the 10 most recently created. 
