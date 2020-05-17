@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 70
-*  4/2020: 64
-*  3/2020: 58
-*  2/2020: 61
-*  1/2020: 66
-*  12/2019: 60
-*  11/2019: 58
-*  10/2019: 58
-*  9/2019: 70
-*  8/2019: 59
-*  7/2019: 70
-*  6/2019: 72
+*  5/2020: 78
+*  4/2020: 72
+*  3/2020: 59
+*  2/2020: 63
+*  1/2020: 61
+*  12/2019: 52
+*  11/2019: 64
+*  10/2019: 62
+*  9/2019: 59
+*  8/2019: 69
+*  7/2019: 64
+*  6/2019: 82
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1625
+Total Matches: 1630
 
-Total Results (Limited by GitHUB API): 325
+Total Results (Limited by GitHUB API): 324
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 10| 2020-05-16 | 2020-05-16 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1840| 2020-05-10 | 2020-05-15 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 325
 | [jolatechno/go-ipfs-directory_size_ls](https://github.com/jolatechno/go-ipfs-directory_size_ls)| 0 | 0 | 32| 2020-04-22 | 2020-04-29 |
 | [hsanjuan/mfs-replace-root](https://github.com/hsanjuan/mfs-replace-root)| 0 | 0 | 49| 2020-04-21 | 2020-04-22 |
 | [tarekbadrshalaan/ipfs.house](https://github.com/tarekbadrshalaan/ipfs.house)| 0 | 0 | 2| 2020-04-19 | 2020-04-19 |
-| [ipfs/test-plans](https://github.com/ipfs/test-plans)| 0 | 1 | 50| 2020-04-16 | 2020-04-27 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70713
+Total Matches: 70800
 
-Total Results (Limited by GitHUB API): 1286
+Total Results (Limited by GitHUB API): 1285
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
 | [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 4| 2020-05-15 | 2020-05-15 |
-| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 286| 2020-05-11 | 2020-05-15 |
+| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 287| 2020-05-11 | 2020-05-16 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 1 | 0 | 375| 2020-05-11 | 2020-05-11 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
 | [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
