@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 78
-*  4/2020: 72
-*  3/2020: 59
+*  5/2020: 68
+*  4/2020: 65
+*  3/2020: 56
 *  2/2020: 63
 *  1/2020: 61
-*  12/2019: 52
-*  11/2019: 64
-*  10/2019: 62
-*  9/2019: 59
-*  8/2019: 69
-*  7/2019: 64
-*  6/2019: 82
+*  12/2019: 53
+*  11/2019: 58
+*  10/2019: 63
+*  9/2019: 61
+*  8/2019: 61
+*  7/2019: 68
+*  6/2019: 73
 
 ### GitHub Search
 
@@ -52,11 +52,11 @@ so we don't know why this is the case.
 
 Total Matches: 1630
 
-Total Results (Limited by GitHUB API): 324
+Total Results (Limited by GitHUB API): 326
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 10| 2020-05-16 | 2020-05-16 |
+| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 23| 2020-05-16 | 2020-05-17 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1840| 2020-05-10 | 2020-05-15 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70800
+Total Matches: 70720
 
-Total Results (Limited by GitHUB API): 1285
+Total Results (Limited by GitHUB API): 1286
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 0 | 0 | 388| 2020-05-17 | 2020-05-17 |
 | [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
 | [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 4| 2020-05-15 | 2020-05-15 |
 | [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 287| 2020-05-11 | 2020-05-16 |
-| [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 1 | 0 | 375| 2020-05-11 | 2020-05-11 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
 | [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
 | [alexvotofuture/dAppVid](https://github.com/alexvotofuture/dAppVid)| 0 | 0 | 1119| 2020-05-06 | 2020-05-10 |
