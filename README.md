@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 68
-*  4/2020: 65
-*  3/2020: 56
-*  2/2020: 63
+*  5/2020: 75
+*  4/2020: 70
+*  3/2020: 64
+*  2/2020: 62
 *  1/2020: 61
-*  12/2019: 53
-*  11/2019: 58
-*  10/2019: 63
-*  9/2019: 61
-*  8/2019: 61
-*  7/2019: 68
-*  6/2019: 73
+*  12/2019: 56
+*  11/2019: 55
+*  10/2019: 66
+*  9/2019: 60
+*  8/2019: 69
+*  7/2019: 66
+*  6/2019: 81
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1630
+Total Matches: 1640
 
-Total Results (Limited by GitHUB API): 326
+Total Results (Limited by GitHUB API): 328
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 8| 2020-05-18 | 2020-05-18 |
+| [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 0 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 23| 2020-05-16 | 2020-05-17 |
-| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1840| 2020-05-10 | 2020-05-15 |
+| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
 | [whyrusleeping/ipcr](https://github.com/whyrusleeping/ipcr)| 4 | 0 | 6| 2020-05-04 | 2020-05-04 |
 | [lthibault/ipfs-fileshare](https://github.com/lthibault/ipfs-fileshare)| 0 | 0 | 50| 2020-04-30 | 2020-05-01 |
 | [nlko/ipfs-block-to-cid](https://github.com/nlko/ipfs-block-to-cid)| 1 | 0 | 4| 2020-04-22 | 2020-04-22 |
 | [jolatechno/go-ipfs-directory_size_ls](https://github.com/jolatechno/go-ipfs-directory_size_ls)| 0 | 0 | 32| 2020-04-22 | 2020-04-29 |
-| [hsanjuan/mfs-replace-root](https://github.com/hsanjuan/mfs-replace-root)| 0 | 0 | 49| 2020-04-21 | 2020-04-22 |
-| [tarekbadrshalaan/ipfs.house](https://github.com/tarekbadrshalaan/ipfs.house)| 0 | 0 | 2| 2020-04-19 | 2020-04-19 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70720
+Total Matches: 70850
 
-Total Results (Limited by GitHUB API): 1286
+Total Results (Limited by GitHUB API): 1287
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 413| 2020-05-18 | 2020-05-18 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 0 | 0 | 388| 2020-05-17 | 2020-05-17 |
 | [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
 | [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 4| 2020-05-15 | 2020-05-15 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1286
 | [alexvotofuture/dAppVid](https://github.com/alexvotofuture/dAppVid)| 0 | 0 | 1119| 2020-05-06 | 2020-05-10 |
 | [bc-ticketing/ipfs-multihash-analysis](https://github.com/bc-ticketing/ipfs-multihash-analysis)| 0 | 0 | 130| 2020-05-03 | 2020-05-07 |
 | [rranshous/TrustyPin](https://github.com/rranshous/TrustyPin)| 0 | 0 | 643| 2020-04-30 | 2020-05-03 |
-| [Tanyashinde/Ethegram](https://github.com/Tanyashinde/Ethegram)| 0 | 0 | 14105| 2020-04-30 | 2020-04-30 |
 
 
 The above set is limited to the 10 most recently created. 
