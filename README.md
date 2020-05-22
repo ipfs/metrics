@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 70
-*  4/2020: 65
-*  3/2020: 62
-*  2/2020: 57
-*  1/2020: 61
-*  12/2019: 59
-*  11/2019: 61
-*  10/2019: 66
-*  9/2019: 59
-*  8/2019: 68
-*  7/2019: 70
-*  6/2019: 76
+*  5/2020: 68
+*  4/2020: 67
+*  3/2020: 59
+*  2/2020: 63
+*  1/2020: 60
+*  12/2019: 57
+*  11/2019: 57
+*  10/2019: 61
+*  9/2019: 60
+*  8/2019: 66
+*  7/2019: 62
+*  6/2019: 72
 
 ### GitHub Search
 
@@ -73,19 +73,19 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 70723
+Total Matches: 71000
 
-Total Results (Limited by GitHUB API): 1288
+Total Results (Limited by GitHUB API): 1287
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [daviddahl/wut](https://github.com/daviddahl/wut)| 0 | 0 | 11| 2020-05-20 | 2020-05-20 |
+| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 4732| 2020-05-20 | 2020-05-21 |
 | [siddharth2798/VerifyApp](https://github.com/siddharth2798/VerifyApp)| 0 | 0 | 30| 2020-05-20 | 2020-05-20 |
 | [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 416| 2020-05-18 | 2020-05-20 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 0 | 0 | 388| 2020-05-17 | 2020-05-17 |
 | [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
 | [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 10| 2020-05-15 | 2020-05-20 |
-| [fragmnt/stardust-market](https://github.com/fragmnt/stardust-market)| 0 | 0 | 493| 2020-05-11 | 2020-05-20 |
+| [fragmnt/stardust-market](https://github.com/fragmnt/stardust-market)| 0 | 0 | 6235| 2020-05-11 | 2020-05-21 |
 | [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 287| 2020-05-11 | 2020-05-16 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
 | [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
