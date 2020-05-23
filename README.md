@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 68
-*  4/2020: 67
-*  3/2020: 59
-*  2/2020: 63
-*  1/2020: 60
-*  12/2019: 57
-*  11/2019: 57
+*  5/2020: 74
+*  4/2020: 74
+*  3/2020: 61
+*  2/2020: 59
+*  1/2020: 58
+*  12/2019: 64
+*  11/2019: 61
 *  10/2019: 61
-*  9/2019: 60
-*  8/2019: 66
-*  7/2019: 62
+*  9/2019: 62
+*  8/2019: 72
+*  7/2019: 65
 *  6/2019: 72
 
 ### GitHub Search
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1640
 
-Total Results (Limited by GitHUB API): 328
+Total Results (Limited by GitHUB API): 327
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71000
+Total Matches: 71096
 
-Total Results (Limited by GitHUB API): 1287
+Total Results (Limited by GitHUB API): 1289
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 4732| 2020-05-20 | 2020-05-21 |
+| [daviddahl/wut](https://github.com/daviddahl/wut)| 1 | 0 | 589| 2020-05-20 | 2020-05-22 |
+| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 12000| 2020-05-20 | 2020-05-22 |
 | [siddharth2798/VerifyApp](https://github.com/siddharth2798/VerifyApp)| 0 | 0 | 30| 2020-05-20 | 2020-05-20 |
-| [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 416| 2020-05-18 | 2020-05-20 |
+| [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 623| 2020-05-18 | 2020-05-22 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 0 | 0 | 388| 2020-05-17 | 2020-05-17 |
 | [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
 | [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 10| 2020-05-15 | 2020-05-20 |
 | [fragmnt/stardust-market](https://github.com/fragmnt/stardust-market)| 0 | 0 | 6235| 2020-05-11 | 2020-05-21 |
 | [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 287| 2020-05-11 | 2020-05-16 |
 | [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
-| [JoseMiguelHerrera/theEthereumBillboard](https://github.com/JoseMiguelHerrera/theEthereumBillboard)| 0 | 0 | 4473| 2020-05-06 | 2020-05-07 |
 
 
 The above set is limited to the 10 most recently created. 
