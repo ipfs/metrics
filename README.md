@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 74
-*  4/2020: 74
-*  3/2020: 61
-*  2/2020: 59
-*  1/2020: 58
-*  12/2019: 64
-*  11/2019: 61
-*  10/2019: 61
-*  9/2019: 62
-*  8/2019: 72
-*  7/2019: 65
-*  6/2019: 72
+*  5/2020: 79
+*  4/2020: 67
+*  3/2020: 60
+*  2/2020: 56
+*  1/2020: 62
+*  12/2019: 55
+*  11/2019: 60
+*  10/2019: 58
+*  9/2019: 63
+*  8/2019: 66
+*  7/2019: 72
+*  6/2019: 75
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 327
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 0 | 0 | 49| 2020-05-18 | 2020-05-18 |
-| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 26| 2020-05-16 | 2020-05-19 |
+| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 27| 2020-05-16 | 2020-05-23 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71096
+Total Matches: 71218
 
-Total Results (Limited by GitHUB API): 1289
+Total Results (Limited by GitHUB API): 1293
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [daviddahl/wut](https://github.com/daviddahl/wut)| 1 | 0 | 589| 2020-05-20 | 2020-05-22 |
-| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 12000| 2020-05-20 | 2020-05-22 |
+| [siddharth2798/VerifyDapp](https://github.com/siddharth2798/VerifyDapp)| 0 | 0 | 304| 2020-05-23 | 2020-05-23 |
+| [sherwyn11/Medi-Care](https://github.com/sherwyn11/Medi-Care)| 0 | 0 | 10691| 2020-05-23 | 2020-05-23 |
+| [daviddahl/wut](https://github.com/daviddahl/wut)| 1 | 0 | 693| 2020-05-20 | 2020-05-23 |
+| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 16629| 2020-05-20 | 2020-05-23 |
 | [siddharth2798/VerifyApp](https://github.com/siddharth2798/VerifyApp)| 0 | 0 | 30| 2020-05-20 | 2020-05-20 |
-| [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 623| 2020-05-18 | 2020-05-22 |
+| [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 810| 2020-05-18 | 2020-05-23 |
 | [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 0 | 0 | 388| 2020-05-17 | 2020-05-17 |
 | [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
 | [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 10| 2020-05-15 | 2020-05-20 |
-| [fragmnt/stardust-market](https://github.com/fragmnt/stardust-market)| 0 | 0 | 6235| 2020-05-11 | 2020-05-21 |
-| [ibnesayeed/setup-ipfs](https://github.com/ibnesayeed/setup-ipfs)| 0 | 0 | 287| 2020-05-11 | 2020-05-16 |
-| [phillmac/go-ipfs-orbit-db](https://github.com/phillmac/go-ipfs-orbit-db)| 0 | 0 | 5| 2020-05-09 | 2020-05-09 |
+| [fragmnt/stardust-market](https://github.com/fragmnt/stardust-market)| 0 | 0 | 6630| 2020-05-11 | 2020-05-23 |
 
 
 The above set is limited to the 10 most recently created. 
