@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 79
-*  4/2020: 67
+*  5/2020: 71
+*  4/2020: 69
 *  3/2020: 60
-*  2/2020: 56
-*  1/2020: 62
-*  12/2019: 55
-*  11/2019: 60
-*  10/2019: 58
-*  9/2019: 63
-*  8/2019: 66
-*  7/2019: 72
-*  6/2019: 75
+*  2/2020: 60
+*  1/2020: 57
+*  12/2019: 59
+*  11/2019: 61
+*  10/2019: 59
+*  9/2019: 64
+*  8/2019: 67
+*  7/2019: 64
+*  6/2019: 74
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71218
+Total Matches: 71500
 
-Total Results (Limited by GitHUB API): 1293
+Total Results (Limited by GitHUB API): 1294
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [siddharth2798/VerifyDapp](https://github.com/siddharth2798/VerifyDapp)| 0 | 0 | 304| 2020-05-23 | 2020-05-23 |
-| [sherwyn11/Medi-Care](https://github.com/sherwyn11/Medi-Care)| 0 | 0 | 10691| 2020-05-23 | 2020-05-23 |
-| [daviddahl/wut](https://github.com/daviddahl/wut)| 1 | 0 | 693| 2020-05-20 | 2020-05-23 |
-| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 16629| 2020-05-20 | 2020-05-23 |
+| [rokulis/vu-webrtc-ipfs](https://github.com/rokulis/vu-webrtc-ipfs)| 0 | 0 | 9| 2020-05-24 | 2020-05-24 |
+| [tabcat/file-list-source](https://github.com/tabcat/file-list-source)| 0 | 0 | 3| 2020-05-24 | 2020-05-24 |
+| [ElHassanBaghrar/BlockDeepFake](https://github.com/ElHassanBaghrar/BlockDeepFake)| 0 | 0 | 215| 2020-05-24 | 2020-05-24 |
+| [ilovelili/ethereum-ipfs-demo](https://github.com/ilovelili/ethereum-ipfs-demo)| 0 | 0 | 279| 2020-05-24 | 2020-05-24 |
+| [soveren/soverenjs](https://github.com/soveren/soverenjs)| 0 | 0 | 88| 2020-05-24 | 2020-05-24 |
+| [siddharth2798/VerifyDapp](https://github.com/siddharth2798/VerifyDapp)| 0 | 0 | 325| 2020-05-23 | 2020-05-24 |
+| [sherwyn11/Medi-Care](https://github.com/sherwyn11/Medi-Care)| 1 | 0 | 10691| 2020-05-23 | 2020-05-23 |
+| [daviddahl/wut](https://github.com/daviddahl/wut)| 1 | 0 | 815| 2020-05-20 | 2020-05-24 |
+| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 16631| 2020-05-20 | 2020-05-24 |
 | [siddharth2798/VerifyApp](https://github.com/siddharth2798/VerifyApp)| 0 | 0 | 30| 2020-05-20 | 2020-05-20 |
-| [ElHassanBaghrar/BlockDeepfake](https://github.com/ElHassanBaghrar/BlockDeepfake)| 0 | 0 | 810| 2020-05-18 | 2020-05-23 |
-| [next2kumar/kpfs](https://github.com/next2kumar/kpfs)| 0 | 0 | 388| 2020-05-17 | 2020-05-17 |
-| [wisehackermonkey/ipfs-website](https://github.com/wisehackermonkey/ipfs-website)| 0 | 0 | 266| 2020-05-15 | 2020-05-15 |
-| [ellttBen/basquiatJS](https://github.com/ellttBen/basquiatJS)| 2 | 0 | 10| 2020-05-15 | 2020-05-20 |
-| [fragmnt/stardust-market](https://github.com/fragmnt/stardust-market)| 0 | 0 | 6630| 2020-05-11 | 2020-05-23 |
 
 
 The above set is limited to the 10 most recently created. 
