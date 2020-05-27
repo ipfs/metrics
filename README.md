@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 67
+*  5/2020: 70
 *  4/2020: 64
-*  3/2020: 59
-*  2/2020: 55
-*  1/2020: 61
-*  12/2019: 55
-*  11/2019: 54
-*  10/2019: 64
-*  9/2019: 64
-*  8/2019: 64
-*  7/2019: 65
-*  6/2019: 72
+*  3/2020: 56
+*  2/2020: 61
+*  1/2020: 60
+*  12/2019: 54
+*  11/2019: 56
+*  10/2019: 58
+*  9/2019: 62
+*  8/2019: 61
+*  7/2019: 64
+*  6/2019: 73
 
 ### GitHub Search
 
@@ -57,11 +57,11 @@ Total Results (Limited by GitHUB API): 327
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 12| 2020-05-18 | 2020-05-19 |
-| [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 0 | 0 | 49| 2020-05-18 | 2020-05-18 |
+| [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 27| 2020-05-16 | 2020-05-23 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
-| [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 0 | 0 | 29| 2020-05-04 | 2020-05-06 |
+| [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 1 | 0 | 29| 2020-05-04 | 2020-05-06 |
 | [whyrusleeping/ipcr](https://github.com/whyrusleeping/ipcr)| 4 | 0 | 6| 2020-05-04 | 2020-05-04 |
 | [lthibault/ipfs-fileshare](https://github.com/lthibault/ipfs-fileshare)| 0 | 0 | 50| 2020-04-30 | 2020-05-01 |
 | [nlko/ipfs-block-to-cid](https://github.com/nlko/ipfs-block-to-cid)| 1 | 0 | 4| 2020-04-22 | 2020-04-22 |
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71500
+Total Matches: 71650
 
-Total Results (Limited by GitHUB API): 1297
+Total Results (Limited by GitHUB API): 1300
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [sne-ot-research/ipfs-malicious](https://github.com/sne-ot-research/ipfs-malicious)| 0 | 0 | 328| 2020-05-26 | 2020-05-26 |
+| [Uniswap/convert-cidv0-cidv1](https://github.com/Uniswap/convert-cidv0-cidv1)| 0 | 0 | 1461| 2020-05-26 | 2020-05-26 |
+| [Uniswap/replace-vercel-dns-records](https://github.com/Uniswap/replace-vercel-dns-records)| 0 | 0 | 37| 2020-05-26 | 2020-05-26 |
 | [rokulis/vu-webrtc-ipfs](https://github.com/rokulis/vu-webrtc-ipfs)| 0 | 1 | 9| 2020-05-24 | 2020-05-25 |
 | [tabcat/file-list-source](https://github.com/tabcat/file-list-source)| 0 | 0 | 3| 2020-05-24 | 2020-05-24 |
 | [ElHassanBaghrar/BlockDeepFake](https://github.com/ElHassanBaghrar/BlockDeepFake)| 0 | 0 | 215| 2020-05-24 | 2020-05-24 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1297
 | [soveren/soverenjs](https://github.com/soveren/soverenjs)| 0 | 0 | 109| 2020-05-24 | 2020-05-25 |
 | [siddharth2798/VerifyDapp](https://github.com/siddharth2798/VerifyDapp)| 0 | 0 | 325| 2020-05-23 | 2020-05-24 |
 | [sherwyn11/Medi-Care](https://github.com/sherwyn11/Medi-Care)| 1 | 0 | 10691| 2020-05-23 | 2020-05-23 |
-| [daviddahl/wut](https://github.com/daviddahl/wut)| 2 | 1 | 927| 2020-05-20 | 2020-05-25 |
-| [PrarabdhGarg/ThinQ](https://github.com/PrarabdhGarg/ThinQ)| 0 | 0 | 18661| 2020-05-20 | 2020-05-25 |
-| [siddharth2798/VerifyApp](https://github.com/siddharth2798/VerifyApp)| 0 | 0 | 30| 2020-05-20 | 2020-05-20 |
 
 
 The above set is limited to the 10 most recently created. 
