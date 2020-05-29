@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 71
-*  4/2020: 67
-*  3/2020: 59
-*  2/2020: 59
-*  1/2020: 59
-*  12/2019: 56
-*  11/2019: 61
-*  10/2019: 65
-*  9/2019: 60
-*  8/2019: 62
-*  7/2019: 67
-*  6/2019: 72
+*  5/2020: 69
+*  4/2020: 71
+*  3/2020: 64
+*  2/2020: 58
+*  1/2020: 61
+*  12/2019: 57
+*  11/2019: 59
+*  10/2019: 66
+*  9/2019: 65
+*  8/2019: 63
+*  7/2019: 69
+*  6/2019: 77
 
 ### GitHub Search
 
@@ -50,12 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1650
+Total Matches: 1660
 
-Total Results (Limited by GitHUB API): 330
+Total Results (Limited by GitHUB API): 332
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 94| 2020-05-28 | 2020-05-28 |
+| [vulcanize/ipfs-chain-watchers](https://github.com/vulcanize/ipfs-chain-watchers)| 0 | 0 | 60081| 2020-05-27 | 2020-05-28 |
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 27| 2020-05-16 | 2020-05-23 |
@@ -64,8 +66,6 @@ Total Results (Limited by GitHUB API): 330
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
 | [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 1 | 0 | 29| 2020-05-04 | 2020-05-06 |
 | [whyrusleeping/ipcr](https://github.com/whyrusleeping/ipcr)| 4 | 0 | 6| 2020-05-04 | 2020-05-04 |
-| [lthibault/ipfs-fileshare](https://github.com/lthibault/ipfs-fileshare)| 0 | 0 | 50| 2020-04-30 | 2020-05-01 |
-| [nlko/ipfs-block-to-cid](https://github.com/nlko/ipfs-block-to-cid)| 1 | 0 | 4| 2020-04-22 | 2020-04-22 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71458
+Total Matches: 71750
 
-Total Results (Limited by GitHUB API): 1307
+Total Results (Limited by GitHUB API): 1300
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [x5engine/dapp-Private-Encrypted-Transact...](https://github.com/x5engine/dapp-Private-Encrypted-Transaction)| 0 | 0 | 0| 2020-05-27 | 2020-05-27 |
+| [x5engine/dapp-Private-Encrypted-Transact...](https://github.com/x5engine/dapp-Private-Encrypted-Transaction)| 0 | 0 | 225| 2020-05-27 | 2020-05-28 |
 | [IshaanSrivastavaaa/ipfs-pusher](https://github.com/IshaanSrivastavaaa/ipfs-pusher)| 0 | 0 | 202| 2020-05-27 | 2020-05-27 |
-| [sne-ot-research/ipfs-malicious](https://github.com/sne-ot-research/ipfs-malicious)| 0 | 0 | 328| 2020-05-26 | 2020-05-26 |
+| [sne-ot-research/ipfs-malicious](https://github.com/sne-ot-research/ipfs-malicious)| 0 | 0 | 4387| 2020-05-26 | 2020-05-28 |
 | [Uniswap/convert-cidv0-cidv1](https://github.com/Uniswap/convert-cidv0-cidv1)| 0 | 0 | 1461| 2020-05-26 | 2020-05-26 |
 | [Uniswap/replace-vercel-dns-records](https://github.com/Uniswap/replace-vercel-dns-records)| 0 | 0 | 38| 2020-05-26 | 2020-05-27 |
 | [rokulis/vu-webrtc-ipfs](https://github.com/rokulis/vu-webrtc-ipfs)| 0 | 1 | 9| 2020-05-24 | 2020-05-25 |
