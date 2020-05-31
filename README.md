@@ -21,16 +21,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  5/2020: 69
-*  4/2020: 69
-*  3/2020: 61
+*  4/2020: 62
+*  3/2020: 59
 *  2/2020: 55
-*  1/2020: 56
-*  12/2019: 60
+*  1/2020: 57
+*  12/2019: 52
 *  11/2019: 57
-*  10/2019: 63
-*  9/2019: 61
+*  10/2019: 62
+*  9/2019: 57
 *  8/2019: 66
-*  7/2019: 63
+*  7/2019: 62
 *  6/2019: 74
 
 ### GitHub Search
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1660
+Total Matches: 1675
 
-Total Results (Limited by GitHUB API): 332
+Total Results (Limited by GitHUB API): 335
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [storj-thirdparty/connector-IPFS](https://github.com/storj-thirdparty/connector-IPFS)| 0 | 0 | 195| 2020-05-30 | 2020-05-30 |
+| [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 0 | 0 | 6| 2020-05-30 | 2020-05-30 |
 | [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 94| 2020-05-28 | 2020-05-28 |
-| [vulcanize/ipfs-chain-watchers](https://github.com/vulcanize/ipfs-chain-watchers)| 0 | 0 | 60081| 2020-05-27 | 2020-05-28 |
+| [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 35| 2020-05-27 | 2020-05-30 |
+| [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
-| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 27| 2020-05-16 | 2020-05-23 |
+| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 48| 2020-05-16 | 2020-05-30 |
 | [sne-ot-research/peerscanner](https://github.com/sne-ot-research/peerscanner)| 0 | 0 | 28| 2020-05-11 | 2020-05-15 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
-| [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
-| [alanshaw/ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres)| 1 | 0 | 29| 2020-05-04 | 2020-05-06 |
-| [whyrusleeping/ipcr](https://github.com/whyrusleeping/ipcr)| 4 | 0 | 6| 2020-05-04 | 2020-05-04 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71800
+Total Matches: 71746
 
-Total Results (Limited by GitHUB API): 1299
+Total Results (Limited by GitHUB API): 1298
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
