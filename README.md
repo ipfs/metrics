@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 69
-*  4/2020: 62
-*  3/2020: 59
-*  2/2020: 55
-*  1/2020: 57
-*  12/2019: 52
-*  11/2019: 57
-*  10/2019: 62
-*  9/2019: 57
-*  8/2019: 66
-*  7/2019: 62
-*  6/2019: 74
+*  5/2020: 61
+*  4/2020: 58
+*  3/2020: 56
+*  2/2020: 59
+*  1/2020: 61
+*  12/2019: 54
+*  11/2019: 53
+*  10/2019: 59
+*  9/2019: 58
+*  8/2019: 62
+*  7/2019: 65
+*  6/2019: 64
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1675
+Total Matches: 1680
 
-Total Results (Limited by GitHUB API): 335
+Total Results (Limited by GitHUB API): 336
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 1 | 0 | 17| 2020-05-31 | 2020-05-31 |
 | [storj-thirdparty/connector-IPFS](https://github.com/storj-thirdparty/connector-IPFS)| 0 | 0 | 195| 2020-05-30 | 2020-05-30 |
-| [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 0 | 0 | 6| 2020-05-30 | 2020-05-30 |
+| [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 4 | 0 | 9| 2020-05-30 | 2020-05-31 |
 | [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 94| 2020-05-28 | 2020-05-28 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 35| 2020-05-27 | 2020-05-30 |
 | [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
-| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 48| 2020-05-16 | 2020-05-30 |
+| [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 54| 2020-05-16 | 2020-05-31 |
 | [sne-ot-research/peerscanner](https://github.com/sne-ot-research/peerscanner)| 0 | 0 | 28| 2020-05-11 | 2020-05-15 |
-| [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71746
+Total Matches: 71850
 
-Total Results (Limited by GitHUB API): 1298
+Total Results (Limited by GitHUB API): 1302
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
