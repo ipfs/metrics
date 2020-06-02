@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2020: 61
-*  4/2020: 58
-*  3/2020: 56
-*  2/2020: 59
-*  1/2020: 61
-*  12/2019: 54
-*  11/2019: 53
-*  10/2019: 59
+*  5/2020: 66
+*  4/2020: 67
+*  3/2020: 63
+*  2/2020: 58
+*  1/2020: 62
+*  12/2019: 51
+*  11/2019: 57
+*  10/2019: 70
 *  9/2019: 58
-*  8/2019: 62
-*  7/2019: 65
-*  6/2019: 64
+*  8/2019: 64
+*  7/2019: 62
+*  6/2019: 77
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1680
+Total Matches: 1685
 
-Total Results (Limited by GitHUB API): 336
+Total Results (Limited by GitHUB API): 337
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 1 | 0 | 17| 2020-05-31 | 2020-05-31 |
+| [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 20| 2020-05-31 | 2020-06-01 |
 | [storj-thirdparty/connector-IPFS](https://github.com/storj-thirdparty/connector-IPFS)| 0 | 0 | 195| 2020-05-30 | 2020-05-30 |
-| [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 4 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 94| 2020-05-28 | 2020-05-28 |
+| [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 8 | 0 | 9| 2020-05-30 | 2020-05-31 |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 199| 2020-05-28 | 2020-06-01 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 35| 2020-05-27 | 2020-05-30 |
 | [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
-| [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 0 | 0 | 12| 2020-05-18 | 2020-05-19 |
+| [manuelpolzhofer/ipfs-mon](https://github.com/manuelpolzhofer/ipfs-mon)| 0 | 0 | 85| 2020-05-26 | 2020-06-01 |
+| [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 1 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor)| 0 | 0 | 54| 2020-05-16 | 2020-05-31 |
-| [sne-ot-research/peerscanner](https://github.com/sne-ot-research/peerscanner)| 0 | 0 | 28| 2020-05-11 | 2020-05-15 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71850
+Total Matches: 71892
 
-Total Results (Limited by GitHUB API): 1302
+Total Results (Limited by GitHUB API): 1307
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -85,10 +85,10 @@ Total Results (Limited by GitHUB API): 1302
 | [sne-ot-research/ipfs-malicious](https://github.com/sne-ot-research/ipfs-malicious)| 0 | 0 | 4387| 2020-05-26 | 2020-05-28 |
 | [Uniswap/convert-cidv0-cidv1](https://github.com/Uniswap/convert-cidv0-cidv1)| 0 | 0 | 1461| 2020-05-26 | 2020-05-26 |
 | [Uniswap/replace-vercel-dns-records](https://github.com/Uniswap/replace-vercel-dns-records)| 0 | 0 | 38| 2020-05-26 | 2020-05-27 |
+| [Alistair-Tech/AudioShare](https://github.com/Alistair-Tech/AudioShare)| 0 | 2 | 21| 2020-05-26 | 2020-06-01 |
 | [rokulis/vu-webrtc-ipfs](https://github.com/rokulis/vu-webrtc-ipfs)| 0 | 1 | 9| 2020-05-24 | 2020-05-25 |
 | [tabcat/file-list-source](https://github.com/tabcat/file-list-source)| 0 | 0 | 3| 2020-05-24 | 2020-05-24 |
 | [ElHassanBaghrar/BlockDeepFake](https://github.com/ElHassanBaghrar/BlockDeepFake)| 0 | 0 | 215| 2020-05-24 | 2020-05-24 |
-| [ilovelili/ethereum-ipfs-demo](https://github.com/ilovelili/ethereum-ipfs-demo)| 0 | 0 | 279| 2020-05-24 | 2020-05-24 |
 
 
 The above set is limited to the 10 most recently created. 
