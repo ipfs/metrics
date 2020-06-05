@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 72
-*  5/2020: 67
-*  4/2020: 66
-*  3/2020: 58
-*  2/2020: 62
-*  1/2020: 61
-*  12/2019: 52
-*  11/2019: 58
-*  10/2019: 60
-*  9/2019: 60
-*  8/2019: 60
-*  7/2019: 63
+*  6/2020: 64
+*  5/2020: 64
+*  4/2020: 62
+*  3/2020: 60
+*  2/2020: 58
+*  1/2020: 57
+*  12/2019: 54
+*  11/2019: 54
+*  10/2019: 61
+*  9/2019: 59
+*  8/2019: 66
+*  7/2019: 62
 
 ### GitHub Search
 
@@ -56,10 +56,10 @@ Total Results (Limited by GitHUB API): 336
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 20| 2020-05-31 | 2020-06-01 |
+| [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-IPFS](https://github.com/storj-thirdparty/connector-IPFS)| 0 | 0 | 196| 2020-05-30 | 2020-06-02 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 8 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 270| 2020-05-28 | 2020-06-03 |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 350| 2020-05-28 | 2020-06-04 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 43| 2020-05-27 | 2020-06-03 |
 | [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 | [manuelpolzhofer/ipfs-mon](https://github.com/manuelpolzhofer/ipfs-mon)| 0 | 0 | 85| 2020-05-26 | 2020-06-01 |
