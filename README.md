@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 54
-*  5/2020: 69
-*  4/2020: 67
-*  3/2020: 58
-*  2/2020: 57
-*  1/2020: 54
-*  12/2019: 58
-*  11/2019: 58
-*  10/2019: 62
-*  9/2019: 62
-*  8/2019: 67
-*  7/2019: 61
+*  6/2020: 74
+*  5/2020: 68
+*  4/2020: 68
+*  3/2020: 53
+*  2/2020: 62
+*  1/2020: 56
+*  12/2019: 55
+*  11/2019: 59
+*  10/2019: 64
+*  9/2019: 58
+*  8/2019: 61
+*  7/2019: 60
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1690
 
-Total Results (Limited by GitHUB API): 336
+Total Results (Limited by GitHUB API): 338
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71980
+Total Matches: 72100
 
-Total Results (Limited by GitHUB API): 1304
+Total Results (Limited by GitHUB API): 1306
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [dhappy/git-remote-ipfs-mam](https://github.com/dhappy/git-remote-ipfs-mam)| 0 | 0 | 19640| 2020-06-06 | 2020-06-06 |
 | [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-adminlte)| 1 | 0 | 517| 2020-06-05 | 2020-06-05 |
 | [danielricgt/ethipfs](https://github.com/danielricgt/ethipfs)| 0 | 0 | 107| 2020-06-03 | 2020-06-03 |
 | [xaiki/butter-provider-ipfs](https://github.com/xaiki/butter-provider-ipfs)| 0 | 0 | 1| 2020-06-03 | 2020-06-03 |
 | [anarkrypto/simple-ipfs-file-uploader-via...](https://github.com/anarkrypto/simple-ipfs-file-uploader-via-browser)| 0 | 0 | 487| 2020-06-02 | 2020-06-02 |
 | [oladotunsobande/ipfs_app](https://github.com/oladotunsobande/ipfs_app)| 0 | 0 | 292| 2020-05-29 | 2020-05-29 |
+| [ashishnagpal2498/cloud-titans-IPFS](https://github.com/ashishnagpal2498/cloud-titans-IPFS)| 0 | 0 | 1040| 2020-05-28 | 2020-06-06 |
 | [x5engine/dapp-Private-Encrypted-Transact...](https://github.com/x5engine/dapp-Private-Encrypted-Transaction)| 1 | 0 | 225| 2020-05-27 | 2020-05-28 |
 | [IshaanSrivastavaaa/ipfs-pusher](https://github.com/IshaanSrivastavaaa/ipfs-pusher)| 0 | 0 | 202| 2020-05-27 | 2020-05-27 |
 | [sne-ot-research/ipfs-malicious](https://github.com/sne-ot-research/ipfs-malicious)| 0 | 0 | 4387| 2020-05-26 | 2020-05-28 |
-| [Uniswap/convert-cidv0-cidv1](https://github.com/Uniswap/convert-cidv0-cidv1)| 0 | 0 | 1461| 2020-05-26 | 2020-05-26 |
-| [Uniswap/replace-vercel-dns-records](https://github.com/Uniswap/replace-vercel-dns-records)| 0 | 0 | 38| 2020-05-26 | 2020-05-27 |
 
 
 The above set is limited to the 10 most recently created. 
