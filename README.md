@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 74
+*  6/2020: 68
 *  5/2020: 68
-*  4/2020: 68
-*  3/2020: 53
-*  2/2020: 62
-*  1/2020: 56
-*  12/2019: 55
-*  11/2019: 59
-*  10/2019: 64
-*  9/2019: 58
-*  8/2019: 61
-*  7/2019: 60
+*  4/2020: 65
+*  3/2020: 67
+*  2/2020: 61
+*  1/2020: 61
+*  12/2019: 61
+*  11/2019: 67
+*  10/2019: 70
+*  9/2019: 61
+*  8/2019: 70
+*  7/2019: 66
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1690
 
-Total Results (Limited by GitHUB API): 338
+Total Results (Limited by GitHUB API): 336
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 338
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-IPFS](https://github.com/storj-thirdparty/connector-IPFS)| 0 | 1 | 199| 2020-05-30 | 2020-06-05 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 8 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 370| 2020-05-28 | 2020-06-05 |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 445| 2020-05-28 | 2020-06-07 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 43| 2020-05-27 | 2020-06-03 |
 | [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 | [manuelpolzhofer/ipfs-mon](https://github.com/manuelpolzhofer/ipfs-mon)| 0 | 0 | 85| 2020-05-26 | 2020-06-01 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72100
+Total Matches: 72068
 
-Total Results (Limited by GitHUB API): 1306
+Total Results (Limited by GitHUB API): 1308
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet)| 0 | 0 | 519| 2020-06-07 | 2020-06-07 |
+| [n-bhasin/SImpleIPFS](https://github.com/n-bhasin/SImpleIPFS)| 0 | 0 | 1756| 2020-06-07 | 2020-06-07 |
 | [dhappy/git-remote-ipfs-mam](https://github.com/dhappy/git-remote-ipfs-mam)| 0 | 0 | 19640| 2020-06-06 | 2020-06-06 |
-| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-adminlte)| 1 | 0 | 517| 2020-06-05 | 2020-06-05 |
+| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-adminlte)| 1 | 1 | 543| 2020-06-05 | 2020-06-07 |
 | [danielricgt/ethipfs](https://github.com/danielricgt/ethipfs)| 0 | 0 | 107| 2020-06-03 | 2020-06-03 |
 | [xaiki/butter-provider-ipfs](https://github.com/xaiki/butter-provider-ipfs)| 0 | 0 | 1| 2020-06-03 | 2020-06-03 |
 | [anarkrypto/simple-ipfs-file-uploader-via...](https://github.com/anarkrypto/simple-ipfs-file-uploader-via-browser)| 0 | 0 | 487| 2020-06-02 | 2020-06-02 |
 | [oladotunsobande/ipfs_app](https://github.com/oladotunsobande/ipfs_app)| 0 | 0 | 292| 2020-05-29 | 2020-05-29 |
 | [ashishnagpal2498/cloud-titans-IPFS](https://github.com/ashishnagpal2498/cloud-titans-IPFS)| 0 | 0 | 1040| 2020-05-28 | 2020-06-06 |
 | [x5engine/dapp-Private-Encrypted-Transact...](https://github.com/x5engine/dapp-Private-Encrypted-Transaction)| 1 | 0 | 225| 2020-05-27 | 2020-05-28 |
-| [IshaanSrivastavaaa/ipfs-pusher](https://github.com/IshaanSrivastavaaa/ipfs-pusher)| 0 | 0 | 202| 2020-05-27 | 2020-05-27 |
-| [sne-ot-research/ipfs-malicious](https://github.com/sne-ot-research/ipfs-malicious)| 0 | 0 | 4387| 2020-05-26 | 2020-05-28 |
 
 
 The above set is limited to the 10 most recently created. 
