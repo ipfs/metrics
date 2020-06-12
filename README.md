@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 53
-*  5/2020: 67
-*  4/2020: 64
-*  3/2020: 56
-*  2/2020: 52
-*  1/2020: 58
-*  12/2019: 56
-*  11/2019: 60
-*  10/2019: 67
-*  9/2019: 57
+*  6/2020: 78
+*  5/2020: 72
+*  4/2020: 65
+*  3/2020: 61
+*  2/2020: 59
+*  1/2020: 57
+*  12/2019: 60
+*  11/2019: 61
+*  10/2019: 65
+*  9/2019: 60
 *  8/2019: 67
-*  7/2019: 61
+*  7/2019: 65
 
 ### GitHub Search
 
@@ -52,17 +52,17 @@ so we don't know why this is the case.
 
 Total Matches: 1700
 
-Total Results (Limited by GitHUB API): 339
+Total Results (Limited by GitHUB API): 340
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 0| 2020-06-10 | 2020-06-10 |
+| [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3861| 2020-06-04 | 2020-06-09 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 428| 2020-06-01 | 2020-06-10 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 8 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 537| 2020-05-28 | 2020-06-09 |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 599| 2020-05-28 | 2020-06-11 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 43| 2020-05-27 | 2020-06-03 |
 | [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 | [manuelpolzhofer/ipfs-mon](https://github.com/manuelpolzhofer/ipfs-mon)| 0 | 0 | 85| 2020-05-26 | 2020-06-01 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72400
+Total Matches: 72409
 
-Total Results (Limited by GitHUB API): 1311
+Total Results (Limited by GitHUB API): 1303
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [jessicaschilling/ipfs-gui-mental-model](https://github.com/jessicaschilling/ipfs-gui-mental-model)| 0 | 0 | 848| 2020-06-09 | 2020-06-10 |
+| [LorranSutter/IPFS-demo](https://github.com/LorranSutter/IPFS-demo)| 0 | 0 | 250| 2020-06-11 | 2020-06-11 |
+| [spwebler/Final-Project](https://github.com/spwebler/Final-Project)| 0 | 0 | 141| 2020-06-11 | 2020-06-11 |
+| [jessicaschilling/ipfs-gui-mental-model](https://github.com/jessicaschilling/ipfs-gui-mental-model)| 0 | 0 | 853| 2020-06-09 | 2020-06-11 |
 | [revolunet/react-orbitdb](https://github.com/revolunet/react-orbitdb)| 4 | 0 | 7334| 2020-06-09 | 2020-06-10 |
 | [MASDXI/Vue-IPFS](https://github.com/MASDXI/Vue-IPFS)| 0 | 0 | 154| 2020-06-08 | 2020-06-08 |
-| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet)| 0 | 0 | 524| 2020-06-07 | 2020-06-10 |
+| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet)| 0 | 1 | 528| 2020-06-07 | 2020-06-11 |
 | [n-bhasin/SImpleIPFS](https://github.com/n-bhasin/SImpleIPFS)| 0 | 0 | 1764| 2020-06-07 | 2020-06-08 |
-| [SONGSONGBOBO/filecoincloud_client](https://github.com/SONGSONGBOBO/filecoincloud_client)| 0 | 0 | 7908| 2020-06-07 | 2020-06-10 |
+| [SONGSONGBOBO/filecoincloud_client](https://github.com/SONGSONGBOBO/filecoincloud_client)| 0 | 0 | 7912| 2020-06-07 | 2020-06-11 |
 | [dhappy/git-remote-ipfs-mam](https://github.com/dhappy/git-remote-ipfs-mam)| 0 | 0 | 19640| 2020-06-06 | 2020-06-06 |
 | [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-adminlte)| 1 | 1 | 543| 2020-06-05 | 2020-06-07 |
-| [danielricgt/ethipfs](https://github.com/danielricgt/ethipfs)| 0 | 0 | 107| 2020-06-03 | 2020-06-03 |
-| [xaiki/butter-provider-ipfs](https://github.com/xaiki/butter-provider-ipfs)| 0 | 0 | 1| 2020-06-03 | 2020-06-03 |
 
 
 The above set is limited to the 10 most recently created. 
