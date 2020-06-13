@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 78
-*  5/2020: 72
-*  4/2020: 65
+*  6/2020: 74
+*  5/2020: 70
+*  4/2020: 64
 *  3/2020: 61
 *  2/2020: 59
-*  1/2020: 57
-*  12/2019: 60
-*  11/2019: 61
-*  10/2019: 65
-*  9/2019: 60
-*  8/2019: 67
-*  7/2019: 65
+*  1/2020: 62
+*  12/2019: 54
+*  11/2019: 62
+*  10/2019: 63
+*  9/2019: 63
+*  8/2019: 68
+*  7/2019: 64
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1700
 
-Total Results (Limited by GitHUB API): 340
+Total Results (Limited by GitHUB API): 339
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72409
+Total Matches: 72622
 
-Total Results (Limited by GitHUB API): 1303
+Total Results (Limited by GitHUB API): 1317
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [LorranSutter/IPFS-demo](https://github.com/LorranSutter/IPFS-demo)| 0 | 0 | 250| 2020-06-11 | 2020-06-11 |
+| [esmonddsouza/CrimeChain](https://github.com/esmonddsouza/CrimeChain)| 0 | 0 | 278| 2020-06-12 | 2020-06-12 |
+| [majid-T/IFPS-example](https://github.com/majid-T/IFPS-example)| 0 | 0 | 251| 2020-06-12 | 2020-06-12 |
+| [LorranSutter/IPFS-demo](https://github.com/LorranSutter/IPFS-demo)| 0 | 0 | 253| 2020-06-11 | 2020-06-12 |
 | [spwebler/Final-Project](https://github.com/spwebler/Final-Project)| 0 | 0 | 141| 2020-06-11 | 2020-06-11 |
 | [jessicaschilling/ipfs-gui-mental-model](https://github.com/jessicaschilling/ipfs-gui-mental-model)| 0 | 0 | 853| 2020-06-09 | 2020-06-11 |
 | [revolunet/react-orbitdb](https://github.com/revolunet/react-orbitdb)| 4 | 0 | 7334| 2020-06-09 | 2020-06-10 |
 | [MASDXI/Vue-IPFS](https://github.com/MASDXI/Vue-IPFS)| 0 | 0 | 154| 2020-06-08 | 2020-06-08 |
-| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet)| 0 | 1 | 528| 2020-06-07 | 2020-06-11 |
+| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet)| 0 | 1 | 864| 2020-06-07 | 2020-06-12 |
 | [n-bhasin/SImpleIPFS](https://github.com/n-bhasin/SImpleIPFS)| 0 | 0 | 1764| 2020-06-07 | 2020-06-08 |
 | [SONGSONGBOBO/filecoincloud_client](https://github.com/SONGSONGBOBO/filecoincloud_client)| 0 | 0 | 7912| 2020-06-07 | 2020-06-11 |
-| [dhappy/git-remote-ipfs-mam](https://github.com/dhappy/git-remote-ipfs-mam)| 0 | 0 | 19640| 2020-06-06 | 2020-06-06 |
-| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-adminlte)| 1 | 1 | 543| 2020-06-05 | 2020-06-07 |
 
 
 The above set is limited to the 10 most recently created. 
