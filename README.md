@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 67
-*  5/2020: 65
-*  4/2020: 68
-*  3/2020: 61
-*  2/2020: 60
-*  1/2020: 58
+*  6/2020: 74
+*  5/2020: 68
+*  4/2020: 67
+*  3/2020: 58
+*  2/2020: 57
+*  1/2020: 60
 *  12/2019: 58
-*  11/2019: 60
-*  10/2019: 65
-*  9/2019: 61
-*  8/2019: 64
-*  7/2019: 64
+*  11/2019: 58
+*  10/2019: 66
+*  9/2019: 62
+*  8/2019: 65
+*  7/2019: 66
 
 ### GitHub Search
 
@@ -50,15 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1705
+Total Matches: 1703
 
-Total Results (Limited by GitHUB API): 341
+Total Results (Limited by GitHUB API): 339
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 0 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
-| [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3861| 2020-06-04 | 2020-06-09 |
+| [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 428| 2020-06-01 | 2020-06-10 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72613
+Total Matches: 72732
 
-Total Results (Limited by GitHUB API): 1302
+Total Results (Limited by GitHUB API): 1316
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Nas2020/react_IPFS](https://github.com/Nas2020/react_IPFS)| 0 | 0 | 1595| 2020-06-13 | 2020-06-13 |
+| [tienthanh8490/protoschool-tutorial](https://github.com/tienthanh8490/protoschool-tutorial)| 0 | 0 | 5| 2020-06-14 | 2020-06-14 |
+| [Nas2020/react_IPFS](https://github.com/Nas2020/react_IPFS)| 0 | 0 | 317| 2020-06-13 | 2020-06-14 |
 | [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 1 | 4516| 2020-06-13 | 2020-06-13 |
 | [esmonddsouza/CrimeChain](https://github.com/esmonddsouza/CrimeChain)| 0 | 0 | 298| 2020-06-12 | 2020-06-13 |
 | [majid-T/IFPS-example](https://github.com/majid-T/IFPS-example)| 0 | 0 | 564| 2020-06-12 | 2020-06-13 |
-| [LorranSutter/IPFS-demo](https://github.com/LorranSutter/IPFS-demo)| 0 | 0 | 255| 2020-06-11 | 2020-06-13 |
+| [LorranSutter/IPFS-demo](https://github.com/LorranSutter/IPFS-demo)| 0 | 0 | 492| 2020-06-11 | 2020-06-14 |
 | [spwebler/Final-Project](https://github.com/spwebler/Final-Project)| 0 | 0 | 141| 2020-06-11 | 2020-06-11 |
 | [jessicaschilling/ipfs-gui-mental-model](https://github.com/jessicaschilling/ipfs-gui-mental-model)| 0 | 0 | 853| 2020-06-09 | 2020-06-11 |
 | [revolunet/react-orbitdb](https://github.com/revolunet/react-orbitdb)| 5 | 0 | 7334| 2020-06-09 | 2020-06-10 |
 | [MASDXI/Vue-IPFS](https://github.com/MASDXI/Vue-IPFS)| 0 | 0 | 154| 2020-06-08 | 2020-06-08 |
-| [Permissionless-Software-Foundation/gatsb...](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet)| 0 | 1 | 866| 2020-06-07 | 2020-06-13 |
 
 
 The above set is limited to the 10 most recently created. 
