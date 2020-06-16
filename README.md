@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 74
-*  5/2020: 68
-*  4/2020: 67
-*  3/2020: 58
+*  6/2020: 60
+*  5/2020: 62
+*  4/2020: 63
+*  3/2020: 61
 *  2/2020: 57
-*  1/2020: 60
-*  12/2019: 58
-*  11/2019: 58
+*  1/2020: 56
+*  12/2019: 60
+*  11/2019: 55
 *  10/2019: 66
-*  9/2019: 62
-*  8/2019: 65
-*  7/2019: 66
+*  9/2019: 58
+*  8/2019: 60
+*  7/2019: 60
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1703
+Total Matches: 1705
 
-Total Results (Limited by GitHUB API): 339
+Total Results (Limited by GitHUB API): 341
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 339
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 599| 2020-05-28 | 2020-06-11 |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 732| 2020-05-28 | 2020-06-15 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 43| 2020-05-27 | 2020-06-03 |
 | [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72732
+Total Matches: 72694
 
-Total Results (Limited by GitHUB API): 1316
+Total Results (Limited by GitHUB API): 1320
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [FirasDev/ipfs-micro-service](https://github.com/FirasDev/ipfs-micro-service)| 0 | 0 | 9559| 2020-06-15 | 2020-06-15 |
 | [tienthanh8490/protoschool-tutorial](https://github.com/tienthanh8490/protoschool-tutorial)| 0 | 0 | 5| 2020-06-14 | 2020-06-14 |
 | [Nas2020/react_IPFS](https://github.com/Nas2020/react_IPFS)| 0 | 0 | 317| 2020-06-13 | 2020-06-14 |
-| [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 1 | 4516| 2020-06-13 | 2020-06-13 |
-| [esmonddsouza/CrimeChain](https://github.com/esmonddsouza/CrimeChain)| 0 | 0 | 298| 2020-06-12 | 2020-06-13 |
+| [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 1 | 11592| 2020-06-13 | 2020-06-15 |
+| [esmonddsouza/CrimeChain](https://github.com/esmonddsouza/CrimeChain)| 0 | 0 | 541| 2020-06-12 | 2020-06-15 |
 | [majid-T/IFPS-example](https://github.com/majid-T/IFPS-example)| 0 | 0 | 564| 2020-06-12 | 2020-06-13 |
 | [LorranSutter/IPFS-demo](https://github.com/LorranSutter/IPFS-demo)| 0 | 0 | 492| 2020-06-11 | 2020-06-14 |
 | [spwebler/Final-Project](https://github.com/spwebler/Final-Project)| 0 | 0 | 141| 2020-06-11 | 2020-06-11 |
-| [jessicaschilling/ipfs-gui-mental-model](https://github.com/jessicaschilling/ipfs-gui-mental-model)| 0 | 0 | 853| 2020-06-09 | 2020-06-11 |
+| [jessicaschilling/ipfs-gui-mental-model](https://github.com/jessicaschilling/ipfs-gui-mental-model)| 0 | 0 | 855| 2020-06-09 | 2020-06-15 |
 | [revolunet/react-orbitdb](https://github.com/revolunet/react-orbitdb)| 5 | 0 | 7334| 2020-06-09 | 2020-06-10 |
-| [MASDXI/Vue-IPFS](https://github.com/MASDXI/Vue-IPFS)| 0 | 0 | 154| 2020-06-08 | 2020-06-08 |
 
 
 The above set is limited to the 10 most recently created. 
