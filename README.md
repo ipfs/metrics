@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 65
-*  5/2020: 65
-*  4/2020: 68
-*  3/2020: 55
-*  2/2020: 57
+*  6/2020: 62
+*  5/2020: 69
+*  4/2020: 65
+*  3/2020: 58
+*  2/2020: 61
 *  1/2020: 56
-*  12/2019: 55
-*  11/2019: 64
-*  10/2019: 61
-*  9/2019: 58
-*  8/2019: 61
-*  7/2019: 61
+*  12/2019: 51
+*  11/2019: 54
+*  10/2019: 65
+*  9/2019: 55
+*  8/2019: 64
+*  7/2019: 60
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1715
+Total Matches: 1720
 
-Total Results (Limited by GitHUB API): 343
+Total Results (Limited by GitHUB API): 344
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 0 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
@@ -63,9 +64,8 @@ Total Results (Limited by GitHUB API): 343
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 3907| 2020-05-28 | 2020-06-18 |
+| [will-rowe/stark](https://github.com/will-rowe/stark)| 1 | 0 | 5172| 2020-05-28 | 2020-06-19 |
 | [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 54| 2020-05-27 | 2020-06-17 |
-| [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60088| 2020-05-27 | 2020-05-30 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72838
+Total Matches: 73052
 
-Total Results (Limited by GitHUB API): 1323
+Total Results (Limited by GitHUB API): 1322
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 114| 2020-06-18 | 2020-06-18 |
 | [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
-| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 44| 2020-06-16 | 2020-06-18 |
+| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 224| 2020-06-16 | 2020-06-19 |
 | [muzz56/IPFS_demo](https://github.com/muzz56/IPFS_demo)| 0 | 0 | 240| 2020-06-16 | 2020-06-16 |
 | [DeadPreZ-101/IPFS-React-Application](https://github.com/DeadPreZ-101/IPFS-React-Application)| 1 | 0 | 5276| 2020-06-16 | 2020-06-16 |
 | [FirasDev/ipfs-micro-service](https://github.com/FirasDev/ipfs-micro-service)| 0 | 0 | 9559| 2020-06-15 | 2020-06-15 |
 | [tienthanh8490/protoschool-tutorial](https://github.com/tienthanh8490/protoschool-tutorial)| 0 | 0 | 5| 2020-06-14 | 2020-06-14 |
 | [Nas2020/react_IPFS](https://github.com/Nas2020/react_IPFS)| 0 | 0 | 317| 2020-06-13 | 2020-06-14 |
 | [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 1 | 11592| 2020-06-13 | 2020-06-15 |
-| [esmonddsouza/CrimeChain](https://github.com/esmonddsouza/CrimeChain)| 0 | 0 | 551| 2020-06-12 | 2020-06-16 |
+| [esmonddsouza/CrimeChain](https://github.com/esmonddsouza/CrimeChain)| 0 | 0 | 684| 2020-06-12 | 2020-06-19 |
 
 
 The above set is limited to the 10 most recently created. 
