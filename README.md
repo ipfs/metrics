@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 69
-*  5/2020: 69
-*  4/2020: 69
-*  3/2020: 57
-*  2/2020: 59
-*  1/2020: 56
-*  12/2019: 59
-*  11/2019: 60
+*  6/2020: 72
+*  5/2020: 62
+*  4/2020: 64
+*  3/2020: 59
+*  2/2020: 62
+*  1/2020: 59
+*  12/2019: 55
+*  11/2019: 59
 *  10/2019: 60
-*  9/2019: 56
-*  8/2019: 60
-*  7/2019: 65
+*  9/2019: 59
+*  8/2019: 72
+*  7/2019: 59
 
 ### GitHub Search
 
@@ -64,8 +64,8 @@ Total Results (Limited by GitHUB API): 343
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 54| 2020-05-27 | 2020-06-17 |
-| [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60093| 2020-05-27 | 2020-06-20 |
+| [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 71| 2020-05-27 | 2020-06-22 |
+| [vulcanize/ipfs-blockchain-watcher](https://github.com/vulcanize/ipfs-blockchain-watcher)| 0 | 0 | 60157| 2020-05-27 | 2020-06-22 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73083
+Total Matches: 73150
 
 Total Results (Limited by GitHUB API): 1323
 
@@ -82,13 +82,13 @@ Total Results (Limited by GitHUB API): 1323
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 114| 2020-06-18 | 2020-06-18 |
 | [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
-| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 615| 2020-06-16 | 2020-06-21 |
+| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 271| 2020-06-16 | 2020-06-22 |
 | [muzz56/IPFS_demo](https://github.com/muzz56/IPFS_demo)| 0 | 0 | 240| 2020-06-16 | 2020-06-16 |
 | [DeadPreZ-101/IPFS-React-Application](https://github.com/DeadPreZ-101/IPFS-React-Application)| 1 | 0 | 5276| 2020-06-16 | 2020-06-16 |
 | [FirasDev/ipfs-micro-service](https://github.com/FirasDev/ipfs-micro-service)| 0 | 0 | 9559| 2020-06-15 | 2020-06-15 |
 | [tienthanh8490/protoschool-tutorial](https://github.com/tienthanh8490/protoschool-tutorial)| 0 | 0 | 5| 2020-06-14 | 2020-06-14 |
 | [Nas2020/react_IPFS](https://github.com/Nas2020/react_IPFS)| 0 | 0 | 317| 2020-06-13 | 2020-06-14 |
-| [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 1 | 11592| 2020-06-13 | 2020-06-15 |
+| [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 2 | 11592| 2020-06-13 | 2020-06-15 |
 
 
 The above set is limited to the 10 most recently created. 
