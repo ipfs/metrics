@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 72
-*  5/2020: 62
-*  4/2020: 64
-*  3/2020: 59
-*  2/2020: 62
-*  1/2020: 59
-*  12/2019: 55
-*  11/2019: 59
-*  10/2019: 60
+*  6/2020: 64
+*  5/2020: 68
+*  4/2020: 65
+*  3/2020: 57
+*  2/2020: 53
+*  1/2020: 56
+*  12/2019: 51
+*  11/2019: 57
+*  10/2019: 61
 *  9/2019: 59
-*  8/2019: 72
-*  7/2019: 59
+*  8/2019: 67
+*  7/2019: 65
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73150
+Total Matches: 73113
 
-Total Results (Limited by GitHUB API): 1323
+Total Results (Limited by GitHUB API): 1328
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [realChainLife/ipfs-africa](https://github.com/realChainLife/ipfs-africa)| 0 | 0 | 0| 2020-06-23 | 2020-06-24 |
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 114| 2020-06-18 | 2020-06-18 |
 | [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
-| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 271| 2020-06-16 | 2020-06-22 |
+| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 272| 2020-06-16 | 2020-06-23 |
 | [muzz56/IPFS_demo](https://github.com/muzz56/IPFS_demo)| 0 | 0 | 240| 2020-06-16 | 2020-06-16 |
 | [DeadPreZ-101/IPFS-React-Application](https://github.com/DeadPreZ-101/IPFS-React-Application)| 1 | 0 | 5276| 2020-06-16 | 2020-06-16 |
 | [FirasDev/ipfs-micro-service](https://github.com/FirasDev/ipfs-micro-service)| 0 | 0 | 9559| 2020-06-15 | 2020-06-15 |
 | [tienthanh8490/protoschool-tutorial](https://github.com/tienthanh8490/protoschool-tutorial)| 0 | 0 | 5| 2020-06-14 | 2020-06-14 |
 | [Nas2020/react_IPFS](https://github.com/Nas2020/react_IPFS)| 0 | 0 | 317| 2020-06-13 | 2020-06-14 |
-| [KMPARDS/kyc-dapp-react](https://github.com/KMPARDS/kyc-dapp-react)| 0 | 2 | 11592| 2020-06-13 | 2020-06-15 |
 
 
 The above set is limited to the 10 most recently created. 
