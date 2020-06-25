@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 64
-*  5/2020: 68
-*  4/2020: 65
-*  3/2020: 57
-*  2/2020: 53
-*  1/2020: 56
-*  12/2019: 51
-*  11/2019: 57
+*  6/2020: 73
+*  5/2020: 67
+*  4/2020: 64
+*  3/2020: 54
+*  2/2020: 61
+*  1/2020: 58
+*  12/2019: 48
+*  11/2019: 56
 *  10/2019: 61
 *  9/2019: 59
-*  8/2019: 67
-*  7/2019: 65
+*  8/2019: 66
+*  7/2019: 63
 
 ### GitHub Search
 
@@ -73,13 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73113
+Total Matches: 73219
 
-Total Results (Limited by GitHUB API): 1328
+Total Results (Limited by GitHUB API): 1327
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [realChainLife/ipfs-africa](https://github.com/realChainLife/ipfs-africa)| 0 | 0 | 0| 2020-06-23 | 2020-06-24 |
+| [ipfs-africa/ipfs-africa.github.io](https://github.com/ipfs-africa/ipfs-africa.github.io)| 0 | 0 | 6922| 2020-06-23 | 2020-06-24 |
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 114| 2020-06-18 | 2020-06-18 |
 | [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
