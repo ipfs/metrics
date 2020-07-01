@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 70
-*  5/2020: 62
-*  4/2020: 63
-*  3/2020: 58
-*  2/2020: 60
-*  1/2020: 58
+*  6/2020: 64
+*  5/2020: 68
+*  4/2020: 67
+*  3/2020: 54
+*  2/2020: 57
+*  1/2020: 61
 *  12/2019: 53
-*  11/2019: 53
-*  10/2019: 64
-*  9/2019: 60
-*  8/2019: 66
-*  7/2019: 64
+*  11/2019: 57
+*  10/2019: 63
+*  9/2019: 59
+*  8/2019: 65
+*  7/2019: 61
 
 ### GitHub Search
 
@@ -62,10 +62,10 @@ Total Results (Limited by GitHUB API): 345
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 428| 2020-06-01 | 2020-06-10 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
-| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 0 | 0 | 74| 2020-05-30 | 2020-06-29 |
+| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 75| 2020-05-30 | 2020-06-30 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 94| 2020-05-27 | 2020-06-29 |
+| [vulcanize/pg-ipfs-ethdb](https://github.com/vulcanize/pg-ipfs-ethdb)| 0 | 0 | 94| 2020-05-27 | 2020-06-30 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,13 +75,13 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 73400
 
-Total Results (Limited by GitHUB API): 1328
+Total Results (Limited by GitHUB API): 1331
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
 | [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 750| 2020-06-26 | 2020-06-26 |
-| [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 9| 2020-06-25 | 2020-06-29 |
+| [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 10| 2020-06-25 | 2020-06-30 |
 | [ipfs-africa/ipfs-africa.github.io](https://github.com/ipfs-africa/ipfs-africa.github.io)| 0 | 0 | 6922| 2020-06-23 | 2020-06-24 |
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 119| 2020-06-18 | 2020-06-25 |
