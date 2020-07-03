@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  6/2020: 70
-*  5/2020: 66
-*  4/2020: 66
-*  3/2020: 63
-*  2/2020: 61
-*  1/2020: 62
-*  12/2019: 60
+*  5/2020: 68
+*  4/2020: 61
+*  3/2020: 55
+*  2/2020: 62
+*  1/2020: 58
+*  12/2019: 57
 *  11/2019: 63
-*  10/2019: 66
+*  10/2019: 64
 *  9/2019: 59
-*  8/2019: 67
-*  7/2019: 64
+*  8/2019: 72
+*  7/2019: 71
 
 ### GitHub Search
 
@@ -60,10 +60,10 @@ Total Results (Limited by GitHUB API): 346
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 0 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
-| [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 428| 2020-06-01 | 2020-06-10 |
+| [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 75| 2020-05-30 | 2020-07-01 |
-| [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 210| 2020-05-30 | 2020-06-10 |
+| [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 220| 2020-05-30 | 2020-07-02 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
 | [vulcanize/eth-pg-ipfs-state-snapshot](https://github.com/vulcanize/eth-pg-ipfs-state-snapshot)| 0 | 0 | 76| 2020-05-27 | 2020-07-01 |
 
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72984
+Total Matches: 73495
 
-Total Results (Limited by GitHUB API): 1333
+Total Results (Limited by GitHUB API): 1335
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
-| [GustaveNimant/irp_ipfs_work](https://github.com/GustaveNimant/irp_ipfs_work)| 0 | 0 | 16| 2020-07-01 | 2020-07-01 |
+| [GustaveNimant/irp_ipfs_work](https://github.com/GustaveNimant/irp_ipfs_work)| 0 | 0 | 22| 2020-07-01 | 2020-07-02 |
+| [VIkash2601/eth_ipfs_file_upload](https://github.com/VIkash2601/eth_ipfs_file_upload)| 0 | 0 | 465| 2020-06-27 | 2020-07-02 |
 | [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
 | [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 750| 2020-06-26 | 2020-06-26 |
 | [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 12| 2020-06-25 | 2020-07-01 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1333
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 119| 2020-06-18 | 2020-06-25 |
 | [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
-| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 272| 2020-06-16 | 2020-06-23 |
 
 
 The above set is limited to the 10 most recently created. 
