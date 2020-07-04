@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2020: 70
+*  7/2020: 93
+*  6/2020: 69
 *  5/2020: 68
-*  4/2020: 61
-*  3/2020: 55
-*  2/2020: 62
-*  1/2020: 58
-*  12/2019: 57
-*  11/2019: 63
+*  4/2020: 64
+*  3/2020: 58
+*  2/2020: 59
+*  1/2020: 60
+*  12/2019: 60
+*  11/2019: 57
 *  10/2019: 64
-*  9/2019: 59
-*  8/2019: 72
-*  7/2019: 71
+*  9/2019: 58
+*  8/2019: 67
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1730
+Total Matches: 1735
 
-Total Results (Limited by GitHUB API): 346
+Total Results (Limited by GitHUB API): 347
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73495
+Total Matches: 73477
 
-Total Results (Limited by GitHUB API): 1335
+Total Results (Limited by GitHUB API): 1334
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
-| [GustaveNimant/irp_ipfs_work](https://github.com/GustaveNimant/irp_ipfs_work)| 0 | 0 | 22| 2020-07-01 | 2020-07-02 |
 | [VIkash2601/eth_ipfs_file_upload](https://github.com/VIkash2601/eth_ipfs_file_upload)| 0 | 0 | 465| 2020-06-27 | 2020-07-02 |
 | [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
-| [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 750| 2020-06-26 | 2020-06-26 |
+| [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 945| 2020-06-26 | 2020-07-03 |
 | [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 12| 2020-06-25 | 2020-07-01 |
 | [ipfs-africa/ipfs-africa.github.io](https://github.com/ipfs-africa/ipfs-africa.github.io)| 0 | 0 | 6922| 2020-06-23 | 2020-06-24 |
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
 | [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 119| 2020-06-18 | 2020-06-25 |
 | [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
+| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 272| 2020-06-16 | 2020-06-23 |
 
 
 The above set is limited to the 10 most recently created. 
