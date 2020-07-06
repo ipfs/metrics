@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 96
-*  6/2020: 67
-*  5/2020: 64
-*  4/2020: 65
-*  3/2020: 58
-*  2/2020: 58
-*  1/2020: 61
-*  12/2019: 56
-*  11/2019: 53
-*  10/2019: 65
-*  9/2019: 63
-*  8/2019: 71
+*  7/2020: 66
+*  6/2020: 66
+*  5/2020: 70
+*  4/2020: 68
+*  3/2020: 62
+*  2/2020: 55
+*  1/2020: 58
+*  12/2019: 57
+*  11/2019: 54
+*  10/2019: 68
+*  9/2019: 62
+*  8/2019: 64
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 348
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9724| 2020-07-04 | 2020-07-04 |
+| [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9679| 2020-07-04 | 2020-07-05 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 0 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73486
+Total Matches: 73500
 
-Total Results (Limited by GitHUB API): 1329
+Total Results (Limited by GitHUB API): 1333
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
 | [VIkash2601/eth_ipfs_file_upload](https://github.com/VIkash2601/eth_ipfs_file_upload)| 0 | 0 | 465| 2020-06-27 | 2020-07-02 |
 | [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
-| [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 945| 2020-06-26 | 2020-07-04 |
+| [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 1000| 2020-06-26 | 2020-07-05 |
 | [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 12| 2020-06-25 | 2020-07-01 |
 | [ipfs-africa/ipfs-africa.github.io](https://github.com/ipfs-africa/ipfs-africa.github.io)| 0 | 0 | 6922| 2020-06-23 | 2020-06-24 |
 | [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
