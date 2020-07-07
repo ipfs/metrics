@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 66
-*  6/2020: 66
-*  5/2020: 70
-*  4/2020: 68
-*  3/2020: 62
-*  2/2020: 55
-*  1/2020: 58
-*  12/2019: 57
-*  11/2019: 54
-*  10/2019: 68
-*  9/2019: 62
-*  8/2019: 64
+*  7/2020: 71
+*  6/2020: 69
+*  5/2020: 73
+*  4/2020: 69
+*  3/2020: 61
+*  2/2020: 60
+*  1/2020: 56
+*  12/2019: 55
+*  11/2019: 60
+*  10/2019: 65
+*  9/2019: 60
+*  8/2019: 62
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73500
+Total Matches: 73522
 
-Total Results (Limited by GitHUB API): 1333
+Total Results (Limited by GitHUB API): 1316
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Jshanks21/ipfs-sandbox](https://github.com/Jshanks21/ipfs-sandbox)| 0 | 0 | 0| 2020-07-07 | 2020-07-07 |
+| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 207| 2020-07-06 | 2020-07-06 |
+| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 0 | 0 | 7096| 2020-07-06 | 2020-07-06 |
+| [Tirthendu619/DAPP](https://github.com/Tirthendu619/DAPP)| 0 | 0 | 708| 2020-07-06 | 2020-07-06 |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
 | [VIkash2601/eth_ipfs_file_upload](https://github.com/VIkash2601/eth_ipfs_file_upload)| 0 | 0 | 465| 2020-06-27 | 2020-07-02 |
 | [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
 | [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 1000| 2020-06-26 | 2020-07-05 |
 | [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 12| 2020-06-25 | 2020-07-01 |
 | [ipfs-africa/ipfs-africa.github.io](https://github.com/ipfs-africa/ipfs-africa.github.io)| 0 | 0 | 6922| 2020-06-23 | 2020-06-24 |
-| [ChiranjibiRout/IPFS-Ethereum-React-Stora...](https://github.com/ChiranjibiRout/IPFS-Ethereum-React-Storage)| 0 | 0 | 229| 2020-06-21 | 2020-06-21 |
-| [heEXDe/electronJS-IPFS-experiments](https://github.com/heEXDe/electronJS-IPFS-experiments)| 0 | 0 | 121| 2020-06-18 | 2020-07-04 |
-| [enochzhao/ipfs-disk-test](https://github.com/enochzhao/ipfs-disk-test)| 0 | 0 | 428| 2020-06-18 | 2020-06-18 |
-| [ingenium21/rart-project](https://github.com/ingenium21/rart-project)| 2 | 0 | 272| 2020-06-16 | 2020-06-23 |
 
 
 The above set is limited to the 10 most recently created. 
