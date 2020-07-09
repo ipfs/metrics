@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 67
-*  6/2020: 66
-*  5/2020: 66
-*  4/2020: 63
-*  3/2020: 60
-*  2/2020: 59
-*  1/2020: 60
-*  12/2019: 58
-*  11/2019: 55
-*  10/2019: 69
-*  9/2019: 55
-*  8/2019: 65
+*  7/2020: 60
+*  6/2020: 68
+*  5/2020: 71
+*  4/2020: 62
+*  3/2020: 55
+*  2/2020: 58
+*  1/2020: 59
+*  12/2019: 56
+*  11/2019: 57
+*  10/2019: 60
+*  9/2019: 59
+*  8/2019: 66
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73692
+Total Matches: 73627
 
-Total Results (Limited by GitHUB API): 1336
+Total Results (Limited by GitHUB API): 1338
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Jshanks21/ipfs-sandbox](https://github.com/Jshanks21/ipfs-sandbox)| 0 | 0 | 3621| 2020-07-07 | 2020-07-07 |
-| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 240| 2020-07-06 | 2020-07-07 |
-| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 0 | 0 | 7561| 2020-07-06 | 2020-07-07 |
+| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 1037| 2020-07-06 | 2020-07-08 |
+| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 1 | 0 | 7565| 2020-07-06 | 2020-07-09 |
 | [Tirthendu619/DAPP](https://github.com/Tirthendu619/DAPP)| 0 | 0 | 708| 2020-07-06 | 2020-07-06 |
+| [HugoSanchez/Bradbvry-Photos-HackFS](https://github.com/HugoSanchez/Bradbvry-Photos-HackFS)| 0 | 0 | 566| 2020-07-03 | 2020-07-08 |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
 | [VIkash2601/eth_ipfs_file_upload](https://github.com/VIkash2601/eth_ipfs_file_upload)| 0 | 0 | 465| 2020-06-27 | 2020-07-02 |
 | [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
 | [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 1211| 2020-06-26 | 2020-07-07 |
 | [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 12| 2020-06-25 | 2020-07-01 |
-| [ipfs-africa/ipfs-africa.github.io](https://github.com/ipfs-africa/ipfs-africa.github.io)| 0 | 0 | 6922| 2020-06-23 | 2020-06-24 |
 
 
 The above set is limited to the 10 most recently created. 
