@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 60
+*  7/2020: 73
 *  6/2020: 68
-*  5/2020: 71
-*  4/2020: 62
-*  3/2020: 55
-*  2/2020: 58
-*  1/2020: 59
-*  12/2019: 56
-*  11/2019: 57
-*  10/2019: 60
-*  9/2019: 59
-*  8/2019: 66
+*  5/2020: 69
+*  4/2020: 69
+*  3/2020: 56
+*  2/2020: 56
+*  1/2020: 57
+*  12/2019: 58
+*  11/2019: 62
+*  10/2019: 65
+*  9/2019: 62
+*  8/2019: 69
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 348
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9679| 2020-07-04 | 2020-07-05 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
-| [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 0 | 0 | 11| 2020-06-13 | 2020-06-13 |
+| [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73627
+Total Matches: 73939
 
-Total Results (Limited by GitHUB API): 1338
+Total Results (Limited by GitHUB API): 1341
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 218| 2020-07-09 | 2020-07-09 |
+| [azureuz/ipfs-hyperledger-poc](https://github.com/azureuz/ipfs-hyperledger-poc)| 0 | 0 | 71099| 2020-07-09 | 2020-07-09 |
+| [iohzrd/follow](https://github.com/iohzrd/follow)| 0 | 0 | 1026| 2020-07-09 | 2020-07-09 |
+| [vim-labs/osnap](https://github.com/vim-labs/osnap)| 0 | 0 | 104| 2020-07-09 | 2020-07-09 |
 | [Jshanks21/ipfs-sandbox](https://github.com/Jshanks21/ipfs-sandbox)| 0 | 0 | 3621| 2020-07-07 | 2020-07-07 |
-| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 1037| 2020-07-06 | 2020-07-08 |
-| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 1 | 0 | 7565| 2020-07-06 | 2020-07-09 |
+| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 1043| 2020-07-06 | 2020-07-09 |
+| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 1 | 0 | 7997| 2020-07-06 | 2020-07-09 |
 | [Tirthendu619/DAPP](https://github.com/Tirthendu619/DAPP)| 0 | 0 | 708| 2020-07-06 | 2020-07-06 |
 | [HugoSanchez/Bradbvry-Photos-HackFS](https://github.com/HugoSanchez/Bradbvry-Photos-HackFS)| 0 | 0 | 566| 2020-07-03 | 2020-07-08 |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
-| [VIkash2601/eth_ipfs_file_upload](https://github.com/VIkash2601/eth_ipfs_file_upload)| 0 | 0 | 465| 2020-06-27 | 2020-07-02 |
-| [rafaelramalho19/ipfs-css-icons](https://github.com/rafaelramalho19/ipfs-css-icons)| 0 | 0 | 191| 2020-06-26 | 2020-06-26 |
-| [marstech3/block-doc](https://github.com/marstech3/block-doc)| 0 | 0 | 1211| 2020-06-26 | 2020-07-07 |
-| [Gozala/js-ipfs-lite-http-client](https://github.com/Gozala/js-ipfs-lite-http-client)| 0 | 0 | 12| 2020-06-25 | 2020-07-01 |
 
 
 The above set is limited to the 10 most recently created. 
