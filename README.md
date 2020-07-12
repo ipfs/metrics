@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  7/2020: 75
-*  6/2020: 71
-*  5/2020: 66
-*  4/2020: 65
+*  6/2020: 70
+*  5/2020: 64
+*  4/2020: 69
 *  3/2020: 56
-*  2/2020: 60
-*  1/2020: 55
-*  12/2019: 55
-*  11/2019: 57
-*  10/2019: 67
-*  9/2019: 58
-*  8/2019: 66
+*  2/2020: 55
+*  1/2020: 60
+*  12/2019: 57
+*  11/2019: 59
+*  10/2019: 63
+*  9/2019: 62
+*  8/2019: 67
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1722
+Total Matches: 1740
 
-Total Results (Limited by GitHUB API): 331
+Total Results (Limited by GitHUB API): 348
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9679| 2020-07-04 | 2020-07-05 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
+| [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 331
 | [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 75| 2020-05-30 | 2020-07-01 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 220| 2020-05-30 | 2020-07-02 |
 | [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
-| [vulcanize/eth-pg-ipfs-state-snapshot](https://github.com/vulcanize/eth-pg-ipfs-state-snapshot)| 0 | 0 | 76| 2020-05-27 | 2020-07-01 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,21 +73,21 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71478
+Total Matches: 71600
 
-Total Results (Limited by GitHUB API): 1300
+Total Results (Limited by GitHUB API): 1301
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 230| 2020-07-09 | 2020-07-10 |
+| [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 233| 2020-07-09 | 2020-07-11 |
 | [azureuz/ipfs-hyperledger-poc](https://github.com/azureuz/ipfs-hyperledger-poc)| 0 | 0 | 71099| 2020-07-09 | 2020-07-09 |
-| [iohzrd/follow](https://github.com/iohzrd/follow)| 0 | 0 | 1026| 2020-07-09 | 2020-07-09 |
-| [vim-labs/osnap](https://github.com/vim-labs/osnap)| 0 | 0 | 104| 2020-07-09 | 2020-07-09 |
+| [iohzrd/follow](https://github.com/iohzrd/follow)| 0 | 0 | 1027| 2020-07-09 | 2020-07-11 |
+| [vim-labs/osnap](https://github.com/vim-labs/osnap)| 0 | 0 | 193| 2020-07-09 | 2020-07-11 |
 | [Jshanks21/ipfs-sandbox](https://github.com/Jshanks21/ipfs-sandbox)| 0 | 0 | 3621| 2020-07-07 | 2020-07-07 |
-| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 1290| 2020-07-06 | 2020-07-10 |
-| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 1 | 0 | 7997| 2020-07-06 | 2020-07-09 |
+| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 1294| 2020-07-06 | 2020-07-12 |
+| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 1 | 0 | 7999| 2020-07-06 | 2020-07-11 |
 | [Tirthendu619/DAPP](https://github.com/Tirthendu619/DAPP)| 0 | 0 | 708| 2020-07-06 | 2020-07-06 |
-| [HugoSanchez/Bradbvry-Photos-HackFS](https://github.com/HugoSanchez/Bradbvry-Photos-HackFS)| 0 | 0 | 566| 2020-07-03 | 2020-07-08 |
+| [HugoSanchez/Bradbvry-Photos-HackFS](https://github.com/HugoSanchez/Bradbvry-Photos-HackFS)| 0 | 0 | 848| 2020-07-03 | 2020-07-11 |
 | [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
 
 
