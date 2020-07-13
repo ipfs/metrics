@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 75
-*  6/2020: 70
-*  5/2020: 64
-*  4/2020: 69
-*  3/2020: 56
-*  2/2020: 55
-*  1/2020: 60
-*  12/2019: 57
-*  11/2019: 59
-*  10/2019: 63
-*  9/2019: 62
-*  8/2019: 67
+*  7/2020: 71
+*  6/2020: 57
+*  5/2020: 66
+*  4/2020: 61
+*  3/2020: 62
+*  2/2020: 66
+*  1/2020: 58
+*  12/2019: 58
+*  11/2019: 63
+*  10/2019: 66
+*  9/2019: 56
+*  8/2019: 59
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1740
+Total Matches: 1745
 
-Total Results (Limited by GitHUB API): 348
+Total Results (Limited by GitHUB API): 349
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9679| 2020-07-04 | 2020-07-05 |
+| [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
-| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 75| 2020-05-30 | 2020-07-01 |
+| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 109| 2020-05-30 | 2020-07-12 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 220| 2020-05-30 | 2020-07-02 |
-| [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher)| 9 | 0 | 9| 2020-05-30 | 2020-05-31 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71600
+Total Matches: 71900
 
-Total Results (Limited by GitHUB API): 1301
+Total Results (Limited by GitHUB API): 1305
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
+| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 186| 2020-07-12 | 2020-07-12 |
+| [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
+| [rishabhgargdps/hackathon](https://github.com/rishabhgargdps/hackathon)| 0 | 0 | 296| 2020-07-11 | 2020-07-11 |
+| [bethanyuo/registry-dApp](https://github.com/bethanyuo/registry-dApp)| 0 | 0 | 1031| 2020-07-10 | 2020-07-10 |
+| [bethanyuo/casino-dApp](https://github.com/bethanyuo/casino-dApp)| 0 | 0 | 6561| 2020-07-10 | 2020-07-10 |
 | [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 233| 2020-07-09 | 2020-07-11 |
 | [azureuz/ipfs-hyperledger-poc](https://github.com/azureuz/ipfs-hyperledger-poc)| 0 | 0 | 71099| 2020-07-09 | 2020-07-09 |
-| [iohzrd/follow](https://github.com/iohzrd/follow)| 0 | 0 | 1027| 2020-07-09 | 2020-07-11 |
+| [iohzrd/follow](https://github.com/iohzrd/follow)| 0 | 0 | 1034| 2020-07-09 | 2020-07-12 |
 | [vim-labs/osnap](https://github.com/vim-labs/osnap)| 0 | 0 | 193| 2020-07-09 | 2020-07-11 |
-| [Jshanks21/ipfs-sandbox](https://github.com/Jshanks21/ipfs-sandbox)| 0 | 0 | 3621| 2020-07-07 | 2020-07-07 |
-| [tjayrush/unchainedindex.io](https://github.com/tjayrush/unchainedindex.io)| 0 | 0 | 1294| 2020-07-06 | 2020-07-12 |
-| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-starter)| 1 | 0 | 7999| 2020-07-06 | 2020-07-11 |
-| [Tirthendu619/DAPP](https://github.com/Tirthendu619/DAPP)| 0 | 0 | 708| 2020-07-06 | 2020-07-06 |
-| [HugoSanchez/Bradbvry-Photos-HackFS](https://github.com/HugoSanchez/Bradbvry-Photos-HackFS)| 0 | 0 | 848| 2020-07-03 | 2020-07-11 |
-| [plemonopoulos/upload_images_ipfs](https://github.com/plemonopoulos/upload_images_ipfs)| 0 | 0 | 935| 2020-07-01 | 2020-07-01 |
 
 
 The above set is limited to the 10 most recently created. 
