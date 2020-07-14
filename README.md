@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 71
-*  6/2020: 57
-*  5/2020: 66
-*  4/2020: 61
-*  3/2020: 62
-*  2/2020: 66
-*  1/2020: 58
-*  12/2019: 58
-*  11/2019: 63
-*  10/2019: 66
-*  9/2019: 56
-*  8/2019: 59
+*  7/2020: 74
+*  6/2020: 70
+*  5/2020: 64
+*  4/2020: 64
+*  3/2020: 52
+*  2/2020: 59
+*  1/2020: 57
+*  12/2019: 53
+*  11/2019: 51
+*  10/2019: 60
+*  9/2019: 54
+*  8/2019: 62
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 349
 | [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
-| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 109| 2020-05-30 | 2020-07-12 |
+| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 138| 2020-05-30 | 2020-07-13 |
 | [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 220| 2020-05-30 | 2020-07-02 |
 
 
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71900
+Total Matches: 71857
 
 Total Results (Limited by GitHUB API): 1305
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
-| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 186| 2020-07-12 | 2020-07-12 |
+| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 187| 2020-07-12 | 2020-07-13 |
 | [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
 | [rishabhgargdps/hackathon](https://github.com/rishabhgargdps/hackathon)| 0 | 0 | 296| 2020-07-11 | 2020-07-11 |
 | [bethanyuo/registry-dApp](https://github.com/bethanyuo/registry-dApp)| 0 | 0 | 1031| 2020-07-10 | 2020-07-10 |
