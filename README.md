@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 74
-*  6/2020: 70
-*  5/2020: 64
-*  4/2020: 64
-*  3/2020: 52
+*  7/2020: 66
+*  6/2020: 66
+*  5/2020: 71
+*  4/2020: 65
+*  3/2020: 59
 *  2/2020: 59
-*  1/2020: 57
-*  12/2019: 53
-*  11/2019: 51
-*  10/2019: 60
-*  9/2019: 54
-*  8/2019: 62
+*  1/2020: 68
+*  12/2019: 72
+*  11/2019: 61
+*  10/2019: 63
+*  9/2019: 59
+*  8/2019: 56
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1745
+Total Matches: 1750
 
-Total Results (Limited by GitHUB API): 349
+Total Results (Limited by GitHUB API): 350
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 0 | 70| 2020-07-06 | 2020-07-12 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9679| 2020-07-04 | 2020-07-05 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 349
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
 | [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 138| 2020-05-30 | 2020-07-13 |
-| [storj-thirdparty/connector-ipfs](https://github.com/storj-thirdparty/connector-ipfs)| 0 | 1 | 220| 2020-05-30 | 2020-07-02 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71857
+Total Matches: 71573
 
-Total Results (Limited by GitHUB API): 1305
+Total Results (Limited by GitHUB API): 1302
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 0 | 0 | 14027| 2020-07-14 | 2020-07-14 |
+| [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
 | [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
 | [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 187| 2020-07-12 | 2020-07-13 |
 | [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1305
 | [bethanyuo/casino-dApp](https://github.com/bethanyuo/casino-dApp)| 0 | 0 | 6561| 2020-07-10 | 2020-07-10 |
 | [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 233| 2020-07-09 | 2020-07-11 |
 | [azureuz/ipfs-hyperledger-poc](https://github.com/azureuz/ipfs-hyperledger-poc)| 0 | 0 | 71099| 2020-07-09 | 2020-07-09 |
-| [iohzrd/follow](https://github.com/iohzrd/follow)| 0 | 0 | 1034| 2020-07-09 | 2020-07-12 |
-| [vim-labs/osnap](https://github.com/vim-labs/osnap)| 0 | 0 | 193| 2020-07-09 | 2020-07-11 |
 
 
 The above set is limited to the 10 most recently created. 
