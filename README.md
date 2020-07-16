@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 66
-*  6/2020: 66
-*  5/2020: 71
-*  4/2020: 65
-*  3/2020: 59
-*  2/2020: 59
-*  1/2020: 68
-*  12/2019: 72
-*  11/2019: 61
-*  10/2019: 63
-*  9/2019: 59
-*  8/2019: 56
+*  7/2020: 78
+*  6/2020: 68
+*  5/2020: 69
+*  4/2020: 73
+*  3/2020: 57
+*  2/2020: 62
+*  1/2020: 59
+*  12/2019: 56
+*  11/2019: 63
+*  10/2019: 61
+*  9/2019: 60
+*  8/2019: 60
 
 ### GitHub Search
 
@@ -62,10 +62,10 @@ Total Results (Limited by GitHUB API): 350
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 11| 2020-06-13 | 2020-06-13 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
-| [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3863| 2020-06-04 | 2020-06-14 |
+| [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3867| 2020-06-04 | 2020-07-15 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
-| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 138| 2020-05-30 | 2020-07-13 |
+| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 139| 2020-05-30 | 2020-07-15 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71573
+Total Matches: 71900
 
-Total Results (Limited by GitHUB API): 1302
+Total Results (Limited by GitHUB API): 1305
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 0 | 0 | 14027| 2020-07-14 | 2020-07-14 |
+| [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14027| 2020-07-14 | 2020-07-14 |
 | [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
 | [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
-| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 187| 2020-07-12 | 2020-07-13 |
+| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 187| 2020-07-12 | 2020-07-15 |
 | [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
 | [rishabhgargdps/hackathon](https://github.com/rishabhgargdps/hackathon)| 0 | 0 | 296| 2020-07-11 | 2020-07-11 |
 | [bethanyuo/registry-dApp](https://github.com/bethanyuo/registry-dApp)| 0 | 0 | 1031| 2020-07-10 | 2020-07-10 |
