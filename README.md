@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 78
-*  6/2020: 68
-*  5/2020: 69
-*  4/2020: 73
-*  3/2020: 57
-*  2/2020: 62
-*  1/2020: 59
+*  7/2020: 74
+*  6/2020: 70
+*  5/2020: 71
+*  4/2020: 66
+*  3/2020: 55
+*  2/2020: 57
+*  1/2020: 58
 *  12/2019: 56
-*  11/2019: 63
-*  10/2019: 61
-*  9/2019: 60
-*  8/2019: 60
+*  11/2019: 56
+*  10/2019: 64
+*  9/2019: 56
+*  8/2019: 67
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1750
+Total Matches: 1755
 
-Total Results (Limited by GitHUB API): 350
+Total Results (Limited by GitHUB API): 351
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 1 | 0 | 57| 2020-07-16 | 2020-07-16 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 0 | 70| 2020-07-06 | 2020-07-12 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9679| 2020-07-04 | 2020-07-05 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
-| [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 11| 2020-06-13 | 2020-06-13 |
+| [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 12| 2020-06-13 | 2020-07-16 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
-| [shiningacg/ipfs-filestore](https://github.com/shiningacg/ipfs-filestore)| 0 | 0 | 3867| 2020-06-04 | 2020-07-15 |
+| [shiningacg/sn-ipfs](https://github.com/shiningacg/sn-ipfs)| 0 | 0 | 3881| 2020-06-04 | 2020-07-16 |
 | [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 | [bonedaddy/flloyd-archiver](https://github.com/bonedaddy/flloyd-archiver)| 4 | 0 | 108| 2020-05-31 | 2020-06-04 |
-| [vulcanize/eth-ipfs-state-validator](https://github.com/vulcanize/eth-ipfs-state-validator)| 1 | 0 | 139| 2020-05-30 | 2020-07-15 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71900
+Total Matches: 71971
 
-Total Results (Limited by GitHUB API): 1305
+Total Results (Limited by GitHUB API): 1307
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14027| 2020-07-14 | 2020-07-14 |
 | [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
 | [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
-| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 0 | 187| 2020-07-12 | 2020-07-15 |
+| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 1 | 187| 2020-07-12 | 2020-07-15 |
 | [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
 | [rishabhgargdps/hackathon](https://github.com/rishabhgargdps/hackathon)| 0 | 0 | 296| 2020-07-11 | 2020-07-11 |
+| [WatchdogeDAO/archival-api](https://github.com/WatchdogeDAO/archival-api)| 0 | 0 | 2626| 2020-07-10 | 2020-07-16 |
 | [bethanyuo/registry-dApp](https://github.com/bethanyuo/registry-dApp)| 0 | 0 | 1031| 2020-07-10 | 2020-07-10 |
 | [bethanyuo/casino-dApp](https://github.com/bethanyuo/casino-dApp)| 0 | 0 | 6561| 2020-07-10 | 2020-07-10 |
-| [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 233| 2020-07-09 | 2020-07-11 |
-| [azureuz/ipfs-hyperledger-poc](https://github.com/azureuz/ipfs-hyperledger-poc)| 0 | 0 | 71099| 2020-07-09 | 2020-07-09 |
+| [dmarzzz/crowdStore](https://github.com/dmarzzz/crowdStore)| 0 | 0 | 236| 2020-07-09 | 2020-07-16 |
 
 
 The above set is limited to the 10 most recently created. 
