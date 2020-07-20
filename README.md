@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 76
-*  6/2020: 65
-*  5/2020: 70
-*  4/2020: 72
-*  3/2020: 59
-*  2/2020: 58
-*  1/2020: 55
-*  12/2019: 57
-*  11/2019: 54
-*  10/2019: 58
-*  9/2019: 55
-*  8/2019: 61
+*  7/2020: 81
+*  6/2020: 67
+*  5/2020: 67
+*  4/2020: 70
+*  3/2020: 62
+*  2/2020: 67
+*  1/2020: 57
+*  12/2019: 54
+*  11/2019: 57
+*  10/2019: 65
+*  9/2019: 61
+*  8/2019: 68
 
 ### GitHub Search
 
@@ -50,15 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1760
+Total Matches: 1755
 
-Total Results (Limited by GitHUB API): 352
+Total Results (Limited by GitHUB API): 350
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 1 | 0 | 57| 2020-07-16 | 2020-07-16 |
-| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 124| 2020-07-06 | 2020-07-18 |
+| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 134| 2020-07-06 | 2020-07-19 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9682| 2020-07-04 | 2020-07-18 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71864
+Total Matches: 71887
 
-Total Results (Limited by GitHUB API): 1308
+Total Results (Limited by GitHUB API): 1309
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Sebastian-Gru/ipfs-prototype](https://github.com/Sebastian-Gru/ipfs-prototype)| 0 | 0 | 627| 2020-07-18 | 2020-07-19 |
+| [TJWallet/FileCoinScan](https://github.com/TJWallet/FileCoinScan)| 0 | 0 | 6549| 2020-07-19 | 2020-07-19 |
+| [Sebastian-Gru/ipfs-prototype](https://github.com/Sebastian-Gru/ipfs-prototype)| 1 | 0 | 633| 2020-07-18 | 2020-07-19 |
 | [EmanHerawy/web3KM](https://github.com/EmanHerawy/web3KM)| 0 | 0 | 76| 2020-07-16 | 2020-07-17 |
 | [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14027| 2020-07-14 | 2020-07-14 |
 | [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1308
 | [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
 | [rishabhgargdps/hackathon](https://github.com/rishabhgargdps/hackathon)| 0 | 0 | 296| 2020-07-11 | 2020-07-11 |
 | [WatchdogeDAO/archival-api](https://github.com/WatchdogeDAO/archival-api)| 0 | 0 | 2712| 2020-07-10 | 2020-07-17 |
-| [bethanyuo/registry-dApp](https://github.com/bethanyuo/registry-dApp)| 0 | 0 | 1031| 2020-07-10 | 2020-07-10 |
 
 
 The above set is limited to the 10 most recently created. 
