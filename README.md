@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 81
-*  6/2020: 67
-*  5/2020: 67
-*  4/2020: 70
-*  3/2020: 62
-*  2/2020: 67
-*  1/2020: 57
-*  12/2019: 54
-*  11/2019: 57
-*  10/2019: 65
-*  9/2019: 61
-*  8/2019: 68
+*  7/2020: 65
+*  6/2020: 63
+*  5/2020: 69
+*  4/2020: 60
+*  3/2020: 54
+*  2/2020: 49
+*  1/2020: 61
+*  12/2019: 56
+*  11/2019: 55
+*  10/2019: 59
+*  9/2019: 56
+*  8/2019: 63
 
 ### GitHub Search
 
@@ -52,13 +52,13 @@ so we don't know why this is the case.
 
 Total Matches: 1755
 
-Total Results (Limited by GitHUB API): 350
+Total Results (Limited by GitHUB API): 351
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
-| [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 1 | 0 | 57| 2020-07-16 | 2020-07-16 |
-| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 134| 2020-07-06 | 2020-07-19 |
+| [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
+| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 134| 2020-07-06 | 2020-07-20 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9682| 2020-07-04 | 2020-07-18 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71887
+Total Matches: 71983
 
-Total Results (Limited by GitHUB API): 1309
+Total Results (Limited by GitHUB API): 1310
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -85,7 +85,7 @@ Total Results (Limited by GitHUB API): 1309
 | [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14027| 2020-07-14 | 2020-07-14 |
 | [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
 | [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
-| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 1 | 188| 2020-07-12 | 2020-07-17 |
+| [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 1 | 190| 2020-07-12 | 2020-07-20 |
 | [SecretsMarket/eth-ipfs](https://github.com/SecretsMarket/eth-ipfs)| 0 | 0 | 10| 2020-07-12 | 2020-07-12 |
 | [rishabhgargdps/hackathon](https://github.com/rishabhgargdps/hackathon)| 0 | 0 | 296| 2020-07-11 | 2020-07-11 |
 | [WatchdogeDAO/archival-api](https://github.com/WatchdogeDAO/archival-api)| 0 | 0 | 2712| 2020-07-10 | 2020-07-17 |
