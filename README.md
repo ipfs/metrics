@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 65
-*  6/2020: 63
-*  5/2020: 69
-*  4/2020: 60
-*  3/2020: 54
-*  2/2020: 49
-*  1/2020: 61
-*  12/2019: 56
-*  11/2019: 55
-*  10/2019: 59
-*  9/2019: 56
-*  8/2019: 63
+*  7/2020: 71
+*  6/2020: 65
+*  5/2020: 72
+*  4/2020: 75
+*  3/2020: 61
+*  2/2020: 63
+*  1/2020: 59
+*  12/2019: 54
+*  11/2019: 62
+*  10/2019: 66
+*  9/2019: 59
+*  8/2019: 66
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1755
+Total Matches: 1760
 
-Total Results (Limited by GitHUB API): 351
+Total Results (Limited by GitHUB API): 352
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Sab94/droplet](https://github.com/Sab94/droplet)| 0 | 0 | 49| 2020-07-21 | 2020-07-21 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 134| 2020-07-06 | 2020-07-20 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 351
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 14| 2020-06-13 | 2020-07-17 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
 | [shiningacg/sn-ipfs](https://github.com/shiningacg/sn-ipfs)| 0 | 0 | 3881| 2020-06-04 | 2020-07-16 |
-| [storj-thirdparty/driver-ipfs](https://github.com/storj-thirdparty/driver-ipfs)| 0 | 0 | 545| 2020-06-01 | 2020-07-02 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71983
+Total Matches: 72150
 
-Total Results (Limited by GitHUB API): 1310
+Total Results (Limited by GitHUB API): 1311
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [TJWallet/FileCoinScan](https://github.com/TJWallet/FileCoinScan)| 0 | 0 | 6549| 2020-07-19 | 2020-07-19 |
 | [Sebastian-Gru/ipfs-prototype](https://github.com/Sebastian-Gru/ipfs-prototype)| 1 | 0 | 633| 2020-07-18 | 2020-07-19 |
 | [EmanHerawy/web3KM](https://github.com/EmanHerawy/web3KM)| 0 | 0 | 76| 2020-07-16 | 2020-07-17 |
-| [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14027| 2020-07-14 | 2020-07-14 |
+| [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14076| 2020-07-14 | 2020-07-21 |
 | [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
 | [madelacruzs/my-resume-ipfs](https://github.com/madelacruzs/my-resume-ipfs)| 0 | 0 | 197| 2020-07-12 | 2020-07-12 |
 | [joseedo/VirtualIdentity](https://github.com/joseedo/VirtualIdentity)| 0 | 1 | 190| 2020-07-12 | 2020-07-20 |
