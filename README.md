@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 65
-*  6/2020: 63
-*  5/2020: 67
-*  4/2020: 64
-*  3/2020: 51
-*  2/2020: 54
-*  1/2020: 56
-*  12/2019: 52
+*  7/2020: 74
+*  6/2020: 65
+*  5/2020: 66
+*  4/2020: 69
+*  3/2020: 57
+*  2/2020: 61
+*  1/2020: 62
+*  12/2019: 54
 *  11/2019: 56
-*  10/2019: 64
-*  9/2019: 51
-*  8/2019: 62
+*  10/2019: 63
+*  9/2019: 63
+*  8/2019: 64
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 352
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [asabya/droplet](https://github.com/asabya/droplet)| 1 | 0 | 53| 2020-07-21 | 2020-07-24 |
+| [asabya/droplet](https://github.com/asabya/droplet)| 1 | 0 | 53| 2020-07-21 | 2020-07-25 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 134| 2020-07-06 | 2020-07-20 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 71942
+Total Matches: 72358
 
-Total Results (Limited by GitHUB API): 1313
+Total Results (Limited by GitHUB API): 1316
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
