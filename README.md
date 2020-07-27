@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 74
-*  6/2020: 65
-*  5/2020: 66
-*  4/2020: 69
-*  3/2020: 57
-*  2/2020: 61
-*  1/2020: 62
-*  12/2019: 54
-*  11/2019: 56
-*  10/2019: 63
-*  9/2019: 63
-*  8/2019: 64
+*  7/2020: 73
+*  6/2020: 73
+*  5/2020: 72
+*  4/2020: 66
+*  3/2020: 61
+*  2/2020: 59
+*  1/2020: 60
+*  12/2019: 61
+*  11/2019: 60
+*  10/2019: 64
+*  9/2019: 58
+*  8/2019: 69
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 352
 | [asabya/droplet](https://github.com/asabya/droplet)| 1 | 0 | 53| 2020-07-21 | 2020-07-25 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
-| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 134| 2020-07-06 | 2020-07-20 |
+| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 2 | 1 | 195| 2020-07-06 | 2020-07-26 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9682| 2020-07-04 | 2020-07-18 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72358
+Total Matches: 72500
 
-Total Results (Limited by GitHUB API): 1316
+Total Results (Limited by GitHUB API): 1313
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [shivasai780/Kyc-Blockchain-using-ipfs](https://github.com/shivasai780/Kyc-Blockchain-using-ipfs)| 0 | 0 | 42800| 2020-07-26 | 2020-07-26 |
 | [nileorg/nile-publisher](https://github.com/nileorg/nile-publisher)| 0 | 0 | 79| 2020-07-24 | 2020-07-24 |
 | [mattiaz9/gatsby-plugin-swarm](https://github.com/mattiaz9/gatsby-plugin-swarm)| 0 | 0 | 58| 2020-07-24 | 2020-07-24 |
 | [redcpp/algorand-ipfs-js](https://github.com/redcpp/algorand-ipfs-js)| 0 | 0 | 38247| 2020-07-22 | 2020-07-24 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1316
 | [EmanHerawy/web3KM](https://github.com/EmanHerawy/web3KM)| 0 | 0 | 76| 2020-07-16 | 2020-07-17 |
 | [4math2379/PointOfChainInterest](https://github.com/4math2379/PointOfChainInterest)| 0 | 0 | 50291| 2020-07-15 | 2020-07-24 |
 | [mbcse/Bedium_DecentralizedBlogging](https://github.com/mbcse/Bedium_DecentralizedBlogging)| 1 | 0 | 14076| 2020-07-14 | 2020-07-21 |
-| [AlvaroLuken/NFTs](https://github.com/AlvaroLuken/NFTs)| 0 | 0 | 1| 2020-07-14 | 2020-07-14 |
 
 
 The above set is limited to the 10 most recently created. 
