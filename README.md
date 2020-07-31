@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 63
-*  6/2020: 71
-*  5/2020: 67
-*  4/2020: 63
-*  3/2020: 54
-*  2/2020: 62
-*  1/2020: 57
-*  12/2019: 55
-*  11/2019: 61
+*  7/2020: 72
+*  6/2020: 66
+*  5/2020: 64
+*  4/2020: 62
+*  3/2020: 53
+*  2/2020: 57
+*  1/2020: 59
+*  12/2019: 56
+*  11/2019: 58
 *  10/2019: 63
-*  9/2019: 55
-*  8/2019: 71
+*  9/2019: 57
+*  8/2019: 60
 
 ### GitHub Search
 
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72850
+Total Matches: 72800
 
-Total Results (Limited by GitHUB API): 1322
+Total Results (Limited by GitHUB API): 1320
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [devbootstrap/IPFS-vuejs-drizzle-app](https://github.com/devbootstrap/IPFS-vuejs-drizzle-app)| 0 | 0 | 130| 2020-07-29 | 2020-07-29 |
 | [ARNiroula/test_ipfsnode](https://github.com/ARNiroula/test_ipfsnode)| 0 | 0 | 4628| 2020-07-28 | 2020-07-28 |
 | [Sebastian-Gru/ipfs-prototype-spielereien](https://github.com/Sebastian-Gru/ipfs-prototype-spielereien)| 0 | 0 | 344| 2020-07-28 | 2020-07-29 |
-| [Blockchain-DAV/BlockChainDAV](https://github.com/Blockchain-DAV/BlockChainDAV)| 0 | 0 | 159| 2020-07-28 | 2020-07-28 |
+| [Blockchain-DAV/BlockChainDAV](https://github.com/Blockchain-DAV/BlockChainDAV)| 0 | 0 | 163| 2020-07-28 | 2020-07-30 |
 | [dhappy/cidcmp](https://github.com/dhappy/cidcmp)| 0 | 0 | 305| 2020-07-27 | 2020-07-28 |
 | [shivasai780/Kyc-Blockchain-using-ipfs](https://github.com/shivasai780/Kyc-Blockchain-using-ipfs)| 0 | 0 | 42800| 2020-07-26 | 2020-07-26 |
 | [nileorg/nile-publisher](https://github.com/nileorg/nile-publisher)| 0 | 0 | 79| 2020-07-24 | 2020-07-24 |
