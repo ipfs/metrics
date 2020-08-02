@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 71
-*  6/2020: 69
-*  5/2020: 67
-*  4/2020: 67
+*  7/2020: 70
+*  6/2020: 65
+*  5/2020: 63
+*  4/2020: 66
 *  3/2020: 56
-*  2/2020: 57
-*  1/2020: 58
-*  12/2019: 54
+*  2/2020: 58
+*  1/2020: 55
+*  12/2019: 55
 *  11/2019: 58
-*  10/2019: 61
-*  9/2019: 59
-*  8/2019: 65
+*  10/2019: 60
+*  9/2019: 57
+*  8/2019: 64
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 352
 | [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
 | [StreamSpace/ss-ds-store](https://github.com/StreamSpace/ss-ds-store)| 1 | 0 | 17| 2020-06-13 | 2020-07-29 |
 | [BasitAwan/IPFS-Crawler](https://github.com/BasitAwan/IPFS-Crawler)| 0 | 0 | 1675| 2020-06-10 | 2020-06-10 |
-| [shiningacg/sn-ipfs](https://github.com/shiningacg/sn-ipfs)| 0 | 0 | 3881| 2020-06-04 | 2020-07-16 |
+| [shiningacg/sn-ipfs](https://github.com/shiningacg/sn-ipfs)| 1 | 0 | 3881| 2020-06-04 | 2020-07-16 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72650
+Total Matches: 72722
 
-Total Results (Limited by GitHUB API): 1318
+Total Results (Limited by GitHUB API): 1320
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [rakaar/ipfs-logger](https://github.com/rakaar/ipfs-logger)| 0 | 0 | 88| 2020-08-01 | 2020-08-01 |
+| [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 0 | 0 | 654| 2020-08-01 | 2020-08-01 |
 | [devbootstrap/IPFS-vuejs-drizzle-app](https://github.com/devbootstrap/IPFS-vuejs-drizzle-app)| 0 | 0 | 130| 2020-07-29 | 2020-07-29 |
 | [ARNiroula/test_ipfsnode](https://github.com/ARNiroula/test_ipfsnode)| 0 | 0 | 4628| 2020-07-28 | 2020-07-28 |
 | [Sebastian-Gru/ipfs-prototype-spielereien](https://github.com/Sebastian-Gru/ipfs-prototype-spielereien)| 0 | 0 | 344| 2020-07-28 | 2020-07-29 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1318
 | [shivasai780/Kyc-Blockchain-using-ipfs](https://github.com/shivasai780/Kyc-Blockchain-using-ipfs)| 0 | 0 | 42800| 2020-07-26 | 2020-07-26 |
 | [nileorg/nile-publisher](https://github.com/nileorg/nile-publisher)| 0 | 0 | 79| 2020-07-24 | 2020-07-24 |
 | [mattiaz9/gatsby-plugin-swarm](https://github.com/mattiaz9/gatsby-plugin-swarm)| 0 | 0 | 58| 2020-07-24 | 2020-07-24 |
-| [redcpp/algorand-ipfs-js](https://github.com/redcpp/algorand-ipfs-js)| 0 | 0 | 38247| 2020-07-22 | 2020-07-24 |
-| [ParcelHQ/parcel-sdk](https://github.com/ParcelHQ/parcel-sdk)| 0 | 0 | 4| 2020-07-22 | 2020-07-28 |
 
 
 The above set is limited to the 10 most recently created. 
