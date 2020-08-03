@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2020: 70
-*  6/2020: 65
+*  7/2020: 64
+*  6/2020: 67
 *  5/2020: 63
-*  4/2020: 66
-*  3/2020: 56
-*  2/2020: 58
-*  1/2020: 55
-*  12/2019: 55
+*  4/2020: 68
+*  3/2020: 57
+*  2/2020: 60
+*  1/2020: 61
+*  12/2019: 54
 *  11/2019: 58
-*  10/2019: 60
-*  9/2019: 57
-*  8/2019: 64
+*  10/2019: 63
+*  9/2019: 59
+*  8/2019: 67
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1760
+Total Matches: 1755
 
-Total Results (Limited by GitHUB API): 352
+Total Results (Limited by GitHUB API): 351
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72722
+Total Matches: 72850
 
-Total Results (Limited by GitHUB API): 1320
+Total Results (Limited by GitHUB API): 1322
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 56| 2020-08-02 | 2020-08-02 |
+| [myst33d/IPFSUpload](https://github.com/myst33d/IPFSUpload)| 0 | 0 | 20| 2020-08-02 | 2020-08-02 |
 | [rakaar/ipfs-logger](https://github.com/rakaar/ipfs-logger)| 0 | 0 | 88| 2020-08-01 | 2020-08-01 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 0 | 0 | 654| 2020-08-01 | 2020-08-01 |
 | [devbootstrap/IPFS-vuejs-drizzle-app](https://github.com/devbootstrap/IPFS-vuejs-drizzle-app)| 0 | 0 | 130| 2020-07-29 | 2020-07-29 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1320
 | [Blockchain-DAV/BlockChainDAV](https://github.com/Blockchain-DAV/BlockChainDAV)| 0 | 0 | 163| 2020-07-28 | 2020-07-30 |
 | [dhappy/cidcmp](https://github.com/dhappy/cidcmp)| 0 | 0 | 308| 2020-07-27 | 2020-07-31 |
 | [shivasai780/Kyc-Blockchain-using-ipfs](https://github.com/shivasai780/Kyc-Blockchain-using-ipfs)| 0 | 0 | 42800| 2020-07-26 | 2020-07-26 |
-| [nileorg/nile-publisher](https://github.com/nileorg/nile-publisher)| 0 | 0 | 79| 2020-07-24 | 2020-07-24 |
-| [mattiaz9/gatsby-plugin-swarm](https://github.com/mattiaz9/gatsby-plugin-swarm)| 0 | 0 | 58| 2020-07-24 | 2020-07-24 |
 
 
 The above set is limited to the 10 most recently created. 
