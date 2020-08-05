@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 49
-*  7/2020: 66
-*  6/2020: 68
-*  5/2020: 66
-*  4/2020: 64
+*  8/2020: 47
+*  7/2020: 72
+*  6/2020: 72
+*  5/2020: 71
+*  4/2020: 66
 *  3/2020: 62
-*  2/2020: 61
+*  2/2020: 58
 *  1/2020: 60
-*  12/2019: 61
-*  11/2019: 60
-*  10/2019: 67
-*  9/2019: 62
+*  12/2019: 55
+*  11/2019: 58
+*  10/2019: 63
+*  9/2019: 60
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1770
+Total Matches: 1775
 
-Total Results (Limited by GitHUB API): 354
+Total Results (Limited by GitHUB API): 355
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [grufwub/gibon](https://github.com/grufwub/gibon)| 2 | 0 | 67| 2020-08-03 | 2020-08-03 |
+| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 41| 2020-08-04 | 2020-08-04 |
+| [grufwub/gibon](https://github.com/grufwub/gibon)| 2 | 0 | 125| 2020-08-03 | 2020-08-04 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 5| 2020-07-31 | 2020-08-03 |
-| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 97| 2020-07-22 | 2020-08-03 |
+| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 101| 2020-07-22 | 2020-08-04 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 196| 2020-07-06 | 2020-07-28 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9682| 2020-07-04 | 2020-07-18 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 | [RTradeLtd/go-ipfs-sharedforeststore](https://github.com/RTradeLtd/go-ipfs-sharedforeststore)| 1 | 0 | 260| 2020-06-25 | 2020-08-03 |
-| [utkarsh23/access-control-for-IPFS](https://github.com/utkarsh23/access-control-for-IPFS)| 0 | 0 | 8| 2020-06-19 | 2020-06-19 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,12 +75,12 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 72900
 
-Total Results (Limited by GitHUB API): 1322
+Total Results (Limited by GitHUB API): 1320
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
-| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 73| 2020-08-02 | 2020-08-03 |
+| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 86| 2020-08-02 | 2020-08-04 |
 | [myst33d/IPFSUpload](https://github.com/myst33d/IPFSUpload)| 0 | 0 | 29| 2020-08-02 | 2020-08-03 |
 | [rakaar/ipfs-logger](https://github.com/rakaar/ipfs-logger)| 0 | 0 | 88| 2020-08-01 | 2020-08-01 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 0 | 0 | 654| 2020-08-01 | 2020-08-01 |
