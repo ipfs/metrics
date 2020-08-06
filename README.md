@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 47
-*  7/2020: 72
-*  6/2020: 72
-*  5/2020: 71
-*  4/2020: 66
-*  3/2020: 62
-*  2/2020: 58
-*  1/2020: 60
-*  12/2019: 55
+*  8/2020: 67
+*  7/2020: 71
+*  6/2020: 67
+*  5/2020: 63
+*  4/2020: 69
+*  3/2020: 57
+*  2/2020: 56
+*  1/2020: 56
+*  12/2019: 53
 *  11/2019: 58
-*  10/2019: 63
-*  9/2019: 60
+*  10/2019: 60
+*  9/2019: 59
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1775
+Total Matches: 1730
 
-Total Results (Limited by GitHUB API): 355
+Total Results (Limited by GitHUB API): 312
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 41| 2020-08-04 | 2020-08-04 |
-| [grufwub/gibon](https://github.com/grufwub/gibon)| 2 | 0 | 125| 2020-08-03 | 2020-08-04 |
-| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 5| 2020-07-31 | 2020-08-03 |
-| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 101| 2020-07-22 | 2020-08-04 |
+| [grufwub/gibon](https://github.com/grufwub/gibon)| 2 | 0 | 180| 2020-08-03 | 2020-08-05 |
+| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 58| 2020-07-31 | 2020-08-05 |
+| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4089| 2020-07-22 | 2020-08-05 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
-| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 196| 2020-07-06 | 2020-07-28 |
+| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 196| 2020-07-06 | 2020-08-05 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9682| 2020-07-04 | 2020-07-18 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
-| [RTradeLtd/go-ipfs-sharedforeststore](https://github.com/RTradeLtd/go-ipfs-sharedforeststore)| 1 | 0 | 260| 2020-06-25 | 2020-08-03 |
+| [RTradeLtd/go-ipfs-sharedforeststore](https://github.com/RTradeLtd/go-ipfs-sharedforeststore)| 4 | 0 | 260| 2020-06-25 | 2020-08-03 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,21 +73,21 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72900
+Total Matches: 72774
 
 Total Results (Limited by GitHUB API): 1320
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
-| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 86| 2020-08-02 | 2020-08-04 |
+| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 88| 2020-08-02 | 2020-08-05 |
 | [myst33d/IPFSUpload](https://github.com/myst33d/IPFSUpload)| 0 | 0 | 29| 2020-08-02 | 2020-08-03 |
 | [rakaar/ipfs-logger](https://github.com/rakaar/ipfs-logger)| 0 | 0 | 88| 2020-08-01 | 2020-08-01 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 0 | 0 | 654| 2020-08-01 | 2020-08-01 |
 | [devbootstrap/IPFS-vuejs-drizzle-app](https://github.com/devbootstrap/IPFS-vuejs-drizzle-app)| 0 | 0 | 130| 2020-07-29 | 2020-07-29 |
-| [ARNiroula/test_ipfsnode](https://github.com/ARNiroula/test_ipfsnode)| 0 | 0 | 4628| 2020-07-28 | 2020-07-28 |
+| [ARNiroula/test_ipfsnode](https://github.com/ARNiroula/test_ipfsnode)| 0 | 0 | 4645| 2020-07-28 | 2020-08-05 |
 | [Sebastian-Gru/ipfs-prototype-spielereien](https://github.com/Sebastian-Gru/ipfs-prototype-spielereien)| 0 | 0 | 344| 2020-07-28 | 2020-07-29 |
-| [Blockchain-DAV/BlockChainDAV](https://github.com/Blockchain-DAV/BlockChainDAV)| 0 | 0 | 163| 2020-07-28 | 2020-07-30 |
+| [Blockchain-DAV/BlockChainDAV](https://github.com/Blockchain-DAV/BlockChainDAV)| 0 | 0 | 198| 2020-07-28 | 2020-08-05 |
 | [dhappy/cidcmp](https://github.com/dhappy/cidcmp)| 0 | 0 | 308| 2020-07-27 | 2020-07-31 |
 
 
