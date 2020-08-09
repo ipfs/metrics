@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 58
-*  7/2020: 73
-*  6/2020: 73
-*  5/2020: 70
-*  4/2020: 67
-*  3/2020: 62
-*  2/2020: 63
-*  1/2020: 60
-*  12/2019: 62
-*  11/2019: 57
-*  10/2019: 64
-*  9/2019: 58
+*  8/2020: 64
+*  7/2020: 72
+*  6/2020: 70
+*  5/2020: 68
+*  4/2020: 64
+*  3/2020: 59
+*  2/2020: 61
+*  1/2020: 61
+*  12/2019: 54
+*  11/2019: 59
+*  10/2019: 63
+*  9/2019: 59
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1775
 
-Total Results (Limited by GitHUB API): 355
+Total Results (Limited by GitHUB API): 353
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72999
+Total Matches: 72690
 
-Total Results (Limited by GitHUB API): 1303
+Total Results (Limited by GitHUB API): 1327
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
-| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 93| 2020-08-02 | 2020-08-06 |
+| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 103| 2020-08-02 | 2020-08-08 |
 | [myst33d/IPFSUpload](https://github.com/myst33d/IPFSUpload)| 0 | 0 | 29| 2020-08-02 | 2020-08-03 |
 | [rakaar/ipfs-logger](https://github.com/rakaar/ipfs-logger)| 0 | 0 | 88| 2020-08-01 | 2020-08-01 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 1 | 0 | 660| 2020-08-01 | 2020-08-07 |
 | [oya-protocol/hackfs](https://github.com/oya-protocol/hackfs)| 1 | 0 | 1729| 2020-07-31 | 2020-08-07 |
 | [devbootstrap/IPFS-vuejs-drizzle-app](https://github.com/devbootstrap/IPFS-vuejs-drizzle-app)| 0 | 0 | 130| 2020-07-29 | 2020-07-29 |
 | [ARNiroula/test_ipfsnode](https://github.com/ARNiroula/test_ipfsnode)| 0 | 0 | 4645| 2020-07-28 | 2020-08-05 |
-| [Sebastian-Gru/ipfs-prototype-spielereien](https://github.com/Sebastian-Gru/ipfs-prototype-spielereien)| 0 | 0 | 344| 2020-07-28 | 2020-07-29 |
 
 
 The above set is limited to the 10 most recently created. 
