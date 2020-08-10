@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 64
+*  8/2020: 68
 *  7/2020: 72
-*  6/2020: 70
-*  5/2020: 68
-*  4/2020: 64
-*  3/2020: 59
-*  2/2020: 61
-*  1/2020: 61
-*  12/2019: 54
-*  11/2019: 59
-*  10/2019: 63
-*  9/2019: 59
+*  6/2020: 73
+*  5/2020: 70
+*  4/2020: 66
+*  3/2020: 56
+*  2/2020: 58
+*  1/2020: 59
+*  12/2019: 57
+*  11/2019: 56
+*  10/2019: 66
+*  9/2019: 63
 
 ### GitHub Search
 
@@ -52,12 +52,12 @@ so we don't know why this is the case.
 
 Total Matches: 1775
 
-Total Results (Limited by GitHUB API): 353
+Total Results (Limited by GitHUB API): 355
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 41| 2020-08-04 | 2020-08-04 |
-| [grufwub/gibon](https://github.com/grufwub/gibon)| 2 | 0 | 191| 2020-08-03 | 2020-08-07 |
+| [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 60| 2020-07-31 | 2020-08-07 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4228| 2020-07-22 | 2020-08-06 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 17| 2020-07-18 | 2020-07-18 |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 72690
+Total Matches: 73166
 
-Total Results (Limited by GitHUB API): 1327
+Total Results (Limited by GitHUB API): 1328
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [tgrecojs/nextjs-fleek](https://github.com/tgrecojs/nextjs-fleek)| 0 | 0 | 1981| 2020-08-09 | 2020-08-09 |
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1327
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 1 | 0 | 660| 2020-08-01 | 2020-08-07 |
 | [oya-protocol/hackfs](https://github.com/oya-protocol/hackfs)| 1 | 0 | 1729| 2020-07-31 | 2020-08-07 |
 | [devbootstrap/IPFS-vuejs-drizzle-app](https://github.com/devbootstrap/IPFS-vuejs-drizzle-app)| 0 | 0 | 130| 2020-07-29 | 2020-07-29 |
-| [ARNiroula/test_ipfsnode](https://github.com/ARNiroula/test_ipfsnode)| 0 | 0 | 4645| 2020-07-28 | 2020-08-05 |
 
 
 The above set is limited to the 10 most recently created. 
