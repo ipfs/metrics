@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 54
-*  7/2020: 64
-*  6/2020: 68
-*  5/2020: 67
-*  4/2020: 68
-*  3/2020: 58
-*  2/2020: 57
-*  1/2020: 57
-*  12/2019: 56
-*  11/2019: 59
-*  10/2019: 65
-*  9/2019: 56
+*  8/2020: 68
+*  7/2020: 69
+*  6/2020: 71
+*  5/2020: 68
+*  4/2020: 67
+*  3/2020: 59
+*  2/2020: 62
+*  1/2020: 54
+*  12/2019: 57
+*  11/2019: 54
+*  10/2019: 66
+*  9/2019: 64
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1780
+Total Matches: 1785
 
-Total Results (Limited by GitHUB API): 356
+Total Results (Limited by GitHUB API): 357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 41| 2020-08-04 | 2020-08-04 |
+| [dreamvo/gilfoyle](https://github.com/dreamvo/gilfoyle)| 0 | 0 | 89| 2020-08-04 | 2020-08-12 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
-| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 62| 2020-07-31 | 2020-08-11 |
+| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 64| 2020-07-31 | 2020-08-12 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4228| 2020-07-22 | 2020-08-06 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 19| 2020-07-18 | 2020-08-10 |
-| [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 0 | 57| 2020-07-16 | 2020-07-16 |
+| [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 4 | 2 | 67| 2020-07-11 | 2020-08-11 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 262| 2020-07-06 | 2020-08-07 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9739| 2020-07-04 | 2020-08-10 |
-| [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73332
+Total Matches: 73342
 
-Total Results (Limited by GitHUB API): 1329
+Total Results (Limited by GitHUB API): 1324
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [indahud/ipfs-file-upload](https://github.com/indahud/ipfs-file-upload)| 0 | 0 | 17| 2020-08-12 | 2020-08-12 |
 | [tgrecojs/nextjs-fleek](https://github.com/tgrecojs/nextjs-fleek)| 0 | 0 | 17098| 2020-08-09 | 2020-08-10 |
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
-| [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 2 | 0 | 29249| 2020-08-06 | 2020-08-10 |
+| [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 3 | 0 | 29249| 2020-08-06 | 2020-08-10 |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
 | [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 103| 2020-08-02 | 2020-08-08 |
 | [myst33d/IPFSUpload](https://github.com/myst33d/IPFSUpload)| 0 | 0 | 29| 2020-08-02 | 2020-08-03 |
 | [rakaar/ipfs-logger](https://github.com/rakaar/ipfs-logger)| 0 | 0 | 88| 2020-08-01 | 2020-08-01 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-plugin-postoffice)| 1 | 0 | 660| 2020-08-01 | 2020-08-07 |
-| [oya-protocol/hackfs](https://github.com/oya-protocol/hackfs)| 1 | 0 | 1729| 2020-07-31 | 2020-08-07 |
 
 
 The above set is limited to the 10 most recently created. 
