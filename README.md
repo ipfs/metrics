@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 60
-*  7/2020: 67
-*  6/2020: 68
-*  5/2020: 63
-*  4/2020: 62
-*  3/2020: 53
-*  2/2020: 57
-*  1/2020: 57
-*  12/2019: 53
-*  11/2019: 60
-*  10/2019: 64
-*  9/2019: 54
+*  8/2020: 71
+*  7/2020: 69
+*  6/2020: 69
+*  5/2020: 66
+*  4/2020: 69
+*  3/2020: 61
+*  2/2020: 62
+*  1/2020: 61
+*  12/2019: 54
+*  11/2019: 58
+*  10/2019: 63
+*  9/2019: 61
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1780
 
-Total Results (Limited by GitHUB API): 355
+Total Results (Limited by GitHUB API): 356
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -62,7 +62,7 @@ Total Results (Limited by GitHUB API): 355
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4228| 2020-07-22 | 2020-08-06 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 19| 2020-07-18 | 2020-08-10 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 5 | 2 | 67| 2020-07-11 | 2020-08-11 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 5 | 2 | 67| 2020-07-11 | 2020-08-18 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-15 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73534
+Total Matches: 73276
 
-Total Results (Limited by GitHUB API): 1329
+Total Results (Limited by GitHUB API): 1331
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
