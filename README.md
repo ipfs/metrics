@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 71
-*  7/2020: 69
-*  6/2020: 69
-*  5/2020: 66
-*  4/2020: 69
+*  8/2020: 63
+*  7/2020: 68
+*  6/2020: 67
+*  5/2020: 68
+*  4/2020: 65
 *  3/2020: 61
-*  2/2020: 62
-*  1/2020: 61
-*  12/2019: 54
-*  11/2019: 58
-*  10/2019: 63
-*  9/2019: 61
+*  2/2020: 60
+*  1/2020: 64
+*  12/2019: 59
+*  11/2019: 57
+*  10/2019: 62
+*  9/2019: 58
 
 ### GitHub Search
 
@@ -56,13 +56,13 @@ Total Results (Limited by GitHUB API): 356
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 43| 2020-08-04 | 2020-08-15 |
+| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 93| 2020-08-04 | 2020-08-18 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 67| 2020-07-31 | 2020-08-13 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4228| 2020-07-22 | 2020-08-06 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 19| 2020-07-18 | 2020-08-10 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 5 | 2 | 67| 2020-07-11 | 2020-08-18 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 5 | 2 | 76| 2020-07-11 | 2020-08-18 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-15 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73276
+Total Matches: 73467
 
-Total Results (Limited by GitHUB API): 1331
+Total Results (Limited by GitHUB API): 1323
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
