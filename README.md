@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 60
-*  7/2020: 72
-*  6/2020: 69
-*  5/2020: 64
-*  4/2020: 65
-*  3/2020: 58
-*  2/2020: 56
-*  1/2020: 59
-*  12/2019: 58
-*  11/2019: 60
-*  10/2019: 62
+*  8/2020: 67
+*  7/2020: 71
+*  6/2020: 71
+*  5/2020: 69
+*  4/2020: 67
+*  3/2020: 60
+*  2/2020: 61
+*  1/2020: 61
+*  12/2019: 56
+*  11/2019: 61
+*  10/2019: 69
 *  9/2019: 59
 
 ### GitHub Search
@@ -56,13 +56,13 @@ Total Results (Limited by GitHUB API): 356
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 93| 2020-08-04 | 2020-08-18 |
+| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 152| 2020-08-04 | 2020-08-20 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
-| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 68| 2020-07-31 | 2020-08-19 |
+| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4228| 2020-07-22 | 2020-08-06 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 19| 2020-07-18 | 2020-08-10 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 6 | 2 | 76| 2020-07-11 | 2020-08-18 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 76| 2020-07-11 | 2020-08-18 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-15 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
@@ -73,13 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73598
+Total Matches: 73279
 
 Total Results (Limited by GitHUB API): 1330
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 3573| 2020-08-19 | 2020-08-19 |
+| [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
 | [kay404/ipfs-cluster-mini](https://github.com/kay404/ipfs-cluster-mini)| 0 | 0 | 73| 2020-08-13 | 2020-08-13 |
 | [indahud/ipfs-file-upload](https://github.com/indahud/ipfs-file-upload)| 0 | 0 | 17| 2020-08-12 | 2020-08-12 |
