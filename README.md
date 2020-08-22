@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 67
-*  7/2020: 71
-*  6/2020: 71
+*  8/2020: 65
+*  7/2020: 65
+*  6/2020: 73
 *  5/2020: 69
-*  4/2020: 67
+*  4/2020: 70
 *  3/2020: 60
 *  2/2020: 61
-*  1/2020: 61
-*  12/2019: 56
-*  11/2019: 61
+*  1/2020: 59
+*  12/2019: 52
+*  11/2019: 65
 *  10/2019: 69
-*  9/2019: 59
+*  9/2019: 63
 
 ### GitHub Search
 
@@ -59,12 +59,12 @@ Total Results (Limited by GitHUB API): 356
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 152| 2020-08-04 | 2020-08-20 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
-| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4228| 2020-07-22 | 2020-08-06 |
-| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 19| 2020-07-18 | 2020-08-10 |
+| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
+| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 76| 2020-07-11 | 2020-08-18 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
-| [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-15 |
+| [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-21 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73279
+Total Matches: 73461
 
-Total Results (Limited by GitHUB API): 1330
+Total Results (Limited by GitHUB API): 1333
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 1| 2020-08-21 | 2020-08-21 |
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
 | [kay404/ipfs-cluster-mini](https://github.com/kay404/ipfs-cluster-mini)| 0 | 0 | 73| 2020-08-13 | 2020-08-13 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1330
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
 | [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 3 | 0 | 29249| 2020-08-06 | 2020-08-10 |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
-| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 120| 2020-08-02 | 2020-08-15 |
 
 
 The above set is limited to the 10 most recently created. 
