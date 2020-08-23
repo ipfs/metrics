@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 65
-*  7/2020: 65
-*  6/2020: 73
-*  5/2020: 69
-*  4/2020: 70
-*  3/2020: 60
-*  2/2020: 61
-*  1/2020: 59
-*  12/2019: 52
-*  11/2019: 65
-*  10/2019: 69
-*  9/2019: 63
+*  8/2020: 63
+*  7/2020: 68
+*  6/2020: 70
+*  5/2020: 68
+*  4/2020: 68
+*  3/2020: 61
+*  2/2020: 64
+*  1/2020: 60
+*  12/2019: 58
+*  11/2019: 59
+*  10/2019: 64
+*  9/2019: 60
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1780
+Total Matches: 1785
 
-Total Results (Limited by GitHUB API): 356
+Total Results (Limited by GitHUB API): 357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73461
+Total Matches: 73641
 
-Total Results (Limited by GitHUB API): 1333
+Total Results (Limited by GitHUB API): 1332
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -87,7 +87,7 @@ Total Results (Limited by GitHUB API): 1333
 | [tgrecojs/nextjs-fleek](https://github.com/tgrecojs/nextjs-fleek)| 0 | 0 | 17098| 2020-08-09 | 2020-08-10 |
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
-| [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 3 | 0 | 29249| 2020-08-06 | 2020-08-10 |
+| [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 4 | 0 | 29249| 2020-08-06 | 2020-08-10 |
 | [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
 
 
