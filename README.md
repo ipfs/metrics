@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 63
-*  7/2020: 67
-*  6/2020: 68
-*  5/2020: 65
-*  4/2020: 64
-*  3/2020: 53
-*  2/2020: 58
-*  1/2020: 55
-*  12/2019: 57
-*  11/2019: 59
+*  8/2020: 65
+*  7/2020: 72
+*  6/2020: 70
+*  5/2020: 73
+*  4/2020: 65
+*  3/2020: 60
+*  2/2020: 59
+*  1/2020: 60
+*  12/2019: 56
+*  11/2019: 56
 *  10/2019: 62
-*  9/2019: 54
+*  9/2019: 56
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1785
 
-Total Results (Limited by GitHUB API): 357
+Total Results (Limited by GitHUB API): 352
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -60,12 +60,12 @@ Total Results (Limited by GitHUB API): 357
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
-| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-21 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
+| [RTradeLtd/go-ipfs-sharedforeststore](https://github.com/RTradeLtd/go-ipfs-sharedforeststore)| 4 | 0 | 260| 2020-06-25 | 2020-08-03 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73632
+Total Matches: 73700
 
-Total Results (Limited by GitHUB API): 1332
+Total Results (Limited by GitHUB API): 1333
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 1332
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
 | [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 4 | 0 | 29249| 2020-08-06 | 2020-08-10 |
-| [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43625| 2020-08-03 | 2020-08-03 |
+| [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43639| 2020-08-03 | 2020-08-24 |
 
 
 The above set is limited to the 10 most recently created. 
