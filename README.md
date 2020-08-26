@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 65
-*  7/2020: 72
-*  6/2020: 70
-*  5/2020: 73
-*  4/2020: 65
-*  3/2020: 60
-*  2/2020: 59
-*  1/2020: 60
-*  12/2019: 56
-*  11/2019: 56
-*  10/2019: 62
-*  9/2019: 56
+*  8/2020: 58
+*  7/2020: 66
+*  6/2020: 64
+*  5/2020: 65
+*  4/2020: 68
+*  3/2020: 56
+*  2/2020: 56
+*  1/2020: 56
+*  12/2019: 54
+*  11/2019: 61
+*  10/2019: 60
+*  9/2019: 55
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1785
+Total Matches: 1780
 
-Total Results (Limited by GitHUB API): 352
+Total Results (Limited by GitHUB API): 356
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -60,12 +60,12 @@ Total Results (Limited by GitHUB API): 352
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
+| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-21 |
 | [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
-| [RTradeLtd/go-ipfs-sharedforeststore](https://github.com/RTradeLtd/go-ipfs-sharedforeststore)| 4 | 0 | 260| 2020-06-25 | 2020-08-03 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73700
+Total Matches: 73550
 
-Total Results (Limited by GitHUB API): 1333
+Total Results (Limited by GitHUB API): 1332
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
