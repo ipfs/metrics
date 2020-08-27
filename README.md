@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 58
-*  7/2020: 66
-*  6/2020: 64
-*  5/2020: 65
-*  4/2020: 68
-*  3/2020: 56
-*  2/2020: 56
-*  1/2020: 56
-*  12/2019: 54
+*  8/2020: 60
+*  7/2020: 69
+*  6/2020: 70
+*  5/2020: 62
+*  4/2020: 67
+*  3/2020: 63
+*  2/2020: 59
+*  1/2020: 62
+*  12/2019: 51
 *  11/2019: 61
-*  10/2019: 60
-*  9/2019: 55
+*  10/2019: 61
+*  9/2019: 58
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1780
+Total Matches: 1785
 
-Total Results (Limited by GitHUB API): 356
+Total Results (Limited by GitHUB API): 357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 50| 2020-08-23 | 2020-08-26 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 152| 2020-08-04 | 2020-08-20 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 356
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-21 |
-| [BDWare/go-ipfs](https://github.com/BDWare/go-ipfs)| 0 | 0 | 40531| 2020-07-01 | 2020-07-01 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73550
+Total Matches: 73467
 
-Total Results (Limited by GitHUB API): 1332
+Total Results (Limited by GitHUB API): 1331
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 1332
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
 | [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 4 | 0 | 29249| 2020-08-06 | 2020-08-10 |
-| [GremApp/ExpressAPI](https://github.com/GremApp/ExpressAPI)| 0 | 0 | 43639| 2020-08-03 | 2020-08-24 |
+| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 120| 2020-08-02 | 2020-08-15 |
 
 
 The above set is limited to the 10 most recently created. 
