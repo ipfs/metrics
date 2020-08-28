@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 60
-*  7/2020: 69
-*  6/2020: 70
-*  5/2020: 62
-*  4/2020: 67
-*  3/2020: 63
-*  2/2020: 59
-*  1/2020: 62
-*  12/2019: 51
-*  11/2019: 61
-*  10/2019: 61
-*  9/2019: 58
+*  8/2020: 63
+*  7/2020: 71
+*  6/2020: 71
+*  5/2020: 72
+*  4/2020: 68
+*  3/2020: 61
+*  2/2020: 60
+*  1/2020: 59
+*  12/2019: 64
+*  11/2019: 57
+*  10/2019: 65
+*  9/2019: 63
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 357
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 9 | 3 | 80| 2020-07-11 | 2020-08-21 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 11 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 | [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-21 |
 
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73467
+Total Matches: 73650
 
 Total Results (Limited by GitHUB API): 1331
 
