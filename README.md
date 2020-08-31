@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 63
-*  7/2020: 71
+*  8/2020: 67
+*  7/2020: 72
 *  6/2020: 71
-*  5/2020: 72
-*  4/2020: 68
-*  3/2020: 61
-*  2/2020: 60
-*  1/2020: 59
-*  12/2019: 64
-*  11/2019: 57
-*  10/2019: 65
-*  9/2019: 63
+*  5/2020: 71
+*  4/2020: 69
+*  3/2020: 65
+*  2/2020: 62
+*  1/2020: 62
+*  12/2019: 57
+*  11/2019: 60
+*  10/2019: 64
+*  9/2019: 59
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1785
+Total Matches: 1790
 
-Total Results (Limited by GitHUB API): 357
+Total Results (Limited by GitHUB API): 358
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 50| 2020-08-23 | 2020-08-26 |
-| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 152| 2020-08-04 | 2020-08-20 |
+| [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
+| [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
+| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 152| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 357
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 11 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
-| [wabarc/wbipfs](https://github.com/wabarc/wbipfs)| 0 | 0 | 9749| 2020-07-04 | 2020-08-21 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73650
+Total Matches: 73800
 
-Total Results (Limited by GitHUB API): 1331
+Total Results (Limited by GitHUB API): 1332
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1661| 2020-08-23 | 2020-08-30 |
 | [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 1| 2020-08-21 | 2020-08-21 |
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1331
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
 | [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 4 | 0 | 29249| 2020-08-06 | 2020-08-10 |
-| [GustaveNimant/irp_ipfs_full](https://github.com/GustaveNimant/irp_ipfs_full)| 0 | 0 | 120| 2020-08-02 | 2020-08-15 |
 
 
 The above set is limited to the 10 most recently created. 
