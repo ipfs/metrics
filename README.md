@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 67
-*  7/2020: 72
-*  6/2020: 71
-*  5/2020: 71
-*  4/2020: 69
-*  3/2020: 65
-*  2/2020: 62
-*  1/2020: 62
-*  12/2019: 57
-*  11/2019: 60
-*  10/2019: 64
-*  9/2019: 59
+*  8/2020: 61
+*  7/2020: 69
+*  6/2020: 67
+*  5/2020: 67
+*  4/2020: 64
+*  3/2020: 57
+*  2/2020: 63
+*  1/2020: 60
+*  12/2019: 55
+*  11/2019: 57
+*  10/2019: 59
+*  9/2019: 60
 
 ### GitHub Search
 
@@ -50,21 +50,21 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1790
+Total Matches: 1785
 
-Total Results (Limited by GitHUB API): 358
+Total Results (Limited by GitHUB API): 357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
-| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 152| 2020-08-04 | 2020-08-30 |
+| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 11 | 3 | 80| 2020-07-11 | 2020-08-21 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 12 | 3 | 80| 2020-07-11 | 2020-08-21 |
 | [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73800
+Total Matches: 73759
 
-Total Results (Limited by GitHUB API): 1332
+Total Results (Limited by GitHUB API): 1335
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
