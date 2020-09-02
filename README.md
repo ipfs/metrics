@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 61
-*  7/2020: 69
-*  6/2020: 67
-*  5/2020: 67
-*  4/2020: 64
-*  3/2020: 57
-*  2/2020: 63
-*  1/2020: 60
-*  12/2019: 55
-*  11/2019: 57
-*  10/2019: 59
-*  9/2019: 60
+*  8/2020: 57
+*  7/2020: 66
+*  6/2020: 68
+*  5/2020: 62
+*  4/2020: 67
+*  3/2020: 58
+*  2/2020: 58
+*  1/2020: 55
+*  12/2019: 52
+*  11/2019: 56
+*  10/2019: 58
+*  9/2019: 59
 
 ### GitHub Search
 
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73759
+Total Matches: 73800
 
-Total Results (Limited by GitHUB API): 1335
+Total Results (Limited by GitHUB API): 1333
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1661| 2020-08-23 | 2020-08-30 |
-| [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 1| 2020-08-21 | 2020-08-21 |
+| [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 2| 2020-08-21 | 2020-09-01 |
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
 | [kay404/ipfs-cluster-mini](https://github.com/kay404/ipfs-cluster-mini)| 0 | 0 | 73| 2020-08-13 | 2020-08-13 |
