@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 57
-*  7/2020: 66
-*  6/2020: 68
-*  5/2020: 62
-*  4/2020: 67
-*  3/2020: 58
-*  2/2020: 58
-*  1/2020: 55
-*  12/2019: 52
-*  11/2019: 56
-*  10/2019: 58
-*  9/2019: 59
+*  8/2020: 63
+*  7/2020: 69
+*  6/2020: 67
+*  5/2020: 70
+*  4/2020: 64
+*  3/2020: 62
+*  2/2020: 59
+*  1/2020: 61
+*  12/2019: 55
+*  11/2019: 57
+*  10/2019: 61
+*  9/2019: 57
 
 ### GitHub Search
 
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73800
+Total Matches: 73787
 
 Total Results (Limited by GitHUB API): 1333
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [PixelFault/PixelEdwlqui](https://github.com/PixelFault/PixelEdwlqui)| 0 | 0 | 545| 2020-09-02 | 2020-09-02 |
 | [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1661| 2020-08-23 | 2020-08-30 |
-| [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 2| 2020-08-21 | 2020-09-01 |
+| [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 22| 2020-08-21 | 2020-09-02 |
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
 | [kay404/ipfs-cluster-mini](https://github.com/kay404/ipfs-cluster-mini)| 0 | 0 | 73| 2020-08-13 | 2020-08-13 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1333
 | [tgrecojs/nextjs-fleek](https://github.com/tgrecojs/nextjs-fleek)| 0 | 0 | 17098| 2020-08-09 | 2020-08-10 |
 | [narojishubham/ipfs-demo](https://github.com/narojishubham/ipfs-demo)| 0 | 0 | 15| 2020-08-08 | 2020-08-08 |
 | [spsingh559/ipfs-eth](https://github.com/spsingh559/ipfs-eth)| 0 | 0 | 101| 2020-08-07 | 2020-08-07 |
-| [sleepycharlyy/tic2bar.js](https://github.com/sleepycharlyy/tic2bar.js)| 4 | 0 | 29249| 2020-08-06 | 2020-08-10 |
 
 
 The above set is limited to the 10 most recently created. 
