@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2020: 63
-*  7/2020: 69
-*  6/2020: 67
-*  5/2020: 70
-*  4/2020: 64
-*  3/2020: 62
-*  2/2020: 59
-*  1/2020: 61
-*  12/2019: 55
-*  11/2019: 57
-*  10/2019: 61
-*  9/2019: 57
+*  9/2020: 64
+*  8/2020: 54
+*  7/2020: 66
+*  6/2020: 65
+*  5/2020: 67
+*  4/2020: 59
+*  3/2020: 57
+*  2/2020: 60
+*  1/2020: 62
+*  12/2019: 58
+*  11/2019: 60
+*  10/2019: 63
 
 ### GitHub Search
 
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73787
+Total Matches: 73764
 
-Total Results (Limited by GitHUB API): 1333
+Total Results (Limited by GitHUB API): 1327
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [PixelFault/PixelEdwlqui](https://github.com/PixelFault/PixelEdwlqui)| 0 | 0 | 545| 2020-09-02 | 2020-09-02 |
-| [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1661| 2020-08-23 | 2020-08-30 |
+| [PixelFault/PixelEdwlqui](https://github.com/PixelFault/PixelEdwlqui)| 0 | 0 | 732| 2020-09-02 | 2020-09-03 |
+| [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1674| 2020-08-23 | 2020-09-03 |
 | [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 22| 2020-08-21 | 2020-09-02 |
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
