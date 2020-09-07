@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 78
-*  8/2020: 66
-*  7/2020: 67
-*  6/2020: 72
-*  5/2020: 69
+*  9/2020: 66
+*  8/2020: 59
+*  7/2020: 66
+*  6/2020: 68
+*  5/2020: 66
 *  4/2020: 64
-*  3/2020: 59
-*  2/2020: 59
+*  3/2020: 55
+*  2/2020: 56
 *  1/2020: 59
 *  12/2019: 54
-*  11/2019: 58
-*  10/2019: 65
+*  11/2019: 54
+*  10/2019: 67
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73784
+Total Matches: 73996
 
-Total Results (Limited by GitHUB API): 1345
+Total Results (Limited by GitHUB API): 1336
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [az0oz/MedAccess](https://github.com/az0oz/MedAccess)| 0 | 0 | 10945| 2020-09-06 | 2020-09-06 |
 | [gurix/cotrack](https://github.com/gurix/cotrack)| 0 | 0 | 341| 2020-09-05 | 2020-09-05 |
 | [scanlime/hls-ipfs-player](https://github.com/scanlime/hls-ipfs-player)| 1 | 0 | 1164| 2020-09-04 | 2020-09-05 |
 | [PengHengBen/Ipfs_press_test](https://github.com/PengHengBen/Ipfs_press_test)| 0 | 0 | 3| 2020-09-04 | 2020-09-04 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1345
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 | [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
 | [kay404/ipfs-cluster-mini](https://github.com/kay404/ipfs-cluster-mini)| 0 | 0 | 73| 2020-08-13 | 2020-08-13 |
-| [indahud/ipfs-file-upload](https://github.com/indahud/ipfs-file-upload)| 0 | 0 | 17| 2020-08-12 | 2020-08-12 |
 
 
 The above set is limited to the 10 most recently created. 
