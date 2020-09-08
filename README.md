@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 66
-*  8/2020: 59
-*  7/2020: 66
-*  6/2020: 68
-*  5/2020: 66
-*  4/2020: 64
-*  3/2020: 55
-*  2/2020: 56
-*  1/2020: 59
-*  12/2019: 54
-*  11/2019: 54
-*  10/2019: 67
+*  9/2020: 83
+*  8/2020: 55
+*  7/2020: 63
+*  6/2020: 71
+*  5/2020: 64
+*  4/2020: 58
+*  3/2020: 60
+*  2/2020: 50
+*  1/2020: 54
+*  12/2019: 50
+*  11/2019: 53
+*  10/2019: 58
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1785
+Total Matches: 1790
 
-Total Results (Limited by GitHUB API): 357
+Total Results (Limited by GitHUB API): 358
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -61,11 +61,11 @@ Total Results (Limited by GitHUB API): 357
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 3 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
+| [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 12 | 3 | 80| 2020-07-11 | 2020-08-21 |
-| [diviramon/vbeam](https://github.com/diviramon/vbeam)| 3 | 1 | 263| 2020-07-06 | 2020-08-14 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 73996
+Total Matches: 74100
 
 Total Results (Limited by GitHUB API): 1336
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
+| [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
 | [az0oz/MedAccess](https://github.com/az0oz/MedAccess)| 0 | 0 | 10945| 2020-09-06 | 2020-09-06 |
 | [gurix/cotrack](https://github.com/gurix/cotrack)| 0 | 0 | 341| 2020-09-05 | 2020-09-05 |
 | [scanlime/hls-ipfs-player](https://github.com/scanlime/hls-ipfs-player)| 1 | 0 | 1164| 2020-09-04 | 2020-09-05 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1336
 | [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1675| 2020-08-23 | 2020-09-05 |
 | [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 22| 2020-08-21 | 2020-09-02 |
 | [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
-| [KYCCrypto/ipfs-crypt](https://github.com/KYCCrypto/ipfs-crypt)| 1 | 0 | 16| 2020-08-15 | 2020-08-15 |
-| [kay404/ipfs-cluster-mini](https://github.com/kay404/ipfs-cluster-mini)| 0 | 0 | 73| 2020-08-13 | 2020-08-13 |
 
 
 The above set is limited to the 10 most recently created. 
