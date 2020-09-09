@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 83
-*  8/2020: 55
-*  7/2020: 63
-*  6/2020: 71
-*  5/2020: 64
-*  4/2020: 58
-*  3/2020: 60
-*  2/2020: 50
-*  1/2020: 54
-*  12/2019: 50
-*  11/2019: 53
-*  10/2019: 58
+*  9/2020: 74
+*  8/2020: 59
+*  7/2020: 64
+*  6/2020: 64
+*  5/2020: 65
+*  4/2020: 59
+*  3/2020: 57
+*  2/2020: 55
+*  1/2020: 58
+*  12/2019: 52
+*  11/2019: 56
+*  10/2019: 60
 
 ### GitHub Search
 
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74100
+Total Matches: 74200
 
-Total Results (Limited by GitHUB API): 1336
+Total Results (Limited by GitHUB API): 1338
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 29| 2020-09-08 | 2020-09-08 |
+| [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 | [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
 | [az0oz/MedAccess](https://github.com/az0oz/MedAccess)| 0 | 0 | 10945| 2020-09-06 | 2020-09-06 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1336
 | [scanlime/hls-ipfs-player](https://github.com/scanlime/hls-ipfs-player)| 1 | 0 | 1164| 2020-09-04 | 2020-09-05 |
 | [PengHengBen/Ipfs_press_test](https://github.com/PengHengBen/Ipfs_press_test)| 0 | 0 | 3| 2020-09-04 | 2020-09-04 |
 | [PixelFault/PixelEdwlqui](https://github.com/PixelFault/PixelEdwlqui)| 0 | 0 | 732| 2020-09-02 | 2020-09-03 |
-| [phillmac/ipfs-masonry](https://github.com/phillmac/ipfs-masonry)| 0 | 0 | 1675| 2020-08-23 | 2020-09-05 |
-| [MediCha-i-n/test_ipfs](https://github.com/MediCha-i-n/test_ipfs)| 0 | 0 | 22| 2020-08-21 | 2020-09-02 |
-| [holtolee/holtolee.github.io](https://github.com/holtolee/holtolee.github.io)| 0 | 0 | 7044| 2020-08-19 | 2020-08-20 |
 
 
 The above set is limited to the 10 most recently created. 
