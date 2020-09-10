@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 74
-*  8/2020: 59
-*  7/2020: 64
-*  6/2020: 64
-*  5/2020: 65
-*  4/2020: 59
-*  3/2020: 57
-*  2/2020: 55
-*  1/2020: 58
-*  12/2019: 52
-*  11/2019: 56
+*  9/2020: 60
+*  8/2020: 62
+*  7/2020: 65
+*  6/2020: 70
+*  5/2020: 62
+*  4/2020: 62
+*  3/2020: 54
+*  2/2020: 61
+*  1/2020: 57
+*  12/2019: 58
+*  11/2019: 60
 *  10/2019: 60
 
 ### GitHub Search
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74200
+Total Matches: 74250
 
-Total Results (Limited by GitHUB API): 1338
+Total Results (Limited by GitHUB API): 1339
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Gozala/eslint-config-ipfs](https://github.com/Gozala/eslint-config-ipfs)| 0 | 0 | 24| 2020-09-09 | 2020-09-09 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 29| 2020-09-08 | 2020-09-08 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 31| 2020-09-08 | 2020-09-09 |
 | [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 | [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1338
 | [gurix/cotrack](https://github.com/gurix/cotrack)| 0 | 0 | 341| 2020-09-05 | 2020-09-05 |
 | [scanlime/hls-ipfs-player](https://github.com/scanlime/hls-ipfs-player)| 1 | 0 | 1164| 2020-09-04 | 2020-09-05 |
 | [PengHengBen/Ipfs_press_test](https://github.com/PengHengBen/Ipfs_press_test)| 0 | 0 | 3| 2020-09-04 | 2020-09-04 |
-| [PixelFault/PixelEdwlqui](https://github.com/PixelFault/PixelEdwlqui)| 0 | 0 | 732| 2020-09-02 | 2020-09-03 |
 
 
 The above set is limited to the 10 most recently created. 
