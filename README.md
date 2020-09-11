@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 60
+*  9/2020: 71
 *  8/2020: 62
 *  7/2020: 65
-*  6/2020: 70
-*  5/2020: 62
-*  4/2020: 62
-*  3/2020: 54
-*  2/2020: 61
-*  1/2020: 57
-*  12/2019: 58
-*  11/2019: 60
+*  6/2020: 66
+*  5/2020: 66
+*  4/2020: 63
+*  3/2020: 57
+*  2/2020: 56
+*  1/2020: 58
+*  12/2019: 55
+*  11/2019: 59
 *  10/2019: 60
 
 ### GitHub Search
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 358
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
-| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 12 | 3 | 80| 2020-07-11 | 2020-08-21 |
+| [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 13 | 3 | 81| 2020-07-11 | 2020-09-10 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,19 +73,19 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74250
+Total Matches: 74098
 
-Total Results (Limited by GitHUB API): 1339
+Total Results (Limited by GitHUB API): 1320
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Gozala/eslint-config-ipfs](https://github.com/Gozala/eslint-config-ipfs)| 0 | 0 | 24| 2020-09-09 | 2020-09-09 |
+| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 104| 2020-09-09 | 2020-09-10 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 31| 2020-09-08 | 2020-09-09 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 34| 2020-09-08 | 2020-09-10 |
 | [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 | [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
-| [az0oz/MedAccess](https://github.com/az0oz/MedAccess)| 0 | 0 | 10945| 2020-09-06 | 2020-09-06 |
 | [gurix/cotrack](https://github.com/gurix/cotrack)| 0 | 0 | 341| 2020-09-05 | 2020-09-05 |
 | [scanlime/hls-ipfs-player](https://github.com/scanlime/hls-ipfs-player)| 1 | 0 | 1164| 2020-09-04 | 2020-09-05 |
 | [PengHengBen/Ipfs_press_test](https://github.com/PengHengBen/Ipfs_press_test)| 0 | 0 | 3| 2020-09-04 | 2020-09-04 |
