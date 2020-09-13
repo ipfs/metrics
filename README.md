@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 74
-*  8/2020: 66
-*  7/2020: 68
-*  6/2020: 70
-*  5/2020: 67
-*  4/2020: 68
-*  3/2020: 60
-*  2/2020: 61
-*  1/2020: 54
-*  12/2019: 55
-*  11/2019: 55
-*  10/2019: 64
+*  9/2020: 69
+*  8/2020: 61
+*  7/2020: 72
+*  6/2020: 68
+*  5/2020: 61
+*  4/2020: 63
+*  3/2020: 56
+*  2/2020: 60
+*  1/2020: 58
+*  12/2019: 58
+*  11/2019: 56
+*  10/2019: 60
 
 ### GitHub Search
 
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74200
+Total Matches: 73943
 
-Total Results (Limited by GitHUB API): 1338
+Total Results (Limited by GitHUB API): 1336
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Gozala/eslint-config-ipfs](https://github.com/Gozala/eslint-config-ipfs)| 0 | 0 | 24| 2020-09-09 | 2020-09-09 |
-| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 206| 2020-09-09 | 2020-09-12 |
+| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 215| 2020-09-09 | 2020-09-13 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 43| 2020-09-08 | 2020-09-11 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 65| 2020-09-08 | 2020-09-12 |
 | [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 | [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
