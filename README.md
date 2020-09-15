@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 70
-*  8/2020: 65
-*  7/2020: 64
-*  6/2020: 72
-*  5/2020: 62
-*  4/2020: 64
-*  3/2020: 59
-*  2/2020: 54
+*  9/2020: 67
+*  8/2020: 60
+*  7/2020: 70
+*  6/2020: 70
+*  5/2020: 68
+*  4/2020: 66
+*  3/2020: 57
+*  2/2020: 62
 *  1/2020: 59
 *  12/2019: 55
-*  11/2019: 58
-*  10/2019: 59
+*  11/2019: 54
+*  10/2019: 67
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1790
+Total Matches: 1785
 
-Total Results (Limited by GitHUB API): 358
+Total Results (Limited by GitHUB API): 357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74250
+Total Matches: 74217
 
 Total Results (Limited by GitHUB API): 1339
 
@@ -81,10 +81,10 @@ Total Results (Limited by GitHUB API): 1339
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 | [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 232| 2020-09-13 | 2020-09-13 |
-| [Gozala/eslint-config-ipfs](https://github.com/Gozala/eslint-config-ipfs)| 0 | 0 | 24| 2020-09-09 | 2020-09-09 |
-| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 228| 2020-09-09 | 2020-09-13 |
+| [Gozala/eslint-config-ipfs](https://github.com/Gozala/eslint-config-ipfs)| 0 | 0 | 27| 2020-09-09 | 2020-09-14 |
+| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 231| 2020-09-09 | 2020-09-15 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 110| 2020-09-08 | 2020-09-13 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 168| 2020-09-08 | 2020-09-15 |
 | [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 | [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
