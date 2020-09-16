@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 67
-*  8/2020: 60
-*  7/2020: 70
-*  6/2020: 70
-*  5/2020: 68
-*  4/2020: 66
-*  3/2020: 57
-*  2/2020: 62
-*  1/2020: 59
-*  12/2019: 55
-*  11/2019: 54
-*  10/2019: 67
+*  9/2020: 73
+*  8/2020: 63
+*  7/2020: 67
+*  6/2020: 67
+*  5/2020: 67
+*  4/2020: 68
+*  3/2020: 59
+*  2/2020: 56
+*  1/2020: 54
+*  12/2019: 53
+*  11/2019: 60
+*  10/2019: 59
 
 ### GitHub Search
 
@@ -73,18 +73,18 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74217
+Total Matches: 74109
 
-Total Results (Limited by GitHUB API): 1339
+Total Results (Limited by GitHUB API): 1341
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 | [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 232| 2020-09-13 | 2020-09-13 |
-| [Gozala/eslint-config-ipfs](https://github.com/Gozala/eslint-config-ipfs)| 0 | 0 | 27| 2020-09-09 | 2020-09-14 |
-| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 231| 2020-09-09 | 2020-09-15 |
+| [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 0 | 0 | 44| 2020-09-09 | 2020-09-15 |
+| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 234| 2020-09-09 | 2020-09-15 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 0 | 168| 2020-09-08 | 2020-09-15 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 1 | 284| 2020-09-08 | 2020-09-15 |
 | [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 | [qwakuacquah/securing-fingerprint-templat...](https://github.com/qwakuacquah/securing-fingerprint-template-using-blockchain-)| 0 | 0 | 14| 2020-09-07 | 2020-09-07 |
