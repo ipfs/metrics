@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 67
-*  8/2020: 66
-*  7/2020: 72
-*  6/2020: 70
-*  5/2020: 63
+*  9/2020: 69
+*  8/2020: 59
+*  7/2020: 73
+*  6/2020: 71
+*  5/2020: 73
 *  4/2020: 68
-*  3/2020: 58
-*  2/2020: 63
+*  3/2020: 53
+*  2/2020: 59
 *  1/2020: 60
 *  12/2019: 60
-*  11/2019: 59
-*  10/2019: 61
+*  11/2019: 54
+*  10/2019: 62
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1785
+Total Matches: 1780
 
-Total Results (Limited by GitHUB API): 357
+Total Results (Limited by GitHUB API): 356
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 357
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
-| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-08-21 |
+| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-09-18 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 13 | 3 | 81| 2020-07-11 | 2020-09-10 |
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74376
+Total Matches: 74400
 
-Total Results (Limited by GitHUB API): 1343
+Total Results (Limited by GitHUB API): 1341
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 1343
 | [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 1 | 0 | 44| 2020-09-09 | 2020-09-15 |
 | [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 234| 2020-09-09 | 2020-09-15 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 1 | 127| 2020-09-08 | 2020-09-16 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 1 | 136| 2020-09-08 | 2020-09-18 |
 | [Francis-Tao-jinjin/ipfs-hash](https://github.com/Francis-Tao-jinjin/ipfs-hash)| 0 | 0 | 232| 2020-09-08 | 2020-09-08 |
 | [RaiyanYahyaDev/ethereum-ipfs](https://github.com/RaiyanYahyaDev/ethereum-ipfs)| 0 | 0 | 176| 2020-09-07 | 2020-09-07 |
 
