@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 69
-*  8/2020: 59
-*  7/2020: 73
-*  6/2020: 71
-*  5/2020: 73
-*  4/2020: 68
-*  3/2020: 53
+*  9/2020: 70
+*  8/2020: 66
+*  7/2020: 71
+*  6/2020: 65
+*  5/2020: 67
+*  4/2020: 65
+*  3/2020: 61
 *  2/2020: 59
-*  1/2020: 60
-*  12/2019: 60
-*  11/2019: 54
-*  10/2019: 62
+*  1/2020: 58
+*  12/2019: 52
+*  11/2019: 55
+*  10/2019: 65
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 356
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
-| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 21| 2020-07-18 | 2020-09-18 |
+| [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 25| 2020-07-18 | 2020-09-19 |
 | [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 | [Wondertan/go-ipfs-recovery](https://github.com/Wondertan/go-ipfs-recovery)| 13 | 3 | 81| 2020-07-11 | 2020-09-10 |
 
