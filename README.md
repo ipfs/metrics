@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 61
-*  8/2020: 57
-*  7/2020: 70
-*  6/2020: 66
-*  5/2020: 58
-*  4/2020: 65
-*  3/2020: 58
-*  2/2020: 58
-*  1/2020: 56
-*  12/2019: 57
-*  11/2019: 54
-*  10/2019: 60
+*  9/2020: 67
+*  8/2020: 62
+*  7/2020: 75
+*  6/2020: 70
+*  5/2020: 71
+*  4/2020: 73
+*  3/2020: 60
+*  2/2020: 57
+*  1/2020: 58
+*  12/2019: 60
+*  11/2019: 61
+*  10/2019: 63
 
 ### GitHub Search
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74422
+Total Matches: 74511
 
-Total Results (Limited by GitHUB API): 1348
+Total Results (Limited by GitHUB API): 1347
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -86,9 +86,9 @@ Total Results (Limited by GitHUB API): 1348
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 | [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 233| 2020-09-13 | 2020-09-23 |
 | [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 1 | 0 | 44| 2020-09-09 | 2020-09-15 |
-| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 386| 2020-09-09 | 2020-09-24 |
+| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 396| 2020-09-09 | 2020-09-24 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 1 | 141| 2020-09-08 | 2020-09-24 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 1 | 147| 2020-09-08 | 2020-09-24 |
 
 
 The above set is limited to the 10 most recently created. 
