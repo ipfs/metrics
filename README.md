@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 67
-*  8/2020: 62
-*  7/2020: 75
-*  6/2020: 70
-*  5/2020: 71
-*  4/2020: 73
+*  9/2020: 68
+*  8/2020: 59
+*  7/2020: 73
+*  6/2020: 69
+*  5/2020: 69
+*  4/2020: 69
 *  3/2020: 60
-*  2/2020: 57
-*  1/2020: 58
-*  12/2019: 60
-*  11/2019: 61
+*  2/2020: 61
+*  1/2020: 59
+*  12/2019: 57
+*  11/2019: 60
 *  10/2019: 63
 
 ### GitHub Search
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74511
+Total Matches: 74543
 
-Total Results (Limited by GitHUB API): 1347
+Total Results (Limited by GitHUB API): 1346
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -88,7 +88,7 @@ Total Results (Limited by GitHUB API): 1347
 | [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 1 | 0 | 44| 2020-09-09 | 2020-09-15 |
 | [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 396| 2020-09-09 | 2020-09-24 |
 | [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
-| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 0 | 1 | 147| 2020-09-08 | 2020-09-24 |
+| [QuestNetwork/quest-os-js](https://github.com/QuestNetwork/quest-os-js)| 1 | 2 | 172| 2020-09-08 | 2020-09-25 |
 
 
 The above set is limited to the 10 most recently created. 
