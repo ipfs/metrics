@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 66
-*  8/2020: 62
+*  9/2020: 65
+*  8/2020: 61
 *  7/2020: 67
-*  6/2020: 68
-*  5/2020: 66
-*  4/2020: 64
-*  3/2020: 58
-*  2/2020: 56
-*  1/2020: 58
-*  12/2019: 55
-*  11/2019: 54
-*  10/2019: 62
+*  6/2020: 66
+*  5/2020: 67
+*  4/2020: 63
+*  3/2020: 55
+*  2/2020: 60
+*  1/2020: 57
+*  12/2019: 57
+*  11/2019: 55
+*  10/2019: 65
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 1 | 0 | 8| 2020-09-27 | 2020-09-27 |
+| [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74650
+Total Matches: 74618
 
-Total Results (Limited by GitHUB API): 1345
+Total Results (Limited by GitHUB API): 1348
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2981| 2020-09-28 | 2020-09-28 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
 | [energychain/casa-corrently-ipfs-bridge](https://github.com/energychain/casa-corrently-ipfs-bridge)| 0 | 0 | 82| 2020-09-26 | 2020-09-26 |
 | [wuliangshun/EFS](https://github.com/wuliangshun/EFS)| 0 | 0 | 49777| 2020-09-21 | 2020-09-23 |
@@ -87,8 +88,7 @@ Total Results (Limited by GitHUB API): 1345
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 | [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 233| 2020-09-13 | 2020-09-23 |
 | [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 1 | 0 | 44| 2020-09-09 | 2020-09-15 |
-| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 714| 2020-09-09 | 2020-09-27 |
-| [christroutner/merit-chat](https://github.com/christroutner/merit-chat)| 0 | 0 | 215| 2020-09-08 | 2020-09-08 |
+| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 719| 2020-09-09 | 2020-09-28 |
 
 
 The above set is limited to the 10 most recently created. 
