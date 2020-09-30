@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 65
+*  9/2020: 64
 *  8/2020: 61
-*  7/2020: 67
-*  6/2020: 66
-*  5/2020: 67
-*  4/2020: 63
-*  3/2020: 55
-*  2/2020: 60
-*  1/2020: 57
-*  12/2019: 57
-*  11/2019: 55
+*  7/2020: 65
+*  6/2020: 68
+*  5/2020: 69
+*  4/2020: 61
+*  3/2020: 61
+*  2/2020: 54
+*  1/2020: 56
+*  12/2019: 53
+*  11/2019: 53
 *  10/2019: 65
 
 ### GitHub Search
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74618
+Total Matches: 74700
 
-Total Results (Limited by GitHUB API): 1348
+Total Results (Limited by GitHUB API): 1349
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
 | [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2981| 2020-09-28 | 2020-09-28 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
 | [energychain/casa-corrently-ipfs-bridge](https://github.com/energychain/casa-corrently-ipfs-bridge)| 0 | 0 | 82| 2020-09-26 | 2020-09-26 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1348
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 | [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 233| 2020-09-13 | 2020-09-23 |
 | [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 1 | 0 | 44| 2020-09-09 | 2020-09-15 |
-| [energychain/casa-corrently-ipfs-edge](https://github.com/energychain/casa-corrently-ipfs-edge)| 0 | 0 | 719| 2020-09-09 | 2020-09-28 |
 
 
 The above set is limited to the 10 most recently created. 
