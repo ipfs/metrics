@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 64
-*  8/2020: 61
-*  7/2020: 65
-*  6/2020: 68
-*  5/2020: 69
-*  4/2020: 61
-*  3/2020: 61
-*  2/2020: 54
+*  9/2020: 69
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 73
+*  5/2020: 67
+*  4/2020: 67
+*  3/2020: 62
+*  2/2020: 64
 *  1/2020: 56
-*  12/2019: 53
-*  11/2019: 53
+*  12/2019: 58
+*  11/2019: 60
 *  10/2019: 65
 
 ### GitHub Search
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1785
+Total Matches: 1790
 
-Total Results (Limited by GitHUB API): 357
+Total Results (Limited by GitHUB API): 358
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
+| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 59| 2020-09-20 | 2020-09-28 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 357
 | [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
 | [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
 | [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner)| 0 | 0 | 25| 2020-07-18 | 2020-09-19 |
-| [aschmahmann/ipfs-ds](https://github.com/aschmahmann/ipfs-ds)| 2 | 1 | 57| 2020-07-16 | 2020-07-16 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,12 +75,12 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 74700
 
-Total Results (Limited by GitHUB API): 1349
+Total Results (Limited by GitHUB API): 1350
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
-| [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2981| 2020-09-28 | 2020-09-28 |
+| [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2984| 2020-09-28 | 2020-09-30 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
 | [energychain/casa-corrently-ipfs-bridge](https://github.com/energychain/casa-corrently-ipfs-bridge)| 0 | 0 | 82| 2020-09-26 | 2020-09-26 |
 | [wuliangshun/EFS](https://github.com/wuliangshun/EFS)| 0 | 0 | 49777| 2020-09-21 | 2020-09-23 |
