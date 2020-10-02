@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2020: 69
-*  8/2020: 62
-*  7/2020: 71
-*  6/2020: 73
-*  5/2020: 67
-*  4/2020: 67
-*  3/2020: 62
-*  2/2020: 64
-*  1/2020: 56
-*  12/2019: 58
-*  11/2019: 60
-*  10/2019: 65
+*  9/2020: 65
+*  8/2020: 66
+*  7/2020: 67
+*  6/2020: 65
+*  5/2020: 65
+*  4/2020: 61
+*  3/2020: 61
+*  2/2020: 60
+*  1/2020: 55
+*  12/2019: 59
+*  11/2019: 59
+*  10/2019: 60
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74700
+Total Matches: 74850
 
-Total Results (Limited by GitHUB API): 1350
+Total Results (Limited by GitHUB API): 1351
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 1 | 0 | 152| 2020-10-01 | 2020-10-01 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
 | [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2984| 2020-09-28 | 2020-09-30 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1350
 | [cerebro2005/ES6-AlmeidaMartinAriel](https://github.com/cerebro2005/ES6-AlmeidaMartinAriel)| 0 | 0 | 364| 2020-09-16 | 2020-09-16 |
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 | [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 233| 2020-09-13 | 2020-09-23 |
-| [ipfs/eslint-config-ipfs](https://github.com/ipfs/eslint-config-ipfs)| 1 | 0 | 44| 2020-09-09 | 2020-09-15 |
 
 
 The above set is limited to the 10 most recently created. 
