@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 64
-*  9/2020: 66
-*  8/2020: 64
-*  7/2020: 67
+*  10/2020: 67
+*  9/2020: 61
+*  8/2020: 66
+*  7/2020: 68
 *  6/2020: 66
-*  5/2020: 65
-*  4/2020: 58
-*  3/2020: 59
-*  2/2020: 57
-*  1/2020: 61
-*  12/2019: 53
-*  11/2019: 59
+*  5/2020: 64
+*  4/2020: 65
+*  3/2020: 60
+*  2/2020: 58
+*  1/2020: 58
+*  12/2019: 56
+*  11/2019: 55
 
 ### GitHub Search
 
@@ -56,9 +56,9 @@ Total Results (Limited by GitHUB API): 360
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 12| 2020-09-30 | 2020-10-03 |
+| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 40| 2020-09-30 | 2020-10-04 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
-| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 59| 2020-09-20 | 2020-09-28 |
+| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 68| 2020-09-20 | 2020-10-04 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74750
+Total Matches: 74800
 
-Total Results (Limited by GitHUB API): 1348
+Total Results (Limited by GitHUB API): 1347
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 7 | 0 | 152| 2020-10-01 | 2020-10-01 |
+| [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
+| [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 10 | 0 | 154| 2020-10-01 | 2020-10-04 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
 | [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2984| 2020-09-28 | 2020-09-30 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1348
 | [Qm64-tech/dlike](https://github.com/Qm64-tech/dlike)| 0 | 0 | 1044| 2020-09-16 | 2020-09-16 |
 | [cerebro2005/ES6-AlmeidaMartinAriel](https://github.com/cerebro2005/ES6-AlmeidaMartinAriel)| 0 | 0 | 364| 2020-09-16 | 2020-09-16 |
 | [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
-| [SIProjects/sicash-ipfs](https://github.com/SIProjects/sicash-ipfs)| 0 | 0 | 233| 2020-09-13 | 2020-09-23 |
 
 
 The above set is limited to the 10 most recently created. 
