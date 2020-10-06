@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 67
-*  9/2020: 61
-*  8/2020: 66
-*  7/2020: 68
-*  6/2020: 66
+*  10/2020: 54
+*  9/2020: 62
+*  8/2020: 60
+*  7/2020: 62
+*  6/2020: 63
 *  5/2020: 64
-*  4/2020: 65
-*  3/2020: 60
-*  2/2020: 58
-*  1/2020: 58
+*  4/2020: 62
+*  3/2020: 57
+*  2/2020: 55
+*  1/2020: 53
 *  12/2019: 56
-*  11/2019: 55
+*  11/2019: 62
 
 ### GitHub Search
 
@@ -56,9 +56,9 @@ Total Results (Limited by GitHUB API): 360
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 40| 2020-09-30 | 2020-10-04 |
+| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 45| 2020-09-30 | 2020-10-05 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
-| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 68| 2020-09-20 | 2020-10-04 |
+| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 74| 2020-09-20 | 2020-10-05 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74800
+Total Matches: 74718
 
 Total Results (Limited by GitHUB API): 1347
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
-| [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 10 | 0 | 154| 2020-10-01 | 2020-10-04 |
+| [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
 | [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2984| 2020-09-28 | 2020-09-30 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
