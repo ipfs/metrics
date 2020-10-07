@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 54
-*  9/2020: 62
-*  8/2020: 60
-*  7/2020: 62
-*  6/2020: 63
-*  5/2020: 64
-*  4/2020: 62
-*  3/2020: 57
-*  2/2020: 55
-*  1/2020: 53
-*  12/2019: 56
-*  11/2019: 62
+*  10/2020: 57
+*  9/2020: 72
+*  8/2020: 62
+*  7/2020: 73
+*  6/2020: 66
+*  5/2020: 70
+*  4/2020: 63
+*  3/2020: 62
+*  2/2020: 57
+*  1/2020: 60
+*  12/2019: 63
+*  11/2019: 58
 
 ### GitHub Search
 
@@ -61,11 +61,11 @@ Total Results (Limited by GitHUB API): 360
 | [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 74| 2020-09-20 | 2020-10-05 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
+| [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 4 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
-| [gioapp/ipfs](https://github.com/gioapp/ipfs)| 0 | 0 | 4244| 2020-07-22 | 2020-08-21 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74718
+Total Matches: 74538
 
-Total Results (Limited by GitHUB API): 1347
+Total Results (Limited by GitHUB API): 1352
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
