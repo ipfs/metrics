@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 57
-*  9/2020: 72
-*  8/2020: 62
-*  7/2020: 73
+*  10/2020: 60
+*  9/2020: 70
+*  8/2020: 60
+*  7/2020: 72
 *  6/2020: 66
-*  5/2020: 70
-*  4/2020: 63
-*  3/2020: 62
-*  2/2020: 57
-*  1/2020: 60
-*  12/2019: 63
-*  11/2019: 58
+*  5/2020: 64
+*  4/2020: 70
+*  3/2020: 60
+*  2/2020: 60
+*  1/2020: 61
+*  12/2019: 55
+*  11/2019: 64
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74538
+Total Matches: 74752
 
-Total Results (Limited by GitHUB API): 1352
+Total Results (Limited by GitHUB API): 1353
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 1 | 0 | 98| 2020-10-06 | 2020-10-07 |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 | [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1352
 | [wuliangshun/EFS](https://github.com/wuliangshun/EFS)| 1 | 0 | 49777| 2020-09-21 | 2020-09-23 |
 | [Qm64-tech/dlike](https://github.com/Qm64-tech/dlike)| 0 | 0 | 1044| 2020-09-16 | 2020-09-16 |
 | [cerebro2005/ES6-AlmeidaMartinAriel](https://github.com/cerebro2005/ES6-AlmeidaMartinAriel)| 0 | 0 | 364| 2020-09-16 | 2020-09-16 |
-| [manasi-mds/EHR_Blockchain_IPFS](https://github.com/manasi-mds/EHR_Blockchain_IPFS)| 0 | 0 | 35037| 2020-09-13 | 2020-09-13 |
 
 
 The above set is limited to the 10 most recently created. 
