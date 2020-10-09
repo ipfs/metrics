@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 60
-*  9/2020: 70
-*  8/2020: 60
-*  7/2020: 72
-*  6/2020: 66
-*  5/2020: 64
-*  4/2020: 70
-*  3/2020: 60
-*  2/2020: 60
+*  10/2020: 57
+*  9/2020: 68
+*  8/2020: 64
+*  7/2020: 75
+*  6/2020: 69
+*  5/2020: 70
+*  4/2020: 68
+*  3/2020: 61
+*  2/2020: 56
 *  1/2020: 61
-*  12/2019: 55
-*  11/2019: 64
+*  12/2019: 57
+*  11/2019: 55
 
 ### GitHub Search
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74752
+Total Matches: 74850
 
-Total Results (Limited by GitHUB API): 1353
+Total Results (Limited by GitHUB API): 1354
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
+| [mikeal/dkv](https://github.com/mikeal/dkv)| 4 | 0 | 1| 2020-10-08 | 2020-10-08 |
 | [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 1 | 0 | 98| 2020-10-06 | 2020-10-07 |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 | [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1353
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
 | [energychain/casa-corrently-ipfs-bridge](https://github.com/energychain/casa-corrently-ipfs-bridge)| 0 | 0 | 82| 2020-09-26 | 2020-09-26 |
 | [wuliangshun/EFS](https://github.com/wuliangshun/EFS)| 1 | 0 | 49777| 2020-09-21 | 2020-09-23 |
-| [Qm64-tech/dlike](https://github.com/Qm64-tech/dlike)| 0 | 0 | 1044| 2020-09-16 | 2020-09-16 |
-| [cerebro2005/ES6-AlmeidaMartinAriel](https://github.com/cerebro2005/ES6-AlmeidaMartinAriel)| 0 | 0 | 364| 2020-09-16 | 2020-09-16 |
 
 
 The above set is limited to the 10 most recently created. 
