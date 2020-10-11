@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 58
-*  9/2020: 66
-*  8/2020: 62
-*  7/2020: 77
-*  6/2020: 70
-*  5/2020: 73
-*  4/2020: 71
-*  3/2020: 62
-*  2/2020: 63
-*  1/2020: 64
-*  12/2019: 62
-*  11/2019: 64
+*  10/2020: 61
+*  9/2020: 62
+*  8/2020: 60
+*  7/2020: 68
+*  6/2020: 71
+*  5/2020: 68
+*  4/2020: 68
+*  3/2020: 57
+*  2/2020: 56
+*  1/2020: 55
+*  12/2019: 55
+*  11/2019: 58
 
 ### GitHub Search
 
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74895
+Total Matches: 74950
 
-Total Results (Limited by GitHUB API): 1353
+Total Results (Limited by GitHUB API): 1351
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
-| [mikeal/dkv](https://github.com/mikeal/dkv)| 4 | 0 | 4| 2020-10-08 | 2020-10-09 |
+| [mikeal/dkv](https://github.com/mikeal/dkv)| 4 | 0 | 11| 2020-10-08 | 2020-10-10 |
 | [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 98| 2020-10-06 | 2020-10-07 |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 | [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
