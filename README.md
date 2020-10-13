@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 67
-*  9/2020: 68
-*  8/2020: 61
-*  7/2020: 71
+*  10/2020: 59
+*  9/2020: 64
+*  8/2020: 56
+*  7/2020: 67
 *  6/2020: 67
-*  5/2020: 67
-*  4/2020: 68
-*  3/2020: 58
-*  2/2020: 56
-*  1/2020: 60
-*  12/2019: 58
-*  11/2019: 61
+*  5/2020: 63
+*  4/2020: 67
+*  3/2020: 55
+*  2/2020: 65
+*  1/2020: 58
+*  12/2019: 52
+*  11/2019: 58
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74950
+Total Matches: 74815
 
 Total Results (Limited by GitHUB API): 1353
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
 | [929220967/EFS](https://github.com/929220967/EFS)| 0 | 0 | 49777| 2020-10-11 | 2020-09-23 |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
 | [mikeal/dkv](https://github.com/mikeal/dkv)| 4 | 0 | 11| 2020-10-08 | 2020-10-10 |
@@ -86,7 +87,6 @@ Total Results (Limited by GitHUB API): 1353
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 | [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
-| [sreeroop/NITC-MUN](https://github.com/sreeroop/NITC-MUN)| 0 | 0 | 2984| 2020-09-28 | 2020-09-30 |
 | [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
 | [energychain/casa-corrently-ipfs-bridge](https://github.com/energychain/casa-corrently-ipfs-bridge)| 0 | 0 | 82| 2020-09-26 | 2020-09-26 |
 
