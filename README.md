@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 59
-*  9/2020: 64
-*  8/2020: 56
-*  7/2020: 67
-*  6/2020: 67
-*  5/2020: 63
-*  4/2020: 67
-*  3/2020: 55
-*  2/2020: 65
-*  1/2020: 58
-*  12/2019: 52
-*  11/2019: 58
+*  10/2020: 64
+*  9/2020: 73
+*  8/2020: 63
+*  7/2020: 74
+*  6/2020: 78
+*  5/2020: 66
+*  4/2020: 68
+*  3/2020: 67
+*  2/2020: 62
+*  1/2020: 59
+*  12/2019: 56
+*  11/2019: 56
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74815
+Total Matches: 74974
 
-Total Results (Limited by GitHUB API): 1353
+Total Results (Limited by GitHUB API): 1348
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 41| 2020-10-13 | 2020-10-13 |
 | [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
 | [929220967/EFS](https://github.com/929220967/EFS)| 0 | 0 | 49777| 2020-10-11 | 2020-09-23 |
+| [TheTechCompany/phwoop-model-manager](https://github.com/TheTechCompany/phwoop-model-manager)| 0 | 0 | 298| 2020-10-08 | 2020-10-13 |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
 | [mikeal/dkv](https://github.com/mikeal/dkv)| 4 | 0 | 11| 2020-10-08 | 2020-10-10 |
 | [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 98| 2020-10-06 | 2020-10-07 |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 | [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
-| [Geothomas1/Doc-Ethereum-with-IPFS](https://github.com/Geothomas1/Doc-Ethereum-with-IPFS)| 1 | 0 | 398| 2020-09-26 | 2020-09-26 |
-| [energychain/casa-corrently-ipfs-bridge](https://github.com/energychain/casa-corrently-ipfs-bridge)| 0 | 0 | 82| 2020-09-26 | 2020-09-26 |
 
 
 The above set is limited to the 10 most recently created. 
