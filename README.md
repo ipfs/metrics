@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 64
-*  9/2020: 73
-*  8/2020: 63
-*  7/2020: 74
-*  6/2020: 78
+*  10/2020: 57
+*  9/2020: 68
+*  8/2020: 61
+*  7/2020: 70
+*  6/2020: 75
 *  5/2020: 66
-*  4/2020: 68
-*  3/2020: 67
-*  2/2020: 62
-*  1/2020: 59
-*  12/2019: 56
+*  4/2020: 64
+*  3/2020: 61
+*  2/2020: 59
+*  1/2020: 57
+*  12/2019: 57
 *  11/2019: 56
 
 ### GitHub Search
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 360
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 45| 2020-09-30 | 2020-10-05 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
-| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 76| 2020-09-20 | 2020-10-11 |
+| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 128| 2020-09-20 | 2020-10-14 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 74974
+Total Matches: 74980
 
 Total Results (Limited by GitHUB API): 1348
 
@@ -85,7 +85,7 @@ Total Results (Limited by GitHUB API): 1348
 | [TheTechCompany/phwoop-model-manager](https://github.com/TheTechCompany/phwoop-model-manager)| 0 | 0 | 298| 2020-10-08 | 2020-10-13 |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
 | [mikeal/dkv](https://github.com/mikeal/dkv)| 4 | 0 | 11| 2020-10-08 | 2020-10-10 |
-| [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 98| 2020-10-06 | 2020-10-07 |
+| [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 100| 2020-10-06 | 2020-10-14 |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 | [cawfree/thegraph-react](https://github.com/cawfree/thegraph-react)| 11 | 0 | 154| 2020-10-01 | 2020-10-04 |
 | [faddat/ipfs-image-proxy-js](https://github.com/faddat/ipfs-image-proxy-js)| 0 | 0 | 50| 2020-09-29 | 2020-09-29 |
