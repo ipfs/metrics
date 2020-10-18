@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 58
-*  9/2020: 61
-*  8/2020: 59
-*  7/2020: 69
-*  6/2020: 69
-*  5/2020: 61
-*  4/2020: 66
-*  3/2020: 54
-*  2/2020: 65
-*  1/2020: 65
-*  12/2019: 55
+*  10/2020: 45
+*  9/2020: 64
+*  8/2020: 49
+*  7/2020: 68
+*  6/2020: 59
+*  5/2020: 60
+*  4/2020: 62
+*  3/2020: 51
+*  2/2020: 53
+*  1/2020: 53
+*  12/2019: 51
 *  11/2019: 55
 
 ### GitHub Search
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75200
+Total Matches: 75150
 
-Total Results (Limited by GitHUB API): 1352
+Total Results (Limited by GitHUB API): 1351
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 1352
 | [damiadeh/ipfs-dapp](https://github.com/damiadeh/ipfs-dapp)| 0 | 0 | 776| 2020-10-08 | 2020-10-16 |
 | [TheTechCompany/phwoop-model-manager](https://github.com/TheTechCompany/phwoop-model-manager)| 0 | 0 | 298| 2020-10-08 | 2020-10-13 |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
-| [mikeal/dkv](https://github.com/mikeal/dkv)| 22 | 0 | 11| 2020-10-08 | 2020-10-10 |
+| [mikeal/dkv](https://github.com/mikeal/dkv)| 23 | 0 | 11| 2020-10-08 | 2020-10-10 |
 | [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 100| 2020-10-06 | 2020-10-14 |
 | [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
 
