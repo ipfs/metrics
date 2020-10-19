@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 45
-*  9/2020: 64
-*  8/2020: 49
+*  10/2020: 62
+*  9/2020: 70
+*  8/2020: 62
 *  7/2020: 68
-*  6/2020: 59
-*  5/2020: 60
-*  4/2020: 62
-*  3/2020: 51
-*  2/2020: 53
-*  1/2020: 53
-*  12/2019: 51
-*  11/2019: 55
+*  6/2020: 70
+*  5/2020: 64
+*  4/2020: 64
+*  3/2020: 49
+*  2/2020: 55
+*  1/2020: 55
+*  12/2019: 45
+*  11/2019: 59
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75150
+Total Matches: 75136
 
-Total Results (Limited by GitHUB API): 1351
+Total Results (Limited by GitHUB API): 1349
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 0| 2020-10-19 | 2020-10-19 |
 | [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 553| 2020-10-16 | 2020-10-16 |
-| [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 41| 2020-10-13 | 2020-10-13 |
+| [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 43| 2020-10-13 | 2020-10-18 |
 | [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
 | [929220967/EFS](https://github.com/929220967/EFS)| 0 | 0 | 49777| 2020-10-11 | 2020-09-23 |
 | [damiadeh/ipfs-dapp](https://github.com/damiadeh/ipfs-dapp)| 0 | 0 | 776| 2020-10-08 | 2020-10-16 |
 | [TheTechCompany/phwoop-model-manager](https://github.com/TheTechCompany/phwoop-model-manager)| 0 | 0 | 298| 2020-10-08 | 2020-10-13 |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
 | [mikeal/dkv](https://github.com/mikeal/dkv)| 23 | 0 | 11| 2020-10-08 | 2020-10-10 |
-| [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 100| 2020-10-06 | 2020-10-14 |
-| [jayateertha043/Decentralized-Medical-Rec...](https://github.com/jayateertha043/Decentralized-Medical-Records)| 0 | 0 | 1316| 2020-10-04 | 2020-10-04 |
+| [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 102| 2020-10-06 | 2020-10-18 |
 
 
 The above set is limited to the 10 most recently created. 
