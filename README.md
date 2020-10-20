@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  10/2020: 62
-*  9/2020: 70
-*  8/2020: 62
-*  7/2020: 68
-*  6/2020: 70
-*  5/2020: 64
-*  4/2020: 64
-*  3/2020: 49
-*  2/2020: 55
+*  9/2020: 59
+*  8/2020: 63
+*  7/2020: 65
+*  6/2020: 56
+*  5/2020: 71
+*  4/2020: 70
+*  3/2020: 54
+*  2/2020: 61
 *  1/2020: 55
-*  12/2019: 45
-*  11/2019: 59
+*  12/2019: 55
+*  11/2019: 57
 
 ### GitHub Search
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75136
+Total Matches: 75267
 
-Total Results (Limited by GitHUB API): 1349
+Total Results (Limited by GitHUB API): 1348
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 0| 2020-10-19 | 2020-10-19 |
+| [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 330| 2020-10-19 | 2020-10-19 |
+| [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
+| [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 71| 2020-10-19 | 2020-10-19 |
 | [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 553| 2020-10-16 | 2020-10-16 |
 | [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 43| 2020-10-13 | 2020-10-18 |
 | [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1349
 | [damiadeh/ipfs-dapp](https://github.com/damiadeh/ipfs-dapp)| 0 | 0 | 776| 2020-10-08 | 2020-10-16 |
 | [TheTechCompany/phwoop-model-manager](https://github.com/TheTechCompany/phwoop-model-manager)| 0 | 0 | 298| 2020-10-08 | 2020-10-13 |
 | [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
-| [mikeal/dkv](https://github.com/mikeal/dkv)| 23 | 0 | 11| 2020-10-08 | 2020-10-10 |
-| [RangerMauve/js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch)| 2 | 0 | 102| 2020-10-06 | 2020-10-18 |
 
 
 The above set is limited to the 10 most recently created. 
