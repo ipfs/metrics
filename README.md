@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 62
-*  9/2020: 59
-*  8/2020: 63
-*  7/2020: 65
-*  6/2020: 56
-*  5/2020: 71
-*  4/2020: 70
-*  3/2020: 54
-*  2/2020: 61
-*  1/2020: 55
-*  12/2019: 55
-*  11/2019: 57
+*  10/2020: 53
+*  9/2020: 62
+*  8/2020: 64
+*  7/2020: 68
+*  6/2020: 68
+*  5/2020: 65
+*  4/2020: 68
+*  3/2020: 58
+*  2/2020: 52
+*  1/2020: 57
+*  12/2019: 50
+*  11/2019: 59
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 360
 | [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 4 | 0 | 191| 2020-08-03 | 2020-08-07 |
-| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 0 | 0 | 72| 2020-07-31 | 2020-08-20 |
+| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 1 | 0 | 72| 2020-07-31 | 2020-08-20 |
 | [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
 
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75267
+Total Matches: 75391
 
-Total Results (Limited by GitHUB API): 1348
+Total Results (Limited by GitHUB API): 1352
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 330| 2020-10-19 | 2020-10-19 |
+| [Ddataa/haciendas-chat](https://github.com/Ddataa/haciendas-chat)| 0 | 0 | 859| 2020-10-20 | 2020-10-20 |
+| [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 576| 2020-10-19 | 2020-10-20 |
 | [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
 | [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 71| 2020-10-19 | 2020-10-19 |
 | [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 553| 2020-10-16 | 2020-10-16 |
 | [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 43| 2020-10-13 | 2020-10-18 |
+| [semuelle/dojs](https://github.com/semuelle/dojs)| 0 | 0 | 900| 2020-10-12 | 2020-10-20 |
 | [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
 | [929220967/EFS](https://github.com/929220967/EFS)| 0 | 0 | 49777| 2020-10-11 | 2020-09-23 |
 | [damiadeh/ipfs-dapp](https://github.com/damiadeh/ipfs-dapp)| 0 | 0 | 776| 2020-10-08 | 2020-10-16 |
-| [TheTechCompany/phwoop-model-manager](https://github.com/TheTechCompany/phwoop-model-manager)| 0 | 0 | 298| 2020-10-08 | 2020-10-13 |
-| [Klongrich/IPFS_Upload](https://github.com/Klongrich/IPFS_Upload)| 0 | 0 | 20090| 2020-10-08 | 2020-10-08 |
 
 
 The above set is limited to the 10 most recently created. 
