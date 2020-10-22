@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 53
-*  9/2020: 62
-*  8/2020: 64
-*  7/2020: 68
-*  6/2020: 68
-*  5/2020: 65
-*  4/2020: 68
-*  3/2020: 58
-*  2/2020: 52
+*  10/2020: 60
+*  9/2020: 64
+*  8/2020: 63
+*  7/2020: 69
+*  6/2020: 70
+*  5/2020: 62
+*  4/2020: 65
+*  3/2020: 54
+*  2/2020: 57
 *  1/2020: 57
-*  12/2019: 50
-*  11/2019: 59
+*  12/2019: 53
+*  11/2019: 60
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75391
+Total Matches: 75450
 
-Total Results (Limited by GitHUB API): 1352
+Total Results (Limited by GitHUB API): 1353
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Ddataa/haciendas-chat](https://github.com/Ddataa/haciendas-chat)| 0 | 0 | 859| 2020-10-20 | 2020-10-20 |
+| [Ddataa/haciendas-chat](https://github.com/Ddataa/haciendas-chat)| 0 | 0 | 89904| 2020-10-20 | 2020-10-21 |
+| [Tejaaswini/Pragma](https://github.com/Tejaaswini/Pragma)| 0 | 0 | 392| 2020-10-20 | 2020-10-20 |
 | [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 576| 2020-10-19 | 2020-10-20 |
 | [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
 | [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 71| 2020-10-19 | 2020-10-19 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1352
 | [semuelle/dojs](https://github.com/semuelle/dojs)| 0 | 0 | 900| 2020-10-12 | 2020-10-20 |
 | [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
 | [929220967/EFS](https://github.com/929220967/EFS)| 0 | 0 | 49777| 2020-10-11 | 2020-09-23 |
-| [damiadeh/ipfs-dapp](https://github.com/damiadeh/ipfs-dapp)| 0 | 0 | 776| 2020-10-08 | 2020-10-16 |
 
 
 The above set is limited to the 10 most recently created. 
