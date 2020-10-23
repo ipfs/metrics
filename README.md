@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 60
-*  9/2020: 64
-*  8/2020: 63
-*  7/2020: 69
-*  6/2020: 70
-*  5/2020: 62
+*  10/2020: 57
+*  9/2020: 63
+*  8/2020: 65
+*  7/2020: 76
+*  6/2020: 66
+*  5/2020: 68
 *  4/2020: 65
-*  3/2020: 54
-*  2/2020: 57
-*  1/2020: 57
-*  12/2019: 53
-*  11/2019: 60
+*  3/2020: 58
+*  2/2020: 64
+*  1/2020: 58
+*  12/2019: 51
+*  11/2019: 58
 
 ### GitHub Search
 
@@ -75,11 +75,11 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 75450
 
-Total Results (Limited by GitHUB API): 1353
+Total Results (Limited by GitHUB API): 1356
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Ddataa/haciendas-chat](https://github.com/Ddataa/haciendas-chat)| 0 | 0 | 89904| 2020-10-20 | 2020-10-21 |
+| [amalshaji/pasteit](https://github.com/amalshaji/pasteit)| 0 | 0 | 45| 2020-10-22 | 2020-10-22 |
 | [Tejaaswini/Pragma](https://github.com/Tejaaswini/Pragma)| 0 | 0 | 392| 2020-10-20 | 2020-10-20 |
 | [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 576| 2020-10-19 | 2020-10-20 |
 | [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
