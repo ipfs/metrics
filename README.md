@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 61
-*  9/2020: 59
-*  8/2020: 58
-*  7/2020: 65
-*  6/2020: 61
-*  5/2020: 62
+*  10/2020: 60
+*  9/2020: 66
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 71
+*  5/2020: 70
 *  4/2020: 66
-*  3/2020: 56
-*  2/2020: 55
-*  1/2020: 54
-*  12/2019: 54
+*  3/2020: 60
+*  2/2020: 64
+*  1/2020: 56
+*  12/2019: 56
 *  11/2019: 56
 
 ### GitHub Search
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75500
+Total Matches: 75550
 
-Total Results (Limited by GitHUB API): 1356
+Total Results (Limited by GitHUB API): 1358
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 0 | 0 | 216| 2020-10-25 | 2020-10-25 |
 | [amalshaji/pasteit](https://github.com/amalshaji/pasteit)| 0 | 0 | 45| 2020-10-22 | 2020-10-22 |
 | [Tejaaswini/Pragma](https://github.com/Tejaaswini/Pragma)| 0 | 0 | 392| 2020-10-20 | 2020-10-20 |
 | [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 597| 2020-10-19 | 2020-10-23 |
@@ -86,9 +87,8 @@ Total Results (Limited by GitHUB API): 1356
 | [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 71| 2020-10-19 | 2020-10-19 |
 | [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 556| 2020-10-16 | 2020-10-23 |
 | [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 43| 2020-10-13 | 2020-10-18 |
+| [FTHEBoba/ipfs-gba](https://github.com/FTHEBoba/ipfs-gba)| 0 | 0 | 6453| 2020-10-13 | 2020-10-23 |
 | [semuelle/dojs](https://github.com/semuelle/dojs)| 1 | 0 | 900| 2020-10-12 | 2020-10-20 |
-| [golem-protocol/ipfs-proxy](https://github.com/golem-protocol/ipfs-proxy)| 0 | 0 | 3| 2020-10-12 | 2020-10-12 |
-| [929220967/EFS](https://github.com/929220967/EFS)| 0 | 0 | 49777| 2020-10-11 | 2020-09-23 |
 
 
 The above set is limited to the 10 most recently created. 
