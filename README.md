@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 60
-*  9/2020: 66
-*  8/2020: 62
-*  7/2020: 71
-*  6/2020: 71
-*  5/2020: 70
-*  4/2020: 66
-*  3/2020: 60
-*  2/2020: 64
-*  1/2020: 56
-*  12/2019: 56
-*  11/2019: 56
+*  10/2020: 61
+*  9/2020: 68
+*  8/2020: 65
+*  7/2020: 66
+*  6/2020: 70
+*  5/2020: 65
+*  4/2020: 62
+*  3/2020: 61
+*  2/2020: 61
+*  1/2020: 60
+*  12/2019: 55
+*  11/2019: 53
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 360
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 49| 2020-09-30 | 2020-10-16 |
+| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
 | [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 129| 2020-09-20 | 2020-10-16 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75550
+Total Matches: 75600
 
-Total Results (Limited by GitHUB API): 1358
+Total Results (Limited by GitHUB API): 1357
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
