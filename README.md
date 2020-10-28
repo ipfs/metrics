@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 61
-*  9/2020: 68
-*  8/2020: 65
-*  7/2020: 66
-*  6/2020: 70
-*  5/2020: 65
-*  4/2020: 62
-*  3/2020: 61
-*  2/2020: 61
-*  1/2020: 60
+*  10/2020: 53
+*  9/2020: 69
+*  8/2020: 62
+*  7/2020: 65
+*  6/2020: 65
+*  5/2020: 69
+*  4/2020: 65
+*  3/2020: 58
+*  2/2020: 55
+*  1/2020: 59
 *  12/2019: 55
-*  11/2019: 53
+*  11/2019: 58
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75600
+Total Matches: 75650
 
-Total Results (Limited by GitHUB API): 1357
+Total Results (Limited by GitHUB API): 1359
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
 | [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 0 | 0 | 216| 2020-10-25 | 2020-10-25 |
 | [amalshaji/pasteit](https://github.com/amalshaji/pasteit)| 0 | 0 | 45| 2020-10-22 | 2020-10-22 |
 | [Tejaaswini/Pragma](https://github.com/Tejaaswini/Pragma)| 0 | 0 | 392| 2020-10-20 | 2020-10-20 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1357
 | [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 556| 2020-10-16 | 2020-10-23 |
 | [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 43| 2020-10-13 | 2020-10-18 |
 | [FTHEBoba/ipfs-gba](https://github.com/FTHEBoba/ipfs-gba)| 0 | 0 | 6453| 2020-10-13 | 2020-10-23 |
-| [semuelle/dojs](https://github.com/semuelle/dojs)| 1 | 0 | 900| 2020-10-12 | 2020-10-20 |
 
 
 The above set is limited to the 10 most recently created. 
