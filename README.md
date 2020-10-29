@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 53
-*  9/2020: 69
-*  8/2020: 62
-*  7/2020: 65
-*  6/2020: 65
-*  5/2020: 69
+*  10/2020: 63
+*  9/2020: 70
+*  8/2020: 67
+*  7/2020: 71
+*  6/2020: 67
+*  5/2020: 65
 *  4/2020: 65
-*  3/2020: 58
-*  2/2020: 55
-*  1/2020: 59
-*  12/2019: 55
+*  3/2020: 60
+*  2/2020: 56
+*  1/2020: 57
+*  12/2019: 53
 *  11/2019: 58
 
 ### GitHub Search
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75650
+Total Matches: 75750
 
-Total Results (Limited by GitHUB API): 1359
+Total Results (Limited by GitHUB API): 1361
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ivan386/js-loading-page-generator](https://github.com/ivan386/js-loading-page-generator)| 0 | 0 | 4| 2020-10-28 | 2020-10-28 |
+| [AbdulRafaySiddiqui/de-certify](https://github.com/AbdulRafaySiddiqui/de-certify)| 0 | 0 | 577| 2020-10-28 | 2020-10-28 |
 | [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
 | [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 0 | 0 | 216| 2020-10-25 | 2020-10-25 |
 | [amalshaji/pasteit](https://github.com/amalshaji/pasteit)| 0 | 0 | 45| 2020-10-22 | 2020-10-22 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1359
 | [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
 | [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 71| 2020-10-19 | 2020-10-19 |
 | [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 556| 2020-10-16 | 2020-10-23 |
-| [TheTechCompany/react-ipfs-dropzone](https://github.com/TheTechCompany/react-ipfs-dropzone)| 0 | 0 | 43| 2020-10-13 | 2020-10-18 |
-| [FTHEBoba/ipfs-gba](https://github.com/FTHEBoba/ipfs-gba)| 0 | 0 | 6453| 2020-10-13 | 2020-10-23 |
 
 
 The above set is limited to the 10 most recently created. 
