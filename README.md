@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 57
-*  9/2020: 60
-*  8/2020: 64
-*  7/2020: 72
-*  6/2020: 71
-*  5/2020: 67
-*  4/2020: 64
-*  3/2020: 58
-*  2/2020: 57
-*  1/2020: 60
-*  12/2019: 51
-*  11/2019: 59
+*  10/2020: 62
+*  9/2020: 65
+*  8/2020: 65
+*  7/2020: 69
+*  6/2020: 75
+*  5/2020: 71
+*  4/2020: 67
+*  3/2020: 60
+*  2/2020: 54
+*  1/2020: 58
+*  12/2019: 54
+*  11/2019: 65
 
 ### GitHub Search
 
@@ -75,14 +75,14 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 75800
 
-Total Results (Limited by GitHUB API): 1359
+Total Results (Limited by GitHUB API): 1361
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ivan386/js-loading-page-generator](https://github.com/ivan386/js-loading-page-generator)| 0 | 0 | 4| 2020-10-28 | 2020-10-28 |
 | [AbdulRafaySiddiqui/de-certify](https://github.com/AbdulRafaySiddiqui/de-certify)| 0 | 0 | 577| 2020-10-28 | 2020-10-28 |
 | [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
-| [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 0 | 0 | 216| 2020-10-25 | 2020-10-25 |
+| [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 1 | 0 | 216| 2020-10-25 | 2020-10-25 |
 | [amalshaji/pasteit](https://github.com/amalshaji/pasteit)| 0 | 1 | 45| 2020-10-22 | 2020-10-22 |
 | [Tejaaswini/Pragma](https://github.com/Tejaaswini/Pragma)| 0 | 0 | 392| 2020-10-20 | 2020-10-20 |
 | [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 597| 2020-10-19 | 2020-10-23 |
