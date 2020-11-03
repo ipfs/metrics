@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 57
-*  9/2020: 67
-*  8/2020: 69
-*  7/2020: 69
-*  6/2020: 68
+*  10/2020: 56
+*  9/2020: 71
+*  8/2020: 66
+*  7/2020: 73
+*  6/2020: 69
 *  5/2020: 67
-*  4/2020: 61
-*  3/2020: 57
-*  2/2020: 52
-*  1/2020: 58
-*  12/2019: 56
-*  11/2019: 60
+*  4/2020: 70
+*  3/2020: 61
+*  2/2020: 57
+*  1/2020: 59
+*  12/2019: 59
+*  11/2019: 64
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1800
+Total Matches: 1805
 
-Total Results (Limited by GitHUB API): 360
+Total Results (Limited by GitHUB API): 361
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
 | [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 129| 2020-09-20 | 2020-10-16 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 360
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 4 | 0 | 191| 2020-08-03 | 2020-08-07 |
 | [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 1 | 0 | 72| 2020-07-31 | 2020-08-20 |
-| [crossedbot/ipfs-swarm-key](https://github.com/crossedbot/ipfs-swarm-key)| 0 | 0 | 5| 2020-07-26 | 2020-09-07 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75700
+Total Matches: 75750
 
-Total Results (Limited by GitHUB API): 1360
+Total Results (Limited by GitHUB API): 1361
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
