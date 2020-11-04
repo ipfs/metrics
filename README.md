@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2020: 56
-*  9/2020: 71
-*  8/2020: 66
-*  7/2020: 73
-*  6/2020: 69
-*  5/2020: 67
-*  4/2020: 70
-*  3/2020: 61
-*  2/2020: 57
-*  1/2020: 59
-*  12/2019: 59
-*  11/2019: 64
+*  11/2020: 27
+*  10/2020: 52
+*  9/2020: 67
+*  8/2020: 63
+*  7/2020: 69
+*  6/2020: 65
+*  5/2020: 64
+*  4/2020: 66
+*  3/2020: 59
+*  2/2020: 62
+*  1/2020: 55
+*  12/2019: 53
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1805
+Total Matches: 1810
 
-Total Results (Limited by GitHUB API): 361
+Total Results (Limited by GitHUB API): 362
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
