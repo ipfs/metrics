@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 27
-*  10/2020: 52
-*  9/2020: 67
-*  8/2020: 63
-*  7/2020: 69
+*  11/2020: 52
+*  10/2020: 58
+*  9/2020: 69
+*  8/2020: 64
+*  7/2020: 64
 *  6/2020: 65
-*  5/2020: 64
+*  5/2020: 65
 *  4/2020: 66
-*  3/2020: 59
-*  2/2020: 62
-*  1/2020: 55
-*  12/2019: 53
+*  3/2020: 58
+*  2/2020: 58
+*  1/2020: 54
+*  12/2019: 52
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1810
+Total Matches: 1815
 
-Total Results (Limited by GitHUB API): 362
+Total Results (Limited by GitHUB API): 363
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 0 | 0 | 88| 2020-11-04 | 2020-11-04 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 362
 | [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 | [grufwub/gibon](https://github.com/grufwub/gibon)| 4 | 0 | 191| 2020-08-03 | 2020-08-07 |
-| [decentralized-identity/go-ipfs-ds-azure](https://github.com/decentralized-identity/go-ipfs-ds-azure)| 1 | 0 | 72| 2020-07-31 | 2020-08-20 |
 
 
 The above set is limited to the 10 most recently created. 
