@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 52
+*  11/2020: 60
 *  10/2020: 58
-*  9/2020: 69
-*  8/2020: 64
-*  7/2020: 64
-*  6/2020: 65
-*  5/2020: 65
-*  4/2020: 66
-*  3/2020: 58
-*  2/2020: 58
-*  1/2020: 54
-*  12/2019: 52
+*  9/2020: 62
+*  8/2020: 67
+*  7/2020: 72
+*  6/2020: 67
+*  5/2020: 69
+*  4/2020: 63
+*  3/2020: 59
+*  2/2020: 57
+*  1/2020: 62
+*  12/2019: 53
 
 ### GitHub Search
 
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1815
+Total Matches: 1825
 
-Total Results (Limited by GitHUB API): 363
+Total Results (Limited by GitHUB API): 365
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 0 | 0 | 88| 2020-11-04 | 2020-11-04 |
+| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 61| 2020-11-05 | 2020-11-05 |
+| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 0 | 0 | 91| 2020-11-04 | 2020-11-05 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 363
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
 | [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
-| [grufwub/gibon](https://github.com/grufwub/gibon)| 4 | 0 | 191| 2020-08-03 | 2020-08-07 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75750
+Total Matches: 75835
 
-Total Results (Limited by GitHUB API): 1361
+Total Results (Limited by GitHUB API): 1362
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 56| 2020-11-05 | 2020-11-05 |
 | [ivan386/js-loading-page-generator](https://github.com/ivan386/js-loading-page-generator)| 0 | 0 | 4| 2020-10-28 | 2020-10-28 |
 | [AbdulRafaySiddiqui/de-certify](https://github.com/AbdulRafaySiddiqui/de-certify)| 0 | 0 | 577| 2020-10-28 | 2020-10-28 |
 | [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1361
 | [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 597| 2020-10-19 | 2020-10-23 |
 | [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
 | [balbatross/ipfs-pinboard](https://github.com/balbatross/ipfs-pinboard)| 0 | 0 | 71| 2020-10-19 | 2020-10-19 |
-| [Opyet/ETHLagos](https://github.com/Opyet/ETHLagos)| 0 | 0 | 556| 2020-10-16 | 2020-10-23 |
 
 
 The above set is limited to the 10 most recently created. 
