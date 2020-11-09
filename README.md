@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 66
-*  10/2020: 61
-*  9/2020: 69
-*  8/2020: 68
-*  7/2020: 73
+*  11/2020: 62
+*  10/2020: 59
+*  9/2020: 70
+*  8/2020: 67
+*  7/2020: 68
 *  6/2020: 70
-*  5/2020: 69
-*  4/2020: 66
-*  3/2020: 61
-*  2/2020: 62
-*  1/2020: 64
-*  12/2019: 60
+*  5/2020: 67
+*  4/2020: 67
+*  3/2020: 56
+*  2/2020: 58
+*  1/2020: 62
+*  12/2019: 54
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 365
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 69| 2020-11-05 | 2020-11-06 |
-| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 0 | 0 | 91| 2020-11-04 | 2020-11-05 |
+| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 91| 2020-11-04 | 2020-11-05 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
