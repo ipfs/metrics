@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 62
-*  10/2020: 59
-*  9/2020: 70
-*  8/2020: 67
-*  7/2020: 68
-*  6/2020: 70
-*  5/2020: 67
-*  4/2020: 67
+*  11/2020: 57
+*  10/2020: 58
+*  9/2020: 68
+*  8/2020: 58
+*  7/2020: 73
+*  6/2020: 69
+*  5/2020: 66
+*  4/2020: 63
 *  3/2020: 56
-*  2/2020: 58
-*  1/2020: 62
-*  12/2019: 54
+*  2/2020: 61
+*  1/2020: 55
+*  12/2019: 60
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1825
+Total Matches: 1830
 
-Total Results (Limited by GitHUB API): 365
+Total Results (Limited by GitHUB API): 366
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 69| 2020-11-05 | 2020-11-06 |
-| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 91| 2020-11-04 | 2020-11-05 |
+| [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
+| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 69| 2020-11-05 | 2020-11-09 |
+| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 110| 2020-11-04 | 2020-11-09 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
-| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 0 | 0 | 129| 2020-09-20 | 2020-10-16 |
+| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 2 | 0 | 129| 2020-09-20 | 2020-10-16 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
 | [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
-| [zot/textcraft-treerequest](https://github.com/zot/textcraft-treerequest)| 0 | 0 | 214| 2020-08-04 | 2020-08-30 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 75900
 
-Total Results (Limited by GitHUB API): 1363
+Total Results (Limited by GitHUB API): 1360
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
