@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 53
-*  10/2020: 60
-*  9/2020: 57
-*  8/2020: 66
-*  7/2020: 67
-*  6/2020: 71
-*  5/2020: 70
-*  4/2020: 66
+*  11/2020: 44
+*  10/2020: 58
+*  9/2020: 67
+*  8/2020: 61
+*  7/2020: 75
+*  6/2020: 67
+*  5/2020: 65
+*  4/2020: 62
 *  3/2020: 57
-*  2/2020: 62
-*  1/2020: 61
-*  12/2019: 57
+*  2/2020: 59
+*  1/2020: 54
+*  12/2019: 56
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 366
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
-| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 147| 2020-11-05 | 2020-11-11 |
+| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 150| 2020-11-05 | 2020-11-12 |
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 110| 2020-11-04 | 2020-11-09 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76000
+Total Matches: 75950
 
-Total Results (Limited by GitHUB API): 1363
+Total Results (Limited by GitHUB API): 1361
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jomoljaison/IPFSCertichain](https://github.com/jomoljaison/IPFSCertichain)| 0 | 0 | 73| 2020-11-10 | 2020-11-10 |
-| [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 56| 2020-11-05 | 2020-11-05 |
+| [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 63| 2020-11-05 | 2020-11-12 |
 | [ivan386/js-loading-page-generator](https://github.com/ivan386/js-loading-page-generator)| 0 | 0 | 4| 2020-10-28 | 2020-10-28 |
 | [AbdulRafaySiddiqui/de-certify](https://github.com/AbdulRafaySiddiqui/de-certify)| 0 | 0 | 577| 2020-10-28 | 2020-10-28 |
 | [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
