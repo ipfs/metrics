@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 44
-*  10/2020: 58
-*  9/2020: 67
-*  8/2020: 61
+*  11/2020: 49
+*  10/2020: 56
+*  9/2020: 66
+*  8/2020: 63
 *  7/2020: 75
-*  6/2020: 67
-*  5/2020: 65
-*  4/2020: 62
-*  3/2020: 57
-*  2/2020: 59
-*  1/2020: 54
+*  6/2020: 71
+*  5/2020: 58
+*  4/2020: 64
+*  3/2020: 61
+*  2/2020: 62
+*  1/2020: 58
 *  12/2019: 56
 
 ### GitHub Search
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1830
+Total Matches: 1835
 
-Total Results (Limited by GitHUB API): 366
+Total Results (Limited by GitHUB API): 367
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 3| 2020-11-13 | 2020-11-13 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
-| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 150| 2020-11-05 | 2020-11-12 |
+| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 155| 2020-11-05 | 2020-11-13 |
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 110| 2020-11-04 | 2020-11-09 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 55| 2020-09-30 | 2020-10-26 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 366
 | [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 3 | 0 | 129| 2020-09-20 | 2020-10-16 |
 | [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 | [gatsby-tv/dapper-cli](https://github.com/gatsby-tv/dapper-cli)| 0 | 0 | 53| 2020-08-23 | 2020-08-30 |
-| [msgpo/ipfs-sniffer](https://github.com/msgpo/ipfs-sniffer)| 0 | 0 | 30| 2020-08-08 | 2019-10-14 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 75950
+Total Matches: 76050
 
-Total Results (Limited by GitHUB API): 1361
+Total Results (Limited by GitHUB API): 1363
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [DivitaP/Upload](https://github.com/DivitaP/Upload)| 0 | 0 | 338| 2020-11-13 | 2020-11-13 |
+| [IPConvergence/ipfs-eth-anchoring](https://github.com/IPConvergence/ipfs-eth-anchoring)| 0 | 0 | 5726| 2020-11-13 | 2020-11-13 |
 | [jomoljaison/IPFSCertichain](https://github.com/jomoljaison/IPFSCertichain)| 0 | 0 | 73| 2020-11-10 | 2020-11-10 |
-| [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 63| 2020-11-05 | 2020-11-12 |
+| [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 65| 2020-11-05 | 2020-11-13 |
 | [ivan386/js-loading-page-generator](https://github.com/ivan386/js-loading-page-generator)| 0 | 0 | 4| 2020-10-28 | 2020-10-28 |
 | [AbdulRafaySiddiqui/de-certify](https://github.com/AbdulRafaySiddiqui/de-certify)| 0 | 0 | 577| 2020-10-28 | 2020-10-28 |
 | [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
 | [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 1 | 0 | 216| 2020-10-25 | 2020-10-25 |
 | [amalshaji/pasteit](https://github.com/amalshaji/pasteit)| 0 | 1 | 45| 2020-10-22 | 2020-10-22 |
 | [Tejaaswini/Pragma](https://github.com/Tejaaswini/Pragma)| 0 | 0 | 392| 2020-10-20 | 2020-10-20 |
-| [AlanVegaDecentralize/NFT-IPFS-Hosting](https://github.com/AlanVegaDecentralize/NFT-IPFS-Hosting)| 0 | 0 | 597| 2020-10-19 | 2020-10-23 |
-| [TravelingTechGuy/ipfs-test](https://github.com/TravelingTechGuy/ipfs-test)| 0 | 0 | 13| 2020-10-19 | 2020-10-19 |
 
 
 The above set is limited to the 10 most recently created. 
