@@ -1,9 +1,11 @@
-Total Matches: 76050
+Total Matches: 76150
 
-Total Results (Limited by GitHUB API): 1363
+Total Results (Limited by GitHUB API): 1364
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [antoniodjakov/dstorage](https://github.com/antoniodjakov/dstorage)| 0 | 0 | 1243| 2020-11-14 | 2020-11-14 |
+| [pmacom/ipfsPlayground](https://github.com/pmacom/ipfsPlayground)| 0 | 0 | 81| 2020-11-14 | 2020-11-14 |
 | [DivitaP/Upload](https://github.com/DivitaP/Upload)| 0 | 0 | 338| 2020-11-13 | 2020-11-13 |
 | [IPConvergence/ipfs-eth-anchoring](https://github.com/IPConvergence/ipfs-eth-anchoring)| 0 | 0 | 5726| 2020-11-13 | 2020-11-13 |
 | [jomoljaison/IPFSCertichain](https://github.com/jomoljaison/IPFSCertichain)| 0 | 0 | 73| 2020-11-10 | 2020-11-10 |
@@ -364,7 +366,7 @@ Total Results (Limited by GitHUB API): 1363
 | [antarachain/Ethereum_Ipfs](https://github.com/antarachain/Ethereum_Ipfs)| 0 | 0 | 101| 2019-09-05 | 2020-06-16 |
 | [TonyRice/micro-ipfs](https://github.com/TonyRice/micro-ipfs)| 0 | 0 | 562| 2019-09-04 | 2020-09-12 |
 | [simplesecure/zero-dependency-ipfs-notes](https://github.com/simplesecure/zero-dependency-ipfs-notes)| 6 | 2 | 7| 2019-09-03 | 2019-09-03 |
-| [Permissionless-Software-Foundation/psfou...](https://github.com/Permissionless-Software-Foundation/psfoundation-website2)| 2 | 1 | 13106| 2019-09-02 | 2020-11-13 |
+| [Permissionless-Software-Foundation/psfou...](https://github.com/Permissionless-Software-Foundation/psfoundation-website2)| 2 | 1 | 13107| 2019-09-02 | 2020-11-14 |
 | [dappuniversity/meme_of_the_day](https://github.com/dappuniversity/meme_of_the_day)| 8 | 15 | 279| 2019-08-31 | 2020-07-10 |
 | [christroutner/chat-master](https://github.com/christroutner/chat-master)| 0 | 0 | 509| 2019-08-30 | 2020-09-12 |
 | [himanshudhankhar/IPFS_DesktopFileSharing](https://github.com/himanshudhankhar/IPFS_DesktopFileSharing)| 0 | 0 | 40| 2019-08-29 | 2020-07-07 |
@@ -383,7 +385,7 @@ Total Results (Limited by GitHUB API): 1363
 | [nparfen/Blockchain-Document-Management-S...](https://github.com/nparfen/Blockchain-Document-Management-System)| 4 | 3 | 1185| 2019-08-16 | 2020-06-06 |
 | [gkzcl/TruffleIpfs](https://github.com/gkzcl/TruffleIpfs)| 0 | 0 | 2589| 2019-08-15 | 2020-09-10 |
 | [MicroMolecula/using_IPFS_at_Express](https://github.com/MicroMolecula/using_IPFS_at_Express)| 0 | 0 | 18169| 2019-08-15 | 2019-08-15 |
-| [ipfs/metrics](https://github.com/ipfs/metrics)| 11 | 3 | 13011| 2019-08-13 | 2020-11-13 |
+| [ipfs/metrics](https://github.com/ipfs/metrics)| 11 | 3 | 13125| 2019-08-13 | 2020-11-15 |
 | [jimpick/blockly-playground](https://github.com/jimpick/blockly-playground)| 4 | 0 | 28| 2019-08-13 | 2019-08-13 |
 | [vinmaxx99/zeta](https://github.com/vinmaxx99/zeta)| 0 | 0 | 936| 2019-08-13 | 2020-07-07 |
 | [nurrizkyimani/ipfs-app](https://github.com/nurrizkyimani/ipfs-app)| 0 | 0 | 47144| 2019-08-12 | 2020-09-12 |
@@ -872,7 +874,7 @@ Total Results (Limited by GitHUB API): 1363
 | [RoyVoetman/Election-DApp](https://github.com/RoyVoetman/Election-DApp)| 1 | 0 | 604| 2018-07-21 | 2018-10-20 |
 | [Stonemannen/DSN](https://github.com/Stonemannen/DSN)| 0 | 0 | 3088| 2018-07-19 | 2019-04-15 |
 | [lbthomsen/ipfsplay](https://github.com/lbthomsen/ipfsplay)| 0 | 0 | 7| 2018-07-19 | 2018-07-19 |
-| [ProtoSchool/protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io)| 86 | 50 | 18419| 2018-07-19 | 2020-11-12 |
+| [ProtoSchool/protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io)| 87 | 50 | 18419| 2018-07-19 | 2020-11-12 |
 | [julianrodriguezcasas/ipfsprivate](https://github.com/julianrodriguezcasas/ipfsprivate)| 1 | 1 | 363| 2018-07-18 | 2018-07-22 |
 | [UrbanTreeCodex/CodexDemoApp](https://github.com/UrbanTreeCodex/CodexDemoApp)| 0 | 0 | 352| 2018-07-17 | 2018-08-08 |
 | [Cujir/ReactSender](https://github.com/Cujir/ReactSender)| 0 | 0 | 147| 2018-07-15 | 2018-07-15 |
@@ -882,7 +884,6 @@ Total Results (Limited by GitHUB API): 1363
 | [asuarezgrupobme/dCertify](https://github.com/asuarezgrupobme/dCertify)| 0 | 0 | 2152| 2018-07-08 | 2018-08-15 |
 | [Wireless-Medical/bc-ipfs](https://github.com/Wireless-Medical/bc-ipfs)| 0 | 0 | 920| 2018-07-07 | 2019-02-16 |
 | [GLNRO/alexandria](https://github.com/GLNRO/alexandria)| 0 | 0 | 1665| 2018-07-06 | 2018-07-07 |
-| [randallkanna/ethos](https://github.com/randallkanna/ethos)| 0 | 0 | 605| 2018-07-05 | 2018-08-08 |
 | [pandonetwork/pando](https://github.com/pandonetwork/pando)| 174 | 17 | 67831| 2018-07-02 | 2019-10-28 |
 | [rahul-kothari/ethereum-ipfs-react](https://github.com/rahul-kothari/ethereum-ipfs-react)| 0 | 1 | 203| 2018-07-01 | 2018-07-04 |
 | [Arindam-Mondal/FileUploadIPFS](https://github.com/Arindam-Mondal/FileUploadIPFS)| 0 | 0 | 494| 2018-06-30 | 2018-07-28 |
@@ -1238,7 +1239,7 @@ Total Results (Limited by GitHUB API): 1363
 | [JGAntunes/ipfs-chat](https://github.com/JGAntunes/ipfs-chat)| 9 | 1 | 2133| 2017-01-04 | 2017-07-13 |
 | [harshjv/buffet](https://github.com/harshjv/buffet)| 0 | 1 | 412| 2017-01-02 | 2017-01-02 |
 | [daviddias/graph-explorer](https://github.com/daviddias/graph-explorer)| 4 | 2 | 426| 2016-12-13 | 2017-07-05 |
-| [SilentCicero/ipfs-mini](https://github.com/SilentCicero/ipfs-mini)| 113 | 26 | 41| 2016-12-13 | 2020-04-03 |
+| [SilentCicero/ipfs-mini](https://github.com/SilentCicero/ipfs-mini)| 114 | 27 | 41| 2016-12-13 | 2020-04-03 |
 | [noxonsu/hiloader](https://github.com/noxonsu/hiloader)| 2 | 4 | 13067| 2016-11-25 | 2017-07-11 |
 | [zbyte64/beaker-plugin-ipfs](https://github.com/zbyte64/beaker-plugin-ipfs)| 1 | 0 | 14| 2016-11-14 | 2016-11-15 |
 | [brainstorm/slides_ipfs_2016](https://github.com/brainstorm/slides_ipfs_2016)| 0 | 0 | 2757| 2016-11-14 | 2019-12-05 |
@@ -1344,7 +1345,7 @@ Total Results (Limited by GitHUB API): 1363
 | [jbenet/node-bsdash](https://github.com/jbenet/node-bsdash)| 8 | 2 | 116| 2015-07-08 | 2015-07-08 |
 | [ipfs-shipyard/ipfs-blob-store](https://github.com/ipfs-shipyard/ipfs-blob-store)| 53 | 6 | 1698| 2015-06-02 | 2019-03-22 |
 | [bridgefog/ipfs-api](https://github.com/bridgefog/ipfs-api)| 1 | 0 | 756| 2015-05-31 | 2015-07-15 |
-| [ipfs-shipyard/ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop)| 2171 | 331 | 15371| 2015-05-30 | 2020-11-06 |
+| [ipfs-shipyard/ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop)| 2175 | 331 | 15371| 2015-05-30 | 2020-11-06 |
 | [krl/electron-ipfs](https://github.com/krl/electron-ipfs)| 0 | 0 | 164| 2015-05-30 | 2015-05-30 |
 | [krl/node-ipfs-mdag](https://github.com/krl/node-ipfs-mdag)| 0 | 0 | 100| 2015-05-29 | 2015-05-29 |
 | [embarklabs/embark](https://github.com/embarklabs/embark)| 3101 | 451 | 89834| 2015-05-24 | 2020-11-09 |
@@ -1365,5 +1366,5 @@ Total Results (Limited by GitHUB API): 1363
 | [jbenet/node-ipfs-msgproto-network](https://github.com/jbenet/node-ipfs-msgproto-network)| 1 | 0 | 112| 2014-06-11 | 2014-06-11 |
 | [jbenet/node-ipfs-msgproto-integrity](https://github.com/jbenet/node-ipfs-msgproto-integrity)| 0 | 0 | 164| 2014-06-07 | 2014-06-29 |
 | [jbenet/node-ipfs-msgproto](https://github.com/jbenet/node-ipfs-msgproto)| 2 | 2 | 196| 2014-06-07 | 2014-06-29 |
-| [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs)| 4800 | 897 | 51185| 2014-05-30 | 2020-11-13 |
+| [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs)| 4803 | 897 | 51203| 2014-05-30 | 2020-11-14 |
 | [yangjiandong/myipf](https://github.com/yangjiandong/myipf)| 1 | 0 | 3476| 2011-03-06 | 2011-03-06 |
