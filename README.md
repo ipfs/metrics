@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 52
-*  10/2020: 54
+*  11/2020: 50
+*  10/2020: 55
 *  9/2020: 66
-*  8/2020: 59
-*  7/2020: 66
+*  8/2020: 65
+*  7/2020: 71
 *  6/2020: 67
-*  5/2020: 63
-*  4/2020: 62
-*  3/2020: 53
-*  2/2020: 52
-*  1/2020: 56
-*  12/2019: 54
+*  5/2020: 68
+*  4/2020: 70
+*  3/2020: 60
+*  2/2020: 64
+*  1/2020: 62
+*  12/2019: 57
 
 ### GitHub Search
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76150
+Total Matches: 76250
 
-Total Results (Limited by GitHUB API): 1364
+Total Results (Limited by GitHUB API): 1366
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [daviddias/p2p-ray-tracer](https://github.com/daviddias/p2p-ray-tracer)| 1 | 0 | 2777| 2020-11-15 | 2020-11-15 |
+| [KingzRex/Decentralized_DropBox-cloud_sto...](https://github.com/KingzRex/Decentralized_DropBox-cloud_storage)| 0 | 0 | 1254| 2020-11-15 | 2020-11-15 |
 | [antoniodjakov/dstorage](https://github.com/antoniodjakov/dstorage)| 0 | 0 | 1243| 2020-11-14 | 2020-11-14 |
 | [pmacom/ipfsPlayground](https://github.com/pmacom/ipfsPlayground)| 0 | 0 | 81| 2020-11-14 | 2020-11-14 |
 | [DivitaP/Upload](https://github.com/DivitaP/Upload)| 0 | 0 | 338| 2020-11-13 | 2020-11-13 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1364
 | [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 65| 2020-11-05 | 2020-11-13 |
 | [ivan386/js-loading-page-generator](https://github.com/ivan386/js-loading-page-generator)| 0 | 0 | 4| 2020-10-28 | 2020-10-28 |
 | [AbdulRafaySiddiqui/de-certify](https://github.com/AbdulRafaySiddiqui/de-certify)| 0 | 0 | 577| 2020-10-28 | 2020-10-28 |
-| [pmtoan/ipfs-proxy](https://github.com/pmtoan/ipfs-proxy)| 0 | 0 | 4| 2020-10-27 | 2020-10-27 |
-| [TheTechCompany/react-ipfs-provider](https://github.com/TheTechCompany/react-ipfs-provider)| 1 | 0 | 216| 2020-10-25 | 2020-10-25 |
 
 
 The above set is limited to the 10 most recently created. 
