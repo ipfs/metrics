@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 52
-*  10/2020: 57
-*  9/2020: 64
+*  11/2020: 50
+*  10/2020: 55
+*  9/2020: 57
 *  8/2020: 60
-*  7/2020: 66
-*  6/2020: 68
-*  5/2020: 71
-*  4/2020: 64
-*  3/2020: 59
-*  2/2020: 58
-*  1/2020: 59
-*  12/2019: 58
+*  7/2020: 65
+*  6/2020: 64
+*  5/2020: 59
+*  4/2020: 63
+*  3/2020: 51
+*  2/2020: 54
+*  1/2020: 58
+*  12/2019: 54
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 368
 | [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 27| 2020-11-17 | 2020-11-17 |
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
-| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 163| 2020-11-05 | 2020-11-16 |
+| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 167| 2020-11-05 | 2020-11-18 |
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 110| 2020-11-04 | 2020-11-09 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 56| 2020-09-30 | 2020-11-17 |
