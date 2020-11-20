@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 50
-*  10/2020: 55
-*  9/2020: 57
-*  8/2020: 60
-*  7/2020: 65
-*  6/2020: 64
-*  5/2020: 59
-*  4/2020: 63
-*  3/2020: 51
-*  2/2020: 54
-*  1/2020: 58
-*  12/2019: 54
+*  11/2020: 47
+*  10/2020: 59
+*  9/2020: 62
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 71
+*  5/2020: 67
+*  4/2020: 64
+*  3/2020: 59
+*  2/2020: 59
+*  1/2020: 63
+*  12/2019: 57
 
 ### GitHub Search
 
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1840
+Total Matches: 1845
 
-Total Results (Limited by GitHUB API): 368
+Total Results (Limited by GitHUB API): 369
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 27| 2020-11-17 | 2020-11-17 |
+| [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 0 | 0 | 7| 2020-11-19 | 2020-11-19 |
+| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 33| 2020-11-17 | 2020-11-19 |
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 167| 2020-11-05 | 2020-11-18 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 368
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 56| 2020-09-30 | 2020-11-17 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
 | [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 3 | 0 | 129| 2020-09-20 | 2020-10-16 |
-| [libs4go/ipfslog-slf4go](https://github.com/libs4go/ipfslog-slf4go)| 0 | 0 | 7| 2020-08-29 | 2020-08-29 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76250
+Total Matches: 76300
 
-Total Results (Limited by GitHUB API): 1366
+Total Results (Limited by GitHUB API): 1367
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [JaredJacobsen/ipfs-papers](https://github.com/JaredJacobsen/ipfs-papers)| 0 | 0 | 212| 2020-11-19 | 2020-11-19 |
 | [Ricardo-Silva91/ipfs_blog_vuepress](https://github.com/Ricardo-Silva91/ipfs_blog_vuepress)| 0 | 0 | 6| 2020-11-16 | 2020-11-16 |
 | [Kehao/weiwen-test](https://github.com/Kehao/weiwen-test)| 0 | 0 | 184| 2020-11-16 | 2020-11-16 |
 | [daviddias/p2p-ray-tracer](https://github.com/daviddias/p2p-ray-tracer)| 1 | 0 | 2777| 2020-11-15 | 2020-11-15 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1366
 | [DivitaP/Upload](https://github.com/DivitaP/Upload)| 0 | 0 | 338| 2020-11-13 | 2020-11-13 |
 | [IPConvergence/ipfs-eth-anchoring](https://github.com/IPConvergence/ipfs-eth-anchoring)| 0 | 0 | 5726| 2020-11-13 | 2020-11-13 |
 | [jomoljaison/IPFSCertichain](https://github.com/jomoljaison/IPFSCertichain)| 0 | 0 | 73| 2020-11-10 | 2020-11-10 |
-| [hongdangdoan/WebDecentralized](https://github.com/hongdangdoan/WebDecentralized)| 0 | 0 | 65| 2020-11-05 | 2020-11-13 |
 
 
 The above set is limited to the 10 most recently created. 
