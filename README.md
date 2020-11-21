@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 47
-*  10/2020: 59
-*  9/2020: 62
-*  8/2020: 62
-*  7/2020: 71
-*  6/2020: 71
-*  5/2020: 67
+*  11/2020: 53
+*  10/2020: 56
+*  9/2020: 66
+*  8/2020: 61
+*  7/2020: 65
+*  6/2020: 68
+*  5/2020: 68
 *  4/2020: 64
-*  3/2020: 59
-*  2/2020: 59
-*  1/2020: 63
-*  12/2019: 57
+*  3/2020: 60
+*  2/2020: 63
+*  1/2020: 56
+*  12/2019: 53
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1845
+Total Matches: 1850
 
-Total Results (Limited by GitHUB API): 369
+Total Results (Limited by GitHUB API): 370
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
 | [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 0 | 0 | 7| 2020-11-19 | 2020-11-19 |
-| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 33| 2020-11-17 | 2020-11-19 |
+| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 34544| 2020-11-17 | 2020-11-20 |
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 167| 2020-11-05 | 2020-11-18 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 369
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 56| 2020-09-30 | 2020-11-17 |
 | [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
-| [tzdybal/cidtrack](https://github.com/tzdybal/cidtrack)| 3 | 0 | 129| 2020-09-20 | 2020-10-16 |
 
 
 The above set is limited to the 10 most recently created. 
