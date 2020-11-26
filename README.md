@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 53
-*  10/2020: 58
-*  9/2020: 68
-*  8/2020: 60
-*  7/2020: 66
-*  6/2020: 68
-*  5/2020: 58
-*  4/2020: 67
-*  3/2020: 58
-*  2/2020: 63
+*  11/2020: 52
+*  10/2020: 57
+*  9/2020: 61
+*  8/2020: 61
+*  7/2020: 68
+*  6/2020: 66
+*  5/2020: 61
+*  4/2020: 64
+*  3/2020: 56
+*  2/2020: 58
 *  1/2020: 59
-*  12/2019: 62
+*  12/2019: 53
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1850
+Total Matches: 1855
 
-Total Results (Limited by GitHUB API): 370
+Total Results (Limited by GitHUB API): 371
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [costinm/go-ws-ssh-transport](https://github.com/costinm/go-ws-ssh-transport)| 0 | 0 | 11| 2020-11-24 | 2020-11-25 |
 | [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
 | [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 1 | 0 | 7| 2020-11-19 | 2020-11-19 |
 | [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 34561| 2020-11-17 | 2020-11-24 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 370
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 171| 2020-11-04 | 2020-11-24 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 56| 2020-09-30 | 2020-11-17 |
-| [faddat/ipfs-uploader](https://github.com/faddat/ipfs-uploader)| 2 | 0 | 16| 2020-09-27 | 2020-09-28 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76400
+Total Matches: 76450
 
-Total Results (Limited by GitHUB API): 1367
+Total Results (Limited by GitHUB API): 1368
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
 | [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 131| 2020-11-24 | 2020-11-24 |
 | [mzsima/ipfs-dag-test](https://github.com/mzsima/ipfs-dag-test)| 0 | 0 | 36| 2020-11-23 | 2020-11-23 |
 | [achingbrain/ipfs-interface-tests](https://github.com/achingbrain/ipfs-interface-tests)| 0 | 0 | 5| 2020-11-23 | 2020-11-23 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1367
 | [daviddias/p2p-ray-tracer](https://github.com/daviddias/p2p-ray-tracer)| 1 | 0 | 2777| 2020-11-15 | 2020-11-15 |
 | [KingzRex/Decentralized_DropBox-cloud_sto...](https://github.com/KingzRex/Decentralized_DropBox-cloud_storage)| 0 | 0 | 1255| 2020-11-15 | 2020-11-21 |
 | [antoniodjakov/dstorage](https://github.com/antoniodjakov/dstorage)| 0 | 0 | 1250| 2020-11-14 | 2020-11-17 |
-| [pmacom/ipfsPlayground](https://github.com/pmacom/ipfsPlayground)| 0 | 0 | 81| 2020-11-14 | 2020-11-14 |
 
 
 The above set is limited to the 10 most recently created. 
