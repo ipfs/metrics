@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 59
-*  10/2020: 56
-*  9/2020: 65
-*  8/2020: 56
-*  7/2020: 67
-*  6/2020: 67
-*  5/2020: 67
-*  4/2020: 64
-*  3/2020: 58
-*  2/2020: 60
-*  1/2020: 54
-*  12/2019: 58
+*  11/2020: 54
+*  10/2020: 55
+*  9/2020: 66
+*  8/2020: 68
+*  7/2020: 74
+*  6/2020: 69
+*  5/2020: 66
+*  4/2020: 67
+*  3/2020: 62
+*  2/2020: 62
+*  1/2020: 58
+*  12/2019: 56
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76500
+Total Matches: 76600
 
-Total Results (Limited by GitHUB API): 1369
+Total Results (Limited by GitHUB API): 1370
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 770| 2020-11-27 | 2020-11-27 |
+| [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 45| 2020-11-25 | 2020-11-27 |
 | [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
 | [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 131| 2020-11-24 | 2020-11-24 |
 | [mzsima/ipfs-dag-test](https://github.com/mzsima/ipfs-dag-test)| 0 | 0 | 36| 2020-11-23 | 2020-11-23 |
 | [achingbrain/ipfs-interface-tests](https://github.com/achingbrain/ipfs-interface-tests)| 0 | 0 | 5| 2020-11-23 | 2020-11-23 |
 | [webroyit/nb2c2s-FileStorageInBlockchain](https://github.com/webroyit/nb2c2s-FileStorageInBlockchain)| 0 | 0 | 46| 2020-11-22 | 2020-11-26 |
-| [JaredJacobsen/ipfs-papers](https://github.com/JaredJacobsen/ipfs-papers)| 0 | 0 | 212| 2020-11-19 | 2020-11-19 |
 | [Ricardo-Silva91/ipfs_blog_vuepress](https://github.com/Ricardo-Silva91/ipfs_blog_vuepress)| 0 | 0 | 28450| 2020-11-16 | 2020-11-23 |
 | [Kehao/weiwen-test](https://github.com/Kehao/weiwen-test)| 0 | 0 | 184| 2020-11-16 | 2020-11-16 |
 | [daviddias/p2p-ray-tracer](https://github.com/daviddias/p2p-ray-tracer)| 1 | 0 | 2777| 2020-11-15 | 2020-11-15 |
-| [KingzRex/Decentralized_DropBox-cloud_sto...](https://github.com/KingzRex/Decentralized_DropBox-cloud_storage)| 0 | 0 | 1255| 2020-11-15 | 2020-11-21 |
 
 
 The above set is limited to the 10 most recently created. 
