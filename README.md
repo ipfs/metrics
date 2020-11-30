@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 58
-*  10/2020: 57
-*  9/2020: 68
-*  8/2020: 66
-*  7/2020: 73
-*  6/2020: 66
-*  5/2020: 64
-*  4/2020: 66
-*  3/2020: 62
-*  2/2020: 58
+*  11/2020: 54
+*  10/2020: 52
+*  9/2020: 71
+*  8/2020: 61
+*  7/2020: 67
+*  6/2020: 70
+*  5/2020: 68
+*  4/2020: 63
+*  3/2020: 60
+*  2/2020: 63
 *  1/2020: 58
-*  12/2019: 53
+*  12/2019: 59
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 371
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [costinm/go-ws-ssh-transport](https://github.com/costinm/go-ws-ssh-transport)| 0 | 0 | 11| 2020-11-24 | 2020-11-25 |
+| [costinm/go-ws-ssh-transport](https://github.com/costinm/go-ws-ssh-transport)| 0 | 0 | 17| 2020-11-24 | 2020-11-29 |
 | [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
 | [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 1 | 0 | 7| 2020-11-19 | 2020-11-19 |
 | [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 34572| 2020-11-17 | 2020-11-26 |
@@ -80,7 +80,7 @@ Total Results (Limited by GitHUB API): 1368
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 770| 2020-11-27 | 2020-11-27 |
-| [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 45| 2020-11-25 | 2020-11-27 |
+| [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 48| 2020-11-25 | 2020-11-29 |
 | [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
 | [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 131| 2020-11-24 | 2020-11-24 |
 | [mzsima/ipfs-dag-test](https://github.com/mzsima/ipfs-dag-test)| 0 | 0 | 36| 2020-11-23 | 2020-11-23 |
