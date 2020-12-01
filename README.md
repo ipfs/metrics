@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 54
-*  10/2020: 52
-*  9/2020: 71
-*  8/2020: 61
+*  11/2020: 33
+*  10/2020: 55
+*  9/2020: 59
+*  8/2020: 59
 *  7/2020: 67
-*  6/2020: 70
-*  5/2020: 68
-*  4/2020: 63
-*  3/2020: 60
-*  2/2020: 63
-*  1/2020: 58
-*  12/2019: 59
+*  6/2020: 59
+*  5/2020: 64
+*  4/2020: 60
+*  3/2020: 52
+*  2/2020: 58
+*  1/2020: 61
+*  12/2019: 54
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1855
+Total Matches: 1860
 
-Total Results (Limited by GitHUB API): 371
+Total Results (Limited by GitHUB API): 372
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76500
+Total Matches: 76550
 
-Total Results (Limited by GitHUB API): 1368
+Total Results (Limited by GitHUB API): 1369
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 770| 2020-11-27 | 2020-11-27 |
+| [seantking/ipfs-multi-sig](https://github.com/seantking/ipfs-multi-sig)| 2 | 0 | 227| 2020-11-26 | 2020-11-30 |
 | [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 48| 2020-11-25 | 2020-11-29 |
 | [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
 | [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 131| 2020-11-24 | 2020-11-24 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1368
 | [webroyit/nb2c2s-FileStorageInBlockchain](https://github.com/webroyit/nb2c2s-FileStorageInBlockchain)| 0 | 0 | 46| 2020-11-22 | 2020-11-26 |
 | [Ricardo-Silva91/ipfs_blog_vuepress](https://github.com/Ricardo-Silva91/ipfs_blog_vuepress)| 0 | 0 | 28450| 2020-11-16 | 2020-11-23 |
 | [Kehao/weiwen-test](https://github.com/Kehao/weiwen-test)| 0 | 0 | 184| 2020-11-16 | 2020-11-16 |
-| [daviddias/p2p-ray-tracer](https://github.com/daviddias/p2p-ray-tracer)| 1 | 0 | 2777| 2020-11-15 | 2020-11-15 |
 
 
 The above set is limited to the 10 most recently created. 
