@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 33
-*  10/2020: 55
-*  9/2020: 59
-*  8/2020: 59
-*  7/2020: 67
-*  6/2020: 59
-*  5/2020: 64
-*  4/2020: 60
+*  11/2020: 51
+*  10/2020: 58
+*  9/2020: 68
+*  8/2020: 61
+*  7/2020: 72
+*  6/2020: 63
+*  5/2020: 66
+*  4/2020: 71
 *  3/2020: 52
-*  2/2020: 58
+*  2/2020: 61
 *  1/2020: 61
-*  12/2019: 54
+*  12/2019: 57
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 372
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
-| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 1 | 0 | 171| 2020-11-04 | 2020-11-24 |
+| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 2 | 0 | 171| 2020-11-04 | 2020-11-24 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 | [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 62| 2020-09-30 | 2020-11-26 |
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76550
+Total Matches: 76720
 
-Total Results (Limited by GitHUB API): 1369
+Total Results (Limited by GitHUB API): 1371
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [MBrassey/TurquoiseMelon](https://github.com/MBrassey/TurquoiseMelon)| 0 | 0 | 66328| 2020-11-28 | 2020-12-01 |
 | [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 770| 2020-11-27 | 2020-11-27 |
-| [seantking/ipfs-multi-sig](https://github.com/seantking/ipfs-multi-sig)| 2 | 0 | 227| 2020-11-26 | 2020-11-30 |
+| [seantking/ipfs-multi-sig](https://github.com/seantking/ipfs-multi-sig)| 2 | 0 | 230| 2020-11-26 | 2020-12-01 |
 | [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 48| 2020-11-25 | 2020-11-29 |
 | [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
 | [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 131| 2020-11-24 | 2020-11-24 |
 | [mzsima/ipfs-dag-test](https://github.com/mzsima/ipfs-dag-test)| 0 | 0 | 36| 2020-11-23 | 2020-11-23 |
-| [achingbrain/ipfs-interface-tests](https://github.com/achingbrain/ipfs-interface-tests)| 0 | 0 | 5| 2020-11-23 | 2020-11-23 |
+| [achingbrain/ipfs-interface-tests](https://github.com/achingbrain/ipfs-interface-tests)| 0 | 0 | 5| 2020-11-23 | 2020-12-01 |
+| [blockequity/decentrabox](https://github.com/blockequity/decentrabox)| 0 | 0 | 4089| 2020-11-22 | 2020-12-01 |
 | [webroyit/nb2c2s-FileStorageInBlockchain](https://github.com/webroyit/nb2c2s-FileStorageInBlockchain)| 0 | 0 | 46| 2020-11-22 | 2020-11-26 |
-| [Ricardo-Silva91/ipfs_blog_vuepress](https://github.com/Ricardo-Silva91/ipfs_blog_vuepress)| 0 | 0 | 28450| 2020-11-16 | 2020-11-23 |
-| [Kehao/weiwen-test](https://github.com/Kehao/weiwen-test)| 0 | 0 | 184| 2020-11-16 | 2020-11-16 |
 
 
 The above set is limited to the 10 most recently created. 
