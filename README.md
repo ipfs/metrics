@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  11/2020: 49
-*  10/2020: 57
-*  9/2020: 65
-*  8/2020: 61
-*  7/2020: 68
-*  6/2020: 68
-*  5/2020: 64
-*  4/2020: 64
-*  3/2020: 57
-*  2/2020: 58
-*  1/2020: 55
-*  12/2019: 53
+*  12/2020: 50
+*  11/2020: 50
+*  10/2020: 59
+*  9/2020: 68
+*  8/2020: 65
+*  7/2020: 63
+*  6/2020: 70
+*  5/2020: 65
+*  4/2020: 65
+*  3/2020: 60
+*  2/2020: 51
+*  1/2020: 53
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1860
+Total Matches: 1865
 
-Total Results (Limited by GitHUB API): 372
+Total Results (Limited by GitHUB API): 373
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76900
+Total Matches: 76950
 
-Total Results (Limited by GitHUB API): 1374
+Total Results (Limited by GitHUB API): 1375
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 0 | 0 | 0| 2020-12-02 | 2020-12-02 |
-| [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 0 | 0 | 30105| 2020-12-02 | 2020-12-02 |
+| [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 0 | 36| 2020-12-03 | 2020-12-03 |
+| [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 0 | 0 | 243| 2020-12-02 | 2020-12-03 |
+| [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 1 | 0 | 30122| 2020-12-02 | 2020-12-03 |
 | [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72492| 2020-12-01 | 2020-12-02 |
-| [MBrassey/TurquoiseMelon](https://github.com/MBrassey/TurquoiseMelon)| 0 | 0 | 66328| 2020-11-28 | 2020-12-01 |
+| [MBrassey/TurquoiseMelon](https://github.com/MBrassey/TurquoiseMelon)| 0 | 0 | 67897| 2020-11-28 | 2020-12-03 |
 | [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 774| 2020-11-27 | 2020-12-02 |
 | [seantking/ipfs-multi-sig](https://github.com/seantking/ipfs-multi-sig)| 2 | 0 | 230| 2020-11-26 | 2020-12-02 |
 | [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 48| 2020-11-25 | 2020-11-29 |
 | [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
-| [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 131| 2020-11-24 | 2020-11-24 |
-| [mzsima/ipfs-dag-test](https://github.com/mzsima/ipfs-dag-test)| 0 | 0 | 36| 2020-11-23 | 2020-11-23 |
+| [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 142| 2020-11-24 | 2020-12-03 |
 
 
 The above set is limited to the 10 most recently created. 
