@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 50
+*  12/2020: 57
 *  11/2020: 50
-*  10/2020: 59
-*  9/2020: 68
-*  8/2020: 65
+*  10/2020: 57
+*  9/2020: 63
+*  8/2020: 68
 *  7/2020: 63
-*  6/2020: 70
-*  5/2020: 65
-*  4/2020: 65
-*  3/2020: 60
-*  2/2020: 51
-*  1/2020: 53
+*  6/2020: 74
+*  5/2020: 67
+*  4/2020: 64
+*  3/2020: 65
+*  2/2020: 55
+*  1/2020: 68
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 76950
+Total Matches: 77000
 
-Total Results (Limited by GitHUB API): 1375
+Total Results (Limited by GitHUB API): 1376
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 0 | 36| 2020-12-03 | 2020-12-03 |
+| [alefreda/Share4YourGroupAPP-dapp-ethereu...](https://github.com/alefreda/Share4YourGroupAPP-dapp-ethereum)| 0 | 0 | 236| 2020-12-03 | 2020-12-04 |
+| [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 1 | 36| 2020-12-03 | 2020-12-03 |
 | [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 0 | 0 | 243| 2020-12-02 | 2020-12-03 |
 | [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 1 | 0 | 30122| 2020-12-02 | 2020-12-03 |
 | [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72492| 2020-12-01 | 2020-12-02 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1375
 | [seantking/ipfs-multi-sig](https://github.com/seantking/ipfs-multi-sig)| 2 | 0 | 230| 2020-11-26 | 2020-12-02 |
 | [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 48| 2020-11-25 | 2020-11-29 |
 | [chiragbadhe/gallery-on-blockchain](https://github.com/chiragbadhe/gallery-on-blockchain)| 0 | 0 | 26157| 2020-11-25 | 2020-11-25 |
-| [ipfs-shipyard/js-mock-ipfs-pinning-servi...](https://github.com/ipfs-shipyard/js-mock-ipfs-pinning-service)| 0 | 0 | 142| 2020-11-24 | 2020-12-03 |
 
 
 The above set is limited to the 10 most recently created. 
