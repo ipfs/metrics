@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 46
-*  11/2020: 54
-*  10/2020: 56
-*  9/2020: 65
-*  8/2020: 64
-*  7/2020: 64
-*  6/2020: 65
+*  12/2020: 61
+*  11/2020: 48
+*  10/2020: 58
+*  9/2020: 62
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 67
 *  5/2020: 66
-*  4/2020: 61
-*  3/2020: 60
-*  2/2020: 59
-*  1/2020: 53
+*  4/2020: 70
+*  3/2020: 52
+*  2/2020: 56
+*  1/2020: 55
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77050
+Total Matches: 77100
 
 Total Results (Limited by GitHUB API): 1377
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [UltimateRoman/Q-Vault-DApp](https://github.com/UltimateRoman/Q-Vault-DApp)| 0 | 0 | 180| 2020-12-06 | 2020-12-06 |
 | [hrithiklodha/decentralized-youtube](https://github.com/hrithiklodha/decentralized-youtube)| 0 | 0 | 254| 2020-12-05 | 2020-12-05 |
 | [alefreda/Share4YourGroupAPP-dapp-ethereu...](https://github.com/alefreda/Share4YourGroupAPP-dapp-ethereum)| 0 | 0 | 289| 2020-12-03 | 2020-12-05 |
 | [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 1 | 36| 2020-12-03 | 2020-12-03 |
-| [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 0 | 0 | 243| 2020-12-02 | 2020-12-03 |
+| [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 1 | 0 | 243| 2020-12-02 | 2020-12-03 |
 | [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 1 | 0 | 30145| 2020-12-02 | 2020-12-05 |
 | [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72492| 2020-12-01 | 2020-12-02 |
 | [MBrassey/TurquoiseMelon](https://github.com/MBrassey/TurquoiseMelon)| 0 | 0 | 67897| 2020-11-28 | 2020-12-05 |
 | [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 774| 2020-11-27 | 2020-12-02 |
 | [seantking/ipfs-multi-sig](https://github.com/seantking/ipfs-multi-sig)| 2 | 0 | 230| 2020-11-26 | 2020-12-02 |
-| [blocklet/ipfs-deployer](https://github.com/blocklet/ipfs-deployer)| 0 | 0 | 48| 2020-11-25 | 2020-11-29 |
 
 
 The above set is limited to the 10 most recently created. 
