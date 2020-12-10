@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 61
+*  12/2020: 65
 *  11/2020: 47
-*  10/2020: 56
-*  9/2020: 67
-*  8/2020: 60
-*  7/2020: 63
-*  6/2020: 60
-*  5/2020: 68
-*  4/2020: 66
-*  3/2020: 54
-*  2/2020: 53
-*  1/2020: 58
+*  10/2020: 52
+*  9/2020: 65
+*  8/2020: 62
+*  7/2020: 69
+*  6/2020: 66
+*  5/2020: 66
+*  4/2020: 61
+*  3/2020: 59
+*  2/2020: 60
+*  1/2020: 52
 
 ### GitHub Search
 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 77150
 
-Total Results (Limited by GitHUB API): 1373
+Total Results (Limited by GitHUB API): 1374
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -86,7 +86,7 @@ Total Results (Limited by GitHUB API): 1373
 | [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 1 | 36| 2020-12-03 | 2020-12-03 |
 | [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 1 | 0 | 243| 2020-12-02 | 2020-12-03 |
 | [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 1 | 0 | 30145| 2020-12-02 | 2020-12-05 |
-| [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72492| 2020-12-01 | 2020-12-02 |
+| [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72493| 2020-12-01 | 2020-12-09 |
 | [MBrassey/TurquoiseMelon](https://github.com/MBrassey/TurquoiseMelon)| 0 | 0 | 67897| 2020-11-28 | 2020-12-05 |
 | [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 774| 2020-11-27 | 2020-12-02 |
 
