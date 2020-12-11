@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 65
-*  11/2020: 47
-*  10/2020: 52
-*  9/2020: 65
-*  8/2020: 62
-*  7/2020: 69
-*  6/2020: 66
-*  5/2020: 66
-*  4/2020: 61
+*  12/2020: 71
+*  11/2020: 40
+*  10/2020: 58
+*  9/2020: 72
+*  8/2020: 61
+*  7/2020: 88
+*  6/2020: 68
+*  5/2020: 67
+*  4/2020: 74
 *  3/2020: 59
-*  2/2020: 60
-*  1/2020: 52
+*  2/2020: 63
+*  1/2020: 62
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 373
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 2 | 0 | 171| 2020-11-04 | 2020-11-24 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
-| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 0 | 0 | 62| 2020-09-30 | 2020-11-26 |
+| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 1 | 0 | 62| 2020-09-30 | 2020-11-26 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77150
+Total Matches: 77250
 
-Total Results (Limited by GitHUB API): 1374
+Total Results (Limited by GitHUB API): 1379
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
+| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 0 | 0 | 69| 2020-12-09 | 2020-12-10 |
 | [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 0 | 162| 2020-12-07 | 2020-12-07 |
 | [CGsama/gcipfs](https://github.com/CGsama/gcipfs)| 0 | 0 | 4| 2020-12-07 | 2020-12-07 |
 | [hrithiklodha/decentralized-youtube](https://github.com/hrithiklodha/decentralized-youtube)| 0 | 0 | 254| 2020-12-05 | 2020-12-05 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1374
 | [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 1 | 0 | 243| 2020-12-02 | 2020-12-03 |
 | [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 1 | 0 | 30145| 2020-12-02 | 2020-12-05 |
 | [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72493| 2020-12-01 | 2020-12-09 |
-| [MBrassey/TurquoiseMelon](https://github.com/MBrassey/TurquoiseMelon)| 0 | 0 | 67897| 2020-11-28 | 2020-12-05 |
-| [Cybergen300/PicNest](https://github.com/Cybergen300/PicNest)| 0 | 0 | 774| 2020-11-27 | 2020-12-02 |
 
 
 The above set is limited to the 10 most recently created. 
