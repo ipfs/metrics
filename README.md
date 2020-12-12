@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 71
-*  11/2020: 40
+*  12/2020: 51
+*  11/2020: 55
 *  10/2020: 58
-*  9/2020: 72
-*  8/2020: 61
-*  7/2020: 88
-*  6/2020: 68
-*  5/2020: 67
-*  4/2020: 74
-*  3/2020: 59
-*  2/2020: 63
-*  1/2020: 62
+*  9/2020: 65
+*  8/2020: 63
+*  7/2020: 76
+*  6/2020: 64
+*  5/2020: 68
+*  4/2020: 71
+*  3/2020: 56
+*  2/2020: 60
+*  1/2020: 58
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1865
+Total Matches: 1870
 
-Total Results (Limited by GitHUB API): 373
+Total Results (Limited by GitHUB API): 374
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
 | [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
 | [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 1 | 0 | 7| 2020-11-19 | 2020-11-19 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 373
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 2 | 0 | 171| 2020-11-04 | 2020-11-24 |
 | [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
-| [PlagueCat-Miao/goipfs-lab511](https://github.com/PlagueCat-Miao/goipfs-lab511)| 1 | 0 | 62| 2020-09-30 | 2020-11-26 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77250
+Total Matches: 77400
 
-Total Results (Limited by GitHUB API): 1379
+Total Results (Limited by GitHUB API): 1378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 3| 2020-12-11 | 2020-12-11 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
 | [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 0 | 0 | 69| 2020-12-09 | 2020-12-10 |
-| [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 0 | 162| 2020-12-07 | 2020-12-07 |
+| [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
 | [CGsama/gcipfs](https://github.com/CGsama/gcipfs)| 0 | 0 | 4| 2020-12-07 | 2020-12-07 |
+| [clover-network/clover-store-upload](https://github.com/clover-network/clover-store-upload)| 0 | 0 | 85| 2020-12-07 | 2020-12-11 |
 | [hrithiklodha/decentralized-youtube](https://github.com/hrithiklodha/decentralized-youtube)| 0 | 0 | 254| 2020-12-05 | 2020-12-05 |
 | [alefreda/Share4YourGroupAPP-dapp-ethereu...](https://github.com/alefreda/Share4YourGroupAPP-dapp-ethereum)| 0 | 0 | 289| 2020-12-03 | 2020-12-05 |
 | [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 1 | 36| 2020-12-03 | 2020-12-03 |
 | [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 1 | 0 | 243| 2020-12-02 | 2020-12-03 |
-| [TakaRaisonDetre/netflix-mimic](https://github.com/TakaRaisonDetre/netflix-mimic)| 1 | 0 | 30145| 2020-12-02 | 2020-12-05 |
-| [alijnmerchant21/Decentralized-Storage](https://github.com/alijnmerchant21/Decentralized-Storage)| 0 | 0 | 72493| 2020-12-01 | 2020-12-09 |
 
 
 The above set is limited to the 10 most recently created. 
