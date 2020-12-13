@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 51
-*  11/2020: 55
-*  10/2020: 58
-*  9/2020: 65
-*  8/2020: 63
-*  7/2020: 76
+*  12/2020: 53
+*  11/2020: 49
+*  10/2020: 50
+*  9/2020: 63
+*  8/2020: 60
+*  7/2020: 68
 *  6/2020: 64
 *  5/2020: 68
-*  4/2020: 71
+*  4/2020: 66
 *  3/2020: 56
-*  2/2020: 60
-*  1/2020: 58
+*  2/2020: 61
+*  1/2020: 56
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1870
+Total Matches: 1880
 
-Total Results (Limited by GitHUB API): 374
+Total Results (Limited by GitHUB API): 376
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -79,7 +79,7 @@ Total Results (Limited by GitHUB API): 1378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 3| 2020-12-11 | 2020-12-11 |
+| [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
 | [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 0 | 0 | 69| 2020-12-09 | 2020-12-10 |
 | [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
