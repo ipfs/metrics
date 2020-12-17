@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 50
-*  11/2020: 42
-*  10/2020: 48
-*  9/2020: 61
-*  8/2020: 61
-*  7/2020: 72
-*  6/2020: 61
-*  5/2020: 55
-*  4/2020: 65
-*  3/2020: 54
-*  2/2020: 51
-*  1/2020: 56
+*  12/2020: 57
+*  11/2020: 51
+*  10/2020: 56
+*  9/2020: 64
+*  8/2020: 59
+*  7/2020: 68
+*  6/2020: 70
+*  5/2020: 64
+*  4/2020: 69
+*  3/2020: 56
+*  2/2020: 61
+*  1/2020: 66
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 376
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
 | [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
 | [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 1 | 0 | 7| 2020-11-19 | 2020-11-19 |
-| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 34578| 2020-11-17 | 2020-12-13 |
+| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 34704| 2020-11-17 | 2020-12-14 |
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77500
+Total Matches: 77350
 
-Total Results (Limited by GitHUB API): 1380
+Total Results (Limited by GitHUB API): 1378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [christroutner/docker-gatsby-webserver](https://github.com/christroutner/docker-gatsby-webserver)| 0 | 0 | 29| 2020-12-12 | 2020-12-13 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
-| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 0 | 0 | 69| 2020-12-09 | 2020-12-10 |
+| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 1 | 1 | 69| 2020-12-09 | 2020-12-10 |
 | [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
 | [CGsama/gcipfs](https://github.com/CGsama/gcipfs)| 0 | 0 | 4| 2020-12-07 | 2020-12-07 |
-| [clover-network/clover-store-upload](https://github.com/clover-network/clover-store-upload)| 0 | 0 | 85| 2020-12-07 | 2020-12-11 |
+| [clover-network/clover-store-upload](https://github.com/clover-network/clover-store-upload)| 0 | 0 | 91| 2020-12-07 | 2020-12-15 |
 | [hrithiklodha/decentralized-youtube](https://github.com/hrithiklodha/decentralized-youtube)| 0 | 0 | 254| 2020-12-05 | 2020-12-05 |
 | [alefreda/Share4YourGroupAPP-dapp-ethereu...](https://github.com/alefreda/Share4YourGroupAPP-dapp-ethereum)| 0 | 0 | 289| 2020-12-03 | 2020-12-05 |
 | [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 1 | 36| 2020-12-03 | 2020-12-03 |
+| [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 1 | 0 | 243| 2020-12-02 | 2020-12-03 |
 
 
 The above set is limited to the 10 most recently created. 
