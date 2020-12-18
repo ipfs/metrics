@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 57
-*  11/2020: 51
-*  10/2020: 56
-*  9/2020: 64
+*  12/2020: 61
+*  11/2020: 55
+*  10/2020: 52
+*  9/2020: 54
 *  8/2020: 59
-*  7/2020: 68
+*  7/2020: 61
 *  6/2020: 70
-*  5/2020: 64
-*  4/2020: 69
-*  3/2020: 56
-*  2/2020: 61
-*  1/2020: 66
+*  5/2020: 65
+*  4/2020: 65
+*  3/2020: 52
+*  2/2020: 56
+*  1/2020: 57
 
 ### GitHub Search
 
@@ -79,6 +79,7 @@ Total Results (Limited by GitHUB API): 1378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
 | [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 1 | 1 | 69| 2020-12-09 | 2020-12-10 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1378
 | [hrithiklodha/decentralized-youtube](https://github.com/hrithiklodha/decentralized-youtube)| 0 | 0 | 254| 2020-12-05 | 2020-12-05 |
 | [alefreda/Share4YourGroupAPP-dapp-ethereu...](https://github.com/alefreda/Share4YourGroupAPP-dapp-ethereum)| 0 | 0 | 289| 2020-12-03 | 2020-12-05 |
 | [Madeindreams/ipfs-express](https://github.com/Madeindreams/ipfs-express)| 0 | 1 | 36| 2020-12-03 | 2020-12-03 |
-| [fulltimegeek/IPFS-HIVE](https://github.com/fulltimegeek/IPFS-HIVE)| 1 | 0 | 243| 2020-12-02 | 2020-12-03 |
 
 
 The above set is limited to the 10 most recently created. 
