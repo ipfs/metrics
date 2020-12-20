@@ -1,6 +1,6 @@
 Total Matches: 1880
 
-Total Results (Limited by GitHUB API): 374
+Total Results (Limited by GitHUB API): 376
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -52,7 +52,7 @@ Total Results (Limited by GitHUB API): 374
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 1 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [asabya/ipfs-monitor](https://github.com/asabya/ipfs-monitor)| 2 | 0 | 54| 2020-05-16 | 2020-05-31 |
-| [FleekHQ/space-daemon](https://github.com/FleekHQ/space-daemon)| 110 | 14 | 170170| 2020-05-15 | 2020-12-11 |
+| [FleekHQ/space-daemon](https://github.com/FleekHQ/space-daemon)| 111 | 14 | 170170| 2020-05-15 | 2020-12-11 |
 | [sne-ot-research/peerscanner](https://github.com/sne-ot-research/peerscanner)| 1 | 0 | 28| 2020-05-11 | 2020-05-15 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
@@ -69,6 +69,7 @@ Total Results (Limited by GitHUB API): 374
 | [romanblanco/graffiti-ipfs](https://github.com/romanblanco/graffiti-ipfs)| 0 | 0 | 38| 2020-04-15 | 2020-04-15 |
 | [mborho/terraform-provider-ipfs](https://github.com/mborho/terraform-provider-ipfs)| 3 | 0 | 87| 2020-04-09 | 2020-12-17 |
 | [lukasz-zimnoch/ipfs-market](https://github.com/lukasz-zimnoch/ipfs-market)| 0 | 0 | 134| 2020-04-09 | 2020-10-02 |
+| [itzg/go-ipfs-client](https://github.com/itzg/go-ipfs-client)| 0 | 0 | 30| 2020-04-05 | 2020-04-05 |
 | [dbarasti/go-monitor-ipfs](https://github.com/dbarasti/go-monitor-ipfs)| 3 | 0 | 10172| 2020-04-03 | 2020-04-17 |
 | [alanshaw/ipfs-hookds](https://github.com/alanshaw/ipfs-hookds)| 2 | 0 | 28| 2020-03-31 | 2020-06-09 |
 | [giobart/IPFS-statistics-generator](https://github.com/giobart/IPFS-statistics-generator)| 0 | 0 | 33308| 2020-03-30 | 2020-04-16 |
@@ -82,7 +83,7 @@ Total Results (Limited by GitHUB API): 374
 | [GalaIO/P2Pcrawler](https://github.com/GalaIO/P2Pcrawler)| 2 | 0 | 173| 2020-03-03 | 2020-03-22 |
 | [guillaumemichel/crux-ipfs](https://github.com/guillaumemichel/crux-ipfs)| 0 | 0 | 166090| 2020-02-17 | 2020-02-17 |
 | [bitsongofficial/bstudio](https://github.com/bitsongofficial/bstudio)| 1 | 1 | 337| 2020-02-17 | 2020-09-16 |
-| [wiberlin/ipfs-crawler](https://github.com/wiberlin/ipfs-crawler)| 15 | 3 | 91527| 2020-02-17 | 2020-11-23 |
+| [wiberlin/ipfs-crawler](https://github.com/wiberlin/ipfs-crawler)| 15 | 4 | 91527| 2020-02-17 | 2020-11-23 |
 | [codynhat/ipfs-ios-backup](https://github.com/codynhat/ipfs-ios-backup)| 8 | 3 | 656| 2020-02-15 | 2020-10-11 |
 | [TRON-US/btfs-migration-toolkit](https://github.com/TRON-US/btfs-migration-toolkit)| 0 | 1 | 21039| 2020-02-10 | 2020-02-21 |
 | [likecoin/iscn-ipld](https://github.com/likecoin/iscn-ipld)| 2 | 1 | 128| 2020-02-03 | 2020-05-17 |
@@ -94,7 +95,7 @@ Total Results (Limited by GitHUB API): 374
 | [utropicmedia/storj-IPFS](https://github.com/utropicmedia/storj-IPFS)| 2 | 0 | 326| 2020-01-03 | 2020-01-25 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 2 | 1 | 8439| 2019-12-23 | 2020-01-03 |
-| [textileio/powergate](https://github.com/textileio/powergate)| 162 | 54 | 65284| 2019-12-17 | 2020-12-18 |
+| [textileio/powergate](https://github.com/textileio/powergate)| 162 | 54 | 65286| 2019-12-17 | 2020-12-20 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2020-01-14 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
@@ -132,9 +133,9 @@ Total Results (Limited by GitHUB API): 374
 | [hsanjuan/go-ipfs-provider-queue-cleaner](https://github.com/hsanjuan/go-ipfs-provider-queue-cleaner)| 1 | 0 | 4| 2019-06-22 | 2019-06-22 |
 | [INFURA/ipfs-pump](https://github.com/INFURA/ipfs-pump)| 24 | 2 | 52| 2019-06-21 | 2020-09-03 |
 | [RTradeLtd/rtfsc](https://github.com/RTradeLtd/rtfsc)| 0 | 0 | 159| 2019-06-14 | 2020-04-06 |
-| [berty/go-orbit-db](https://github.com/berty/go-orbit-db)| 89 | 20 | 580| 2019-06-11 | 2020-12-14 |
+| [berty/go-orbit-db](https://github.com/berty/go-orbit-db)| 90 | 20 | 580| 2019-06-11 | 2020-12-14 |
 | [jackdoe/ragna](https://github.com/jackdoe/ragna)| 0 | 0 | 7| 2019-06-10 | 2019-06-11 |
-| [RTradeLtd/krab](https://github.com/RTradeLtd/krab)| 8 | 0 | 80| 2019-06-07 | 2019-09-27 |
+| [RTradeLtd/krab](https://github.com/RTradeLtd/krab)| 8 | 1 | 80| 2019-06-07 | 2019-09-27 |
 | [lipuszb/ipfs](https://github.com/lipuszb/ipfs)| 0 | 0 | 27433| 2019-05-26 | 2019-05-26 |
 | [lanzafame/ipfs-cluster-iprpic](https://github.com/lanzafame/ipfs-cluster-iprpic)| 0 | 0 | 9030| 2019-05-21 | 2019-06-28 |
 | [gregdhill/ipfs-oci](https://github.com/gregdhill/ipfs-oci)| 3 | 1 | 522| 2019-05-13 | 2019-06-12 |
@@ -321,11 +322,12 @@ Total Results (Limited by GitHUB API): 374
 | [shazow/go-ipfs-extracted](https://github.com/shazow/go-ipfs-extracted)| 1 | 0 | 7| 2016-10-14 | 2016-10-14 |
 | [whyrusleeping/ipfs-see-all](https://github.com/whyrusleeping/ipfs-see-all)| 2 | 2 | 7| 2016-10-06 | 2016-11-10 |
 | [hsanjuan/one-ipfs](https://github.com/hsanjuan/one-ipfs)| 5 | 0 | 22| 2016-10-05 | 2016-10-29 |
+| [fbonesso/ipfs-go-api](https://github.com/fbonesso/ipfs-go-api)| 1 | 0 | 2| 2016-10-04 | 2016-10-26 |
 | [zignig/mfsrepl](https://github.com/zignig/mfsrepl)| 2 | 0 | 512| 2016-09-05 | 2019-09-20 |
 | [kpmy/mipfs](https://github.com/kpmy/mipfs)| 13 | 5 | 59| 2016-09-01 | 2018-09-02 |
 | [libp2p/go-testutil](https://github.com/libp2p/go-testutil)| 6 | 3 | 69| 2016-08-26 | 2019-05-24 |
 | [jakobvarmose/intercrypt](https://github.com/jakobvarmose/intercrypt)| 5 | 2 | 3| 2016-08-19 | 2016-08-19 |
-| [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)| 820 | 156 | 11839| 2016-07-01 | 2020-12-14 |
+| [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)| 822 | 156 | 11839| 2016-07-01 | 2020-12-14 |
 | [ipfs-inactive/go-key](https://github.com/ipfs-inactive/go-key)| 2 | 3 | 14| 2016-06-13 | 2020-04-28 |
 | [dappstore/dapp](https://github.com/dappstore/dapp)| 0 | 0 | 59| 2016-04-24 | 2016-04-29 |
 | [Floripa-Gophers/ipfs-cluster](https://github.com/Floripa-Gophers/ipfs-cluster)| 9 | 0 | 0| 2016-04-16 | 2016-04-16 |
@@ -377,4 +379,4 @@ Total Results (Limited by GitHUB API): 374
 | [whyrusleeping/go-ipfs-keygen](https://github.com/whyrusleeping/go-ipfs-keygen)| 1 | 1 | 436| 2015-01-24 | 2014-11-18 |
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 10455 | 1971 | 41386| 2014-06-26 | 2020-12-18 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 10457 | 1973 | 41386| 2014-06-26 | 2020-12-19 |

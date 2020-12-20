@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 70
-*  11/2020: 59
-*  10/2020: 58
-*  9/2020: 72
+*  12/2020: 56
+*  11/2020: 47
+*  10/2020: 57
+*  9/2020: 56
 *  8/2020: 59
-*  7/2020: 68
-*  6/2020: 75
-*  5/2020: 67
-*  4/2020: 60
-*  3/2020: 60
-*  2/2020: 61
+*  7/2020: 65
+*  6/2020: 63
+*  5/2020: 60
+*  4/2020: 63
+*  3/2020: 49
+*  2/2020: 51
 *  1/2020: 57
 
 ### GitHub Search
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1880
 
-Total Results (Limited by GitHUB API): 374
+Total Results (Limited by GitHUB API): 376
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77492
+Total Matches: 77600
 
 Total Results (Limited by GitHUB API): 1382
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2397| 2020-12-19 | 2020-12-19 |
+| [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 76| 2020-12-19 | 2020-12-19 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
 | [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1382
 | [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
 | [CGsama/gcipfs](https://github.com/CGsama/gcipfs)| 0 | 0 | 4| 2020-12-07 | 2020-12-07 |
 | [clover-network/clover-store-upload](https://github.com/clover-network/clover-store-upload)| 0 | 0 | 91| 2020-12-07 | 2020-12-15 |
-| [hrithiklodha/decentralized-youtube](https://github.com/hrithiklodha/decentralized-youtube)| 0 | 0 | 254| 2020-12-05 | 2020-12-05 |
-| [alefreda/Share4YourGroupAPP-dapp-ethereu...](https://github.com/alefreda/Share4YourGroupAPP-dapp-ethereum)| 0 | 0 | 289| 2020-12-03 | 2020-12-05 |
 
 
 The above set is limited to the 10 most recently created. 
