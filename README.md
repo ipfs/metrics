@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 63
-*  11/2020: 36
-*  10/2020: 55
-*  9/2020: 57
-*  8/2020: 58
-*  7/2020: 64
-*  6/2020: 55
-*  5/2020: 56
-*  4/2020: 65
-*  3/2020: 57
-*  2/2020: 57
-*  1/2020: 50
+*  12/2020: 60
+*  11/2020: 54
+*  10/2020: 53
+*  9/2020: 63
+*  8/2020: 64
+*  7/2020: 72
+*  6/2020: 67
+*  5/2020: 65
+*  4/2020: 64
+*  3/2020: 51
+*  2/2020: 55
+*  1/2020: 56
 
 ### GitHub Search
 
@@ -73,13 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77600
+Total Matches: 77550
 
-Total Results (Limited by GitHUB API): 1382
+Total Results (Limited by GitHUB API): 1381
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2397| 2020-12-19 | 2020-12-19 |
+| [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2399| 2020-12-19 | 2020-12-21 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 76| 2020-12-19 | 2020-12-19 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
 | [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |
