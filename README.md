@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 60
-*  11/2020: 54
-*  10/2020: 53
-*  9/2020: 63
-*  8/2020: 64
-*  7/2020: 72
-*  6/2020: 67
-*  5/2020: 65
-*  4/2020: 64
-*  3/2020: 51
-*  2/2020: 55
-*  1/2020: 56
+*  12/2020: 53
+*  11/2020: 48
+*  10/2020: 52
+*  9/2020: 67
+*  8/2020: 65
+*  7/2020: 74
+*  6/2020: 66
+*  5/2020: 73
+*  4/2020: 68
+*  3/2020: 53
+*  2/2020: 54
+*  1/2020: 51
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1880
+Total Matches: 1885
 
-Total Results (Limited by GitHUB API): 376
+Total Results (Limited by GitHUB API): 377
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
 | [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 376
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
 | [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 2 | 0 | 171| 2020-11-04 | 2020-11-24 |
-| [myelnet/go-myel-network](https://github.com/myelnet/go-myel-network)| 0 | 0 | 142| 2020-11-02 | 2020-11-02 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77550
+Total Matches: 77600
 
-Total Results (Limited by GitHUB API): 1381
+Total Results (Limited by GitHUB API): 1382
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 95| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2399| 2020-12-19 | 2020-12-21 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 76| 2020-12-19 | 2020-12-19 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
 | [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
-| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 1 | 1 | 69| 2020-12-09 | 2020-12-10 |
+| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 2 | 1 | 69| 2020-12-09 | 2020-12-10 |
 | [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
 | [CGsama/gcipfs](https://github.com/CGsama/gcipfs)| 0 | 0 | 4| 2020-12-07 | 2020-12-07 |
-| [clover-network/clover-store-upload](https://github.com/clover-network/clover-store-upload)| 0 | 0 | 91| 2020-12-07 | 2020-12-15 |
 
 
 The above set is limited to the 10 most recently created. 
