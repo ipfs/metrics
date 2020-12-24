@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 53
-*  11/2020: 48
-*  10/2020: 52
-*  9/2020: 67
-*  8/2020: 65
-*  7/2020: 74
+*  12/2020: 55
+*  11/2020: 51
+*  10/2020: 57
+*  9/2020: 66
+*  8/2020: 72
+*  7/2020: 71
 *  6/2020: 66
-*  5/2020: 73
-*  4/2020: 68
-*  3/2020: 53
-*  2/2020: 54
-*  1/2020: 51
+*  5/2020: 66
+*  4/2020: 67
+*  3/2020: 59
+*  2/2020: 58
+*  1/2020: 54
 
 ### GitHub Search
 
@@ -79,9 +79,9 @@ Total Results (Limited by GitHUB API): 1382
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 95| 2020-12-22 | 2020-12-23 |
+| [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2399| 2020-12-19 | 2020-12-21 |
-| [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 76| 2020-12-19 | 2020-12-19 |
+| [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
 | [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
