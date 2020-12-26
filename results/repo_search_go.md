@@ -1,6 +1,6 @@
 Total Matches: 1885
 
-Total Results (Limited by GitHUB API): 377
+Total Results (Limited by GitHUB API): 375
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -53,7 +53,7 @@ Total Results (Limited by GitHUB API): 377
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 1 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [asabya/ipfs-monitor](https://github.com/asabya/ipfs-monitor)| 2 | 0 | 54| 2020-05-16 | 2020-05-31 |
-| [FleekHQ/space-daemon](https://github.com/FleekHQ/space-daemon)| 115 | 14 | 170170| 2020-05-15 | 2020-12-11 |
+| [FleekHQ/space-daemon](https://github.com/FleekHQ/space-daemon)| 115 | 15 | 170170| 2020-05-15 | 2020-12-11 |
 | [sne-ot-research/peerscanner](https://github.com/sne-ot-research/peerscanner)| 1 | 0 | 28| 2020-05-11 | 2020-05-15 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
@@ -96,7 +96,7 @@ Total Results (Limited by GitHUB API): 377
 | [utropicmedia/storj-IPFS](https://github.com/utropicmedia/storj-IPFS)| 2 | 0 | 326| 2020-01-03 | 2020-01-25 |
 | [coryschwartz/ipfs-study](https://github.com/coryschwartz/ipfs-study)| 0 | 0 | 9| 2019-12-24 | 2019-12-25 |
 | [CoderShiun/mqtt-ipfs](https://github.com/CoderShiun/mqtt-ipfs)| 2 | 1 | 8439| 2019-12-23 | 2020-01-03 |
-| [textileio/powergate](https://github.com/textileio/powergate)| 164 | 54 | 65514| 2019-12-17 | 2020-12-23 |
+| [textileio/powergate](https://github.com/textileio/powergate)| 165 | 55 | 65514| 2019-12-17 | 2020-12-23 |
 | [factory24/ipfs-course-tests](https://github.com/factory24/ipfs-course-tests)| 0 | 0 | 20| 2019-12-14 | 2019-12-14 |
 | [CsterKuroi/ipfs-file-enc](https://github.com/CsterKuroi/ipfs-file-enc)| 0 | 0 | 5| 2019-12-13 | 2020-01-14 |
 | [aStarProgrammer/ipsp](https://github.com/aStarProgrammer/ipsp)| 0 | 0 | 14410| 2019-12-05 | 2020-01-07 |
@@ -173,7 +173,6 @@ Total Results (Limited by GitHUB API): 377
 | [RTradeLtd/go-ipfs-plugin-i2p-gateway](https://github.com/RTradeLtd/go-ipfs-plugin-i2p-gateway)| 10 | 0 | 38339| 2019-01-05 | 2020-04-25 |
 | [gingerhot/ipfg](https://github.com/gingerhot/ipfg)| 0 | 0 | 3| 2018-12-23 | 2018-12-24 |
 | [PaperHS/PlanetaryID](https://github.com/PaperHS/PlanetaryID)| 0 | 0 | 5567| 2018-12-20 | 2018-12-29 |
-| [eager7/lib-p2p](https://github.com/eager7/lib-p2p)| 1 | 0 | 27420| 2018-12-18 | 2019-01-10 |
 | [godcong/go-datastore-oss](https://github.com/godcong/go-datastore-oss)| 1 | 0 | 146| 2018-12-15 | 2019-12-16 |
 | [bregydoc/blackholeDB](https://github.com/bregydoc/blackholeDB)| 116 | 1 | 172| 2018-12-09 | 2019-07-31 |
 | [BenLubar/ipfs-fuse](https://github.com/BenLubar/ipfs-fuse)| 1 | 0 | 40| 2018-12-06 | 2020-05-03 |
@@ -221,7 +220,7 @@ Total Results (Limited by GitHUB API): 377
 | [drenetio/ipfs-dre](https://github.com/drenetio/ipfs-dre)| 1 | 0 | 729| 2018-08-17 | 2018-08-17 |
 | [ipfs/go-path](https://github.com/ipfs/go-path)| 6 | 7 | 168| 2018-07-29 | 2020-12-03 |
 | [ipfs/go-merkledag](https://github.com/ipfs/go-merkledag)| 38 | 17 | 535| 2018-07-28 | 2020-12-05 |
-| [kooksee/kfs](https://github.com/kooksee/kfs)| 2 | 0 | 76| 2018-07-24 | 2018-08-02 |
+| [kooksee/kfs](https://github.com/kooksee/kfs)| 3 | 0 | 76| 2018-07-24 | 2018-08-02 |
 | [scala-network/libipfs](https://github.com/scala-network/libipfs)| 5 | 1 | 230591| 2018-07-22 | 2020-12-22 |
 | [gpestana/peppersource](https://github.com/gpestana/peppersource)| 1 | 0 | 11850| 2018-07-20 | 2018-07-24 |
 | [rootchain/go-ipfs-db](https://github.com/rootchain/go-ipfs-db)| 0 | 0 | 9| 2018-07-12 | 2018-07-22 |
@@ -297,7 +296,6 @@ Total Results (Limited by GitHUB API): 377
 | [BooniesFX/dna-cluster-cli](https://github.com/BooniesFX/dna-cluster-cli)| 0 | 0 | 2451| 2017-05-25 | 2017-05-31 |
 | [AlverLyu/dna-ipfs](https://github.com/AlverLyu/dna-ipfs)| 0 | 0 | 14| 2017-05-18 | 2017-05-22 |
 | [alextanhongpin/ipfs-client](https://github.com/alextanhongpin/ipfs-client)| 0 | 0 | 2| 2017-05-16 | 2017-05-16 |
-| [alextanhongpin/ipfs-server](https://github.com/alextanhongpin/ipfs-server)| 0 | 0 | 0| 2017-05-16 | 2017-05-16 |
 | [ilovelili/Katja](https://github.com/ilovelili/Katja)| 0 | 0 | 10878| 2017-05-04 | 2017-05-15 |
 | [czh0526/ipfs](https://github.com/czh0526/ipfs)| 0 | 0 | 6441| 2017-04-14 | 2019-03-20 |
 | [whyrusleeping/ipfs-import-chain](https://github.com/whyrusleeping/ipfs-import-chain)| 4 | 2 | 1| 2017-03-31 | 2017-10-29 |
@@ -345,7 +343,7 @@ Total Results (Limited by GitHUB API): 377
 | [Cloudxtreme/interplanetary](https://github.com/Cloudxtreme/interplanetary)| 0 | 0 | 1348| 2016-02-15 | 2014-12-09 |
 | [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs)| 105 | 22 | 1174| 2016-01-30 | 2017-05-13 |
 | [whyrusleeping/ipfs-key](https://github.com/whyrusleeping/ipfs-key)| 33 | 13 | 7| 2016-01-23 | 2019-09-17 |
-| [sahib/brig](https://github.com/sahib/brig)| 366 | 21 | 138892| 2016-01-16 | 2020-12-24 |
+| [sahib/brig](https://github.com/sahib/brig)| 367 | 21 | 138893| 2016-01-16 | 2020-12-25 |
 | [whyrusleeping/dsq](https://github.com/whyrusleeping/dsq)| 0 | 0 | 0| 2016-01-10 | 2016-01-10 |
 | [the8472/ipfs-jail](https://github.com/the8472/ipfs-jail)| 1 | 0 | 6| 2016-01-05 | 2016-01-08 |
 | [internet-go/internet-go](https://github.com/internet-go/internet-go)| 0 | 1 | 12| 2015-12-18 | 2015-12-18 |
@@ -380,4 +378,4 @@ Total Results (Limited by GitHUB API): 377
 | [whyrusleeping/go-ipfs-keygen](https://github.com/whyrusleeping/go-ipfs-keygen)| 1 | 0 | 436| 2015-01-24 | 2014-11-18 |
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 10490 | 1978 | 41915| 2014-06-26 | 2020-12-21 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 10493 | 1978 | 41915| 2014-06-26 | 2020-12-21 |

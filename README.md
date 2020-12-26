@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 51
-*  11/2020: 38
-*  10/2020: 48
-*  9/2020: 60
-*  8/2020: 59
-*  7/2020: 72
-*  6/2020: 57
-*  5/2020: 60
-*  4/2020: 58
-*  3/2020: 49
-*  2/2020: 49
-*  1/2020: 55
+*  12/2020: 64
+*  11/2020: 47
+*  10/2020: 59
+*  9/2020: 70
+*  8/2020: 60
+*  7/2020: 84
+*  6/2020: 75
+*  5/2020: 69
+*  4/2020: 74
+*  3/2020: 63
+*  2/2020: 58
+*  1/2020: 57
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 1885
 
-Total Results (Limited by GitHUB API): 377
+Total Results (Limited by GitHUB API): 375
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77650
+Total Matches: 77700
 
 Total Results (Limited by GitHUB API): 1384
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2399| 2020-12-19 | 2020-12-21 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1384
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
 | [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 2 | 1 | 69| 2020-12-09 | 2020-12-10 |
 | [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
-| [CGsama/gcipfs](https://github.com/CGsama/gcipfs)| 0 | 0 | 4| 2020-12-07 | 2020-12-07 |
 
 
 The above set is limited to the 10 most recently created. 
