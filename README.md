@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 59
-*  11/2020: 48
-*  10/2020: 54
-*  9/2020: 60
-*  8/2020: 62
-*  7/2020: 69
-*  6/2020: 61
-*  5/2020: 67
-*  4/2020: 57
-*  3/2020: 57
-*  2/2020: 58
-*  1/2020: 60
+*  12/2020: 58
+*  11/2020: 44
+*  10/2020: 57
+*  9/2020: 71
+*  8/2020: 60
+*  7/2020: 72
+*  6/2020: 60
+*  5/2020: 62
+*  4/2020: 63
+*  3/2020: 56
+*  2/2020: 60
+*  1/2020: 55
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1885
+Total Matches: 1890
 
-Total Results (Limited by GitHUB API): 377
+Total Results (Limited by GitHUB API): 378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 6| 2020-12-26 | 2020-12-27 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 377
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
 | [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
-| [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail)| 2 | 0 | 171| 2020-11-04 | 2020-11-24 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77700
+Total Matches: 77650
 
-Total Results (Limited by GitHUB API): 1381
+Total Results (Limited by GitHUB API): 1383
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
-| [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2399| 2020-12-19 | 2020-12-21 |
+| [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2408| 2020-12-19 | 2020-12-27 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
 | [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |

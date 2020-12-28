@@ -1,9 +1,10 @@
-Total Matches: 1885
+Total Matches: 1890
 
-Total Results (Limited by GitHUB API): 377
+Total Results (Limited by GitHUB API): 378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 6| 2020-12-26 | 2020-12-27 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
@@ -53,7 +54,7 @@ Total Results (Limited by GitHUB API): 377
 | [yhsProject/go-ipfs-frame](https://github.com/yhsProject/go-ipfs-frame)| 1 | 0 | 12| 2020-05-18 | 2020-05-19 |
 | [likecoin/likecoin-ipfs-cosmosds](https://github.com/likecoin/likecoin-ipfs-cosmosds)| 1 | 0 | 49| 2020-05-18 | 2020-05-18 |
 | [asabya/ipfs-monitor](https://github.com/asabya/ipfs-monitor)| 2 | 0 | 54| 2020-05-16 | 2020-05-31 |
-| [FleekHQ/space-daemon](https://github.com/FleekHQ/space-daemon)| 115 | 15 | 170170| 2020-05-15 | 2020-12-11 |
+| [FleekHQ/space-daemon](https://github.com/FleekHQ/space-daemon)| 116 | 14 | 170170| 2020-05-15 | 2020-12-11 |
 | [sne-ot-research/peerscanner](https://github.com/sne-ot-research/peerscanner)| 1 | 0 | 28| 2020-05-11 | 2020-05-15 |
 | [ismcuacor/IPFS](https://github.com/ismcuacor/IPFS)| 0 | 0 | 1880| 2020-05-10 | 2020-05-18 |
 | [uranusbeam/bit-ipfs](https://github.com/uranusbeam/bit-ipfs)| 0 | 0 | 1519| 2020-05-10 | 2020-05-10 |
@@ -122,7 +123,7 @@ Total Results (Limited by GitHUB API): 377
 | [DeedleFake/9ipfs](https://github.com/DeedleFake/9ipfs)| 0 | 0 | 10| 2019-08-13 | 2019-10-17 |
 | [hasyimibhar/avalanche](https://github.com/hasyimibhar/avalanche)| 1 | 0 | 5| 2019-07-22 | 2019-07-22 |
 | [dmcarrington/hlf-ipfs](https://github.com/dmcarrington/hlf-ipfs)| 6 | 3 | 51450| 2019-07-14 | 2020-08-05 |
-| [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 2 | 2 | 12| 2019-07-12 | 2019-07-28 |
+| [ItalyPaleAle/pinatapinner](https://github.com/ItalyPaleAle/pinatapinner)| 3 | 2 | 12| 2019-07-12 | 2019-07-28 |
 | [dtubenetwork/go-ds-sia](https://github.com/dtubenetwork/go-ds-sia)| 0 | 0 | 21| 2019-07-12 | 2019-07-18 |
 | [archivedorg/ipfs-course-tests](https://github.com/archivedorg/ipfs-course-tests)| 0 | 0 | 23| 2019-07-10 | 2019-07-10 |
 | [aanupam23/go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs)| 21 | 5 | 90| 2019-07-10 | 2019-12-02 |
@@ -132,7 +133,7 @@ Total Results (Limited by GitHUB API): 377
 | [drbh/ipfs-different-hash-same-data](https://github.com/drbh/ipfs-different-hash-same-data)| 2 | 0 | 9686| 2019-06-29 | 2019-06-29 |
 | [nboeger/ipfs-zeroconf](https://github.com/nboeger/ipfs-zeroconf)| 1 | 1 | 7188| 2019-06-24 | 2020-06-25 |
 | [hsanjuan/go-ipfs-provider-queue-cleaner](https://github.com/hsanjuan/go-ipfs-provider-queue-cleaner)| 1 | 0 | 4| 2019-06-22 | 2019-06-22 |
-| [INFURA/ipfs-pump](https://github.com/INFURA/ipfs-pump)| 24 | 2 | 52| 2019-06-21 | 2020-09-03 |
+| [INFURA/ipfs-pump](https://github.com/INFURA/ipfs-pump)| 25 | 2 | 52| 2019-06-21 | 2020-09-03 |
 | [RTradeLtd/rtfsc](https://github.com/RTradeLtd/rtfsc)| 0 | 0 | 159| 2019-06-14 | 2020-04-06 |
 | [berty/go-orbit-db](https://github.com/berty/go-orbit-db)| 93 | 20 | 580| 2019-06-11 | 2020-12-14 |
 | [jackdoe/ragna](https://github.com/jackdoe/ragna)| 0 | 0 | 7| 2019-06-10 | 2019-06-11 |
@@ -380,4 +381,4 @@ Total Results (Limited by GitHUB API): 377
 | [whyrusleeping/go-ipfs-keygen](https://github.com/whyrusleeping/go-ipfs-keygen)| 1 | 0 | 436| 2015-01-24 | 2014-11-18 |
 | [whyrusleeping/IpfsEvents](https://github.com/whyrusleeping/IpfsEvents)| 1 | 0 | 96| 2015-01-15 | 2015-01-15 |
 | [whyrusleeping/dhtHell](https://github.com/whyrusleeping/dhtHell)| 10 | 4 | 337| 2014-08-07 | 2015-01-18 |
-| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 10494 | 1980 | 41915| 2014-06-26 | 2020-12-21 |
+| [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs)| 10500 | 1980 | 41915| 2014-06-26 | 2020-12-21 |
