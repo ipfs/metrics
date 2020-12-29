@@ -20,16 +20,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 58
-*  11/2020: 44
-*  10/2020: 57
-*  9/2020: 71
-*  8/2020: 60
-*  7/2020: 72
-*  6/2020: 60
-*  5/2020: 62
-*  4/2020: 63
-*  3/2020: 56
+*  12/2020: 50
+*  11/2020: 49
+*  10/2020: 55
+*  9/2020: 66
+*  8/2020: 61
+*  7/2020: 73
+*  6/2020: 69
+*  5/2020: 68
+*  4/2020: 74
+*  3/2020: 58
 *  2/2020: 60
 *  1/2020: 55
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 6| 2020-12-26 | 2020-12-27 |
+| [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 14| 2020-12-26 | 2020-12-28 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
