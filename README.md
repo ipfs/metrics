@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 50
-*  11/2020: 49
-*  10/2020: 55
-*  9/2020: 66
-*  8/2020: 61
-*  7/2020: 73
-*  6/2020: 69
-*  5/2020: 68
-*  4/2020: 74
+*  12/2020: 56
+*  11/2020: 41
+*  10/2020: 59
+*  9/2020: 64
+*  8/2020: 60
+*  7/2020: 75
+*  6/2020: 65
+*  5/2020: 63
+*  4/2020: 71
 *  3/2020: 58
-*  2/2020: 60
-*  1/2020: 55
+*  2/2020: 57
+*  1/2020: 63
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77650
+Total Matches: 77700
 
-Total Results (Limited by GitHUB API): 1383
+Total Results (Limited by GitHUB API): 1381
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
+| [zozs/whalesong](https://github.com/zozs/whalesong)| 4 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2408| 2020-12-19 | 2020-12-27 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
-| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 596| 2020-12-16 | 2020-12-17 |
+| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 1120| 2020-12-16 | 2020-12-29 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
-| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 2 | 1 | 69| 2020-12-09 | 2020-12-10 |
-| [wafflemakr/ipfs-upload](https://github.com/wafflemakr/ipfs-upload)| 0 | 1 | 162| 2020-12-07 | 2020-12-07 |
+| [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 3 | 1 | 69| 2020-12-09 | 2020-12-10 |
 
 
 The above set is limited to the 10 most recently created. 
