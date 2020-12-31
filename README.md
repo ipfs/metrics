@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 56
-*  11/2020: 41
-*  10/2020: 59
-*  9/2020: 64
+*  12/2020: 62
+*  11/2020: 46
+*  10/2020: 57
+*  9/2020: 68
 *  8/2020: 60
-*  7/2020: 75
-*  6/2020: 65
-*  5/2020: 63
-*  4/2020: 71
-*  3/2020: 58
-*  2/2020: 57
-*  1/2020: 63
+*  7/2020: 77
+*  6/2020: 66
+*  5/2020: 62
+*  4/2020: 70
+*  3/2020: 54
+*  2/2020: 61
+*  1/2020: 53
 
 ### GitHub Search
 
@@ -80,12 +80,12 @@ Total Results (Limited by GitHUB API): 1381
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
-| [zozs/whalesong](https://github.com/zozs/whalesong)| 4 | 0 | 165| 2020-12-23 | 2020-12-29 |
+| [zozs/whalesong](https://github.com/zozs/whalesong)| 6 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2408| 2020-12-19 | 2020-12-27 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
-| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 1120| 2020-12-16 | 2020-12-29 |
+| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 1132| 2020-12-16 | 2020-12-30 |
 | [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
 | [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
 | [healzer/ipfs-file-encryption](https://github.com/healzer/ipfs-file-encryption)| 3 | 1 | 69| 2020-12-09 | 2020-12-10 |
