@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  12/2020: 58
-*  11/2020: 46
-*  10/2020: 61
-*  9/2020: 64
-*  8/2020: 56
-*  7/2020: 77
-*  6/2020: 63
-*  5/2020: 66
-*  4/2020: 67
-*  3/2020: 55
-*  2/2020: 63
-*  1/2020: 61
+*  12/2020: 47
+*  11/2020: 41
+*  10/2020: 53
+*  9/2020: 57
+*  8/2020: 55
+*  7/2020: 64
+*  6/2020: 61
+*  5/2020: 59
+*  4/2020: 66
+*  3/2020: 48
+*  2/2020: 61
+*  1/2020: 59
 
 ### GitHub Search
 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77579
+Total Matches: 77900
 
-Total Results (Limited by GitHUB API): 1391
+Total Results (Limited by GitHUB API): 1387
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [forestpm/forest](https://github.com/forestpm/forest)| 4 | 0 | 359| 2020-12-30 | 2020-12-31 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 4 | 0 | 377| 2020-12-30 | 2021-01-01 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
-| [zozs/whalesong](https://github.com/zozs/whalesong)| 6 | 0 | 165| 2020-12-23 | 2020-12-29 |
+| [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2408| 2020-12-19 | 2020-12-27 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
