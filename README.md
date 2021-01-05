@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 29
+*  1/2021: 42
 *  12/2020: 52
-*  11/2020: 45
-*  10/2020: 54
+*  11/2020: 47
+*  10/2020: 57
 *  9/2020: 64
-*  8/2020: 64
-*  7/2020: 74
-*  6/2020: 69
-*  5/2020: 68
+*  8/2020: 63
+*  7/2020: 69
+*  6/2020: 60
+*  5/2020: 65
 *  4/2020: 66
-*  3/2020: 56
-*  2/2020: 49
+*  3/2020: 50
+*  2/2020: 58
 
 ### GitHub Search
 
@@ -75,11 +75,11 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 77900
 
-Total Results (Limited by GitHUB API): 1388
+Total Results (Limited by GitHUB API): 1385
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [forestpm/forest](https://github.com/forestpm/forest)| 4 | 0 | 718| 2020-12-30 | 2021-01-03 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 6 | 0 | 824| 2020-12-30 | 2021-01-04 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
 | [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
