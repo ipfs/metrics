@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 42
-*  12/2020: 52
-*  11/2020: 47
-*  10/2020: 57
-*  9/2020: 64
+*  1/2021: 29
+*  12/2020: 47
+*  11/2020: 49
+*  10/2020: 55
+*  9/2020: 58
 *  8/2020: 63
-*  7/2020: 69
-*  6/2020: 60
+*  7/2020: 64
+*  6/2020: 68
 *  5/2020: 65
-*  4/2020: 66
-*  3/2020: 50
-*  2/2020: 58
+*  4/2020: 65
+*  3/2020: 53
+*  2/2020: 57
 
 ### GitHub Search
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77900
+Total Matches: 78000
 
-Total Results (Limited by GitHUB API): 1385
+Total Results (Limited by GitHUB API): 1387
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [forestpm/forest](https://github.com/forestpm/forest)| 6 | 0 | 824| 2020-12-30 | 2021-01-04 |
+| [coofrozen/Blockchain-Based-Electronic-He...](https://github.com/coofrozen/Blockchain-Based-Electronic-Health-Care)| 0 | 0 | 358| 2021-01-05 | 2021-01-05 |
+| [DistPub/dshell](https://github.com/DistPub/dshell)| 0 | 0 | 1117| 2021-01-05 | 2021-01-05 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 6 | 0 | 928| 2020-12-30 | 2021-01-05 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
 | [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1385
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
 | [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 1132| 2020-12-16 | 2020-12-30 |
-| [fred-wang/demo-extension-register-ipfs-h...](https://github.com/fred-wang/demo-extension-register-ipfs-handler)| 0 | 0 | 4| 2020-12-11 | 2020-12-12 |
-| [vhpvmx/IPFSApp](https://github.com/vhpvmx/IPFSApp)| 0 | 0 | 18| 2020-12-10 | 2020-12-10 |
 
 
 The above set is limited to the 10 most recently created. 
