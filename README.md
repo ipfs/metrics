@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 29
-*  12/2020: 47
-*  11/2020: 49
+*  1/2021: 59
+*  12/2020: 44
+*  11/2020: 37
 *  10/2020: 55
-*  9/2020: 58
-*  8/2020: 63
-*  7/2020: 64
-*  6/2020: 68
-*  5/2020: 65
-*  4/2020: 65
-*  3/2020: 53
-*  2/2020: 57
+*  9/2020: 66
+*  8/2020: 65
+*  7/2020: 71
+*  6/2020: 56
+*  5/2020: 62
+*  4/2020: 64
+*  3/2020: 60
+*  2/2020: 62
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78000
+Total Matches: 77900
 
-Total Results (Limited by GitHUB API): 1387
+Total Results (Limited by GitHUB API): 1385
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [coofrozen/Blockchain-Based-Electronic-He...](https://github.com/coofrozen/Blockchain-Based-Electronic-Health-Care)| 0 | 0 | 358| 2021-01-05 | 2021-01-05 |
-| [DistPub/dshell](https://github.com/DistPub/dshell)| 0 | 0 | 1117| 2021-01-05 | 2021-01-05 |
-| [forestpm/forest](https://github.com/forestpm/forest)| 6 | 0 | 928| 2020-12-30 | 2021-01-05 |
+| [DistPub/dshell](https://github.com/DistPub/dshell)| 0 | 0 | 1121| 2021-01-05 | 2021-01-06 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 6 | 0 | 933| 2020-12-30 | 2021-01-06 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
 | [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2408| 2020-12-19 | 2020-12-27 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
 | [5310/ipfs-core-dist](https://github.com/5310/ipfs-core-dist)| 0 | 0 | 3| 2020-12-18 | 2020-12-18 |
-| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 1132| 2020-12-16 | 2020-12-30 |
+| [ReForum-ipfs/ReForum-ipfs](https://github.com/ReForum-ipfs/ReForum-ipfs)| 0 | 0 | 1136| 2020-12-16 | 2021-01-06 |
 
 
 The above set is limited to the 10 most recently created. 
