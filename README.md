@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 59
-*  12/2020: 44
-*  11/2020: 37
-*  10/2020: 55
-*  9/2020: 66
-*  8/2020: 65
-*  7/2020: 71
-*  6/2020: 56
-*  5/2020: 62
-*  4/2020: 64
-*  3/2020: 60
-*  2/2020: 62
+*  1/2021: 65
+*  12/2020: 52
+*  11/2020: 48
+*  10/2020: 54
+*  9/2020: 61
+*  8/2020: 64
+*  7/2020: 72
+*  6/2020: 65
+*  5/2020: 73
+*  4/2020: 69
+*  3/2020: 53
+*  2/2020: 59
 
 ### GitHub Search
 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77900
+Total Matches: 77728
 
-Total Results (Limited by GitHUB API): 1385
+Total Results (Limited by GitHUB API): 1387
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [coofrozen/Blockchain-Based-Electronic-He...](https://github.com/coofrozen/Blockchain-Based-Electronic-Health-Care)| 0 | 0 | 358| 2021-01-05 | 2021-01-05 |
 | [DistPub/dshell](https://github.com/DistPub/dshell)| 0 | 0 | 1121| 2021-01-05 | 2021-01-06 |
-| [forestpm/forest](https://github.com/forestpm/forest)| 6 | 0 | 933| 2020-12-30 | 2021-01-06 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 7 | 0 | 1096| 2020-12-30 | 2021-01-07 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
 | [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 165| 2020-12-23 | 2020-12-29 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
