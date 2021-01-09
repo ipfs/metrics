@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 65
+*  1/2021: 67
 *  12/2020: 52
-*  11/2020: 48
-*  10/2020: 54
-*  9/2020: 61
-*  8/2020: 64
-*  7/2020: 72
-*  6/2020: 65
-*  5/2020: 73
+*  11/2020: 40
+*  10/2020: 53
+*  9/2020: 58
+*  8/2020: 59
+*  7/2020: 70
+*  6/2020: 66
+*  5/2020: 68
 *  4/2020: 69
-*  3/2020: 53
-*  2/2020: 59
+*  3/2020: 51
+*  2/2020: 56
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1890
+Total Matches: 1895
 
-Total Results (Limited by GitHUB API): 378
+Total Results (Limited by GitHUB API): 377
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 1 | 0 | 53| 2021-01-08 | 2021-01-08 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 14| 2020-12-26 | 2020-12-28 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 378
 | [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 3 | 0 | 34704| 2020-11-17 | 2020-12-14 |
 | [talhaanisicte/go-compiler](https://github.com/talhaanisicte/go-compiler)| 0 | 0 | 5| 2020-11-13 | 2020-11-16 |
 | [tchardin/ipfs-pubsub-test](https://github.com/tchardin/ipfs-pubsub-test)| 0 | 0 | 50| 2020-11-09 | 2020-11-09 |
-| [MeowDada/ipfstor](https://github.com/MeowDada/ipfstor)| 0 | 0 | 241| 2020-11-05 | 2020-11-26 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77728
+Total Matches: 77892
 
-Total Results (Limited by GitHUB API): 1387
+Total Results (Limited by GitHUB API): 1385
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
