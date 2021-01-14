@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 63
-*  12/2020: 58
-*  11/2020: 50
-*  10/2020: 56
-*  9/2020: 76
-*  8/2020: 74
-*  7/2020: 73
-*  6/2020: 72
-*  5/2020: 74
-*  4/2020: 63
-*  3/2020: 67
-*  2/2020: 65
+*  1/2021: 53
+*  12/2020: 52
+*  11/2020: 48
+*  10/2020: 55
+*  9/2020: 55
+*  8/2020: 60
+*  7/2020: 75
+*  6/2020: 65
+*  5/2020: 65
+*  4/2020: 69
+*  3/2020: 55
+*  2/2020: 61
 
 ### GitHub Search
 
@@ -57,9 +57,9 @@ Total Results (Limited by GitHUB API): 382
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
-| [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 55| 2021-01-12 | 2021-01-12 |
+| [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 60| 2021-01-12 | 2021-01-13 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 91| 2021-01-08 | 2021-01-12 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 103| 2021-01-08 | 2021-01-13 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 14| 2020-12-26 | 2020-12-28 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -73,18 +73,18 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 77950
+Total Matches: 78000
 
-Total Results (Limited by GitHUB API): 1386
+Total Results (Limited by GitHUB API): 1387
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [NadeeraM/ipfs_cluster_nodeJs](https://github.com/NadeeraM/ipfs_cluster_nodeJs)| 0 | 0 | 22| 2021-01-12 | 2021-01-12 |
+| [NadeeraM/ipfs_cluster_nodeJs](https://github.com/NadeeraM/ipfs_cluster_nodeJs)| 0 | 0 | 24| 2021-01-12 | 2021-01-13 |
 | [coofrozen/Blockchain-Based-Electronic-He...](https://github.com/coofrozen/Blockchain-Based-Electronic-Health-Care)| 0 | 0 | 358| 2021-01-05 | 2021-01-05 |
 | [DistPub/dshell](https://github.com/DistPub/dshell)| 0 | 0 | 1121| 2021-01-05 | 2021-01-06 |
-| [forestpm/forest](https://github.com/forestpm/forest)| 11 | 0 | 395| 2020-12-30 | 2021-01-12 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 11 | 1 | 546| 2020-12-30 | 2021-01-13 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
-| [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 165| 2020-12-23 | 2020-12-29 |
+| [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 230| 2020-12-23 | 2021-01-13 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 | [bartekn80/testbn](https://github.com/bartekn80/testbn)| 0 | 0 | 2408| 2020-12-19 | 2020-12-27 |
 | [WorkerHive/workhub-file-store](https://github.com/WorkerHive/workhub-file-store)| 0 | 0 | 93| 2020-12-19 | 2020-12-23 |
