@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 54
-*  12/2020: 53
-*  11/2020: 49
-*  10/2020: 56
+*  1/2021: 61
+*  12/2020: 48
+*  11/2020: 41
+*  10/2020: 52
 *  9/2020: 67
-*  8/2020: 59
-*  7/2020: 72
-*  6/2020: 69
-*  5/2020: 67
-*  4/2020: 64
-*  3/2020: 53
-*  2/2020: 62
+*  8/2020: 62
+*  7/2020: 65
+*  6/2020: 66
+*  5/2020: 69
+*  4/2020: 67
+*  3/2020: 55
+*  2/2020: 55
 
 ### GitHub Search
 
@@ -79,15 +79,15 @@ Total Results (Limited by GitHUB API): 1388
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [TakutoYoshikai/ipfs](https://github.com/TakutoYoshikai/ipfs)| 0 | 0 | 19| 2021-01-16 | 2021-01-16 |
+| [TakutoYoshikai/ipfs](https://github.com/TakutoYoshikai/ipfs)| 0 | 0 | 20| 2021-01-16 | 2021-01-17 |
 | [mohdsadiq7/election](https://github.com/mohdsadiq7/election)| 0 | 0 | 18188| 2021-01-15 | 2021-01-15 |
 | [MASDXI/ipfs-nodejs](https://github.com/MASDXI/ipfs-nodejs)| 0 | 0 | 45| 2021-01-15 | 2021-01-15 |
 | [samiullah321/Document_Verfication_DAPP](https://github.com/samiullah321/Document_Verfication_DAPP)| 0 | 0 | 986| 2021-01-14 | 2021-01-14 |
 | [coofrozen/Blockchain-Based-Electronic-He...](https://github.com/coofrozen/Blockchain-Based-Electronic-Health-Care)| 0 | 0 | 358| 2021-01-05 | 2021-01-05 |
 | [DistPub/dshell](https://github.com/DistPub/dshell)| 0 | 0 | 2326| 2021-01-05 | 2021-01-15 |
-| [forestpm/forest](https://github.com/forestpm/forest)| 11 | 2 | 903| 2020-12-30 | 2021-01-16 |
+| [forestpm/forest](https://github.com/forestpm/forest)| 12 | 2 | 903| 2020-12-30 | 2021-01-16 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-site-mirror)| 0 | 0 | 3119| 2020-12-25 | 2020-12-25 |
-| [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 230| 2020-12-23 | 2021-01-13 |
+| [zozs/whalesong](https://github.com/zozs/whalesong)| 8 | 0 | 89| 2020-12-23 | 2021-01-17 |
 | [WorkerHive/workhub-ipfs](https://github.com/WorkerHive/workhub-ipfs)| 0 | 0 | 100| 2020-12-22 | 2020-12-23 |
 
 
