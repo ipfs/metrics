@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 54
-*  12/2020: 56
-*  11/2020: 44
-*  10/2020: 57
-*  9/2020: 64
-*  8/2020: 62
-*  7/2020: 73
-*  6/2020: 67
-*  5/2020: 68
-*  4/2020: 68
-*  3/2020: 65
-*  2/2020: 59
+*  1/2021: 81
+*  12/2020: 46
+*  11/2020: 38
+*  10/2020: 47
+*  9/2020: 52
+*  8/2020: 53
+*  7/2020: 65
+*  6/2020: 60
+*  5/2020: 59
+*  4/2020: 56
+*  3/2020: 52
+*  2/2020: 49
 
 ### GitHub Search
 
@@ -52,20 +52,20 @@ so we don't know why this is the case.
 
 Total Matches: 1900
 
-Total Results (Limited by GitHUB API): 380
+Total Results (Limited by GitHUB API): 378
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 164| 2021-01-08 | 2021-01-23 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 267| 2021-01-08 | 2021-01-24 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
-| [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 | [costinm/go-libp2p-ssh-transport](https://github.com/costinm/go-libp2p-ssh-transport)| 0 | 0 | 25| 2020-11-24 | 2020-12-07 |
 | [pulkit2001/Sec-Air](https://github.com/pulkit2001/Sec-Air)| 0 | 0 | 3| 2020-11-20 | 2020-11-20 |
 | [DeedleFake/ipfs-publish-feed](https://github.com/DeedleFake/ipfs-publish-feed)| 1 | 0 | 7| 2020-11-19 | 2020-11-19 |
+| [wadeAlexC/ipbw](https://github.com/wadeAlexC/ipbw)| 4 | 0 | 34704| 2020-11-17 | 2020-12-14 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78350
+Total Matches: 78250
 
-Total Results (Limited by GitHUB API): 1392
+Total Results (Limited by GitHUB API): 1390
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
