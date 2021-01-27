@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 95
-*  12/2020: 52
-*  11/2020: 39
-*  10/2020: 55
-*  9/2020: 71
-*  8/2020: 62
-*  7/2020: 66
+*  1/2021: 92
+*  12/2020: 55
+*  11/2020: 50
+*  10/2020: 57
+*  9/2020: 72
+*  8/2020: 63
+*  7/2020: 67
 *  6/2020: 62
 *  5/2020: 60
-*  4/2020: 65
+*  4/2020: 66
 *  3/2020: 59
-*  2/2020: 54
+*  2/2020: 60
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 380
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 353| 2021-01-08 | 2021-01-25 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 358| 2021-01-08 | 2021-01-26 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78250
+Total Matches: 78267
 
-Total Results (Limited by GitHUB API): 1390
+Total Results (Limited by GitHUB API): 1391
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
