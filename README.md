@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 100
-*  12/2020: 56
-*  11/2020: 57
-*  10/2020: 61
-*  9/2020: 70
-*  8/2020: 62
-*  7/2020: 62
-*  6/2020: 76
-*  5/2020: 64
-*  4/2020: 72
-*  3/2020: 67
-*  2/2020: 62
+*  1/2021: 98
+*  12/2020: 58
+*  11/2020: 44
+*  10/2020: 55
+*  9/2020: 73
+*  8/2020: 61
+*  7/2020: 79
+*  6/2020: 68
+*  5/2020: 67
+*  4/2020: 62
+*  3/2020: 56
+*  2/2020: 68
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 380
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 4 | 0 | 378| 2021-01-08 | 2021-01-28 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 378| 2021-01-08 | 2021-01-28 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -75,10 +75,11 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 78450
 
-Total Results (Limited by GitHUB API): 1393
+Total Results (Limited by GitHUB API): 1394
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [DivitaP/Storage](https://github.com/DivitaP/Storage)| 0 | 0 | 1537| 2021-01-29 | 2021-01-29 |
 | [anujadasnurkar/Decentralized-DropBox](https://github.com/anujadasnurkar/Decentralized-DropBox)| 0 | 0 | 1297| 2021-01-27 | 2021-01-27 |
 | [avishkarabhishek786/ipfs](https://github.com/avishkarabhishek786/ipfs)| 0 | 0 | 39| 2021-01-27 | 2021-01-27 |
 | [yathartharora/DecentralisedEmail](https://github.com/yathartharora/DecentralisedEmail)| 0 | 0 | 164| 2021-01-22 | 2021-01-22 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1393
 | [MASDXI/ipfs-with-react](https://github.com/MASDXI/ipfs-with-react)| 0 | 0 | 1388| 2021-01-20 | 2021-01-21 |
 | [raphaelpg/IPFS-portfolio](https://github.com/raphaelpg/IPFS-portfolio)| 0 | 0 | 837| 2021-01-19 | 2021-01-27 |
 | [TakutoYoshikai/ipfs](https://github.com/TakutoYoshikai/ipfs)| 0 | 0 | 20| 2021-01-16 | 2021-01-17 |
-| [mohdsadiq7/election](https://github.com/mohdsadiq7/election)| 0 | 0 | 18188| 2021-01-15 | 2021-01-15 |
 
 
 The above set is limited to the 10 most recently created. 
