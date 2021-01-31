@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 98
-*  12/2020: 58
-*  11/2020: 44
+*  1/2021: 72
+*  12/2020: 48
+*  11/2020: 51
 *  10/2020: 55
-*  9/2020: 73
-*  8/2020: 61
-*  7/2020: 79
+*  9/2020: 58
+*  8/2020: 57
+*  7/2020: 70
 *  6/2020: 68
-*  5/2020: 67
-*  4/2020: 62
-*  3/2020: 56
-*  2/2020: 68
+*  5/2020: 65
+*  4/2020: 65
+*  3/2020: 62
+*  2/2020: 60
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78450
+Total Matches: 78500
 
-Total Results (Limited by GitHUB API): 1394
+Total Results (Limited by GitHUB API): 1395
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [iearn-finance/yearn-meta](https://github.com/iearn-finance/yearn-meta)| 0 | 0 | 1009| 2021-01-30 | 2021-01-30 |
 | [DivitaP/Storage](https://github.com/DivitaP/Storage)| 0 | 0 | 1537| 2021-01-29 | 2021-01-29 |
 | [anujadasnurkar/Decentralized-DropBox](https://github.com/anujadasnurkar/Decentralized-DropBox)| 0 | 0 | 1297| 2021-01-27 | 2021-01-27 |
 | [avishkarabhishek786/ipfs](https://github.com/avishkarabhishek786/ipfs)| 0 | 0 | 39| 2021-01-27 | 2021-01-27 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1394
 | [carsonfarmer/libp2p-bundle](https://github.com/carsonfarmer/libp2p-bundle)| 0 | 0 | 227| 2021-01-21 | 2021-01-27 |
 | [MASDXI/ipfs-with-react](https://github.com/MASDXI/ipfs-with-react)| 0 | 0 | 1388| 2021-01-20 | 2021-01-21 |
 | [raphaelpg/IPFS-portfolio](https://github.com/raphaelpg/IPFS-portfolio)| 0 | 0 | 837| 2021-01-19 | 2021-01-27 |
-| [TakutoYoshikai/ipfs](https://github.com/TakutoYoshikai/ipfs)| 0 | 0 | 20| 2021-01-16 | 2021-01-17 |
 
 
 The above set is limited to the 10 most recently created. 
