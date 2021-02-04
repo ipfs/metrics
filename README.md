@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  1/2021: 94
-*  12/2020: 51
-*  11/2020: 44
-*  10/2020: 54
-*  9/2020: 59
-*  8/2020: 60
-*  7/2020: 70
-*  6/2020: 69
-*  5/2020: 67
-*  4/2020: 75
-*  3/2020: 57
-*  2/2020: 59
+*  1/2021: 85
+*  12/2020: 48
+*  11/2020: 43
+*  10/2020: 52
+*  9/2020: 63
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 62
+*  5/2020: 71
+*  4/2020: 64
+*  3/2020: 52
+*  2/2020: 55
 
 ### GitHub Search
 
@@ -56,11 +56,11 @@ Total Results (Limited by GitHUB API): 381
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 36| 2021-01-22 | 2021-01-31 |
+| [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 65| 2021-01-22 | 2021-02-03 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 389| 2021-01-08 | 2021-02-02 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 272| 2021-01-08 | 2021-02-03 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78650
+Total Matches: 78600
 
-Total Results (Limited by GitHUB API): 1396
+Total Results (Limited by GitHUB API): 1395
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [RaphaelChevallier/CommChat](https://github.com/RaphaelChevallier/CommChat)| 0 | 0 | 363| 2021-02-01 | 2021-02-02 |
+| [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
+| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 231| 2021-02-03 | 2021-02-03 |
 | [jarcodallo/secure-ipfs-api](https://github.com/jarcodallo/secure-ipfs-api)| 0 | 0 | 268| 2021-02-01 | 2021-02-02 |
 | [iearn-finance/yearn-meta](https://github.com/iearn-finance/yearn-meta)| 1 | 1 | 1009| 2021-01-30 | 2021-01-30 |
 | [DivitaP/Storage](https://github.com/DivitaP/Storage)| 0 | 0 | 1537| 2021-01-29 | 2021-01-29 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1396
 | [yathartharora/DecentralisedEmail](https://github.com/yathartharora/DecentralisedEmail)| 0 | 1 | 4607| 2021-01-22 | 2021-01-31 |
 | [danielmarius1995/Ethereum-IPFS-DStorage](https://github.com/danielmarius1995/Ethereum-IPFS-DStorage)| 0 | 0 | 227| 2021-01-22 | 2021-01-22 |
 | [achingbrain/dht-delegate-example](https://github.com/achingbrain/dht-delegate-example)| 1 | 0 | 5| 2021-01-21 | 2021-01-21 |
-| [carsonfarmer/libp2p-bundle](https://github.com/carsonfarmer/libp2p-bundle)| 0 | 0 | 227| 2021-01-21 | 2021-01-27 |
 
 
 The above set is limited to the 10 most recently created. 
