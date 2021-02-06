@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 100
-*  1/2021: 82
-*  12/2020: 48
-*  11/2020: 39
-*  10/2020: 56
-*  9/2020: 56
-*  8/2020: 58
-*  7/2020: 70
-*  6/2020: 59
+*  2/2021: 76
+*  1/2021: 77
+*  12/2020: 52
+*  11/2020: 42
+*  10/2020: 46
+*  9/2020: 51
+*  8/2020: 56
+*  7/2020: 63
+*  6/2020: 55
 *  5/2020: 59
-*  4/2020: 69
-*  3/2020: 49
+*  4/2020: 61
+*  3/2020: 44
 
 ### GitHub Search
 
@@ -56,12 +56,12 @@ Total Results (Limited by GitHUB API): 382
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 0 | 0 | 72| 2021-02-04 | 2021-02-04 |
+| [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 78| 2021-02-04 | 2021-02-05 |
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 65| 2021-01-22 | 2021-02-03 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 240| 2021-01-08 | 2021-02-04 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 255| 2021-01-08 | 2021-02-05 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -79,9 +79,9 @@ Total Results (Limited by GitHUB API): 1396
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 0 | 0 | 180| 2021-02-03 | 2021-02-04 |
+| [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
 | [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
-| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 231| 2021-02-03 | 2021-02-03 |
+| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 270| 2021-02-03 | 2021-02-05 |
 | [jarcodallo/secure-ipfs-api](https://github.com/jarcodallo/secure-ipfs-api)| 0 | 0 | 268| 2021-02-01 | 2021-02-02 |
 | [iearn-finance/yearn-meta](https://github.com/iearn-finance/yearn-meta)| 1 | 1 | 1009| 2021-01-30 | 2021-01-30 |
 | [bhflm/fleek](https://github.com/bhflm/fleek)| 0 | 0 | 648| 2021-01-30 | 2021-02-04 |
