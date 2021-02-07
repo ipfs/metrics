@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 76
-*  1/2021: 77
-*  12/2020: 52
-*  11/2020: 42
-*  10/2020: 46
-*  9/2020: 51
-*  8/2020: 56
-*  7/2020: 63
-*  6/2020: 55
-*  5/2020: 59
-*  4/2020: 61
-*  3/2020: 44
+*  2/2021: 82
+*  1/2021: 90
+*  12/2020: 55
+*  11/2020: 46
+*  10/2020: 55
+*  9/2020: 67
+*  8/2020: 62
+*  7/2020: 72
+*  6/2020: 64
+*  5/2020: 65
+*  4/2020: 68
+*  3/2020: 55
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 382
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 65| 2021-01-22 | 2021-02-03 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
-| [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 0 | 0 | 71| 2021-01-09 | 2021-01-09 |
+| [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 2 | 0 | 71| 2021-01-09 | 2021-01-09 |
 | [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 255| 2021-01-08 | 2021-02-05 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78650
+Total Matches: 78700
 
-Total Results (Limited by GitHUB API): 1396
+Total Results (Limited by GitHUB API): 1397
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 214| 2021-02-05 | 2021-02-06 |
 | [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
 | [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
-| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 270| 2021-02-03 | 2021-02-05 |
+| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 277| 2021-02-03 | 2021-02-06 |
 | [jarcodallo/secure-ipfs-api](https://github.com/jarcodallo/secure-ipfs-api)| 0 | 0 | 268| 2021-02-01 | 2021-02-02 |
 | [iearn-finance/yearn-meta](https://github.com/iearn-finance/yearn-meta)| 1 | 1 | 1009| 2021-01-30 | 2021-01-30 |
 | [bhflm/fleek](https://github.com/bhflm/fleek)| 0 | 0 | 648| 2021-01-30 | 2021-02-04 |
 | [DivitaP/Storage](https://github.com/DivitaP/Storage)| 0 | 0 | 1537| 2021-01-29 | 2021-01-29 |
 | [anujadasnurkar/Decentralized-DropBox](https://github.com/anujadasnurkar/Decentralized-DropBox)| 0 | 0 | 1303| 2021-01-27 | 2021-02-02 |
 | [avishkarabhishek786/ipfs](https://github.com/avishkarabhishek786/ipfs)| 0 | 0 | 39| 2021-01-27 | 2021-01-27 |
-| [danielmarius1995/Ethereum-IPFS-DStorage](https://github.com/danielmarius1995/Ethereum-IPFS-DStorage)| 0 | 0 | 227| 2021-01-22 | 2021-01-22 |
 
 
 The above set is limited to the 10 most recently created. 
