@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 82
-*  1/2021: 90
-*  12/2020: 55
-*  11/2020: 46
-*  10/2020: 55
-*  9/2020: 67
-*  8/2020: 62
-*  7/2020: 72
-*  6/2020: 64
-*  5/2020: 65
-*  4/2020: 68
-*  3/2020: 55
+*  2/2021: 73
+*  1/2021: 77
+*  12/2020: 53
+*  11/2020: 47
+*  10/2020: 53
+*  9/2020: 60
+*  8/2020: 60
+*  7/2020: 71
+*  6/2020: 69
+*  5/2020: 64
+*  4/2020: 61
+*  3/2020: 59
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 382
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 65| 2021-01-22 | 2021-02-03 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
-| [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 2 | 0 | 71| 2021-01-09 | 2021-01-09 |
+| [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
 | [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 5 | 0 | 255| 2021-01-08 | 2021-02-05 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
@@ -73,16 +73,16 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78700
+Total Matches: 78600
 
-Total Results (Limited by GitHUB API): 1397
+Total Results (Limited by GitHUB API): 1395
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 214| 2021-02-05 | 2021-02-06 |
 | [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
 | [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
-| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 277| 2021-02-03 | 2021-02-06 |
+| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 261| 2021-02-03 | 2021-02-07 |
+| [RaphaelChevallier/CommChat](https://github.com/RaphaelChevallier/CommChat)| 0 | 0 | 792| 2021-02-01 | 2021-02-07 |
 | [jarcodallo/secure-ipfs-api](https://github.com/jarcodallo/secure-ipfs-api)| 0 | 0 | 268| 2021-02-01 | 2021-02-02 |
 | [iearn-finance/yearn-meta](https://github.com/iearn-finance/yearn-meta)| 1 | 1 | 1009| 2021-01-30 | 2021-01-30 |
 | [bhflm/fleek](https://github.com/bhflm/fleek)| 0 | 0 | 648| 2021-01-30 | 2021-02-04 |
