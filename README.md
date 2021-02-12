@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 71
-*  1/2021: 75
-*  12/2020: 52
+*  2/2021: 66
+*  1/2021: 79
+*  12/2020: 49
 *  11/2020: 49
-*  10/2020: 57
+*  10/2020: 53
 *  9/2020: 59
-*  8/2020: 57
-*  7/2020: 68
-*  6/2020: 74
+*  8/2020: 63
+*  7/2020: 70
+*  6/2020: 65
 *  5/2020: 66
-*  4/2020: 66
-*  3/2020: 50
+*  4/2020: 60
+*  3/2020: 48
 
 ### GitHub Search
 
@@ -50,19 +50,19 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1893
+Total Matches: 1915
 
-Total Results (Limited by GitHUB API): 378
+Total Results (Limited by GitHUB API): 383
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [aschmahmann/vole](https://github.com/aschmahmann/vole)| 1 | 0 | 35| 2021-02-10 | 2021-02-10 |
+| [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 78| 2021-02-04 | 2021-02-05 |
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 66| 2021-01-22 | 2021-02-08 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 8 | 0 | 201| 2021-01-08 | 2021-02-10 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 9 | 1 | 201| 2021-01-08 | 2021-02-10 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 | [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78850
+Total Matches: 78900
 
-Total Results (Limited by GitHUB API): 1399
+Total Results (Limited by GitHUB API): 1400
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [SYL0/DeBox](https://github.com/SYL0/DeBox)| 0 | 0 | 1244| 2021-02-11 | 2021-02-11 |
 | [undermethod/BCDV1011-lab3](https://github.com/undermethod/BCDV1011-lab3)| 0 | 0 | 25| 2021-02-10 | 2021-02-10 |
-| [lanmower/chakrachain](https://github.com/lanmower/chakrachain)| 2 | 0 | 286| 2021-02-09 | 2021-02-10 |
+| [lanmower/chakrachain](https://github.com/lanmower/chakrachain)| 2 | 0 | 349| 2021-02-09 | 2021-02-11 |
 | [PsychoLlama/dddns](https://github.com/PsychoLlama/dddns)| 0 | 0 | 1560| 2021-02-09 | 2021-02-09 |
 | [priyaminhas/GeorgeBrown_IPFS](https://github.com/priyaminhas/GeorgeBrown_IPFS)| 0 | 0 | 220| 2021-02-06 | 2021-02-09 |
-| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 2584| 2021-02-05 | 2021-02-10 |
+| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 2611| 2021-02-05 | 2021-02-11 |
 | [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
 | [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
-| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 290| 2021-02-03 | 2021-02-08 |
+| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 312| 2021-02-03 | 2021-02-11 |
 | [RaphaelChevallier/CommChat](https://github.com/RaphaelChevallier/CommChat)| 0 | 0 | 792| 2021-02-01 | 2021-02-07 |
-| [jarcodallo/secure-ipfs-api](https://github.com/jarcodallo/secure-ipfs-api)| 0 | 0 | 268| 2021-02-01 | 2021-02-02 |
 
 
 The above set is limited to the 10 most recently created. 
