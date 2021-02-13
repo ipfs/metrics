@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 66
-*  1/2021: 79
-*  12/2020: 49
-*  11/2020: 49
-*  10/2020: 53
-*  9/2020: 59
-*  8/2020: 63
-*  7/2020: 70
-*  6/2020: 65
-*  5/2020: 66
-*  4/2020: 60
-*  3/2020: 48
+*  2/2021: 63
+*  1/2021: 87
+*  12/2020: 52
+*  11/2020: 39
+*  10/2020: 49
+*  9/2020: 68
+*  8/2020: 60
+*  7/2020: 75
+*  6/2020: 69
+*  5/2020: 72
+*  4/2020: 69
+*  3/2020: 57
 
 ### GitHub Search
 
@@ -80,11 +80,11 @@ Total Results (Limited by GitHUB API): 1400
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [SYL0/DeBox](https://github.com/SYL0/DeBox)| 0 | 0 | 1244| 2021-02-11 | 2021-02-11 |
-| [undermethod/BCDV1011-lab3](https://github.com/undermethod/BCDV1011-lab3)| 0 | 0 | 25| 2021-02-10 | 2021-02-10 |
+| [undermethod/BCDV1011-lab3](https://github.com/undermethod/BCDV1011-lab3)| 0 | 0 | 25| 2021-02-10 | 2021-02-12 |
 | [lanmower/chakrachain](https://github.com/lanmower/chakrachain)| 2 | 0 | 349| 2021-02-09 | 2021-02-11 |
 | [PsychoLlama/dddns](https://github.com/PsychoLlama/dddns)| 0 | 0 | 1560| 2021-02-09 | 2021-02-09 |
 | [priyaminhas/GeorgeBrown_IPFS](https://github.com/priyaminhas/GeorgeBrown_IPFS)| 0 | 0 | 220| 2021-02-06 | 2021-02-09 |
-| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 2611| 2021-02-05 | 2021-02-11 |
+| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 4601| 2021-02-05 | 2021-02-12 |
 | [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
 | [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
 | [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 312| 2021-02-03 | 2021-02-11 |
