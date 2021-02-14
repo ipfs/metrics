@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 63
-*  1/2021: 87
+*  2/2021: 84
+*  1/2021: 86
 *  12/2020: 52
-*  11/2020: 39
-*  10/2020: 49
-*  9/2020: 68
-*  8/2020: 60
-*  7/2020: 75
-*  6/2020: 69
-*  5/2020: 72
-*  4/2020: 69
-*  3/2020: 57
+*  11/2020: 54
+*  10/2020: 59
+*  9/2020: 60
+*  8/2020: 65
+*  7/2020: 61
+*  6/2020: 67
+*  5/2020: 60
+*  4/2020: 61
+*  3/2020: 60
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 78900
+Total Matches: 79000
 
-Total Results (Limited by GitHUB API): 1400
+Total Results (Limited by GitHUB API): 1402
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [natasha-rupani/SimpleIPFS-React](https://github.com/natasha-rupani/SimpleIPFS-React)| 0 | 0 | 90| 2021-02-13 | 2021-02-13 |
+| [rubengue/descentralize-user-profile](https://github.com/rubengue/descentralize-user-profile)| 0 | 0 | 211| 2021-02-13 | 2021-02-13 |
 | [SYL0/DeBox](https://github.com/SYL0/DeBox)| 0 | 0 | 1244| 2021-02-11 | 2021-02-11 |
 | [undermethod/BCDV1011-lab3](https://github.com/undermethod/BCDV1011-lab3)| 0 | 0 | 25| 2021-02-10 | 2021-02-12 |
 | [lanmower/chakrachain](https://github.com/lanmower/chakrachain)| 2 | 0 | 349| 2021-02-09 | 2021-02-11 |
 | [PsychoLlama/dddns](https://github.com/PsychoLlama/dddns)| 0 | 0 | 1560| 2021-02-09 | 2021-02-09 |
+| [yeimiyaz/IPFS-project](https://github.com/yeimiyaz/IPFS-project)| 0 | 0 | 14| 2021-02-06 | 2021-02-14 |
 | [priyaminhas/GeorgeBrown_IPFS](https://github.com/priyaminhas/GeorgeBrown_IPFS)| 0 | 0 | 220| 2021-02-06 | 2021-02-09 |
-| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 4601| 2021-02-05 | 2021-02-12 |
+| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 4637| 2021-02-05 | 2021-02-13 |
 | [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
-| [anujadasnurkar/DVideo](https://github.com/anujadasnurkar/DVideo)| 0 | 0 | 534| 2021-02-03 | 2021-02-03 |
-| [christroutner/ipfs-coord](https://github.com/christroutner/ipfs-coord)| 0 | 0 | 312| 2021-02-03 | 2021-02-11 |
-| [RaphaelChevallier/CommChat](https://github.com/RaphaelChevallier/CommChat)| 0 | 0 | 792| 2021-02-01 | 2021-02-07 |
 
 
 The above set is limited to the 10 most recently created. 
