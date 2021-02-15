@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 84
-*  1/2021: 86
-*  12/2020: 52
-*  11/2020: 54
-*  10/2020: 59
+*  2/2021: 58
+*  1/2021: 79
+*  12/2020: 48
+*  11/2020: 47
+*  10/2020: 56
 *  9/2020: 60
-*  8/2020: 65
-*  7/2020: 61
-*  6/2020: 67
-*  5/2020: 60
+*  8/2020: 62
+*  7/2020: 69
+*  6/2020: 65
+*  5/2020: 67
 *  4/2020: 61
-*  3/2020: 60
+*  3/2020: 54
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1915
+Total Matches: 1920
 
-Total Results (Limited by GitHUB API): 383
+Total Results (Limited by GitHUB API): 384
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 0 | 0 | 12| 2021-02-14 | 2021-02-14 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 78| 2021-02-04 | 2021-02-05 |
-| [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 66| 2021-01-22 | 2021-02-08 |
+| [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 68| 2021-01-22 | 2021-02-14 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 9 | 1 | 201| 2021-01-08 | 2021-02-10 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 9 | 1 | 212| 2021-01-08 | 2021-02-14 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
-| [taflaj/merge](https://github.com/taflaj/merge)| 0 | 0 | 20| 2020-12-06 | 2020-12-11 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 79000
+Total Matches: 79100
 
-Total Results (Limited by GitHUB API): 1402
+Total Results (Limited by GitHUB API): 1404
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [nfl0/POA-Proof-Of-Attandence](https://github.com/nfl0/POA-Proof-Of-Attandence)| 1 | 0 | 38| 2021-02-14 | 2021-02-14 |
+| [TempleOkosun/ipfs](https://github.com/TempleOkosun/ipfs)| 0 | 0 | 588| 2021-02-14 | 2021-02-14 |
 | [natasha-rupani/SimpleIPFS-React](https://github.com/natasha-rupani/SimpleIPFS-React)| 0 | 0 | 90| 2021-02-13 | 2021-02-13 |
 | [rubengue/descentralize-user-profile](https://github.com/rubengue/descentralize-user-profile)| 0 | 0 | 211| 2021-02-13 | 2021-02-13 |
 | [SYL0/DeBox](https://github.com/SYL0/DeBox)| 0 | 0 | 1244| 2021-02-11 | 2021-02-11 |
 | [undermethod/BCDV1011-lab3](https://github.com/undermethod/BCDV1011-lab3)| 0 | 0 | 25| 2021-02-10 | 2021-02-12 |
 | [lanmower/chakrachain](https://github.com/lanmower/chakrachain)| 2 | 0 | 349| 2021-02-09 | 2021-02-11 |
 | [PsychoLlama/dddns](https://github.com/PsychoLlama/dddns)| 0 | 0 | 1560| 2021-02-09 | 2021-02-09 |
-| [yeimiyaz/IPFS-project](https://github.com/yeimiyaz/IPFS-project)| 0 | 0 | 14| 2021-02-06 | 2021-02-14 |
+| [yeimiyaz/IPFS-project](https://github.com/yeimiyaz/IPFS-project)| 0 | 0 | 4460| 2021-02-06 | 2021-02-14 |
 | [priyaminhas/GeorgeBrown_IPFS](https://github.com/priyaminhas/GeorgeBrown_IPFS)| 0 | 0 | 220| 2021-02-06 | 2021-02-09 |
-| [kziechmann/skejj](https://github.com/kziechmann/skejj)| 0 | 0 | 4637| 2021-02-05 | 2021-02-13 |
-| [davekaj/scrape-snapshot](https://github.com/davekaj/scrape-snapshot)| 1 | 0 | 180| 2021-02-03 | 2021-02-04 |
 
 
 The above set is limited to the 10 most recently created. 
