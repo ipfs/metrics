@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 58
-*  1/2021: 79
-*  12/2020: 48
-*  11/2020: 47
-*  10/2020: 56
-*  9/2020: 60
-*  8/2020: 62
-*  7/2020: 69
+*  2/2021: 65
+*  1/2021: 86
+*  12/2020: 51
+*  11/2020: 59
+*  10/2020: 57
+*  9/2020: 65
+*  8/2020: 57
+*  7/2020: 68
 *  6/2020: 65
-*  5/2020: 67
-*  4/2020: 61
-*  3/2020: 54
+*  5/2020: 60
+*  4/2020: 69
+*  3/2020: 57
 
 ### GitHub Search
 
@@ -56,14 +56,14 @@ Total Results (Limited by GitHUB API): 384
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 0 | 0 | 12| 2021-02-14 | 2021-02-14 |
+| [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 12| 2021-02-14 | 2021-02-14 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 78| 2021-02-04 | 2021-02-05 |
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 68| 2021-01-22 | 2021-02-14 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 9 | 1 | 212| 2021-01-08 | 2021-02-14 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 13 | 1 | 212| 2021-01-08 | 2021-02-14 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 | [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 79100
+Total Matches: 79150
 
-Total Results (Limited by GitHUB API): 1404
+Total Results (Limited by GitHUB API): 1405
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [nfl0/POA-Proof-Of-Attandence](https://github.com/nfl0/POA-Proof-Of-Attandence)| 1 | 0 | 38| 2021-02-14 | 2021-02-14 |
+| [littbarskiadeh/ethereum-ipfs-react-app](https://github.com/littbarskiadeh/ethereum-ipfs-react-app)| 0 | 0 | 259| 2021-02-15 | 2021-02-15 |
+| [nfl0/POA-Proof-Of-Attandence](https://github.com/nfl0/POA-Proof-Of-Attandence)| 0 | 0 | 107| 2021-02-14 | 2021-02-15 |
 | [TempleOkosun/ipfs](https://github.com/TempleOkosun/ipfs)| 0 | 0 | 588| 2021-02-14 | 2021-02-14 |
 | [natasha-rupani/SimpleIPFS-React](https://github.com/natasha-rupani/SimpleIPFS-React)| 0 | 0 | 90| 2021-02-13 | 2021-02-13 |
 | [rubengue/descentralize-user-profile](https://github.com/rubengue/descentralize-user-profile)| 0 | 0 | 211| 2021-02-13 | 2021-02-13 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1404
 | [lanmower/chakrachain](https://github.com/lanmower/chakrachain)| 2 | 0 | 349| 2021-02-09 | 2021-02-11 |
 | [PsychoLlama/dddns](https://github.com/PsychoLlama/dddns)| 0 | 0 | 1560| 2021-02-09 | 2021-02-09 |
 | [yeimiyaz/IPFS-project](https://github.com/yeimiyaz/IPFS-project)| 0 | 0 | 4460| 2021-02-06 | 2021-02-14 |
-| [priyaminhas/GeorgeBrown_IPFS](https://github.com/priyaminhas/GeorgeBrown_IPFS)| 0 | 0 | 220| 2021-02-06 | 2021-02-09 |
 
 
 The above set is limited to the 10 most recently created. 
