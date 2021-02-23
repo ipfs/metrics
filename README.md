@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 68
-*  1/2021: 80
+*  2/2021: 66
+*  1/2021: 89
 *  12/2020: 47
-*  11/2020: 45
-*  10/2020: 55
-*  9/2020: 64
-*  8/2020: 57
-*  7/2020: 70
-*  6/2020: 61
-*  5/2020: 64
-*  4/2020: 58
-*  3/2020: 45
+*  11/2020: 41
+*  10/2020: 56
+*  9/2020: 55
+*  8/2020: 54
+*  7/2020: 64
+*  6/2020: 62
+*  5/2020: 63
+*  4/2020: 61
+*  3/2020: 54
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1920
+Total Matches: 1925
 
-Total Results (Limited by GitHUB API): 384
+Total Results (Limited by GitHUB API): 385
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 1 | 0 | 28| 2021-02-22 | 2021-02-22 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 12| 2021-02-14 | 2021-02-14 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
@@ -63,9 +64,8 @@ Total Results (Limited by GitHUB API): 384
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 357| 2021-01-08 | 2021-02-20 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 357| 2021-01-08 | 2021-02-22 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
-| [kalambet/ipfsbatcher](https://github.com/kalambet/ipfsbatcher)| 0 | 0 | 20571| 2020-12-12 | 2020-12-22 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 79350
+Total Matches: 79450
 
-Total Results (Limited by GitHUB API): 1407
+Total Results (Limited by GitHUB API): 1408
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [H-N41K/DecenTube](https://github.com/H-N41K/DecenTube)| 0 | 0 | 17575| 2021-02-22 | 2021-02-22 |
 | [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7088| 2021-02-20 | 2021-02-21 |
 | [PatrickAlphaC/ipfs_cl_ea](https://github.com/PatrickAlphaC/ipfs_cl_ea)| 0 | 0 | 104| 2021-02-17 | 2021-02-17 |
 | [Souvikns/tune-space](https://github.com/Souvikns/tune-space)| 0 | 0 | 12| 2021-02-16 | 2021-02-19 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1407
 | [natasha-rupani/SimpleIPFS-React](https://github.com/natasha-rupani/SimpleIPFS-React)| 0 | 0 | 90| 2021-02-13 | 2021-02-13 |
 | [rubengue/descentralize-user-profile](https://github.com/rubengue/descentralize-user-profile)| 0 | 0 | 211| 2021-02-13 | 2021-02-13 |
 | [SYL0/DeBox](https://github.com/SYL0/DeBox)| 0 | 0 | 1244| 2021-02-11 | 2021-02-11 |
-| [undermethod/BCDV1011-lab3](https://github.com/undermethod/BCDV1011-lab3)| 0 | 0 | 25| 2021-02-10 | 2021-02-12 |
 
 
 The above set is limited to the 10 most recently created. 
