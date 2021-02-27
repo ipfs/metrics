@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 74
-*  1/2021: 99
-*  12/2020: 54
-*  11/2020: 38
-*  10/2020: 50
-*  9/2020: 54
-*  8/2020: 57
-*  7/2020: 67
-*  6/2020: 65
-*  5/2020: 57
-*  4/2020: 62
-*  3/2020: 55
+*  2/2021: 66
+*  1/2021: 88
+*  12/2020: 55
+*  11/2020: 45
+*  10/2020: 58
+*  9/2020: 61
+*  8/2020: 66
+*  7/2020: 73
+*  6/2020: 62
+*  5/2020: 69
+*  4/2020: 69
+*  3/2020: 56
 
 ### GitHub Search
 
@@ -56,15 +56,15 @@ Total Results (Limited by GitHUB API): 385
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 1 | 66| 2021-02-22 | 2021-02-25 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 1 | 71| 2021-02-22 | 2021-02-26 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
-| [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 70| 2021-01-22 | 2021-02-25 |
+| [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 71| 2021-01-22 | 2021-02-26 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 376| 2021-01-08 | 2021-02-24 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 376| 2021-01-08 | 2021-02-27 |
 | [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
 
 
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 1409
 | [avlabsuk/mecenart](https://github.com/avlabsuk/mecenart)| 0 | 0 | 2574| 2021-02-24 | 2021-02-24 |
 | [christroutner/ipfs-bchjs-bridge](https://github.com/christroutner/ipfs-bchjs-bridge)| 0 | 0 | 435| 2021-02-23 | 2021-02-23 |
 | [H-N41K/DecenTube](https://github.com/H-N41K/DecenTube)| 0 | 0 | 17575| 2021-02-22 | 2021-02-22 |
-| [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7189| 2021-02-20 | 2021-02-25 |
+| [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7195| 2021-02-20 | 2021-02-26 |
 | [PatrickAlphaC/ipfs_cl_ea](https://github.com/PatrickAlphaC/ipfs_cl_ea)| 0 | 0 | 109| 2021-02-17 | 2021-02-24 |
 | [Souvikns/tune-space](https://github.com/Souvikns/tune-space)| 0 | 0 | 12| 2021-02-16 | 2021-02-19 |
 | [SaneelDaniel/mock-DApp-dropbox](https://github.com/SaneelDaniel/mock-DApp-dropbox)| 1 | 0 | 7047| 2021-02-16 | 2021-02-16 |
