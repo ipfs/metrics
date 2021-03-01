@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 77
-*  1/2021: 96
-*  12/2020: 57
-*  11/2020: 54
-*  10/2020: 56
-*  9/2020: 70
-*  8/2020: 70
-*  7/2020: 64
-*  6/2020: 72
-*  5/2020: 68
-*  4/2020: 58
-*  3/2020: 69
+*  2/2021: 78
+*  1/2021: 86
+*  12/2020: 54
+*  11/2020: 49
+*  10/2020: 52
+*  9/2020: 69
+*  8/2020: 53
+*  7/2020: 56
+*  6/2020: 68
+*  5/2020: 63
+*  4/2020: 66
+*  3/2020: 56
 
 ### GitHub Search
 
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 1410
 | [avlabsuk/mecenart](https://github.com/avlabsuk/mecenart)| 0 | 0 | 2574| 2021-02-24 | 2021-02-24 |
 | [christroutner/ipfs-bchjs-bridge](https://github.com/christroutner/ipfs-bchjs-bridge)| 0 | 0 | 435| 2021-02-23 | 2021-02-23 |
 | [H-N41K/DecenTube](https://github.com/H-N41K/DecenTube)| 0 | 0 | 17575| 2021-02-22 | 2021-02-22 |
-| [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7195| 2021-02-20 | 2021-02-27 |
+| [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7885| 2021-02-20 | 2021-03-01 |
 | [PatrickAlphaC/ipfs_cl_ea](https://github.com/PatrickAlphaC/ipfs_cl_ea)| 0 | 0 | 109| 2021-02-17 | 2021-02-24 |
 | [Souvikns/tune-space](https://github.com/Souvikns/tune-space)| 0 | 0 | 12| 2021-02-16 | 2021-02-19 |
 | [SaneelDaniel/mock-DApp-dropbox](https://github.com/SaneelDaniel/mock-DApp-dropbox)| 1 | 0 | 7047| 2021-02-16 | 2021-02-16 |
