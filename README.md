@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 78
-*  1/2021: 86
+*  2/2021: 80
+*  1/2021: 88
 *  12/2020: 54
-*  11/2020: 49
+*  11/2020: 50
 *  10/2020: 52
-*  9/2020: 69
-*  8/2020: 53
-*  7/2020: 56
-*  6/2020: 68
-*  5/2020: 63
-*  4/2020: 66
-*  3/2020: 56
+*  9/2020: 65
+*  8/2020: 61
+*  7/2020: 69
+*  6/2020: 77
+*  5/2020: 59
+*  4/2020: 67
+*  3/2020: 58
 
 ### GitHub Search
 
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1925
+Total Matches: 1930
 
-Total Results (Limited by GitHUB API): 385
+Total Results (Limited by GitHUB API): 386
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 1 | 71| 2021-02-22 | 2021-02-26 |
+| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 1| 2021-03-01 | 2021-03-01 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 1 | 51| 2021-02-22 | 2021-03-01 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
@@ -64,8 +65,7 @@ Total Results (Limited by GitHUB API): 385
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 452| 2021-01-08 | 2021-02-27 |
-| [foilen/ipfs-gateway-limited](https://github.com/foilen/ipfs-gateway-limited)| 0 | 0 | 15| 2020-12-26 | 2021-01-23 |
+| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 462| 2021-01-08 | 2021-03-01 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 79550
+Total Matches: 79800
 
-Total Results (Limited by GitHUB API): 1410
+Total Results (Limited by GitHUB API): 1415
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [goard/meme-web-app](https://github.com/goard/meme-web-app)| 0 | 0 | 684| 2021-03-01 | 2021-03-01 |
+| [igibliss00/decentralized-instagram](https://github.com/igibliss00/decentralized-instagram)| 0 | 0 | 408| 2021-03-01 | 2021-03-01 |
+| [bam-emr/ipfs-react](https://github.com/bam-emr/ipfs-react)| 0 | 0 | 110| 2021-03-01 | 2021-03-01 |
+| [igibliss00/decentralized-dropbox](https://github.com/igibliss00/decentralized-dropbox)| 0 | 0 | 1296| 2021-03-01 | 2021-03-01 |
+| [munazhe/mesic](https://github.com/munazhe/mesic)| 1 | 1 | 216| 2021-02-28 | 2021-03-01 |
 | [unicef/certificates](https://github.com/unicef/certificates)| 0 | 0 | 77808| 2021-02-24 | 2021-02-24 |
 | [avlabsuk/mecenart](https://github.com/avlabsuk/mecenart)| 0 | 0 | 2574| 2021-02-24 | 2021-02-24 |
 | [christroutner/ipfs-bchjs-bridge](https://github.com/christroutner/ipfs-bchjs-bridge)| 0 | 0 | 435| 2021-02-23 | 2021-02-23 |
 | [H-N41K/DecenTube](https://github.com/H-N41K/DecenTube)| 0 | 0 | 17575| 2021-02-22 | 2021-02-22 |
 | [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7885| 2021-02-20 | 2021-03-01 |
-| [PatrickAlphaC/ipfs_cl_ea](https://github.com/PatrickAlphaC/ipfs_cl_ea)| 0 | 0 | 109| 2021-02-17 | 2021-02-24 |
-| [Souvikns/tune-space](https://github.com/Souvikns/tune-space)| 0 | 0 | 12| 2021-02-16 | 2021-02-19 |
-| [SaneelDaniel/mock-DApp-dropbox](https://github.com/SaneelDaniel/mock-DApp-dropbox)| 1 | 0 | 7047| 2021-02-16 | 2021-02-16 |
-| [littbarskiadeh/ethereum-ipfs-react-app](https://github.com/littbarskiadeh/ethereum-ipfs-react-app)| 0 | 0 | 259| 2021-02-15 | 2021-02-15 |
-| [TempleOkosun/ipfs](https://github.com/TempleOkosun/ipfs)| 0 | 0 | 588| 2021-02-14 | 2021-02-14 |
 
 
 The above set is limited to the 10 most recently created. 
