@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  2/2021: 80
-*  1/2021: 88
-*  12/2020: 54
-*  11/2020: 50
-*  10/2020: 52
-*  9/2020: 65
-*  8/2020: 61
-*  7/2020: 69
-*  6/2020: 77
-*  5/2020: 59
-*  4/2020: 67
-*  3/2020: 58
+*  2/2021: 67
+*  1/2021: 82
+*  12/2020: 55
+*  11/2020: 41
+*  10/2020: 56
+*  9/2020: 67
+*  8/2020: 63
+*  7/2020: 72
+*  6/2020: 63
+*  5/2020: 64
+*  4/2020: 70
+*  3/2020: 56
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1930
+Total Matches: 1935
 
-Total Results (Limited by GitHUB API): 386
+Total Results (Limited by GitHUB API): 387
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 1| 2021-03-01 | 2021-03-01 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 1 | 51| 2021-02-22 | 2021-03-01 |
+| [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 15| 2021-03-02 | 2021-03-02 |
+| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 4| 2021-03-01 | 2021-03-02 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 2 | 81| 2021-02-22 | 2021-03-02 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 386
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 | [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
-| [myelnet/go-hop-exchange](https://github.com/myelnet/go-hop-exchange)| 14 | 1 | 462| 2021-01-08 | 2021-03-01 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,6 +79,7 @@ Total Results (Limited by GitHUB API): 1415
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [eole868/ipfs-cluster-uploader](https://github.com/eole868/ipfs-cluster-uploader)| 0 | 0 | 93| 2021-03-02 | 2021-03-02 |
 | [goard/meme-web-app](https://github.com/goard/meme-web-app)| 0 | 0 | 684| 2021-03-01 | 2021-03-01 |
 | [igibliss00/decentralized-instagram](https://github.com/igibliss00/decentralized-instagram)| 0 | 0 | 408| 2021-03-01 | 2021-03-01 |
 | [bam-emr/ipfs-react](https://github.com/bam-emr/ipfs-react)| 0 | 0 | 110| 2021-03-01 | 2021-03-01 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1415
 | [avlabsuk/mecenart](https://github.com/avlabsuk/mecenart)| 0 | 0 | 2574| 2021-02-24 | 2021-02-24 |
 | [christroutner/ipfs-bchjs-bridge](https://github.com/christroutner/ipfs-bchjs-bridge)| 0 | 0 | 435| 2021-02-23 | 2021-02-23 |
 | [H-N41K/DecenTube](https://github.com/H-N41K/DecenTube)| 0 | 0 | 17575| 2021-02-22 | 2021-02-22 |
-| [Permissionless-Software-Foundation/chat....](https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash)| 0 | 0 | 7885| 2021-02-20 | 2021-03-01 |
 
 
 The above set is limited to the 10 most recently created. 
