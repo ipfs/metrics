@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 60
-*  2/2021: 74
-*  1/2021: 76
-*  12/2020: 52
-*  11/2020: 55
-*  10/2020: 55
-*  9/2020: 60
-*  8/2020: 57
-*  7/2020: 65
-*  6/2020: 67
-*  5/2020: 59
-*  4/2020: 55
+*  3/2021: 78
+*  2/2021: 68
+*  1/2021: 100
+*  12/2020: 54
+*  11/2020: 48
+*  10/2020: 53
+*  9/2020: 71
+*  8/2020: 60
+*  7/2020: 58
+*  6/2020: 77
+*  5/2020: 71
+*  4/2020: 50
 
 ### GitHub Search
 
@@ -56,11 +56,11 @@ Total Results (Limited by GitHUB API): 387
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 18| 2021-03-02 | 2021-03-03 |
+| [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 20| 2021-03-02 | 2021-03-04 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 2 | 81| 2021-02-22 | 2021-03-02 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 2 | 2 | 93| 2021-02-22 | 2021-03-04 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
-| [aschmahmann/vole](https://github.com/aschmahmann/vole)| 2 | 0 | 35| 2021-02-10 | 2021-02-10 |
+| [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 71| 2021-01-22 | 2021-02-26 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 79886
+Total Matches: 79963
 
-Total Results (Limited by GitHUB API): 1417
+Total Results (Limited by GitHUB API): 1419
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [iraj465/EnCrypto-IPFS](https://github.com/iraj465/EnCrypto-IPFS)| 0 | 0 | 32| 2021-03-04 | 2021-03-04 |
+| [whoiswentz/meme-of-the-day](https://github.com/whoiswentz/meme-of-the-day)| 0 | 0 | 741| 2021-03-04 | 2021-03-04 |
 | [social-network/ipfs-pinata-deploy-action](https://github.com/social-network/ipfs-pinata-deploy-action)| 0 | 0 | 786| 2021-03-03 | 2021-03-03 |
 | [eole868/4everlink-cli](https://github.com/eole868/4everlink-cli)| 0 | 0 | 266| 2021-03-03 | 2021-03-03 |
 | [goard/meme-web-app](https://github.com/goard/meme-web-app)| 0 | 0 | 684| 2021-03-01 | 2021-03-01 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1417
 | [igibliss00/decentralized-dropbox](https://github.com/igibliss00/decentralized-dropbox)| 0 | 0 | 1296| 2021-03-01 | 2021-03-01 |
 | [munazhe/mesic](https://github.com/munazhe/mesic)| 1 | 1 | 216| 2021-02-28 | 2021-03-01 |
 | [unicef/certificates](https://github.com/unicef/certificates)| 0 | 0 | 77808| 2021-02-24 | 2021-02-24 |
-| [avlabsuk/mecenart](https://github.com/avlabsuk/mecenart)| 0 | 0 | 2574| 2021-02-24 | 2021-02-24 |
-| [christroutner/ipfs-bchjs-bridge](https://github.com/christroutner/ipfs-bchjs-bridge)| 0 | 0 | 435| 2021-02-23 | 2021-02-23 |
 
 
 The above set is limited to the 10 most recently created. 
