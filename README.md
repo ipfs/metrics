@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 58
-*  2/2021: 77
+*  3/2021: 83
+*  2/2021: 57
 *  1/2021: 86
-*  12/2020: 60
-*  11/2020: 52
-*  10/2020: 63
-*  9/2020: 65
-*  8/2020: 61
-*  7/2020: 64
-*  6/2020: 77
-*  5/2020: 69
-*  4/2020: 57
+*  12/2020: 52
+*  11/2020: 44
+*  10/2020: 52
+*  9/2020: 66
+*  8/2020: 58
+*  7/2020: 63
+*  6/2020: 57
+*  5/2020: 57
+*  4/2020: 59
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1935
+Total Matches: 1940
 
-Total Results (Limited by GitHUB API): 387
+Total Results (Limited by GitHUB API): 388
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 3 | 2 | 95| 2021-02-22 | 2021-03-05 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 387
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 71| 2021-01-22 | 2021-02-26 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 | [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
-| [cartesi/ipfs-service](https://github.com/cartesi/ipfs-service)| 3 | 0 | 71| 2021-01-09 | 2021-01-09 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 80100
+Total Matches: 80085
 
-Total Results (Limited by GitHUB API): 1420
+Total Results (Limited by GitHUB API): 1422
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
