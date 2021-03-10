@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 81
-*  2/2021: 72
-*  1/2021: 90
-*  12/2020: 54
+*  3/2021: 74
+*  2/2021: 61
+*  1/2021: 83
+*  12/2020: 43
 *  11/2020: 43
-*  10/2020: 52
-*  9/2020: 57
-*  8/2020: 61
-*  7/2020: 65
-*  6/2020: 56
-*  5/2020: 62
-*  4/2020: 61
+*  10/2020: 46
+*  9/2020: 63
+*  8/2020: 59
+*  7/2020: 64
+*  6/2020: 67
+*  5/2020: 64
+*  4/2020: 62
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1940
+Total Matches: 1945
 
-Total Results (Limited by GitHUB API): 388
+Total Results (Limited by GitHUB API): 389
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 0 | 0 | 8214| 2021-02-26 | 2021-03-09 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 3 | 2 | 100| 2021-02-22 | 2021-03-08 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 71| 2021-01-22 | 2021-02-26 |
 | [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
-| [myelnet/go-ipfs-hop-plugin](https://github.com/myelnet/go-ipfs-hop-plugin)| 0 | 0 | 67| 2021-01-12 | 2021-01-19 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 80150
+Total Matches: 80117
 
 Total Results (Limited by GitHUB API): 1422
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [yusefnapora/js-ipfs-pinning-service-clie...](https://github.com/yusefnapora/js-ipfs-pinning-service-client)| 0 | 0 | 145| 2021-03-08 | 2021-03-08 |
-| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 0 | 0 | 633| 2021-03-05 | 2021-03-08 |
+| [yusefnapora/js-ipfs-pinning-service-clie...](https://github.com/yusefnapora/js-ipfs-pinning-service-client)| 0 | 0 | 256| 2021-03-08 | 2021-03-09 |
+| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 0 | 0 | 1001| 2021-03-05 | 2021-03-09 |
 | [shubhamvaity/DecenTube](https://github.com/shubhamvaity/DecenTube)| 0 | 0 | 17575| 2021-03-05 | 2021-03-05 |
 | [yash0049/Pic_of_the_day1](https://github.com/yash0049/Pic_of_the_day1)| 0 | 0 | 364| 2021-03-05 | 2021-03-05 |
 | [iraj465/EnCrypto-IPFS](https://github.com/iraj465/EnCrypto-IPFS)| 0 | 0 | 33| 2021-03-04 | 2021-03-05 |
