@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 74
-*  2/2021: 61
-*  1/2021: 83
-*  12/2020: 43
-*  11/2020: 43
-*  10/2020: 46
-*  9/2020: 63
-*  8/2020: 59
-*  7/2020: 64
-*  6/2020: 67
-*  5/2020: 64
-*  4/2020: 62
+*  3/2021: 90
+*  2/2021: 73
+*  1/2021: 84
+*  12/2020: 59
+*  11/2020: 40
+*  10/2020: 55
+*  9/2020: 73
+*  8/2020: 60
+*  7/2020: 66
+*  6/2020: 61
+*  5/2020: 63
+*  4/2020: 64
 
 ### GitHub Search
 
@@ -59,8 +59,8 @@ Total Results (Limited by GitHUB API): 389
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 0 | 0 | 8214| 2021-02-26 | 2021-03-09 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 3 | 2 | 100| 2021-02-22 | 2021-03-08 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 0 | 0 | 8233| 2021-02-26 | 2021-03-10 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 100| 2021-02-22 | 2021-03-08 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 80117
+Total Matches: 80185
 
 Total Results (Limited by GitHUB API): 1422
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [yusefnapora/js-ipfs-pinning-service-clie...](https://github.com/yusefnapora/js-ipfs-pinning-service-client)| 0 | 0 | 256| 2021-03-08 | 2021-03-09 |
-| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 0 | 0 | 1001| 2021-03-05 | 2021-03-09 |
+| [silviopaganini/nft-market-service](https://github.com/silviopaganini/nft-market-service)| 0 | 0 | 89| 2021-03-10 | 2021-03-10 |
+| [yusefnapora/js-ipfs-pinning-service-clie...](https://github.com/yusefnapora/js-ipfs-pinning-service-client)| 0 | 0 | 262| 2021-03-08 | 2021-03-10 |
+| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 1 | 0 | 1001| 2021-03-05 | 2021-03-09 |
 | [shubhamvaity/DecenTube](https://github.com/shubhamvaity/DecenTube)| 0 | 0 | 17575| 2021-03-05 | 2021-03-05 |
 | [yash0049/Pic_of_the_day1](https://github.com/yash0049/Pic_of_the_day1)| 0 | 0 | 364| 2021-03-05 | 2021-03-05 |
 | [iraj465/EnCrypto-IPFS](https://github.com/iraj465/EnCrypto-IPFS)| 0 | 0 | 33| 2021-03-04 | 2021-03-05 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1422
 | [social-network/ipfs-pinata-deploy-action](https://github.com/social-network/ipfs-pinata-deploy-action)| 0 | 0 | 786| 2021-03-03 | 2021-03-03 |
 | [eole868/4everlink-cli](https://github.com/eole868/4everlink-cli)| 0 | 0 | 266| 2021-03-03 | 2021-03-03 |
 | [goard/meme-web-app](https://github.com/goard/meme-web-app)| 0 | 0 | 684| 2021-03-01 | 2021-03-01 |
-| [igibliss00/decentralized-instagram](https://github.com/igibliss00/decentralized-instagram)| 0 | 0 | 408| 2021-03-01 | 2021-03-01 |
 
 
 The above set is limited to the 10 most recently created. 
