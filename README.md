@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 85
-*  2/2021: 74
-*  1/2021: 97
+*  3/2021: 87
+*  2/2021: 71
+*  1/2021: 95
 *  12/2020: 54
-*  11/2020: 43
-*  10/2020: 51
-*  9/2020: 57
-*  8/2020: 60
-*  7/2020: 70
-*  6/2020: 67
-*  5/2020: 69
-*  4/2020: 69
+*  11/2020: 39
+*  10/2020: 54
+*  9/2020: 60
+*  8/2020: 59
+*  7/2020: 71
+*  6/2020: 59
+*  5/2020: 67
+*  4/2020: 57
 
 ### GitHub Search
 
@@ -57,9 +57,9 @@ Total Results (Limited by GitHUB API): 389
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
-| [DeedleFake/sips](https://github.com/DeedleFake/sips)| 0 | 0 | 26| 2021-03-02 | 2021-03-05 |
+| [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 0 | 0 | 10241| 2021-02-26 | 2021-03-12 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 2 | 0 | 10267| 2021-02-26 | 2021-03-12 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 100| 2021-02-22 | 2021-03-08 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 80300
+Total Matches: 80350
 
 Total Results (Limited by GitHUB API): 1422
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [lukewickens1989/decentralized_portfolio](https://github.com/lukewickens1989/decentralized_portfolio)| 0 | 0 | 861| 2021-03-12 | 2021-03-12 |
 | [justicenode/ipfs-gallery-importer](https://github.com/justicenode/ipfs-gallery-importer)| 0 | 0 | 520| 2021-03-11 | 2021-03-11 |
 | [VijeyGanesh/solidity-file-drive](https://github.com/VijeyGanesh/solidity-file-drive)| 0 | 0 | 346| 2021-03-11 | 2021-03-11 |
 | [Lemii/ipfs-demo](https://github.com/Lemii/ipfs-demo)| 0 | 0 | 207| 2021-03-11 | 2021-03-11 |
 | [silviopaganini/nft-market-service](https://github.com/silviopaganini/nft-market-service)| 0 | 0 | 89| 2021-03-10 | 2021-03-11 |
 | [yusefnapora/js-ipfs-pinning-service-clie...](https://github.com/yusefnapora/js-ipfs-pinning-service-client)| 0 | 0 | 266| 2021-03-08 | 2021-03-11 |
-| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 1 | 0 | 1001| 2021-03-05 | 2021-03-09 |
+| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 2 | 0 | 1465| 2021-03-05 | 2021-03-12 |
 | [shubhamvaity/DecenTube](https://github.com/shubhamvaity/DecenTube)| 0 | 0 | 17575| 2021-03-05 | 2021-03-05 |
 | [yash0049/Pic_of_the_day1](https://github.com/yash0049/Pic_of_the_day1)| 0 | 0 | 364| 2021-03-05 | 2021-03-05 |
 | [iraj465/EnCrypto-IPFS](https://github.com/iraj465/EnCrypto-IPFS)| 0 | 0 | 33| 2021-03-04 | 2021-03-05 |
-| [whoiswentz/meme-of-the-day](https://github.com/whoiswentz/meme-of-the-day)| 0 | 0 | 1371| 2021-03-04 | 2021-03-05 |
 
 
 The above set is limited to the 10 most recently created. 
