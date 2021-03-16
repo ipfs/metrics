@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 86
-*  2/2021: 65
-*  1/2021: 87
-*  12/2020: 56
-*  11/2020: 45
-*  10/2020: 49
-*  9/2020: 61
-*  8/2020: 60
-*  7/2020: 65
-*  6/2020: 60
-*  5/2020: 60
-*  4/2020: 57
+*  3/2021: 87
+*  2/2021: 73
+*  1/2021: 91
+*  12/2020: 50
+*  11/2020: 40
+*  10/2020: 50
+*  9/2020: 60
+*  8/2020: 61
+*  7/2020: 71
+*  6/2020: 61
+*  5/2020: 61
+*  4/2020: 66
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1945
+Total Matches: 1950
 
-Total Results (Limited by GitHUB API): 389
+Total Results (Limited by GitHUB API): 390
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 0 | 10267| 2021-02-26 | 2021-03-12 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 100| 2021-02-22 | 2021-03-08 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 0 | 10303| 2021-02-26 | 2021-03-15 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 162| 2021-02-22 | 2021-03-15 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
 | [crossedbot/go-warc-indexer](https://github.com/crossedbot/go-warc-indexer)| 0 | 0 | 71| 2021-01-22 | 2021-02-26 |
-| [jimpick/ipld-selector-experiments](https://github.com/jimpick/ipld-selector-experiments)| 0 | 0 | 4| 2021-01-12 | 2021-01-12 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 80350
+Total Matches: 80450
 
-Total Results (Limited by GitHUB API): 1421
+Total Results (Limited by GitHUB API): 1423
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Angulo66/ipfs-image-dapp](https://github.com/Angulo66/ipfs-image-dapp)| 0 | 0 | 249| 2021-03-15 | 2021-03-15 |
 | [lukewickens1989/decentralized_portfolio](https://github.com/lukewickens1989/decentralized_portfolio)| 0 | 0 | 863| 2021-03-12 | 2021-03-13 |
 | [justicenode/ipfs-gallery-importer](https://github.com/justicenode/ipfs-gallery-importer)| 0 | 0 | 520| 2021-03-11 | 2021-03-11 |
 | [VijeyGanesh/solidity-file-drive](https://github.com/VijeyGanesh/solidity-file-drive)| 0 | 0 | 346| 2021-03-11 | 2021-03-11 |
 | [Lemii/ipfs-demo](https://github.com/Lemii/ipfs-demo)| 0 | 0 | 207| 2021-03-11 | 2021-03-11 |
 | [silviopaganini/nft-market-service](https://github.com/silviopaganini/nft-market-service)| 0 | 0 | 89| 2021-03-10 | 2021-03-11 |
 | [yusefnapora/js-ipfs-pinning-service-clie...](https://github.com/yusefnapora/js-ipfs-pinning-service-client)| 0 | 0 | 266| 2021-03-08 | 2021-03-11 |
-| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 2 | 0 | 1465| 2021-03-05 | 2021-03-12 |
+| [yusefnapora/minty](https://github.com/yusefnapora/minty)| 2 | 1 | 1878| 2021-03-05 | 2021-03-15 |
 | [shubhamvaity/DecenTube](https://github.com/shubhamvaity/DecenTube)| 0 | 0 | 17575| 2021-03-05 | 2021-03-05 |
 | [yash0049/Pic_of_the_day1](https://github.com/yash0049/Pic_of_the_day1)| 0 | 0 | 364| 2021-03-05 | 2021-03-05 |
-| [iraj465/EnCrypto-IPFS](https://github.com/iraj465/EnCrypto-IPFS)| 0 | 0 | 33| 2021-03-04 | 2021-03-05 |
 
 
 The above set is limited to the 10 most recently created. 
