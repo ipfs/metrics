@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 77
-*  2/2021: 72
-*  1/2021: 99
-*  12/2020: 58
-*  11/2020: 56
-*  10/2020: 60
-*  9/2020: 70
-*  8/2020: 71
-*  7/2020: 68
-*  6/2020: 72
-*  5/2020: 58
-*  4/2020: 57
+*  3/2021: 91
+*  2/2021: 76
+*  1/2021: 82
+*  12/2020: 63
+*  11/2020: 48
+*  10/2020: 65
+*  9/2020: 66
+*  8/2020: 61
+*  7/2020: 67
+*  6/2020: 69
+*  5/2020: 65
+*  4/2020: 66
 
 ### GitHub Search
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 80750
+Total Matches: 80900
 
-Total Results (Limited by GitHUB API): 1427
+Total Results (Limited by GitHUB API): 1429
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [chainGers-2021/Pinata-ERC721](https://github.com/chainGers-2021/Pinata-ERC721)| 0 | 0 | 634| 2021-03-20 | 2021-03-20 |
+| [chainGers-2021/IPFS-File-Upload](https://github.com/chainGers-2021/IPFS-File-Upload)| 0 | 0 | 1795| 2021-03-20 | 2021-03-20 |
 | [ArorAnam/blockchain-music](https://github.com/ArorAnam/blockchain-music)| 0 | 0 | 169| 2021-03-19 | 2021-03-19 |
 | [kwklly/jooyoung](https://github.com/kwklly/jooyoung)| 0 | 0 | 8| 2021-03-17 | 2021-03-18 |
 | [PinataCloud/Flow_NFTs_IPFS](https://github.com/PinataCloud/Flow_NFTs_IPFS)| 1 | 0 | 389| 2021-03-17 | 2021-03-17 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1427
 | [kwklly/pinata-party](https://github.com/kwklly/pinata-party)| 0 | 0 | 372| 2021-03-16 | 2021-03-16 |
 | [Angulo66/ipfs-image-dapp](https://github.com/Angulo66/ipfs-image-dapp)| 0 | 0 | 249| 2021-03-15 | 2021-03-15 |
 | [lukewickens1989/decentralized_portfolio](https://github.com/lukewickens1989/decentralized_portfolio)| 0 | 0 | 863| 2021-03-12 | 2021-03-13 |
-| [justicenode/ipfs-gallery-importer](https://github.com/justicenode/ipfs-gallery-importer)| 0 | 0 | 520| 2021-03-11 | 2021-03-11 |
-| [VijeyGanesh/solidity-file-drive](https://github.com/VijeyGanesh/solidity-file-drive)| 0 | 0 | 346| 2021-03-11 | 2021-03-11 |
 
 
 The above set is limited to the 10 most recently created. 
