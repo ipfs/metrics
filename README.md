@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 75
-*  2/2021: 70
-*  1/2021: 99
-*  12/2020: 50
-*  11/2020: 38
-*  10/2020: 49
-*  9/2020: 64
-*  8/2020: 58
+*  3/2021: 82
+*  2/2021: 75
+*  1/2021: 94
+*  12/2020: 56
+*  11/2020: 45
+*  10/2020: 51
+*  9/2020: 63
+*  8/2020: 64
 *  7/2020: 69
-*  6/2020: 57
-*  5/2020: 67
-*  4/2020: 60
+*  6/2020: 60
+*  5/2020: 59
+*  4/2020: 67
 
 ### GitHub Search
 
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 389
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 0 | 10645| 2021-02-26 | 2021-03-22 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 0 | 10670| 2021-02-26 | 2021-03-23 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 191| 2021-02-22 | 2021-03-17 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 81050
+Total Matches: 81300
 
-Total Results (Limited by GitHUB API): 1430
+Total Results (Limited by GitHUB API): 1433
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [CH-Scoding/ipfs-uploader](https://github.com/CH-Scoding/ipfs-uploader)| 0 | 0 | 411| 2021-03-23 | 2021-03-23 |
+| [Angulo66/ERC721-dapp](https://github.com/Angulo66/ERC721-dapp)| 0 | 0 | 470| 2021-03-23 | 2021-03-23 |
+| [kleros/endpoint-watch-bot](https://github.com/kleros/endpoint-watch-bot)| 0 | 0 | 77| 2021-03-23 | 2021-03-23 |
+| [NamesJ/discord-archive-bot](https://github.com/NamesJ/discord-archive-bot)| 0 | 0 | 17| 2021-03-23 | 2021-03-23 |
+| [samuelemarro/IPFS-Chrome-Search](https://github.com/samuelemarro/IPFS-Chrome-Search)| 0 | 0 | 24| 2021-03-22 | 2021-03-23 |
 | [dmnkb/dweb-personal-site](https://github.com/dmnkb/dweb-personal-site)| 0 | 0 | 180| 2021-03-21 | 2021-03-21 |
-| [bam-emr/ipfs-eth](https://github.com/bam-emr/ipfs-eth)| 0 | 0 | 406| 2021-03-20 | 2021-03-20 |
+| [bam-emr/ipfs-eth](https://github.com/bam-emr/ipfs-eth)| 0 | 0 | 407| 2021-03-20 | 2021-03-23 |
 | [chainGers-2021/Pinata-ERC721](https://github.com/chainGers-2021/Pinata-ERC721)| 0 | 0 | 634| 2021-03-20 | 2021-03-20 |
-| [chainGers-2021/IPFS-File-Upload](https://github.com/chainGers-2021/IPFS-File-Upload)| 0 | 0 | 2164| 2021-03-20 | 2021-03-22 |
+| [chainGers-2021/IPFS-File-Upload](https://github.com/chainGers-2021/IPFS-File-Upload)| 0 | 0 | 2337| 2021-03-20 | 2021-03-23 |
 | [ChriLnth/api-key-manager-proxy-ipfs](https://github.com/ChriLnth/api-key-manager-proxy-ipfs)| 0 | 0 | 400| 2021-03-20 | 2021-03-22 |
-| [ArorAnam/blockchain-music](https://github.com/ArorAnam/blockchain-music)| 0 | 0 | 169| 2021-03-19 | 2021-03-19 |
-| [kwklly/jooyoung](https://github.com/kwklly/jooyoung)| 0 | 0 | 8| 2021-03-17 | 2021-03-18 |
-| [PinataCloud/Flow_NFTs_IPFS](https://github.com/PinataCloud/Flow_NFTs_IPFS)| 1 | 1 | 389| 2021-03-17 | 2021-03-17 |
-| [crustio/ipfs-crust-action](https://github.com/crustio/ipfs-crust-action)| 3 | 0 | 699| 2021-03-17 | 2021-03-19 |
-| [digiassetX/ipfs-simple](https://github.com/digiassetX/ipfs-simple)| 0 | 0 | 8| 2021-03-17 | 2021-03-17 |
 
 
 The above set is limited to the 10 most recently created. 
