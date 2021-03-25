@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 82
-*  2/2021: 75
-*  1/2021: 94
-*  12/2020: 56
-*  11/2020: 45
+*  3/2021: 80
+*  2/2021: 59
+*  1/2021: 75
+*  12/2020: 54
+*  11/2020: 53
 *  10/2020: 51
-*  9/2020: 63
-*  8/2020: 64
-*  7/2020: 69
-*  6/2020: 60
+*  9/2020: 62
+*  8/2020: 53
+*  7/2020: 73
+*  6/2020: 68
 *  5/2020: 59
-*  4/2020: 67
+*  4/2020: 62
 
 ### GitHub Search
 
@@ -61,8 +61,8 @@ Total Results (Limited by GitHUB API): 389
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 0 | 10670| 2021-02-26 | 2021-03-23 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 191| 2021-02-22 | 2021-03-17 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 1 | 10670| 2021-02-26 | 2021-03-23 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 167| 2021-02-22 | 2021-03-24 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
 | [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 81300
+Total Matches: 81388
 
-Total Results (Limited by GitHUB API): 1433
+Total Results (Limited by GitHUB API): 1434
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [NiteshSamuel/Prototype-secure-docVault-b...](https://github.com/NiteshSamuel/Prototype-secure-docVault-blockchian_and_IPFS)| 0 | 0 | 10615| 2021-03-24 | 2021-03-24 |
 | [CH-Scoding/ipfs-uploader](https://github.com/CH-Scoding/ipfs-uploader)| 0 | 0 | 411| 2021-03-23 | 2021-03-23 |
 | [Angulo66/ERC721-dapp](https://github.com/Angulo66/ERC721-dapp)| 0 | 0 | 470| 2021-03-23 | 2021-03-23 |
 | [kleros/endpoint-watch-bot](https://github.com/kleros/endpoint-watch-bot)| 0 | 0 | 77| 2021-03-23 | 2021-03-23 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1433
 | [bam-emr/ipfs-eth](https://github.com/bam-emr/ipfs-eth)| 0 | 0 | 407| 2021-03-20 | 2021-03-23 |
 | [chainGers-2021/Pinata-ERC721](https://github.com/chainGers-2021/Pinata-ERC721)| 0 | 0 | 634| 2021-03-20 | 2021-03-20 |
 | [chainGers-2021/IPFS-File-Upload](https://github.com/chainGers-2021/IPFS-File-Upload)| 0 | 0 | 2337| 2021-03-20 | 2021-03-23 |
-| [ChriLnth/api-key-manager-proxy-ipfs](https://github.com/ChriLnth/api-key-manager-proxy-ipfs)| 0 | 0 | 400| 2021-03-20 | 2021-03-22 |
 
 
 The above set is limited to the 10 most recently created. 
