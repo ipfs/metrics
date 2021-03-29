@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 79
-*  2/2021: 67
-*  1/2021: 86
-*  12/2020: 59
-*  11/2020: 46
-*  10/2020: 49
-*  9/2020: 65
-*  8/2020: 59
-*  7/2020: 60
-*  6/2020: 69
-*  5/2020: 67
-*  4/2020: 65
+*  3/2021: 86
+*  2/2021: 74
+*  1/2021: 83
+*  12/2020: 50
+*  11/2020: 50
+*  10/2020: 65
+*  9/2020: 60
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 71
+*  5/2020: 72
+*  4/2020: 69
 
 ### GitHub Search
 
@@ -56,13 +56,13 @@ Total Results (Limited by GitHUB API): 390
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [multiverse-vcs/go-git-ipfs](https://github.com/multiverse-vcs/go-git-ipfs)| 1 | 0 | 37| 2021-03-25 | 2021-03-27 |
+| [multiverse-vcs/go-git-ipfs](https://github.com/multiverse-vcs/go-git-ipfs)| 1 | 0 | 46| 2021-03-25 | 2021-03-28 |
 | [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 1 | 0 | 89| 2021-03-17 | 2021-03-27 |
 | [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 1 | 10780| 2021-02-26 | 2021-03-27 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 1 | 10844| 2021-02-26 | 2021-03-28 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 167| 2021-02-22 | 2021-03-24 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
@@ -73,21 +73,21 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 81750
+Total Matches: 81639
 
-Total Results (Limited by GitHUB API): 1441
+Total Results (Limited by GitHUB API): 1440
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [KachanS/hak_ipfs_survey](https://github.com/KachanS/hak_ipfs_survey)| 0 | 0 | 109| 2021-03-27 | 2021-03-27 |
+| [KachanS/hak_ipfs_survey](https://github.com/KachanS/hak_ipfs_survey)| 0 | 0 | 114| 2021-03-27 | 2021-03-28 |
 | [imgur-to-ipfs/imgur-to-ipfs.github.io](https://github.com/imgur-to-ipfs/imgur-to-ipfs.github.io)| 0 | 0 | 41| 2021-03-27 | 2021-03-27 |
-| [dysbulic/xml-to-ipld](https://github.com/dysbulic/xml-to-ipld)| 0 | 0 | 232| 2021-03-26 | 2021-03-27 |
+| [dysbulic/xml-to-ipld](https://github.com/dysbulic/xml-to-ipld)| 0 | 0 | 722| 2021-03-26 | 2021-03-28 |
 | [yathartharora/Decentralised-Drive](https://github.com/yathartharora/Decentralised-Drive)| 0 | 0 | 26462| 2021-03-26 | 2021-03-27 |
 | [atomantic/hicetnunc_tools](https://github.com/atomantic/hicetnunc_tools)| 3 | 0 | 18| 2021-03-25 | 2021-03-26 |
 | [lukewickens1989/dec_tube](https://github.com/lukewickens1989/dec_tube)| 0 | 0 | 929| 2021-03-25 | 2021-03-25 |
 | [NiteshSamuel/Prototype-secure-docVault-b...](https://github.com/NiteshSamuel/Prototype-secure-docVault-blockchian_and_IPFS)| 0 | 0 | 10615| 2021-03-24 | 2021-03-24 |
 | [CH-Scoding/ipfs-uploader](https://github.com/CH-Scoding/ipfs-uploader)| 0 | 0 | 411| 2021-03-23 | 2021-03-23 |
-| [imestin/DP-IPFS-hello-world](https://github.com/imestin/DP-IPFS-hello-world)| 0 | 0 | 94| 2021-03-23 | 2021-03-27 |
+| [imestin/DP-IPFS-hello-world](https://github.com/imestin/DP-IPFS-hello-world)| 0 | 0 | 101| 2021-03-23 | 2021-03-28 |
 | [Angulo66/ERC721-dapp](https://github.com/Angulo66/ERC721-dapp)| 0 | 0 | 470| 2021-03-23 | 2021-03-23 |
 
 
