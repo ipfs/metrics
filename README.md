@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  3/2021: 85
+*  3/2021: 79
 *  2/2021: 68
-*  1/2021: 79
-*  12/2020: 51
-*  11/2020: 38
-*  10/2020: 49
-*  9/2020: 63
-*  8/2020: 53
-*  7/2020: 55
-*  6/2020: 67
-*  5/2020: 58
-*  4/2020: 50
+*  1/2021: 73
+*  12/2020: 52
+*  11/2020: 52
+*  10/2020: 55
+*  9/2020: 62
+*  8/2020: 62
+*  7/2020: 71
+*  6/2020: 63
+*  5/2020: 53
+*  4/2020: 57
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1950
+Total Matches: 1945
 
-Total Results (Limited by GitHUB API): 390
+Total Results (Limited by GitHUB API): 389
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [multiverse-vcs/go-git-ipfs](https://github.com/multiverse-vcs/go-git-ipfs)| 1 | 0 | 46| 2021-03-25 | 2021-03-30 |
 | [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 2 | 0 | 89| 2021-03-17 | 2021-03-27 |
 | [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 26| 2021-03-02 | 2021-03-05 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 3 | 1 | 10509| 2021-02-26 | 2021-03-29 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 4 | 1 | 10636| 2021-02-26 | 2021-03-31 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 167| 2021-02-22 | 2021-03-24 |
 | [miguelcnf/hmf](https://github.com/miguelcnf/hmf)| 1 | 0 | 13| 2021-02-14 | 2021-02-25 |
 | [aschmahmann/vole](https://github.com/aschmahmann/vole)| 3 | 0 | 35| 2021-02-10 | 2021-02-10 |
+| [hsanjuan/gemini-ipfs-gateway](https://github.com/hsanjuan/gemini-ipfs-gateway)| 1 | 0 | 79| 2021-02-04 | 2021-02-16 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 81730
+Total Matches: 81900
 
-Total Results (Limited by GitHUB API): 1441
+Total Results (Limited by GitHUB API): 1444
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [christroutner/ipfs-service-provider](https://github.com/christroutner/ipfs-service-provider)| 0 | 0 | 1101| 2021-03-30 | 2021-03-30 |
+| [VictorOmbui/nft-pinata-ipfs](https://github.com/VictorOmbui/nft-pinata-ipfs)| 0 | 0 | 125| 2021-03-31 | 2021-03-31 |
+| [agency-undone/nuxt-module-ipfs](https://github.com/agency-undone/nuxt-module-ipfs)| 0 | 0 | 15| 2021-03-30 | 2021-03-31 |
+| [christroutner/ipfs-service-provider](https://github.com/christroutner/ipfs-service-provider)| 0 | 0 | 1487| 2021-03-30 | 2021-03-31 |
+| [sudiptab2100/IPFSImageUploader](https://github.com/sudiptab2100/IPFSImageUploader)| 1 | 0 | 916| 2021-03-29 | 2021-03-31 |
 | [KachanS/hak_ipfs_survey](https://github.com/KachanS/hak_ipfs_survey)| 0 | 0 | 114| 2021-03-27 | 2021-03-28 |
 | [dysbulic/xml-to-ipld](https://github.com/dysbulic/xml-to-ipld)| 0 | 0 | 722| 2021-03-26 | 2021-03-28 |
 | [yathartharora/StashificStoraze](https://github.com/yathartharora/StashificStoraze)| 1 | 0 | 42130| 2021-03-26 | 2021-03-30 |
 | [atomantic/hicetnunc_tools](https://github.com/atomantic/hicetnunc_tools)| 5 | 0 | 18| 2021-03-25 | 2021-03-26 |
 | [lukewickens1989/dec_tube](https://github.com/lukewickens1989/dec_tube)| 0 | 0 | 929| 2021-03-25 | 2021-03-25 |
 | [aleacevedo/ipfs-proxy-server](https://github.com/aleacevedo/ipfs-proxy-server)| 0 | 0 | 538| 2021-03-24 | 2021-03-30 |
-| [NiteshSamuel/Prototype-secure-docVault-b...](https://github.com/NiteshSamuel/Prototype-secure-docVault-blockchian_and_IPFS)| 0 | 0 | 10615| 2021-03-24 | 2021-03-24 |
-| [CH-Scoding/ipfs-uploader](https://github.com/CH-Scoding/ipfs-uploader)| 0 | 0 | 411| 2021-03-23 | 2021-03-23 |
-| [imestin/DP-IPFS-hello-world](https://github.com/imestin/DP-IPFS-hello-world)| 0 | 0 | 122| 2021-03-23 | 2021-03-30 |
 
 
 The above set is limited to the 10 most recently created. 
