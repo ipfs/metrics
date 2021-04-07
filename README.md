@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 100
-*  3/2021: 46
-*  2/2021: 40
-*  1/2021: 47
-*  12/2020: 28
-*  11/2020: 24
-*  10/2020: 32
-*  9/2020: 34
-*  8/2020: 33
-*  7/2020: 35
-*  6/2020: 39
-*  5/2020: 35
+*  4/2021: 72
+*  3/2021: 88
+*  2/2021: 68
+*  1/2021: 86
+*  12/2020: 58
+*  11/2020: 55
+*  10/2020: 50
+*  9/2020: 66
+*  8/2020: 59
+*  7/2020: 68
+*  6/2020: 74
+*  5/2020: 55
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 82100
+Total Matches: 82150
 
-Total Results (Limited by GitHUB API): 1447
+Total Results (Limited by GitHUB API): 1448
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [wilkesalex/gcnft_ipfs](https://github.com/wilkesalex/gcnft_ipfs)| 0 | 0 | 359| 2021-04-06 | 2021-04-06 |
 | [sudiptab2100/IPFSUploader](https://github.com/sudiptab2100/IPFSUploader)| 0 | 0 | 269| 2021-04-05 | 2021-04-05 |
 | [yrajawat19/Pixels-Instagram-Clone-](https://github.com/yrajawat19/Pixels-Instagram-Clone-)| 0 | 0 | 526| 2021-04-05 | 2021-04-05 |
 | [AndreiVaida/IPFS-WebUI](https://github.com/AndreiVaida/IPFS-WebUI)| 0 | 0 | 26902| 2021-04-03 | 2021-04-04 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1447
 | [christroutner/ipfs-service-provider](https://github.com/christroutner/ipfs-service-provider)| 0 | 0 | 1505| 2021-03-30 | 2021-04-03 |
 | [sudiptab2100/IPFSImageUploader](https://github.com/sudiptab2100/IPFSImageUploader)| 1 | 0 | 916| 2021-03-29 | 2021-03-31 |
 | [KachanS/hak_ipfs_survey](https://github.com/KachanS/hak_ipfs_survey)| 0 | 0 | 114| 2021-03-27 | 2021-03-28 |
-| [dysbulic/xml-to-ipld](https://github.com/dysbulic/xml-to-ipld)| 0 | 0 | 5619| 2021-03-26 | 2021-04-04 |
 
 
 The above set is limited to the 10 most recently created. 
