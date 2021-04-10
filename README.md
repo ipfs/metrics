@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 68
-*  3/2021: 83
-*  2/2021: 59
-*  1/2021: 81
-*  12/2020: 51
-*  11/2020: 43
-*  10/2020: 54
-*  9/2020: 63
-*  8/2020: 56
-*  7/2020: 67
-*  6/2020: 57
-*  5/2020: 64
+*  4/2021: 83
+*  3/2021: 86
+*  2/2021: 70
+*  1/2021: 65
+*  12/2020: 48
+*  11/2020: 51
+*  10/2020: 50
+*  9/2020: 52
+*  8/2020: 59
+*  7/2020: 63
+*  6/2020: 66
+*  5/2020: 62
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1960
+Total Matches: 1965
 
-Total Results (Limited by GitHUB API): 392
+Total Results (Limited by GitHUB API): 393
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61629| 2021-04-09 | 2021-04-09 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 2 | 0 | 89| 2021-03-17 | 2021-03-27 |
@@ -63,9 +64,8 @@ Total Results (Limited by GitHUB API): 392
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 28| 2021-03-02 | 2021-04-07 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
-| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 4 | 1 | 10636| 2021-02-26 | 2021-03-31 |
+| [textileio/go-buckets](https://github.com/textileio/go-buckets)| 4 | 1 | 10682| 2021-02-26 | 2021-04-09 |
 | [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 238| 2021-02-22 | 2021-04-05 |
-| [ipfs/go-namesys](https://github.com/ipfs/go-namesys)| 2 | 1 | 936| 2021-02-18 | 2021-04-07 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 82200
+Total Matches: 82350
 
-Total Results (Limited by GitHUB API): 1448
+Total Results (Limited by GitHUB API): 1449
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 0 | 0 | 167| 2021-04-09 | 2021-04-09 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 0 | 0 | 1446| 2021-04-09 | 2021-04-09 |
+| [olizilla/dweb.link](https://github.com/olizilla/dweb.link)| 2 | 0 | 17| 2021-04-09 | 2021-04-09 |
 | [SkyTradeInc/NFTMaker](https://github.com/SkyTradeInc/NFTMaker)| 1 | 0 | 307| 2021-04-07 | 2021-04-08 |
 | [wilkesalex/gcnft_ipfs](https://github.com/wilkesalex/gcnft_ipfs)| 0 | 0 | 359| 2021-04-06 | 2021-04-06 |
 | [sudiptab2100/IPFSUploader](https://github.com/sudiptab2100/IPFSUploader)| 0 | 0 | 269| 2021-04-05 | 2021-04-05 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1448
 | [AndreiVaida/IPFS-WebUI](https://github.com/AndreiVaida/IPFS-WebUI)| 0 | 0 | 26902| 2021-04-03 | 2021-04-04 |
 | [mitthoma/blac_box](https://github.com/mitthoma/blac_box)| 0 | 0 | 1663| 2021-04-02 | 2021-04-05 |
 | [VictorOmbui/nft-pinata-ipfs](https://github.com/VictorOmbui/nft-pinata-ipfs)| 0 | 0 | 151| 2021-03-31 | 2021-04-08 |
-| [agency-undone/nuxt-module-ipfs](https://github.com/agency-undone/nuxt-module-ipfs)| 1 | 0 | 15| 2021-03-30 | 2021-03-31 |
-| [christroutner/ipfs-service-provider](https://github.com/christroutner/ipfs-service-provider)| 0 | 0 | 1767| 2021-03-30 | 2021-04-08 |
-| [sudiptab2100/IPFSImageUploader](https://github.com/sudiptab2100/IPFSImageUploader)| 1 | 0 | 916| 2021-03-29 | 2021-03-31 |
 
 
 The above set is limited to the 10 most recently created. 
