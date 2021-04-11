@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 83
-*  3/2021: 86
-*  2/2021: 70
-*  1/2021: 65
-*  12/2020: 48
-*  11/2020: 51
-*  10/2020: 50
-*  9/2020: 52
-*  8/2020: 59
-*  7/2020: 63
-*  6/2020: 66
-*  5/2020: 62
+*  4/2021: 100
+*  3/2021: 72
+*  2/2021: 64
+*  1/2021: 84
+*  12/2020: 43
+*  11/2020: 39
+*  10/2020: 46
+*  9/2020: 56
+*  8/2020: 57
+*  7/2020: 67
+*  6/2020: 54
+*  5/2020: 55
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 393
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 28| 2021-03-02 | 2021-04-07 |
 | [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 5| 2021-03-01 | 2021-03-03 |
 | [textileio/go-buckets](https://github.com/textileio/go-buckets)| 4 | 1 | 10682| 2021-02-26 | 2021-04-09 |
-| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 238| 2021-02-22 | 2021-04-05 |
+| [ipfs/go-fetcher](https://github.com/ipfs/go-fetcher)| 4 | 3 | 280| 2021-02-22 | 2021-04-10 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 82350
+Total Matches: 82450
 
-Total Results (Limited by GitHUB API): 1449
+Total Results (Limited by GitHUB API): 1451
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 0 | 0 | 167| 2021-04-09 | 2021-04-09 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 0 | 0 | 1446| 2021-04-09 | 2021-04-09 |
-| [olizilla/dweb.link](https://github.com/olizilla/dweb.link)| 2 | 0 | 17| 2021-04-09 | 2021-04-09 |
+| [si3mshady/SolidityDrive](https://github.com/si3mshady/SolidityDrive)| 0 | 0 | 402| 2021-04-10 | 2021-04-10 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 167| 2021-04-09 | 2021-04-09 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 1 | 0 | 1446| 2021-04-09 | 2021-04-09 |
+| [olizilla/dweb.link](https://github.com/olizilla/dweb.link)| 3 | 0 | 17| 2021-04-09 | 2021-04-09 |
 | [SkyTradeInc/NFTMaker](https://github.com/SkyTradeInc/NFTMaker)| 1 | 0 | 307| 2021-04-07 | 2021-04-08 |
+| [DevDApps/LoveChain](https://github.com/DevDApps/LoveChain)| 0 | 0 | 13474| 2021-04-06 | 2021-04-10 |
 | [wilkesalex/gcnft_ipfs](https://github.com/wilkesalex/gcnft_ipfs)| 0 | 0 | 359| 2021-04-06 | 2021-04-06 |
 | [sudiptab2100/IPFSUploader](https://github.com/sudiptab2100/IPFSUploader)| 0 | 0 | 269| 2021-04-05 | 2021-04-05 |
 | [yrajawat19/Pixels-Instagram-Clone-](https://github.com/yrajawat19/Pixels-Instagram-Clone-)| 0 | 0 | 526| 2021-04-05 | 2021-04-05 |
 | [AndreiVaida/IPFS-WebUI](https://github.com/AndreiVaida/IPFS-WebUI)| 0 | 0 | 26902| 2021-04-03 | 2021-04-04 |
-| [mitthoma/blac_box](https://github.com/mitthoma/blac_box)| 0 | 0 | 1663| 2021-04-02 | 2021-04-05 |
-| [VictorOmbui/nft-pinata-ipfs](https://github.com/VictorOmbui/nft-pinata-ipfs)| 0 | 0 | 151| 2021-03-31 | 2021-04-08 |
 
 
 The above set is limited to the 10 most recently created. 
