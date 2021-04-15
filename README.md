@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 95
+*  4/2021: 84
 *  3/2021: 87
-*  2/2021: 73
-*  1/2021: 87
-*  12/2020: 45
-*  11/2020: 44
-*  10/2020: 48
-*  9/2020: 68
-*  8/2020: 67
-*  7/2020: 69
-*  6/2020: 54
-*  5/2020: 65
+*  2/2021: 71
+*  1/2021: 89
+*  12/2020: 55
+*  11/2020: 50
+*  10/2020: 57
+*  9/2020: 67
+*  8/2020: 62
+*  7/2020: 75
+*  6/2020: 67
+*  5/2020: 63
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 82550
+Total Matches: 82651
 
-Total Results (Limited by GitHUB API): 1453
+Total Results (Limited by GitHUB API): 1454
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [suvanshchawla/Eth-IPFS](https://github.com/suvanshchawla/Eth-IPFS)| 0 | 0 | 107| 2021-04-14 | 2021-04-14 |
+| [devpavan04/upload-to-ipfs](https://github.com/devpavan04/upload-to-ipfs)| 1 | 0 | 1933| 2021-04-14 | 2021-04-14 |
+| [CryptoUnico/dememes](https://github.com/CryptoUnico/dememes)| 0 | 0 | 607| 2021-04-14 | 2021-04-14 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-ipfs-service)| 0 | 0 | 1403| 2021-04-11 | 2021-04-11 |
 | [markg85/openpubsubnetwork](https://github.com/markg85/openpubsubnetwork)| 0 | 0 | 145| 2021-04-11 | 2021-04-11 |
 | [si3mshady/SolidityDrive](https://github.com/si3mshady/SolidityDrive)| 0 | 0 | 666| 2021-04-10 | 2021-04-13 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 318| 2021-04-09 | 2021-04-13 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 1 | 0 | 1697| 2021-04-09 | 2021-04-13 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 323| 2021-04-09 | 2021-04-14 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 1 | 0 | 1946| 2021-04-09 | 2021-04-14 |
 | [olizilla/dweb.link](https://github.com/olizilla/dweb.link)| 3 | 0 | 18| 2021-04-09 | 2021-04-12 |
 | [SkyTradeInc/NFTMaker](https://github.com/SkyTradeInc/NFTMaker)| 1 | 0 | 307| 2021-04-07 | 2021-04-08 |
-| [DevDApps/LoveChain](https://github.com/DevDApps/LoveChain)| 0 | 0 | 13474| 2021-04-06 | 2021-04-10 |
-| [wilkesalex/gcnft_ipfs](https://github.com/wilkesalex/gcnft_ipfs)| 0 | 0 | 359| 2021-04-06 | 2021-04-06 |
-| [sudiptab2100/IPFSUploader](https://github.com/sudiptab2100/IPFSUploader)| 0 | 0 | 269| 2021-04-05 | 2021-04-05 |
 
 
 The above set is limited to the 10 most recently created. 
