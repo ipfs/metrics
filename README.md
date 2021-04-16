@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 84
-*  3/2021: 87
-*  2/2021: 71
-*  1/2021: 89
-*  12/2020: 55
-*  11/2020: 50
-*  10/2020: 57
-*  9/2020: 67
-*  8/2020: 62
-*  7/2020: 75
-*  6/2020: 67
-*  5/2020: 63
+*  4/2021: 100
+*  3/2021: 90
+*  2/2021: 77
+*  1/2021: 98
+*  12/2020: 60
+*  11/2020: 48
+*  10/2020: 56
+*  9/2020: 61
+*  8/2020: 65
+*  7/2020: 74
+*  6/2020: 71
+*  5/2020: 69
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 392
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61629| 2021-04-09 | 2021-04-09 |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61629| 2021-04-09 | 2021-04-15 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 2 | 0 | 89| 2021-03-17 | 2021-03-27 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 82651
+Total Matches: 82850
 
-Total Results (Limited by GitHUB API): 1454
+Total Results (Limited by GitHUB API): 1456
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mohammadreza-ashouri/DDrive](https://github.com/mohammadreza-ashouri/DDrive)| 0 | 0 | 516| 2021-04-15 | 2021-04-15 |
+| [shantanhunt/ERC-721-and-IPFS-Dapp](https://github.com/shantanhunt/ERC-721-and-IPFS-Dapp)| 0 | 0 | 2166| 2021-04-15 | 2021-04-15 |
 | [suvanshchawla/Eth-IPFS](https://github.com/suvanshchawla/Eth-IPFS)| 0 | 0 | 107| 2021-04-14 | 2021-04-14 |
 | [devpavan04/upload-to-ipfs](https://github.com/devpavan04/upload-to-ipfs)| 1 | 0 | 1933| 2021-04-14 | 2021-04-14 |
-| [CryptoUnico/dememes](https://github.com/CryptoUnico/dememes)| 0 | 0 | 607| 2021-04-14 | 2021-04-14 |
+| [CryptoUnico/dememes](https://github.com/CryptoUnico/dememes)| 0 | 1 | 607| 2021-04-14 | 2021-04-14 |
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-ipfs-service)| 0 | 0 | 1403| 2021-04-11 | 2021-04-11 |
 | [markg85/openpubsubnetwork](https://github.com/markg85/openpubsubnetwork)| 0 | 0 | 145| 2021-04-11 | 2021-04-11 |
 | [si3mshady/SolidityDrive](https://github.com/si3mshady/SolidityDrive)| 0 | 0 | 666| 2021-04-10 | 2021-04-13 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 323| 2021-04-09 | 2021-04-14 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 1 | 0 | 1946| 2021-04-09 | 2021-04-14 |
-| [olizilla/dweb.link](https://github.com/olizilla/dweb.link)| 3 | 0 | 18| 2021-04-09 | 2021-04-12 |
-| [SkyTradeInc/NFTMaker](https://github.com/SkyTradeInc/NFTMaker)| 1 | 0 | 307| 2021-04-07 | 2021-04-08 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 334| 2021-04-09 | 2021-04-15 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 1 | 0 | 1949| 2021-04-09 | 2021-04-15 |
 
 
 The above set is limited to the 10 most recently created. 
