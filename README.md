@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  4/2021: 100
-*  3/2021: 90
-*  2/2021: 77
-*  1/2021: 98
-*  12/2020: 60
-*  11/2020: 48
-*  10/2020: 56
-*  9/2020: 61
-*  8/2020: 65
-*  7/2020: 74
-*  6/2020: 71
-*  5/2020: 69
+*  3/2021: 81
+*  2/2021: 71
+*  1/2021: 92
+*  12/2020: 54
+*  11/2020: 44
+*  10/2020: 55
+*  9/2020: 56
+*  8/2020: 53
+*  7/2020: 55
+*  6/2020: 69
+*  5/2020: 62
 
 ### GitHub Search
 
@@ -87,7 +87,7 @@ Total Results (Limited by GitHUB API): 1456
 | [Permissionless-Software-Foundation/bch-w...](https://github.com/Permissionless-Software-Foundation/bch-wallet-ipfs-service)| 0 | 0 | 1403| 2021-04-11 | 2021-04-11 |
 | [markg85/openpubsubnetwork](https://github.com/markg85/openpubsubnetwork)| 0 | 0 | 145| 2021-04-11 | 2021-04-11 |
 | [si3mshady/SolidityDrive](https://github.com/si3mshady/SolidityDrive)| 0 | 0 | 666| 2021-04-10 | 2021-04-13 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 334| 2021-04-09 | 2021-04-15 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-coord)| 1 | 0 | 339| 2021-04-09 | 2021-04-16 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider)| 1 | 0 | 1949| 2021-04-09 | 2021-04-15 |
 
 
