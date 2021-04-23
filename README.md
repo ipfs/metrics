@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 95
-*  3/2021: 90
-*  2/2021: 77
-*  1/2021: 99
-*  12/2020: 57
-*  11/2020: 41
-*  10/2020: 52
-*  9/2020: 68
-*  8/2020: 59
-*  7/2020: 72
-*  6/2020: 66
-*  5/2020: 71
+*  4/2021: 100
+*  3/2021: 68
+*  2/2021: 59
+*  1/2021: 77
+*  12/2020: 44
+*  11/2020: 42
+*  10/2020: 45
+*  9/2020: 53
+*  8/2020: 60
+*  7/2020: 60
+*  6/2020: 56
+*  5/2020: 60
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 394
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 13| 2021-04-20 | 2021-04-21 |
-| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61629| 2021-04-09 | 2021-04-15 |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61695| 2021-04-09 | 2021-04-22 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [ismdeep/ipfs-alive-keeper](https://github.com/ismdeep/ipfs-alive-keeper)| 0 | 0 | 7| 2021-03-29 | 2021-04-17 |
@@ -73,14 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 83150
+Total Matches: 83200
 
-Total Results (Limited by GitHUB API): 1462
+Total Results (Limited by GitHUB API): 1463
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [shaoye/ipfs-vault](https://github.com/shaoye/ipfs-vault)| 0 | 0 | 484| 2021-04-22 | 2021-04-22 |
 | [imestin/ipfs-blog-website](https://github.com/imestin/ipfs-blog-website)| 0 | 0 | 5175| 2021-04-20 | 2021-04-21 |
-| [nftstorage/ipfs-cluster](https://github.com/nftstorage/ipfs-cluster)| 4 | 0 | 343| 2021-04-20 | 2021-04-21 |
+| [nftstorage/ipfs-cluster](https://github.com/nftstorage/ipfs-cluster)| 6 | 0 | 398| 2021-04-20 | 2021-04-22 |
 | [christroutner/ipfs-wss-peers](https://github.com/christroutner/ipfs-wss-peers)| 1 | 0 | 334| 2021-04-19 | 2021-04-21 |
 | [imestin/ipfs-blog-uploader](https://github.com/imestin/ipfs-blog-uploader)| 0 | 0 | 29| 2021-04-19 | 2021-04-20 |
 | [jthug/ipfs-nft](https://github.com/jthug/ipfs-nft)| 0 | 0 | 3659| 2021-04-19 | 2021-04-19 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1462
 | [shantanhunt/ERC-721-and-IPFS-Dapp](https://github.com/shantanhunt/ERC-721-and-IPFS-Dapp)| 0 | 1 | 2166| 2021-04-15 | 2021-04-15 |
 | [suvanshchawla/Eth-IPFS](https://github.com/suvanshchawla/Eth-IPFS)| 0 | 0 | 107| 2021-04-14 | 2021-04-14 |
 | [devpavan04/upload-to-ipfs](https://github.com/devpavan04/upload-to-ipfs)| 1 | 0 | 1933| 2021-04-14 | 2021-04-14 |
-| [CryptoUnico/dememes](https://github.com/CryptoUnico/dememes)| 0 | 1 | 607| 2021-04-14 | 2021-04-14 |
 
 
 The above set is limited to the 10 most recently created. 
