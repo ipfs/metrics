@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 82
-*  3/2021: 88
-*  2/2021: 67
-*  1/2021: 91
-*  12/2020: 53
-*  11/2020: 53
-*  10/2020: 65
-*  9/2020: 65
-*  8/2020: 69
-*  7/2020: 58
-*  6/2020: 67
-*  5/2020: 69
+*  4/2021: 85
+*  3/2021: 81
+*  2/2021: 63
+*  1/2021: 88
+*  12/2020: 45
+*  11/2020: 42
+*  10/2020: 48
+*  9/2020: 63
+*  8/2020: 52
+*  7/2020: 68
+*  6/2020: 60
+*  5/2020: 59
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 394
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 13| 2021-04-20 | 2021-04-21 |
+| [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 16| 2021-04-20 | 2021-04-24 |
 | [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61695| 2021-04-09 | 2021-04-22 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 394
 | [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 28| 2021-03-02 | 2021-04-07 |
-| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 18| 2021-03-01 | 2021-04-20 |
+| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 64| 2021-03-01 | 2021-04-24 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 83200
+Total Matches: 83188
 
 Total Results (Limited by GitHUB API): 1463
 
