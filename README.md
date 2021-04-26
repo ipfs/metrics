@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 85
-*  3/2021: 81
-*  2/2021: 63
-*  1/2021: 88
-*  12/2020: 45
-*  11/2020: 42
-*  10/2020: 48
-*  9/2020: 63
-*  8/2020: 52
-*  7/2020: 68
-*  6/2020: 60
-*  5/2020: 59
+*  4/2021: 94
+*  3/2021: 88
+*  2/2021: 65
+*  1/2021: 84
+*  12/2020: 54
+*  11/2020: 48
+*  10/2020: 66
+*  9/2020: 60
+*  8/2020: 64
+*  7/2020: 58
+*  6/2020: 72
+*  5/2020: 66
 
 ### GitHub Search
 
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 394
 | [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 28| 2021-03-02 | 2021-04-07 |
-| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 64| 2021-03-01 | 2021-04-24 |
+| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 79| 2021-03-01 | 2021-04-25 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 83188
+Total Matches: 83330
 
-Total Results (Limited by GitHUB API): 1463
+Total Results (Limited by GitHUB API): 1459
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [shaoye/ipfs-vault](https://github.com/shaoye/ipfs-vault)| 0 | 0 | 484| 2021-04-22 | 2021-04-22 |
+| [luizoamorim/decentragram](https://github.com/luizoamorim/decentragram)| 0 | 0 | 488| 2021-04-25 | 2021-04-26 |
+| [newlinedeveloper/Decentralized-storage](https://github.com/newlinedeveloper/Decentralized-storage)| 0 | 0 | 1245| 2021-04-25 | 2021-04-25 |
+| [shaoye/ipfs-vault](https://github.com/shaoye/ipfs-vault)| 0 | 0 | 488| 2021-04-22 | 2021-04-25 |
 | [imestin/ipfs-blog-website](https://github.com/imestin/ipfs-blog-website)| 0 | 0 | 5175| 2021-04-20 | 2021-04-21 |
-| [nftstorage/ipfs-cluster](https://github.com/nftstorage/ipfs-cluster)| 6 | 0 | 398| 2021-04-20 | 2021-04-22 |
+| [nftstorage/ipfs-cluster](https://github.com/nftstorage/ipfs-cluster)| 7 | 0 | 398| 2021-04-20 | 2021-04-22 |
 | [christroutner/ipfs-wss-peers](https://github.com/christroutner/ipfs-wss-peers)| 1 | 0 | 334| 2021-04-19 | 2021-04-21 |
 | [imestin/ipfs-blog-uploader](https://github.com/imestin/ipfs-blog-uploader)| 0 | 0 | 29| 2021-04-19 | 2021-04-20 |
 | [jthug/ipfs-nft](https://github.com/jthug/ipfs-nft)| 0 | 0 | 3659| 2021-04-19 | 2021-04-19 |
+| [lucylow/medblock](https://github.com/lucylow/medblock)| 0 | 0 | 10565| 2021-04-17 | 2021-04-25 |
 | [mohammadreza-ashouri/DDrive](https://github.com/mohammadreza-ashouri/DDrive)| 0 | 0 | 516| 2021-04-15 | 2021-04-15 |
-| [shantanhunt/ERC-721-and-IPFS-Dapp](https://github.com/shantanhunt/ERC-721-and-IPFS-Dapp)| 0 | 1 | 2166| 2021-04-15 | 2021-04-15 |
-| [suvanshchawla/Eth-IPFS](https://github.com/suvanshchawla/Eth-IPFS)| 0 | 0 | 107| 2021-04-14 | 2021-04-14 |
-| [devpavan04/upload-to-ipfs](https://github.com/devpavan04/upload-to-ipfs)| 1 | 0 | 1933| 2021-04-14 | 2021-04-14 |
 
 
 The above set is limited to the 10 most recently created. 
