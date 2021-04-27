@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 94
-*  3/2021: 88
-*  2/2021: 65
-*  1/2021: 84
-*  12/2020: 54
-*  11/2020: 48
-*  10/2020: 66
-*  9/2020: 60
-*  8/2020: 64
-*  7/2020: 58
-*  6/2020: 72
-*  5/2020: 66
+*  4/2021: 87
+*  3/2021: 83
+*  2/2021: 64
+*  1/2021: 100
+*  12/2020: 50
+*  11/2020: 50
+*  10/2020: 64
+*  9/2020: 66
+*  8/2020: 62
+*  7/2020: 64
+*  6/2020: 69
+*  5/2020: 64
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1970
+Total Matches: 1932
 
-Total Results (Limited by GitHUB API): 394
+Total Results (Limited by GitHUB API): 375
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 394
 | [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
 | [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 | [DeedleFake/sips](https://github.com/DeedleFake/sips)| 1 | 0 | 28| 2021-03-02 | 2021-04-07 |
-| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 79| 2021-03-01 | 2021-04-25 |
+| [paulgmiller/zebu](https://github.com/paulgmiller/zebu)| 0 | 0 | 81| 2021-03-01 | 2021-04-26 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 83330
+Total Matches: 83484
 
-Total Results (Limited by GitHUB API): 1459
+Total Results (Limited by GitHUB API): 1467
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [luizoamorim/decentragram](https://github.com/luizoamorim/decentragram)| 0 | 0 | 488| 2021-04-25 | 2021-04-26 |
+| [Shydlock/Fabric-IPFS-project](https://github.com/Shydlock/Fabric-IPFS-project)| 0 | 0 | 47| 2021-04-26 | 2021-04-26 |
+| [AppleMayExist/website](https://github.com/AppleMayExist/website)| 0 | 0 | 8324| 2021-04-26 | 2021-04-26 |
+| [luizoamorim/decentragram](https://github.com/luizoamorim/decentragram)| 1 | 0 | 512| 2021-04-25 | 2021-04-26 |
 | [newlinedeveloper/Decentralized-storage](https://github.com/newlinedeveloper/Decentralized-storage)| 0 | 0 | 1245| 2021-04-25 | 2021-04-25 |
 | [shaoye/ipfs-vault](https://github.com/shaoye/ipfs-vault)| 0 | 0 | 488| 2021-04-22 | 2021-04-25 |
 | [imestin/ipfs-blog-website](https://github.com/imestin/ipfs-blog-website)| 0 | 0 | 5175| 2021-04-20 | 2021-04-21 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1459
 | [christroutner/ipfs-wss-peers](https://github.com/christroutner/ipfs-wss-peers)| 1 | 0 | 334| 2021-04-19 | 2021-04-21 |
 | [imestin/ipfs-blog-uploader](https://github.com/imestin/ipfs-blog-uploader)| 0 | 0 | 29| 2021-04-19 | 2021-04-20 |
 | [jthug/ipfs-nft](https://github.com/jthug/ipfs-nft)| 0 | 0 | 3659| 2021-04-19 | 2021-04-19 |
-| [lucylow/medblock](https://github.com/lucylow/medblock)| 0 | 0 | 10565| 2021-04-17 | 2021-04-25 |
-| [mohammadreza-ashouri/DDrive](https://github.com/mohammadreza-ashouri/DDrive)| 0 | 0 | 516| 2021-04-15 | 2021-04-15 |
 
 
 The above set is limited to the 10 most recently created. 
