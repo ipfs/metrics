@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 82
-*  3/2021: 91
-*  2/2021: 72
-*  1/2021: 89
-*  12/2020: 57
+*  4/2021: 95
+*  3/2021: 87
+*  2/2021: 69
+*  1/2021: 82
+*  12/2020: 49
 *  11/2020: 45
-*  10/2020: 53
-*  9/2020: 61
-*  8/2020: 60
-*  7/2020: 62
+*  10/2020: 58
+*  9/2020: 71
+*  8/2020: 67
+*  7/2020: 75
 *  6/2020: 59
-*  5/2020: 63
+*  5/2020: 68
 
 ### GitHub Search
 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 83650
+Total Matches: 83850
 
-Total Results (Limited by GitHUB API): 1469
+Total Results (Limited by GitHUB API): 1466
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [acul71/ipfs-cidsail](https://github.com/acul71/ipfs-cidsail)| 0 | 0 | 57| 2021-04-29 | 2021-04-29 |
+| [Exchange-M/ipfs-sample](https://github.com/Exchange-M/ipfs-sample)| 0 | 0 | 18| 2021-04-29 | 2021-04-29 |
 | [jigstack-dev/nft-image-pinning](https://github.com/jigstack-dev/nft-image-pinning)| 3 | 0 | 215| 2021-04-27 | 2021-04-28 |
 | [icommunity-labs-and-tech/eth-ipfs-fileco...](https://github.com/icommunity-labs-and-tech/eth-ipfs-filecoin-project)| 0 | 0 | 1078| 2021-04-27 | 2021-04-27 |
 | [pagarevijayy/bc_DeFileStorage](https://github.com/pagarevijayy/bc_DeFileStorage)| 0 | 0 | 1041| 2021-04-27 | 2021-04-27 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1469
 | [DougAnderson444/HydroFile](https://github.com/DougAnderson444/HydroFile)| 0 | 0 | 519| 2021-04-25 | 2021-04-27 |
 | [luizoamorim/decentragram](https://github.com/luizoamorim/decentragram)| 1 | 0 | 512| 2021-04-25 | 2021-04-26 |
 | [newlinedeveloper/Decentralized-storage](https://github.com/newlinedeveloper/Decentralized-storage)| 0 | 0 | 1245| 2021-04-25 | 2021-04-25 |
-| [shaoye/ipfs-vault](https://github.com/shaoye/ipfs-vault)| 0 | 0 | 488| 2021-04-22 | 2021-04-25 |
-| [imestin/ipfs-blog-website](https://github.com/imestin/ipfs-blog-website)| 0 | 0 | 5175| 2021-04-20 | 2021-04-21 |
 
 
 The above set is limited to the 10 most recently created. 
