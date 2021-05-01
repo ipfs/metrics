@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 95
-*  3/2021: 87
-*  2/2021: 69
-*  1/2021: 82
-*  12/2020: 49
-*  11/2020: 45
-*  10/2020: 58
-*  9/2020: 71
-*  8/2020: 67
-*  7/2020: 75
+*  4/2021: 85
+*  3/2021: 85
+*  2/2021: 71
+*  1/2021: 91
+*  12/2020: 57
+*  11/2020: 44
+*  10/2020: 55
+*  9/2020: 61
+*  8/2020: 57
+*  7/2020: 68
 *  6/2020: 59
-*  5/2020: 68
+*  5/2020: 66
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 395
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 0 | 0 | 22244| 2021-04-26 | 2021-04-28 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 16| 2021-04-20 | 2021-04-24 |
-| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61695| 2021-04-09 | 2021-04-27 |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61760| 2021-04-09 | 2021-04-30 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [ismdeep/ipfs-alive-keeper](https://github.com/ismdeep/ipfs-alive-keeper)| 0 | 0 | 7| 2021-03-29 | 2021-04-17 |
@@ -79,14 +79,14 @@ Total Results (Limited by GitHUB API): 1466
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [acul71/ipfs-cidsail](https://github.com/acul71/ipfs-cidsail)| 0 | 0 | 57| 2021-04-29 | 2021-04-29 |
+| [acul71/ipfs-cidsail](https://github.com/acul71/ipfs-cidsail)| 0 | 0 | 65| 2021-04-29 | 2021-04-30 |
 | [Exchange-M/ipfs-sample](https://github.com/Exchange-M/ipfs-sample)| 0 | 0 | 18| 2021-04-29 | 2021-04-29 |
 | [jigstack-dev/nft-image-pinning](https://github.com/jigstack-dev/nft-image-pinning)| 3 | 0 | 215| 2021-04-27 | 2021-04-28 |
 | [icommunity-labs-and-tech/eth-ipfs-fileco...](https://github.com/icommunity-labs-and-tech/eth-ipfs-filecoin-project)| 0 | 0 | 1078| 2021-04-27 | 2021-04-27 |
 | [pagarevijayy/bc_DeFileStorage](https://github.com/pagarevijayy/bc_DeFileStorage)| 0 | 0 | 1041| 2021-04-27 | 2021-04-27 |
 | [Shydlock/Fabric-IPFS-project](https://github.com/Shydlock/Fabric-IPFS-project)| 0 | 0 | 47| 2021-04-26 | 2021-04-26 |
 | [AppleMayExist/website](https://github.com/AppleMayExist/website)| 0 | 0 | 8324| 2021-04-26 | 2021-04-26 |
-| [DougAnderson444/HydroFile](https://github.com/DougAnderson444/HydroFile)| 0 | 0 | 519| 2021-04-25 | 2021-04-27 |
+| [DougAnderson444/HydroFile](https://github.com/DougAnderson444/HydroFile)| 0 | 0 | 519| 2021-04-25 | 2021-04-30 |
 | [luizoamorim/decentragram](https://github.com/luizoamorim/decentragram)| 1 | 0 | 512| 2021-04-25 | 2021-04-26 |
 | [newlinedeveloper/Decentralized-storage](https://github.com/newlinedeveloper/Decentralized-storage)| 0 | 0 | 1245| 2021-04-25 | 2021-04-25 |
 
