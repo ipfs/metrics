@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  4/2021: 93
-*  3/2021: 95
-*  2/2021: 73
-*  1/2021: 97
-*  12/2020: 54
-*  11/2020: 50
-*  10/2020: 51
-*  9/2020: 59
-*  8/2020: 63
-*  7/2020: 65
-*  6/2020: 65
-*  5/2020: 63
+*  4/2021: 100
+*  3/2021: 93
+*  2/2021: 66
+*  1/2021: 94
+*  12/2020: 59
+*  11/2020: 55
+*  10/2020: 60
+*  9/2020: 72
+*  8/2020: 60
+*  7/2020: 61
+*  6/2020: 68
+*  5/2020: 64
 
 ### GitHub Search
 
@@ -50,14 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1980
+Total Matches: 1975
 
-Total Results (Limited by GitHUB API): 396
+Total Results (Limited by GitHUB API): 395
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [OxSpace/OxSpaceCMS](https://github.com/OxSpace/OxSpaceCMS)| 0 | 0 | 26| 2021-05-01 | 2021-05-01 |
-| [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 0 | 0 | 36779| 2021-04-26 | 2021-05-01 |
+| [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 1 | 0 | 36797| 2021-04-26 | 2021-05-02 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 16| 2021-04-20 | 2021-04-24 |
 | [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61760| 2021-04-09 | 2021-04-30 |
@@ -66,6 +65,7 @@ Total Results (Limited by GitHUB API): 396
 | [ismdeep/ipfs-alive-keeper](https://github.com/ismdeep/ipfs-alive-keeper)| 0 | 0 | 7| 2021-03-29 | 2021-04-17 |
 | [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 2 | 0 | 136| 2021-03-17 | 2021-04-19 |
 | [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
+| [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,7 +79,9 @@ Total Results (Limited by GitHUB API): 1467
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [OxSpace/OxSpaceCMS](https://github.com/OxSpace/OxSpaceCMS)| 1 | 0 | 76| 2021-05-02 | 2021-05-02 |
 | [miekassu/PinataParty](https://github.com/miekassu/PinataParty)| 0 | 0 | 226| 2021-05-01 | 2021-05-01 |
+| [sahilmhatrre001/IPFS-file-Upload](https://github.com/sahilmhatrre001/IPFS-file-Upload)| 0 | 0 | 25| 2021-04-30 | 2021-05-02 |
 | [acul71/ipfs-cidsail](https://github.com/acul71/ipfs-cidsail)| 0 | 0 | 67| 2021-04-29 | 2021-05-01 |
 | [copious-world/interplanetary_contact](https://github.com/copious-world/interplanetary_contact)| 0 | 0 | 553| 2021-04-29 | 2021-05-01 |
 | [Exchange-M/ipfs-sample](https://github.com/Exchange-M/ipfs-sample)| 0 | 0 | 18| 2021-04-29 | 2021-04-29 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1467
 | [icommunity-labs-and-tech/eth-ipfs-fileco...](https://github.com/icommunity-labs-and-tech/eth-ipfs-filecoin-project)| 0 | 0 | 1078| 2021-04-27 | 2021-04-27 |
 | [pagarevijayy/bc_DeFileStorage](https://github.com/pagarevijayy/bc_DeFileStorage)| 0 | 0 | 1041| 2021-04-27 | 2021-04-27 |
 | [Shydlock/Fabric-IPFS-project](https://github.com/Shydlock/Fabric-IPFS-project)| 0 | 0 | 47| 2021-04-26 | 2021-04-26 |
-| [AppleMayExist/website](https://github.com/AppleMayExist/website)| 0 | 0 | 8332| 2021-04-26 | 2021-05-01 |
-| [DougAnderson444/HydroFile](https://github.com/DougAnderson444/HydroFile)| 0 | 0 | 519| 2021-04-25 | 2021-04-30 |
 
 
 The above set is limited to the 10 most recently created. 
