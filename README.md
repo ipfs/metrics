@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 96
-*  4/2021: 85
-*  3/2021: 83
-*  2/2021: 67
-*  1/2021: 88
-*  12/2020: 51
-*  11/2020: 48
-*  10/2020: 62
-*  9/2020: 66
-*  8/2020: 63
-*  7/2020: 73
-*  6/2020: 72
+*  5/2021: 95
+*  4/2021: 88
+*  3/2021: 82
+*  2/2021: 73
+*  1/2021: 75
+*  12/2020: 49
+*  11/2020: 46
+*  10/2020: 46
+*  9/2020: 57
+*  8/2020: 68
+*  7/2020: 68
+*  6/2020: 67
 
 ### GitHub Search
 
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84200
+Total Matches: 84350
 
-Total Results (Limited by GitHUB API): 1471
+Total Results (Limited by GitHUB API): 1472
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [jerryq0101/instagramV2](https://github.com/jerryq0101/instagramV2)| 0 | 0 | 234| 2021-05-08 | 2021-05-08 |
+| [malopezr7/ipfs-filesystem](https://github.com/malopezr7/ipfs-filesystem)| 0 | 0 | 16876| 2021-05-08 | 2021-05-08 |
+| [moza88/MyNotes](https://github.com/moza88/MyNotes)| 0 | 0 | 383| 2021-05-08 | 2021-05-08 |
 | [olizilla/ipfs-get](https://github.com/olizilla/ipfs-get)| 0 | 0 | 86| 2021-05-07 | 2021-05-07 |
 | [siddhantkharode/IPFS-File-Uploader](https://github.com/siddhantkharode/IPFS-File-Uploader)| 0 | 0 | 383| 2021-05-06 | 2021-05-06 |
 | [sullof/broken-jazz-ipfs](https://github.com/sullof/broken-jazz-ipfs)| 0 | 0 | 123| 2021-05-03 | 2021-05-07 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1471
 | [miekassu/PinataParty](https://github.com/miekassu/PinataParty)| 0 | 0 | 226| 2021-05-01 | 2021-05-01 |
 | [sahilmhatrre001/IPFS-file-Upload](https://github.com/sahilmhatrre001/IPFS-file-Upload)| 0 | 0 | 25| 2021-04-30 | 2021-05-02 |
 | [acul71/ipfs-cidsail](https://github.com/acul71/ipfs-cidsail)| 0 | 0 | 74| 2021-04-29 | 2021-05-07 |
-| [copious-world/interplanetary_contact](https://github.com/copious-world/interplanetary_contact)| 0 | 0 | 618| 2021-04-29 | 2021-05-06 |
-| [Exchange-M/ipfs-sample](https://github.com/Exchange-M/ipfs-sample)| 0 | 0 | 18| 2021-04-29 | 2021-04-29 |
-| [jigstack-dev/nft-image-pinning](https://github.com/jigstack-dev/nft-image-pinning)| 3 | 0 | 215| 2021-04-27 | 2021-04-28 |
 
 
 The above set is limited to the 10 most recently created. 
