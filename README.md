@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 90
-*  4/2021: 98
-*  3/2021: 90
-*  2/2021: 72
+*  5/2021: 78
+*  4/2021: 95
+*  3/2021: 95
+*  2/2021: 76
 *  1/2021: 97
-*  12/2020: 54
-*  11/2020: 45
-*  10/2020: 59
-*  9/2020: 65
-*  8/2020: 55
-*  7/2020: 65
-*  6/2020: 65
+*  12/2020: 56
+*  11/2020: 54
+*  10/2020: 66
+*  9/2020: 69
+*  8/2020: 61
+*  7/2020: 62
+*  6/2020: 74
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 395
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 16| 2021-04-20 | 2021-04-24 |
-| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61891| 2021-04-09 | 2021-05-05 |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61956| 2021-04-09 | 2021-05-10 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [ismdeep/ipfs-alive-keeper](https://github.com/ismdeep/ipfs-alive-keeper)| 0 | 0 | 7| 2021-03-29 | 2021-04-17 |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84291
+Total Matches: 84350
 
 Total Results (Limited by GitHUB API): 1473
 
@@ -82,13 +82,13 @@ Total Results (Limited by GitHUB API): 1473
 | [jerryq0101/instagramV2](https://github.com/jerryq0101/instagramV2)| 0 | 0 | 234| 2021-05-08 | 2021-05-08 |
 | [malopezr7/ipfs-filesystem](https://github.com/malopezr7/ipfs-filesystem)| 0 | 0 | 16876| 2021-05-08 | 2021-05-08 |
 | [moza88/MyNotes](https://github.com/moza88/MyNotes)| 0 | 0 | 384| 2021-05-08 | 2021-05-09 |
-| [olizilla/ipfs-get](https://github.com/olizilla/ipfs-get)| 0 | 0 | 86| 2021-05-07 | 2021-05-07 |
+| [olizilla/ipfs-get](https://github.com/olizilla/ipfs-get)| 0 | 0 | 161| 2021-05-07 | 2021-05-10 |
+| [AlfaroMiguel/ipfs-challenge](https://github.com/AlfaroMiguel/ipfs-challenge)| 0 | 0 | 253| 2021-05-07 | 2021-05-10 |
 | [siddhantkharode/IPFS-File-Uploader](https://github.com/siddhantkharode/IPFS-File-Uploader)| 0 | 0 | 383| 2021-05-06 | 2021-05-06 |
 | [sullof/broken-jazz-ipfs](https://github.com/sullof/broken-jazz-ipfs)| 0 | 0 | 123| 2021-05-03 | 2021-05-07 |
-| [OxSpace/OxSpaceCMS](https://github.com/OxSpace/OxSpaceCMS)| 1 | 0 | 76| 2021-05-02 | 2021-05-02 |
+| [OxSpace/OxSpaceCMS](https://github.com/OxSpace/OxSpaceCMS)| 1 | 0 | 80| 2021-05-02 | 2021-05-10 |
 | [miekassu/PinataParty](https://github.com/miekassu/PinataParty)| 0 | 0 | 226| 2021-05-01 | 2021-05-01 |
 | [sahilmhatrre001/IPFS-file-Upload](https://github.com/sahilmhatrre001/IPFS-file-Upload)| 0 | 0 | 25| 2021-04-30 | 2021-05-02 |
-| [acul71/ipfs-cidsail](https://github.com/acul71/ipfs-cidsail)| 0 | 0 | 142| 2021-04-29 | 2021-05-09 |
 
 
 The above set is limited to the 10 most recently created. 
