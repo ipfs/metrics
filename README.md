@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 83
-*  4/2021: 91
-*  3/2021: 89
-*  2/2021: 64
-*  1/2021: 92
+*  5/2021: 92
+*  4/2021: 90
+*  3/2021: 76
+*  2/2021: 67
+*  1/2021: 96
 *  12/2020: 50
-*  11/2020: 51
-*  10/2020: 65
-*  9/2020: 67
-*  8/2020: 66
-*  7/2020: 67
-*  6/2020: 57
+*  11/2020: 44
+*  10/2020: 50
+*  9/2020: 59
+*  8/2020: 63
+*  7/2020: 65
+*  6/2020: 62
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84350
+Total Matches: 84400
 
-Total Results (Limited by GitHUB API): 1473
+Total Results (Limited by GitHUB API): 1474
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [luizoamorim/dstorage](https://github.com/luizoamorim/dstorage)| 0 | 0 | 503| 2021-05-12 | 2021-05-12 |
 | [christroutner/bch-ipfs-service](https://github.com/christroutner/bch-ipfs-service)| 0 | 0 | 1624| 2021-05-11 | 2021-05-11 |
 | [jerryq0101/instagramV2](https://github.com/jerryq0101/instagramV2)| 0 | 0 | 234| 2021-05-08 | 2021-05-08 |
 | [malopezr7/ipfs-filesystem](https://github.com/malopezr7/ipfs-filesystem)| 0 | 0 | 16876| 2021-05-08 | 2021-05-08 |
@@ -87,8 +88,7 @@ Total Results (Limited by GitHUB API): 1473
 | [AlfaroMiguel/ipfs-proxy](https://github.com/AlfaroMiguel/ipfs-proxy)| 0 | 0 | 253| 2021-05-07 | 2021-05-10 |
 | [siddhantkharode/IPFS-File-Uploader](https://github.com/siddhantkharode/IPFS-File-Uploader)| 0 | 0 | 383| 2021-05-06 | 2021-05-06 |
 | [sullof/broken-jazz-ipfs](https://github.com/sullof/broken-jazz-ipfs)| 0 | 0 | 123| 2021-05-03 | 2021-05-07 |
-| [OxSpace/OxSpaceCMS](https://github.com/OxSpace/OxSpaceCMS)| 1 | 0 | 80| 2021-05-02 | 2021-05-10 |
-| [miekassu/PinataParty](https://github.com/miekassu/PinataParty)| 0 | 0 | 226| 2021-05-01 | 2021-05-01 |
+| [OxSpace/OxSpaceCMS](https://github.com/OxSpace/OxSpaceCMS)| 2 | 0 | 80| 2021-05-02 | 2021-05-10 |
 
 
 The above set is limited to the 10 most recently created. 
