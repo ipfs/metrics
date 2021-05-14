@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 92
-*  4/2021: 90
-*  3/2021: 76
-*  2/2021: 67
-*  1/2021: 96
-*  12/2020: 50
-*  11/2020: 44
-*  10/2020: 50
-*  9/2020: 59
-*  8/2020: 63
-*  7/2020: 65
-*  6/2020: 62
+*  5/2021: 66
+*  4/2021: 85
+*  3/2021: 91
+*  2/2021: 75
+*  1/2021: 100
+*  12/2020: 56
+*  11/2020: 46
+*  10/2020: 56
+*  9/2020: 61
+*  8/2020: 74
+*  7/2020: 64
+*  6/2020: 63
 
 ### GitHub Search
 
@@ -50,12 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1975
+Total Matches: 1985
 
-Total Results (Limited by GitHUB API): 395
+Total Results (Limited by GitHUB API): 397
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 2| 2021-05-13 | 2021-05-14 |
+| [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 14| 2021-05-13 | 2021-05-13 |
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 16| 2021-04-20 | 2021-04-24 |
@@ -64,8 +66,6 @@ Total Results (Limited by GitHUB API): 395
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [ismdeep/ipfs-alive-keeper](https://github.com/ismdeep/ipfs-alive-keeper)| 0 | 0 | 7| 2021-03-29 | 2021-04-17 |
 | [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 2 | 0 | 136| 2021-03-17 | 2021-04-19 |
-| [seunggin/toolsForIPFS](https://github.com/seunggin/toolsForIPFS)| 0 | 0 | 1| 2021-03-15 | 2021-03-15 |
-| [dikshabagdi/ipfs-api](https://github.com/dikshabagdi/ipfs-api)| 0 | 1 | 6| 2021-03-07 | 2021-03-07 |
 
 
 The above set is limited to the 10 most recently created. 
