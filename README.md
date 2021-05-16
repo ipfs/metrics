@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 78
-*  4/2021: 91
-*  3/2021: 90
-*  2/2021: 66
-*  1/2021: 82
-*  12/2020: 58
-*  11/2020: 49
-*  10/2020: 56
-*  9/2020: 67
-*  8/2020: 63
-*  7/2020: 64
-*  6/2020: 70
+*  5/2021: 82
+*  4/2021: 90
+*  3/2021: 87
+*  2/2021: 77
+*  1/2021: 84
+*  12/2020: 49
+*  11/2020: 39
+*  10/2020: 52
+*  9/2020: 66
+*  8/2020: 72
+*  7/2020: 71
+*  6/2020: 63
 
 ### GitHub Search
 
@@ -73,12 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84450
+Total Matches: 84550
 
 Total Results (Limited by GitHUB API): 1475
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Mahendramohanbharti/Shared-File-System-u...](https://github.com/Mahendramohanbharti/Shared-File-System-using-Blockchain)| 0 | 0 | 394| 2021-05-15 | 2021-05-15 |
+| [abraham-yusuf/blog-ipfs-gatsby](https://github.com/abraham-yusuf/blog-ipfs-gatsby)| 0 | 0 | 898| 2021-05-15 | 2021-05-15 |
+| [ipfs/js-ipfs-interfaces](https://github.com/ipfs/js-ipfs-interfaces)| 0 | 0 | 15| 2021-05-14 | 2021-05-15 |
 | [Pushpit07/IPFS_File_Upload](https://github.com/Pushpit07/IPFS_File_Upload)| 0 | 0 | 402| 2021-05-14 | 2021-05-14 |
 | [luizoamorim/dstorage](https://github.com/luizoamorim/dstorage)| 0 | 0 | 503| 2021-05-12 | 2021-05-12 |
 | [christroutner/bch-ipfs-service](https://github.com/christroutner/bch-ipfs-service)| 0 | 0 | 1624| 2021-05-11 | 2021-05-11 |
@@ -86,9 +89,6 @@ Total Results (Limited by GitHUB API): 1475
 | [malopezr7/ipfs-filesystem](https://github.com/malopezr7/ipfs-filesystem)| 0 | 0 | 16876| 2021-05-08 | 2021-05-08 |
 | [moza88/MyNotes](https://github.com/moza88/MyNotes)| 0 | 0 | 384| 2021-05-08 | 2021-05-09 |
 | [olizilla/ipfs-get](https://github.com/olizilla/ipfs-get)| 0 | 0 | 161| 2021-05-07 | 2021-05-10 |
-| [AlfaroMiguel/ipfs-proxy](https://github.com/AlfaroMiguel/ipfs-proxy)| 0 | 0 | 253| 2021-05-07 | 2021-05-10 |
-| [siddhantkharode/IPFS-File-Uploader](https://github.com/siddhantkharode/IPFS-File-Uploader)| 0 | 0 | 383| 2021-05-06 | 2021-05-06 |
-| [sullof/broken-jazz-ipfs](https://github.com/sullof/broken-jazz-ipfs)| 0 | 0 | 123| 2021-05-03 | 2021-05-07 |
 
 
 The above set is limited to the 10 most recently created. 
