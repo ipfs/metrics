@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 81
-*  4/2021: 86
-*  3/2021: 91
-*  2/2021: 70
-*  1/2021: 76
-*  12/2020: 47
-*  11/2020: 49
-*  10/2020: 55
-*  9/2020: 60
-*  8/2020: 69
-*  7/2020: 66
-*  6/2020: 66
+*  5/2021: 87
+*  4/2021: 91
+*  3/2021: 94
+*  2/2021: 72
+*  1/2021: 92
+*  12/2020: 61
+*  11/2020: 57
+*  10/2020: 63
+*  9/2020: 61
+*  8/2020: 63
+*  7/2020: 70
+*  6/2020: 65
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1985
+Total Matches: 1990
 
-Total Results (Limited by GitHUB API): 397
+Total Results (Limited by GitHUB API): 398
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 54| 2021-05-17 | 2021-05-17 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
 | [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 14| 2021-05-13 | 2021-05-13 |
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 397
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 | [ismdeep/ipfs-alive-keeper](https://github.com/ismdeep/ipfs-alive-keeper)| 0 | 0 | 7| 2021-03-29 | 2021-05-16 |
-| [jimmyaxod/ipfscrawl](https://github.com/jimmyaxod/ipfscrawl)| 2 | 0 | 136| 2021-03-17 | 2021-04-19 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84600
+Total Matches: 84750
 
-Total Results (Limited by GitHUB API): 1476
+Total Results (Limited by GitHUB API): 1478
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [kvutien/ipfs-dapp](https://github.com/kvutien/ipfs-dapp)| 0 | 0 | 2064| 2021-05-15 | 2021-05-16 |
+| [thekiharani/Node-IPFS](https://github.com/thekiharani/Node-IPFS)| 0 | 0 | 25| 2021-05-17 | 2021-05-17 |
+| [kvutien/ipfs-dapp](https://github.com/kvutien/ipfs-dapp)| 0 | 0 | 2072| 2021-05-15 | 2021-05-17 |
 | [Mahendramohanbharti/Shared-File-System-u...](https://github.com/Mahendramohanbharti/Shared-File-System-using-Blockchain)| 0 | 0 | 394| 2021-05-15 | 2021-05-15 |
 | [abraham-yusuf/blog-ipfs-gatsby](https://github.com/abraham-yusuf/blog-ipfs-gatsby)| 0 | 0 | 898| 2021-05-15 | 2021-05-15 |
 | [ipfs/js-ipfs-interfaces](https://github.com/ipfs/js-ipfs-interfaces)| 0 | 0 | 15| 2021-05-14 | 2021-05-15 |
 | [Pushpit07/IPFS_File_Upload](https://github.com/Pushpit07/IPFS_File_Upload)| 0 | 0 | 492| 2021-05-14 | 2021-05-16 |
+| [renaerollins/StorageFi](https://github.com/renaerollins/StorageFi)| 0 | 0 | 187| 2021-05-12 | 2021-05-17 |
 | [luizoamorim/dstorage](https://github.com/luizoamorim/dstorage)| 0 | 0 | 503| 2021-05-12 | 2021-05-12 |
 | [christroutner/bch-ipfs-service](https://github.com/christroutner/bch-ipfs-service)| 0 | 0 | 1624| 2021-05-11 | 2021-05-11 |
 | [jerryq0101/instagramV2](https://github.com/jerryq0101/instagramV2)| 0 | 0 | 234| 2021-05-08 | 2021-05-08 |
-| [malopezr7/ipfs-filesystem](https://github.com/malopezr7/ipfs-filesystem)| 0 | 0 | 16876| 2021-05-08 | 2021-05-08 |
-| [moza88/MyNotes](https://github.com/moza88/MyNotes)| 0 | 0 | 384| 2021-05-08 | 2021-05-09 |
 
 
 The above set is limited to the 10 most recently created. 
