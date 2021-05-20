@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 85
-*  4/2021: 85
-*  3/2021: 85
-*  2/2021: 55
-*  1/2021: 95
-*  12/2020: 49
-*  11/2020: 43
-*  10/2020: 50
-*  9/2020: 63
-*  8/2020: 57
+*  5/2021: 66
+*  4/2021: 92
+*  3/2021: 84
+*  2/2021: 62
+*  1/2021: 92
+*  12/2020: 52
+*  11/2020: 31
+*  10/2020: 54
+*  9/2020: 65
+*  8/2020: 49
 *  7/2020: 71
-*  6/2020: 61
+*  6/2020: 57
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84800
+Total Matches: 84850
 
 Total Results (Limited by GitHUB API): 1479
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [KimaruThagna/Block-files](https://github.com/KimaruThagna/Block-files)| 0 | 0 | 264| 2021-05-19 | 2021-05-19 |
 | [thekiharani/Node-IPFS](https://github.com/thekiharani/Node-IPFS)| 0 | 0 | 25| 2021-05-17 | 2021-05-17 |
 | [kvutien/ipfs-dapp](https://github.com/kvutien/ipfs-dapp)| 1 | 0 | 2090| 2021-05-15 | 2021-05-18 |
 | [Mahendramohanbharti/Shared-File-System-u...](https://github.com/Mahendramohanbharti/Shared-File-System-using-Blockchain)| 0 | 0 | 394| 2021-05-15 | 2021-05-15 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1479
 | [renaerollins/StorageFi](https://github.com/renaerollins/StorageFi)| 0 | 0 | 187| 2021-05-12 | 2021-05-17 |
 | [luizoamorim/dstorage](https://github.com/luizoamorim/dstorage)| 0 | 0 | 503| 2021-05-12 | 2021-05-12 |
 | [christroutner/bch-ipfs-service](https://github.com/christroutner/bch-ipfs-service)| 0 | 0 | 1624| 2021-05-11 | 2021-05-11 |
-| [kvutien/ipfs-react](https://github.com/kvutien/ipfs-react)| 0 | 0 | 838| 2021-05-08 | 2021-05-10 |
 
 
 The above set is limited to the 10 most recently created. 
