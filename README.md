@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 66
-*  4/2021: 92
-*  3/2021: 84
-*  2/2021: 62
-*  1/2021: 92
-*  12/2020: 52
-*  11/2020: 31
-*  10/2020: 54
-*  9/2020: 65
-*  8/2020: 49
-*  7/2020: 71
-*  6/2020: 57
+*  5/2021: 86
+*  4/2021: 81
+*  3/2021: 90
+*  2/2021: 71
+*  1/2021: 94
+*  12/2020: 56
+*  11/2020: 41
+*  10/2020: 59
+*  9/2020: 71
+*  8/2020: 65
+*  7/2020: 72
+*  6/2020: 58
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84850
+Total Matches: 84950
 
-Total Results (Limited by GitHUB API): 1479
+Total Results (Limited by GitHUB API): 1481
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Deiklov/tp_dapp](https://github.com/Deiklov/tp_dapp)| 0 | 0 | 487| 2021-05-19 | 2021-05-20 |
 | [KimaruThagna/Block-files](https://github.com/KimaruThagna/Block-files)| 0 | 0 | 264| 2021-05-19 | 2021-05-19 |
 | [thekiharani/Node-IPFS](https://github.com/thekiharani/Node-IPFS)| 0 | 0 | 25| 2021-05-17 | 2021-05-17 |
 | [kvutien/ipfs-dapp](https://github.com/kvutien/ipfs-dapp)| 1 | 0 | 2090| 2021-05-15 | 2021-05-18 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1479
 | [Pushpit07/IPFS_File_Upload](https://github.com/Pushpit07/IPFS_File_Upload)| 0 | 0 | 688| 2021-05-14 | 2021-05-18 |
 | [renaerollins/StorageFi](https://github.com/renaerollins/StorageFi)| 0 | 0 | 187| 2021-05-12 | 2021-05-17 |
 | [luizoamorim/dstorage](https://github.com/luizoamorim/dstorage)| 0 | 0 | 503| 2021-05-12 | 2021-05-12 |
-| [christroutner/bch-ipfs-service](https://github.com/christroutner/bch-ipfs-service)| 0 | 0 | 1624| 2021-05-11 | 2021-05-11 |
 
 
 The above set is limited to the 10 most recently created. 
