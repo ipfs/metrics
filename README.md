@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 86
-*  4/2021: 81
-*  3/2021: 90
-*  2/2021: 71
-*  1/2021: 94
-*  12/2020: 56
-*  11/2020: 41
-*  10/2020: 59
-*  9/2020: 71
-*  8/2020: 65
-*  7/2020: 72
-*  6/2020: 58
+*  5/2021: 76
+*  4/2021: 94
+*  3/2021: 89
+*  2/2021: 76
+*  1/2021: 95
+*  12/2020: 55
+*  11/2020: 45
+*  10/2020: 53
+*  9/2020: 64
+*  8/2020: 58
+*  7/2020: 67
+*  6/2020: 63
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 84950
+Total Matches: 85000
 
-Total Results (Limited by GitHUB API): 1481
+Total Results (Limited by GitHUB API): 1482
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [rajranjan0608/dfm](https://github.com/rajranjan0608/dfm)| 0 | 0 | 526| 2021-05-21 | 2021-05-21 |
 | [Deiklov/tp_dapp](https://github.com/Deiklov/tp_dapp)| 0 | 0 | 487| 2021-05-19 | 2021-05-20 |
 | [KimaruThagna/Block-files](https://github.com/KimaruThagna/Block-files)| 0 | 0 | 264| 2021-05-19 | 2021-05-19 |
 | [thekiharani/Node-IPFS](https://github.com/thekiharani/Node-IPFS)| 0 | 0 | 25| 2021-05-17 | 2021-05-17 |
+| [buchhlz2/decentraStack](https://github.com/buchhlz2/decentraStack)| 0 | 0 | 737| 2021-05-17 | 2021-05-21 |
 | [kvutien/ipfs-dapp](https://github.com/kvutien/ipfs-dapp)| 1 | 0 | 2090| 2021-05-15 | 2021-05-18 |
 | [Mahendramohanbharti/Shared-File-System-u...](https://github.com/Mahendramohanbharti/Shared-File-System-using-Blockchain)| 0 | 0 | 394| 2021-05-15 | 2021-05-15 |
 | [abraham-yusuf/blog-ipfs-gatsby](https://github.com/abraham-yusuf/blog-ipfs-gatsby)| 0 | 0 | 898| 2021-05-15 | 2021-05-15 |
 | [ipfs/js-ipfs-interfaces](https://github.com/ipfs/js-ipfs-interfaces)| 0 | 0 | 15| 2021-05-14 | 2021-05-15 |
 | [Pushpit07/IPFS_File_Upload](https://github.com/Pushpit07/IPFS_File_Upload)| 0 | 0 | 688| 2021-05-14 | 2021-05-18 |
-| [renaerollins/StorageFi](https://github.com/renaerollins/StorageFi)| 0 | 0 | 187| 2021-05-12 | 2021-05-17 |
-| [luizoamorim/dstorage](https://github.com/luizoamorim/dstorage)| 0 | 0 | 503| 2021-05-12 | 2021-05-12 |
 
 
 The above set is limited to the 10 most recently created. 
