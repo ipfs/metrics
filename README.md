@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 84
-*  4/2021: 87
-*  3/2021: 80
-*  2/2021: 69
-*  1/2021: 88
-*  12/2020: 45
-*  11/2020: 43
-*  10/2020: 58
-*  9/2020: 63
-*  8/2020: 58
-*  7/2020: 66
-*  6/2020: 67
+*  5/2021: 86
+*  4/2021: 88
+*  3/2021: 86
+*  2/2021: 66
+*  1/2021: 93
+*  12/2020: 55
+*  11/2020: 47
+*  10/2020: 55
+*  9/2020: 71
+*  8/2020: 56
+*  7/2020: 68
+*  6/2020: 61
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 399
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
-| [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 14| 2021-05-13 | 2021-05-13 |
+| [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 33539| 2021-05-13 | 2021-05-24 |
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 18| 2021-04-20 | 2021-05-18 |
@@ -79,8 +79,9 @@ Total Results (Limited by GitHUB API): 1483
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [AbhinavMir/ipfs_add_images](https://github.com/AbhinavMir/ipfs_add_images)| 0 | 0 | 3| 2021-05-24 | 2021-05-24 |
 | [Ashay041/IPFS-Ethereum-Decentralized_Ima...](https://github.com/Ashay041/IPFS-Ethereum-Decentralized_Image_Sharing_Dapp)| 0 | 0 | 5993| 2021-05-23 | 2021-05-23 |
-| [codeTIT4N/IPFS-upload](https://github.com/codeTIT4N/IPFS-upload)| 0 | 0 | 422| 2021-05-22 | 2021-05-22 |
+| [codeTIT4N/IPFS-upload](https://github.com/codeTIT4N/IPFS-upload)| 0 | 0 | 424| 2021-05-22 | 2021-05-24 |
 | [rajranjan0608/dfm](https://github.com/rajranjan0608/dfm)| 0 | 0 | 539| 2021-05-21 | 2021-05-23 |
 | [Deiklov/tp_dapp](https://github.com/Deiklov/tp_dapp)| 0 | 0 | 487| 2021-05-19 | 2021-05-20 |
 | [KimaruThagna/Block-files](https://github.com/KimaruThagna/Block-files)| 0 | 0 | 264| 2021-05-19 | 2021-05-19 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1483
 | [buchhlz2/decentraStack](https://github.com/buchhlz2/decentraStack)| 0 | 0 | 858| 2021-05-17 | 2021-05-23 |
 | [kvutien/ipfs-dapp](https://github.com/kvutien/ipfs-dapp)| 1 | 0 | 2090| 2021-05-15 | 2021-05-18 |
 | [Mahendramohanbharti/Shared-File-System-u...](https://github.com/Mahendramohanbharti/Shared-File-System-using-Blockchain)| 0 | 0 | 394| 2021-05-15 | 2021-05-15 |
-| [abraham-yusuf/blog-ipfs-gatsby](https://github.com/abraham-yusuf/blog-ipfs-gatsby)| 0 | 0 | 898| 2021-05-15 | 2021-05-15 |
 
 
 The above set is limited to the 10 most recently created. 
