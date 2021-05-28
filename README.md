@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 86
-*  4/2021: 90
+*  5/2021: 83
+*  4/2021: 77
 *  3/2021: 83
-*  2/2021: 69
-*  1/2021: 96
-*  12/2020: 53
-*  11/2020: 37
-*  10/2020: 54
-*  9/2020: 72
-*  8/2020: 71
-*  7/2020: 74
-*  6/2020: 73
+*  2/2021: 72
+*  1/2021: 67
+*  12/2020: 52
+*  11/2020: 47
+*  10/2020: 47
+*  9/2020: 61
+*  8/2020: 60
+*  7/2020: 68
+*  6/2020: 58
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 1995
+Total Matches: 2000
 
-Total Results (Limited by GitHUB API): 399
+Total Results (Limited by GitHUB API): 400
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 85250
+Total Matches: 85300
 
-Total Results (Limited by GitHUB API): 1484
+Total Results (Limited by GitHUB API): 1485
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 0| 2021-05-27 | 2021-05-27 |
-| [GunmetalOrb73/Ipfsbin](https://github.com/GunmetalOrb73/Ipfsbin)| 1 | 0 | 787| 2021-05-26 | 2021-05-27 |
-| [olizilla/ipfs-content-addressed-archiver](https://github.com/olizilla/ipfs-content-addressed-archiver)| 0 | 1 | 34| 2021-05-26 | 2021-05-26 |
+| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 3017| 2021-05-27 | 2021-05-27 |
+| [GunmetalOrb73/Ipfsbin](https://github.com/GunmetalOrb73/Ipfsbin)| 1 | 0 | 842| 2021-05-26 | 2021-05-27 |
+| [olizilla/ipfs-content-addressed-archiver](https://github.com/olizilla/ipfs-content-addressed-archiver)| 0 | 1 | 44| 2021-05-26 | 2021-05-27 |
+| [jacobusa/decentralized-youtube](https://github.com/jacobusa/decentralized-youtube)| 1 | 0 | 1213| 2021-05-25 | 2021-05-25 |
 | [bruceli20202020/node-ipfs](https://github.com/bruceli20202020/node-ipfs)| 0 | 0 | 0| 2021-05-25 | 2021-05-25 |
 | [AbhinavMir/ipfs_add_images](https://github.com/AbhinavMir/ipfs_add_images)| 0 | 0 | 3| 2021-05-24 | 2021-05-24 |
 | [Ashay041/IPFS-Ethereum-Decentralized_Ima...](https://github.com/Ashay041/IPFS-Ethereum-Decentralized_Image_Sharing_Dapp)| 0 | 0 | 5993| 2021-05-23 | 2021-05-23 |
 | [Shivamnema/deinsta](https://github.com/Shivamnema/deinsta)| 0 | 0 | 356| 2021-05-23 | 2021-05-25 |
 | [codeTIT4N/IPFS-upload](https://github.com/codeTIT4N/IPFS-upload)| 0 | 0 | 424| 2021-05-22 | 2021-05-24 |
 | [rajranjan0608/dfm](https://github.com/rajranjan0608/dfm)| 0 | 0 | 540| 2021-05-21 | 2021-05-25 |
-| [Deiklov/tp_dapp](https://github.com/Deiklov/tp_dapp)| 0 | 0 | 487| 2021-05-19 | 2021-05-20 |
 
 
 The above set is limited to the 10 most recently created. 
