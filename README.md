@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 93
-*  4/2021: 90
-*  3/2021: 85
-*  2/2021: 81
-*  1/2021: 84
-*  12/2020: 56
+*  5/2021: 84
+*  4/2021: 86
+*  3/2021: 88
+*  2/2021: 72
+*  1/2021: 100
+*  12/2020: 60
 *  11/2020: 52
-*  10/2020: 67
-*  9/2020: 69
-*  8/2020: 63
-*  7/2020: 63
-*  6/2020: 74
+*  10/2020: 55
+*  9/2020: 72
+*  8/2020: 69
+*  7/2020: 82
+*  6/2020: 67
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 85400
+Total Matches: 85600
 
-Total Results (Limited by GitHUB API): 1487
+Total Results (Limited by GitHUB API): 1489
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 1540| 2021-05-29 | 2021-05-30 |
+| [viktaur/alexandria](https://github.com/viktaur/alexandria)| 0 | 0 | 4| 2021-05-30 | 2021-05-30 |
+| [ryanwaits/ipfs_api](https://github.com/ryanwaits/ipfs_api)| 0 | 0 | 26754| 2021-05-30 | 2021-05-30 |
+| [Vib-UX/EFSS](https://github.com/Vib-UX/EFSS)| 1 | 0 | 2862| 2021-05-30 | 2021-05-30 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 1990| 2021-05-29 | 2021-05-31 |
+| [Gavin-Ramos/IPFS_test_deployment_dapp_un...](https://github.com/Gavin-Ramos/IPFS_test_deployment_dapp_university)| 0 | 0 | 264| 2021-05-29 | 2021-05-30 |
 | [jamkilian/next-bucket](https://github.com/jamkilian/next-bucket)| 0 | 0 | 16| 2021-05-29 | 2021-05-29 |
 | [davidkoller318/Ethereum-Homes](https://github.com/davidkoller318/Ethereum-Homes)| 0 | 0 | 31454| 2021-05-28 | 2021-05-28 |
-| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 3049| 2021-05-27 | 2021-05-29 |
+| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 3049| 2021-05-27 | 2021-05-31 |
 | [GunmetalOrb73/Ipfsbin](https://github.com/GunmetalOrb73/Ipfsbin)| 1 | 0 | 842| 2021-05-26 | 2021-05-27 |
 | [olizilla/ipfs-content-addressed-archiver](https://github.com/olizilla/ipfs-content-addressed-archiver)| 0 | 1 | 44| 2021-05-26 | 2021-05-27 |
-| [jacobusa/decentralized-youtube](https://github.com/jacobusa/decentralized-youtube)| 1 | 0 | 1213| 2021-05-25 | 2021-05-25 |
-| [bruceli20202020/node-ipfs](https://github.com/bruceli20202020/node-ipfs)| 0 | 0 | 0| 2021-05-25 | 2021-05-25 |
-| [AbhinavMir/ipfs_add_images](https://github.com/AbhinavMir/ipfs_add_images)| 0 | 0 | 3| 2021-05-24 | 2021-05-24 |
-| [Ashay041/IPFS-Ethereum-Decentralized_Ima...](https://github.com/Ashay041/IPFS-Ethereum-Decentralized_Image_Sharing_Dapp)| 0 | 0 | 5993| 2021-05-23 | 2021-05-23 |
 
 
 The above set is limited to the 10 most recently created. 
