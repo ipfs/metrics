@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  5/2021: 84
-*  4/2021: 86
-*  3/2021: 88
-*  2/2021: 72
-*  1/2021: 100
-*  12/2020: 60
-*  11/2020: 52
-*  10/2020: 55
-*  9/2020: 72
-*  8/2020: 69
-*  7/2020: 82
-*  6/2020: 67
+*  5/2021: 83
+*  4/2021: 92
+*  3/2021: 80
+*  2/2021: 69
+*  1/2021: 81
+*  12/2020: 51
+*  11/2020: 50
+*  10/2020: 50
+*  9/2020: 55
+*  8/2020: 62
+*  7/2020: 58
+*  6/2020: 66
 
 ### GitHub Search
 
@@ -63,7 +63,7 @@ Total Results (Limited by GitHUB API): 400
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 18| 2021-04-20 | 2021-05-18 |
-| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61956| 2021-04-09 | 2021-05-28 |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61956| 2021-04-09 | 2021-05-31 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
 | [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 
@@ -73,20 +73,20 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 85600
+Total Matches: 85650
 
-Total Results (Limited by GitHUB API): 1489
+Total Results (Limited by GitHUB API): 1490
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [viktaur/alexandria](https://github.com/viktaur/alexandria)| 0 | 0 | 4| 2021-05-30 | 2021-05-30 |
-| [ryanwaits/ipfs_api](https://github.com/ryanwaits/ipfs_api)| 0 | 0 | 26754| 2021-05-30 | 2021-05-30 |
+| [ryanwaits/ipfs_api](https://github.com/ryanwaits/ipfs_api)| 0 | 0 | 26755| 2021-05-30 | 2021-05-31 |
 | [Vib-UX/EFSS](https://github.com/Vib-UX/EFSS)| 1 | 0 | 2862| 2021-05-30 | 2021-05-30 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 1990| 2021-05-29 | 2021-05-31 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2003| 2021-05-29 | 2021-05-31 |
 | [Gavin-Ramos/IPFS_test_deployment_dapp_un...](https://github.com/Gavin-Ramos/IPFS_test_deployment_dapp_university)| 0 | 0 | 264| 2021-05-29 | 2021-05-30 |
 | [jamkilian/next-bucket](https://github.com/jamkilian/next-bucket)| 0 | 0 | 16| 2021-05-29 | 2021-05-29 |
 | [davidkoller318/Ethereum-Homes](https://github.com/davidkoller318/Ethereum-Homes)| 0 | 0 | 31454| 2021-05-28 | 2021-05-28 |
-| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 3049| 2021-05-27 | 2021-05-31 |
+| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 3264| 2021-05-27 | 2021-05-31 |
 | [GunmetalOrb73/Ipfsbin](https://github.com/GunmetalOrb73/Ipfsbin)| 1 | 0 | 842| 2021-05-26 | 2021-05-27 |
 | [olizilla/ipfs-content-addressed-archiver](https://github.com/olizilla/ipfs-content-addressed-archiver)| 0 | 1 | 44| 2021-05-26 | 2021-05-27 |
 
