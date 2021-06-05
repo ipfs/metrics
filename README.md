@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 100
-*  5/2021: 70
-*  4/2021: 78
-*  3/2021: 76
-*  2/2021: 61
-*  1/2021: 70
-*  12/2020: 51
-*  11/2020: 36
-*  10/2020: 43
-*  9/2020: 51
-*  8/2020: 51
-*  7/2020: 56
+*  6/2021: 86
+*  5/2021: 78
+*  4/2021: 100
+*  3/2021: 81
+*  2/2021: 72
+*  1/2021: 79
+*  12/2020: 50
+*  11/2020: 50
+*  10/2020: 44
+*  9/2020: 63
+*  8/2020: 58
+*  7/2020: 57
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 85700
+Total Matches: 85750
 
-Total Results (Limited by GitHUB API): 1491
+Total Results (Limited by GitHUB API): 1492
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ignaciostellino/file-sign](https://github.com/ignaciostellino/file-sign)| 0 | 0 | 959| 2021-06-02 | 2021-06-02 |
 | [a2902793/Substrate-IPFS](https://github.com/a2902793/Substrate-IPFS)| 0 | 0 | 1041| 2021-06-02 | 2021-06-02 |
 | [viktaur/alexandria](https://github.com/viktaur/alexandria)| 0 | 0 | 4| 2021-05-30 | 2021-05-30 |
 | [ryanwaits/ipfs_api](https://github.com/ryanwaits/ipfs_api)| 0 | 0 | 26755| 2021-05-30 | 2021-05-31 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1491
 | [jamkilian/next-bucket](https://github.com/jamkilian/next-bucket)| 0 | 0 | 16| 2021-05-29 | 2021-05-29 |
 | [camharris/livetube](https://github.com/camharris/livetube)| 2 | 0 | 468| 2021-05-29 | 2021-05-30 |
 | [davidkoller318/Ethereum-Homes](https://github.com/davidkoller318/Ethereum-Homes)| 0 | 0 | 31454| 2021-05-28 | 2021-05-28 |
-| [caiohsramos/personal-portfolio](https://github.com/caiohsramos/personal-portfolio)| 0 | 0 | 3264| 2021-05-27 | 2021-05-31 |
 
 
 The above set is limited to the 10 most recently created. 
