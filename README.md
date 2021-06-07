@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 62
-*  5/2021: 80
-*  4/2021: 87
-*  3/2021: 90
-*  2/2021: 66
-*  1/2021: 71
+*  6/2021: 73
+*  5/2021: 76
+*  4/2021: 84
+*  3/2021: 93
+*  2/2021: 73
+*  1/2021: 82
 *  12/2020: 55
-*  11/2020: 50
-*  10/2020: 44
-*  9/2020: 62
-*  8/2020: 58
-*  7/2020: 64
+*  11/2020: 46
+*  10/2020: 58
+*  9/2020: 64
+*  8/2020: 54
+*  7/2020: 75
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2000
 
-Total Results (Limited by GitHUB API): 399
+Total Results (Limited by GitHUB API): 400
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 85700
+Total Matches: 85800
 
-Total Results (Limited by GitHUB API): 1491
+Total Results (Limited by GitHUB API): 1493
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Sainath26/Mangekyo](https://github.com/Sainath26/Mangekyo)| 0 | 0 | 751| 2021-06-06 | 2021-06-06 |
 | [ignaciostellino/file-sign](https://github.com/ignaciostellino/file-sign)| 0 | 0 | 959| 2021-06-02 | 2021-06-02 |
 | [a2902793/Substrate-IPFS](https://github.com/a2902793/Substrate-IPFS)| 0 | 0 | 1041| 2021-06-02 | 2021-06-02 |
 | [viktaur/alexandria](https://github.com/viktaur/alexandria)| 0 | 0 | 4| 2021-05-30 | 2021-05-30 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1491
 | [Gavin-Ramos/IPFS_test_deployment_dapp_un...](https://github.com/Gavin-Ramos/IPFS_test_deployment_dapp_university)| 0 | 0 | 264| 2021-05-29 | 2021-05-30 |
 | [jamkilian/next-bucket](https://github.com/jamkilian/next-bucket)| 0 | 0 | 16| 2021-05-29 | 2021-05-29 |
 | [camharris/livetube](https://github.com/camharris/livetube)| 2 | 0 | 468| 2021-05-29 | 2021-05-30 |
-| [davidkoller318/Ethereum-Homes](https://github.com/davidkoller318/Ethereum-Homes)| 0 | 0 | 31454| 2021-05-28 | 2021-05-28 |
 
 
 The above set is limited to the 10 most recently created. 
