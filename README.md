@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 73
-*  5/2021: 76
-*  4/2021: 84
-*  3/2021: 93
-*  2/2021: 73
-*  1/2021: 82
-*  12/2020: 55
-*  11/2020: 46
-*  10/2020: 58
-*  9/2020: 64
-*  8/2020: 54
-*  7/2020: 75
+*  6/2021: 88
+*  5/2021: 66
+*  4/2021: 78
+*  3/2021: 76
+*  2/2021: 54
+*  1/2021: 84
+*  12/2020: 46
+*  11/2020: 38
+*  10/2020: 48
+*  9/2020: 58
+*  8/2020: 53
+*  7/2020: 69
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 85800
+Total Matches: 87200
 
-Total Results (Limited by GitHUB API): 1493
+Total Results (Limited by GitHUB API): 1511
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Sainath26/Mangekyo](https://github.com/Sainath26/Mangekyo)| 0 | 0 | 751| 2021-06-06 | 2021-06-06 |
-| [ignaciostellino/file-sign](https://github.com/ignaciostellino/file-sign)| 0 | 0 | 959| 2021-06-02 | 2021-06-02 |
-| [a2902793/Substrate-IPFS](https://github.com/a2902793/Substrate-IPFS)| 0 | 0 | 1041| 2021-06-02 | 2021-06-02 |
-| [viktaur/alexandria](https://github.com/viktaur/alexandria)| 0 | 0 | 4| 2021-05-30 | 2021-05-30 |
-| [ryanwaits/ipfs_api](https://github.com/ryanwaits/ipfs_api)| 0 | 0 | 26755| 2021-05-30 | 2021-05-31 |
-| [Vib-UX/EFSS](https://github.com/Vib-UX/EFSS)| 1 | 0 | 2862| 2021-05-30 | 2021-05-30 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2003| 2021-05-29 | 2021-05-31 |
-| [Gavin-Ramos/IPFS_test_deployment_dapp_un...](https://github.com/Gavin-Ramos/IPFS_test_deployment_dapp_university)| 0 | 0 | 264| 2021-05-29 | 2021-05-30 |
-| [jamkilian/next-bucket](https://github.com/jamkilian/next-bucket)| 0 | 0 | 16| 2021-05-29 | 2021-05-29 |
-| [camharris/livetube](https://github.com/camharris/livetube)| 2 | 0 | 468| 2021-05-29 | 2021-05-30 |
+| [dhruvampatel/ipfs](https://github.com/dhruvampatel/ipfs)| 0 | 0 | 299| 2021-06-08 | 2021-06-08 |
+| [oliveriosousa/js-ipfs-example-types-use-...](https://github.com/oliveriosousa/js-ipfs-example-types-use-ipfs-from-typed-js)| 0 | 0 | 483| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-test-ipfs-...](https://github.com/oliveriosousa/js-ipfs-example-test-ipfs-example)| 0 | 0 | 16| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-run-multip...](https://github.com/oliveriosousa/js-ipfs-example-run-multiple-nodes)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-run-in-ele...](https://github.com/oliveriosousa/js-ipfs-example-run-in-electron)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-ipfs-clien...](https://github.com/oliveriosousa/js-ipfs-example-ipfs-client-add-files)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-ipfs-101](https://github.com/oliveriosousa/js-ipfs-example-ipfs-101)| 0 | 0 | 34| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-http-clien...](https://github.com/oliveriosousa/js-ipfs-example-http-client-name-api)| 0 | 0 | 22| 2021-06-07 | 2021-06-07 |
+| [oliveriosousa/js-ipfs-example-http-clien...](https://github.com/oliveriosousa/js-ipfs-example-http-client-bundle-webpack)| 0 | 0 | 127| 2021-06-07 | 2021-06-07 |
 
 
 The above set is limited to the 10 most recently created. 
