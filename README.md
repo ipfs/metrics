@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 61
-*  5/2021: 85
-*  4/2021: 90
-*  3/2021: 85
-*  2/2021: 74
-*  1/2021: 100
-*  12/2020: 55
-*  11/2020: 51
-*  10/2020: 57
-*  9/2020: 69
-*  8/2020: 71
-*  7/2020: 80
+*  6/2021: 70
+*  5/2021: 82
+*  4/2021: 93
+*  3/2021: 91
+*  2/2021: 66
+*  1/2021: 90
+*  12/2020: 48
+*  11/2020: 53
+*  10/2020: 60
+*  9/2020: 61
+*  8/2020: 64
+*  7/2020: 57
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 87300
+Total Matches: 87350
 
-Total Results (Limited by GitHUB API): 1512
+Total Results (Limited by GitHUB API): 1513
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [YashUppal1/DeStor](https://github.com/YashUppal1/DeStor)| 0 | 0 | 1659| 2021-06-08 | 2021-06-08 |
+| [llofa/UTubed](https://github.com/llofa/UTubed)| 0 | 0 | 6873| 2021-06-09 | 2021-06-09 |
+| [YashUppal1/DeStor](https://github.com/YashUppal1/DeStor)| 0 | 0 | 1682| 2021-06-08 | 2021-06-09 |
 | [dhruvampatel/ipfs](https://github.com/dhruvampatel/ipfs)| 0 | 0 | 299| 2021-06-08 | 2021-06-08 |
 | [oliveriosousa/js-ipfs-example-types-use-...](https://github.com/oliveriosousa/js-ipfs-example-types-use-ipfs-from-typed-js)| 0 | 0 | 483| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1512
 | [oliveriosousa/js-ipfs-example-run-in-ele...](https://github.com/oliveriosousa/js-ipfs-example-run-in-electron)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-ipfs-clien...](https://github.com/oliveriosousa/js-ipfs-example-ipfs-client-add-files)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-ipfs-101](https://github.com/oliveriosousa/js-ipfs-example-ipfs-101)| 0 | 0 | 34| 2021-06-07 | 2021-06-07 |
-| [oliveriosousa/js-ipfs-example-http-clien...](https://github.com/oliveriosousa/js-ipfs-example-http-client-name-api)| 0 | 0 | 22| 2021-06-07 | 2021-06-07 |
 
 
 The above set is limited to the 10 most recently created. 
