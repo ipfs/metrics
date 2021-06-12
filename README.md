@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 96
-*  5/2021: 79
-*  4/2021: 87
-*  3/2021: 88
-*  2/2021: 64
-*  1/2021: 88
-*  12/2020: 44
-*  11/2020: 45
-*  10/2020: 56
-*  9/2020: 54
-*  8/2020: 61
-*  7/2020: 74
+*  6/2021: 78
+*  5/2021: 90
+*  4/2021: 93
+*  3/2021: 100
+*  2/2021: 77
+*  1/2021: 92
+*  12/2020: 61
+*  11/2020: 55
+*  10/2020: 60
+*  9/2020: 66
+*  8/2020: 67
+*  7/2020: 69
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2000
+Total Matches: 2406
 
-Total Results (Limited by GitHUB API): 400
+Total Results (Limited by GitHUB API): 401
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 0 | 0 | 47| 2021-06-11 | 2021-06-11 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 400
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 18| 2021-04-20 | 2021-05-18 |
 | [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61956| 2021-04-09 | 2021-05-31 |
 | [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
-| [ninedraft/ursa](https://github.com/ninedraft/ursa)| 0 | 0 | 8| 2021-04-01 | 2021-04-01 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 87350
+Total Matches: 87450
 
-Total Results (Limited by GitHUB API): 1513
+Total Results (Limited by GitHUB API): 1515
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipfs-examples/js-ipfs-bundler-browserify](https://github.com/ipfs-examples/js-ipfs-bundler-browserify)| 0 | 0 | 44888| 2021-06-11 | 2021-06-11 |
+| [b69liu/ipfs-contract-react](https://github.com/b69liu/ipfs-contract-react)| 0 | 0 | 291| 2021-06-11 | 2021-06-11 |
 | [llofa/UTubed](https://github.com/llofa/UTubed)| 0 | 0 | 6873| 2021-06-09 | 2021-06-09 |
-| [YashUppal1/DeStor](https://github.com/YashUppal1/DeStor)| 0 | 0 | 1682| 2021-06-08 | 2021-06-09 |
+| [YashUppal1/DeStor](https://github.com/YashUppal1/DeStor)| 0 | 0 | 1686| 2021-06-08 | 2021-06-11 |
 | [dhruvampatel/ipfs](https://github.com/dhruvampatel/ipfs)| 0 | 0 | 299| 2021-06-08 | 2021-06-08 |
 | [oliveriosousa/js-ipfs-example-types-use-...](https://github.com/oliveriosousa/js-ipfs-example-types-use-ipfs-from-typed-js)| 0 | 0 | 483| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-test-ipfs-...](https://github.com/oliveriosousa/js-ipfs-example-test-ipfs-example)| 0 | 0 | 16| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-run-multip...](https://github.com/oliveriosousa/js-ipfs-example-run-multiple-nodes)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-run-in-ele...](https://github.com/oliveriosousa/js-ipfs-example-run-in-electron)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
-| [oliveriosousa/js-ipfs-example-ipfs-clien...](https://github.com/oliveriosousa/js-ipfs-example-ipfs-client-add-files)| 0 | 0 | 10| 2021-06-07 | 2021-06-07 |
-| [oliveriosousa/js-ipfs-example-ipfs-101](https://github.com/oliveriosousa/js-ipfs-example-ipfs-101)| 0 | 0 | 34| 2021-06-07 | 2021-06-07 |
 
 
 The above set is limited to the 10 most recently created. 
