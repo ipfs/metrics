@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 78
-*  5/2021: 90
-*  4/2021: 93
-*  3/2021: 100
-*  2/2021: 77
-*  1/2021: 92
-*  12/2020: 61
-*  11/2020: 55
-*  10/2020: 60
-*  9/2020: 66
-*  8/2020: 67
-*  7/2020: 69
+*  6/2021: 89
+*  5/2021: 83
+*  4/2021: 91
+*  3/2021: 87
+*  2/2021: 73
+*  1/2021: 94
+*  12/2020: 53
+*  11/2020: 40
+*  10/2020: 55
+*  9/2020: 60
+*  8/2020: 56
+*  7/2020: 71
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 401
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 0 | 0 | 47| 2021-06-11 | 2021-06-11 |
+| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 1 | 0 | 47| 2021-06-11 | 2021-06-11 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 87450
+Total Matches: 87500
 
-Total Results (Limited by GitHUB API): 1515
+Total Results (Limited by GitHUB API): 1516
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-bundler-browserify](https://github.com/ipfs-examples/js-ipfs-bundler-browserify)| 0 | 0 | 44888| 2021-06-11 | 2021-06-11 |
+| [jedecast/hhSaberNFT](https://github.com/jedecast/hhSaberNFT)| 0 | 0 | 65675| 2021-06-12 | 2021-06-12 |
+| [ipfs-examples/js-ipfs-bundler-browserify](https://github.com/ipfs-examples/js-ipfs-bundler-browserify)| 0 | 0 | 44888| 2021-06-11 | 2021-06-12 |
 | [b69liu/ipfs-contract-react](https://github.com/b69liu/ipfs-contract-react)| 0 | 0 | 291| 2021-06-11 | 2021-06-11 |
 | [llofa/UTubed](https://github.com/llofa/UTubed)| 0 | 0 | 6873| 2021-06-09 | 2021-06-09 |
 | [YashUppal1/DeStor](https://github.com/YashUppal1/DeStor)| 0 | 0 | 1686| 2021-06-08 | 2021-06-11 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1515
 | [oliveriosousa/js-ipfs-example-custom-tra...](https://github.com/oliveriosousa/js-ipfs-example-custom-traverse-ipld-graphs)| 0 | 0 | 50| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-test-ipfs-...](https://github.com/oliveriosousa/js-ipfs-example-test-ipfs-example)| 0 | 0 | 16| 2021-06-07 | 2021-06-07 |
 | [oliveriosousa/js-ipfs-example-run-multip...](https://github.com/oliveriosousa/js-ipfs-example-run-multiple-nodes)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
-| [oliveriosousa/js-ipfs-example-run-in-ele...](https://github.com/oliveriosousa/js-ipfs-example-run-in-electron)| 0 | 0 | 19| 2021-06-07 | 2021-06-07 |
 
 
 The above set is limited to the 10 most recently created. 
