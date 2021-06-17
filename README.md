@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 74
-*  5/2021: 77
-*  4/2021: 83
-*  3/2021: 77
-*  2/2021: 67
-*  1/2021: 68
-*  12/2020: 47
+*  6/2021: 83
+*  5/2021: 93
+*  4/2021: 100
+*  3/2021: 90
+*  2/2021: 76
+*  1/2021: 85
+*  12/2020: 57
 *  11/2020: 51
-*  10/2020: 52
-*  9/2020: 56
-*  8/2020: 59
-*  7/2020: 64
+*  10/2020: 63
+*  9/2020: 60
+*  8/2020: 58
+*  7/2020: 62
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2406
+Total Matches: 2412
 
-Total Results (Limited by GitHUB API): 401
+Total Results (Limited by GitHUB API): 402
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -64,8 +64,8 @@ Total Results (Limited by GitHUB API): 401
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
 | [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 18| 2021-04-20 | 2021-05-18 |
-| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61956| 2021-04-09 | 2021-05-31 |
-| [ohmpatel1997/ipfs-ethereum](https://github.com/ohmpatel1997/ipfs-ethereum)| 0 | 0 | 204531| 2021-04-04 | 2021-04-05 |
+| [sebastiendan/go-ipfs](https://github.com/sebastiendan/go-ipfs)| 0 | 0 | 61956| 2021-04-09 | 2021-06-16 |
+| [INFURA/ipfs-copy](https://github.com/INFURA/ipfs-copy)| 0 | 0 | 101| 2021-04-07 | 2021-06-16 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89200
+Total Matches: 89300
 
-Total Results (Limited by GitHUB API): 1541
+Total Results (Limited by GitHUB API): 1538
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [alidevjimmy/ipfs-react](https://github.com/alidevjimmy/ipfs-react)| 1 | 0 | 211| 2021-06-15 | 2021-06-15 |
+| [uncutgems/de-instagram](https://github.com/uncutgems/de-instagram)| 0 | 0 | 2188| 2021-06-16 | 2021-06-16 |
+| [alidevjimmy/bitstream](https://github.com/alidevjimmy/bitstream)| 0 | 0 | 109| 2021-06-16 | 2021-06-16 |
+| [decooio/cloudflare-dnslink-action](https://github.com/decooio/cloudflare-dnslink-action)| 1 | 1 | 4| 2021-06-16 | 2021-06-16 |
 | [bradylee123/nft-ipfs](https://github.com/bradylee123/nft-ipfs)| 0 | 0 | 13799| 2021-06-14 | 2021-06-14 |
-| [ipfs-examples/js-ipfs-types-use-ipfs-fro...](https://github.com/ipfs-examples/js-ipfs-types-use-ipfs-from-typed-js)| 0 | 0 | 486| 2021-06-14 | 2021-06-16 |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 53| 2021-06-14 | 2021-06-16 |
-| [ipfs-examples/js-ipfs-run-multiple-nodes](https://github.com/ipfs-examples/js-ipfs-run-multiple-nodes)| 0 | 0 | 23| 2021-06-14 | 2021-06-15 |
+| [ipfs-examples/js-ipfs-types-use-ipfs-fro...](https://github.com/ipfs-examples/js-ipfs-types-use-ipfs-from-typed-js)| 0 | 0 | 487| 2021-06-14 | 2021-06-17 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 53| 2021-06-14 | 2021-06-17 |
+| [ipfs-examples/js-ipfs-run-multiple-nodes](https://github.com/ipfs-examples/js-ipfs-run-multiple-nodes)| 0 | 0 | 23| 2021-06-14 | 2021-06-16 |
 | [ipfs-examples/js-ipfs-run-in-electron](https://github.com/ipfs-examples/js-ipfs-run-in-electron)| 0 | 0 | 22| 2021-06-14 | 2021-06-15 |
-| [ipfs-examples/js-ipfs-http-client-add-fi...](https://github.com/ipfs-examples/js-ipfs-http-client-add-files)| 0 | 0 | 14| 2021-06-14 | 2021-06-16 |
-| [ipfs-examples/js-ipfs-tutorial-101](https://github.com/ipfs-examples/js-ipfs-tutorial-101)| 0 | 0 | 38| 2021-06-14 | 2021-06-16 |
-| [ipfs-examples/js-ipfs-http-client-name-a...](https://github.com/ipfs-examples/js-ipfs-http-client-name-api)| 0 | 0 | 26| 2021-06-14 | 2021-06-16 |
-| [ipfs-examples/js-ipfs-http-client-webpac...](https://github.com/ipfs-examples/js-ipfs-http-client-webpack)| 0 | 0 | 131| 2021-06-14 | 2021-06-16 |
+| [ipfs-examples/js-ipfs-http-client-add-fi...](https://github.com/ipfs-examples/js-ipfs-http-client-add-files)| 0 | 0 | 14| 2021-06-14 | 2021-06-17 |
+| [ipfs-examples/js-ipfs-tutorial-101](https://github.com/ipfs-examples/js-ipfs-tutorial-101)| 0 | 0 | 39| 2021-06-14 | 2021-06-17 |
 
 
 The above set is limited to the 10 most recently created. 
