@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 77
-*  5/2021: 93
-*  4/2021: 86
-*  3/2021: 99
-*  2/2021: 70
-*  1/2021: 92
-*  12/2020: 61
-*  11/2020: 50
-*  10/2020: 58
-*  9/2020: 75
-*  8/2020: 71
-*  7/2020: 79
+*  6/2021: 83
+*  5/2021: 85
+*  4/2021: 92
+*  3/2021: 82
+*  2/2021: 66
+*  1/2021: 90
+*  12/2020: 47
+*  11/2020: 47
+*  10/2020: 55
+*  9/2020: 60
+*  8/2020: 55
+*  7/2020: 57
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 404
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 25| 2021-06-18 | 2021-06-18 |
 | [vinnymeller/ipfsio](https://github.com/vinnymeller/ipfsio)| 0 | 0 | 10| 2021-06-18 | 2021-06-18 |
-| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 1 | 0 | 69| 2021-06-11 | 2021-06-19 |
+| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 1 | 0 | 177| 2021-06-11 | 2021-06-20 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
@@ -75,20 +75,20 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 89350
 
-Total Results (Limited by GitHUB API): 1541
+Total Results (Limited by GitHUB API): 1544
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [kairavi28/Dapp_Ipfs](https://github.com/kairavi28/Dapp_Ipfs)| 0 | 0 | 887| 2021-06-20 | 2021-06-20 |
 | [game-of-codes/IPFS-File-Upload-Dapp](https://github.com/game-of-codes/IPFS-File-Upload-Dapp)| 1 | 0 | 491| 2021-06-17 | 2021-06-17 |
 | [uncutgems/de-instagram](https://github.com/uncutgems/de-instagram)| 0 | 0 | 2188| 2021-06-16 | 2021-06-16 |
 | [alidevjimmy/bitstream](https://github.com/alidevjimmy/bitstream)| 0 | 0 | 109| 2021-06-16 | 2021-06-16 |
 | [decooio/cloudflare-dnslink-action](https://github.com/decooio/cloudflare-dnslink-action)| 1 | 1 | 4| 2021-06-16 | 2021-06-16 |
-| [AleRapchan/ipfs-and-blockchain](https://github.com/AleRapchan/ipfs-and-blockchain)| 1 | 0 | 434| 2021-06-15 | 2021-06-17 |
+| [AleRapchan/ipfs-and-blockchain](https://github.com/AleRapchan/ipfs-and-blockchain)| 1 | 0 | 444| 2021-06-15 | 2021-06-20 |
 | [bradylee123/nft-ipfs](https://github.com/bradylee123/nft-ipfs)| 0 | 0 | 13799| 2021-06-14 | 2021-06-14 |
-| [ipfs-examples/js-ipfs-types-use-ipfs-fro...](https://github.com/ipfs-examples/js-ipfs-types-use-ipfs-from-typed-js)| 0 | 0 | 488| 2021-06-14 | 2021-06-20 |
-| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 55| 2021-06-14 | 2021-06-20 |
-| [ipfs-examples/js-ipfs-run-multiple-nodes](https://github.com/ipfs-examples/js-ipfs-run-multiple-nodes)| 0 | 0 | 23| 2021-06-14 | 2021-06-19 |
-| [ipfs-examples/js-ipfs-run-in-electron](https://github.com/ipfs-examples/js-ipfs-run-in-electron)| 0 | 0 | 22| 2021-06-14 | 2021-06-15 |
+| [ipfs-examples/js-ipfs-types-use-ipfs-fro...](https://github.com/ipfs-examples/js-ipfs-types-use-ipfs-from-typed-js)| 0 | 0 | 488| 2021-06-14 | 2021-06-21 |
+| [ipfs-examples/js-ipfs-custom-traverse-ip...](https://github.com/ipfs-examples/js-ipfs-custom-traverse-ipld-graphs)| 0 | 0 | 55| 2021-06-14 | 2021-06-21 |
+| [ipfs-examples/js-ipfs-run-multiple-nodes](https://github.com/ipfs-examples/js-ipfs-run-multiple-nodes)| 0 | 0 | 23| 2021-06-14 | 2021-06-20 |
 
 
 The above set is limited to the 10 most recently created. 
