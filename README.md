@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 83
-*  5/2021: 89
+*  6/2021: 68
+*  5/2021: 86
 *  4/2021: 100
-*  3/2021: 87
-*  2/2021: 70
-*  1/2021: 85
-*  12/2020: 55
-*  11/2020: 48
-*  10/2020: 57
-*  9/2020: 66
-*  8/2020: 58
-*  7/2020: 67
+*  3/2021: 86
+*  2/2021: 73
+*  1/2021: 88
+*  12/2020: 66
+*  11/2020: 56
+*  10/2020: 58
+*  9/2020: 62
+*  8/2020: 53
+*  7/2020: 62
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 404
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-22 |
+| [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [vinnymeller/ipfsio](https://github.com/vinnymeller/ipfsio)| 0 | 0 | 10| 2021-06-18 | 2021-06-18 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 1 | 0 | 189| 2021-06-11 | 2021-06-21 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88250
+Total Matches: 88300
 
-Total Results (Limited by GitHUB API): 1522
+Total Results (Limited by GitHUB API): 1526
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 0| 2021-06-23 | 2021-06-23 |
+| [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
+| [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 187| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1522
 | [uncutgems/de-instagram](https://github.com/uncutgems/de-instagram)| 0 | 0 | 2188| 2021-06-16 | 2021-06-16 |
 | [alidevjimmy/bitstream](https://github.com/alidevjimmy/bitstream)| 0 | 0 | 109| 2021-06-16 | 2021-06-16 |
 | [decooio/cloudflare-dnslink-action](https://github.com/decooio/cloudflare-dnslink-action)| 1 | 1 | 4| 2021-06-16 | 2021-06-16 |
-| [AleRapchan/ipfs-and-blockchain](https://github.com/AleRapchan/ipfs-and-blockchain)| 1 | 0 | 444| 2021-06-15 | 2021-06-20 |
 
 
 The above set is limited to the 10 most recently created. 
