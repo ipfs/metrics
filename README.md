@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 56
-*  5/2021: 81
-*  4/2021: 77
-*  3/2021: 75
-*  2/2021: 56
-*  1/2021: 82
-*  12/2020: 48
-*  11/2020: 43
-*  10/2020: 54
-*  9/2020: 53
-*  8/2020: 50
-*  7/2020: 55
+*  6/2021: 71
+*  5/2021: 87
+*  4/2021: 95
+*  3/2021: 91
+*  2/2021: 71
+*  1/2021: 93
+*  12/2020: 63
+*  11/2020: 51
+*  10/2020: 55
+*  9/2020: 60
+*  8/2020: 60
+*  7/2020: 59
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2430
+Total Matches: 2436
 
-Total Results (Limited by GitHUB API): 405
+Total Results (Limited by GitHUB API): 406
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 1523
 | [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 187| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 12| 2021-06-21 | 2021-06-24 |
+| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 19| 2021-06-21 | 2021-06-25 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
 | [kairavi28/Dapp_Ipfs](https://github.com/kairavi28/Dapp_Ipfs)| 0 | 0 | 887| 2021-06-20 | 2021-06-20 |
 | [game-of-codes/IPFS-File-Upload-Dapp](https://github.com/game-of-codes/IPFS-File-Upload-Dapp)| 1 | 0 | 491| 2021-06-17 | 2021-06-17 |
