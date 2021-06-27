@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 71
-*  5/2021: 87
-*  4/2021: 95
-*  3/2021: 91
-*  2/2021: 71
-*  1/2021: 93
-*  12/2020: 63
-*  11/2020: 51
-*  10/2020: 55
-*  9/2020: 60
-*  8/2020: 60
-*  7/2020: 59
+*  6/2021: 88
+*  5/2021: 84
+*  4/2021: 94
+*  3/2021: 88
+*  2/2021: 75
+*  1/2021: 78
+*  12/2020: 49
+*  11/2020: 50
+*  10/2020: 50
+*  9/2020: 59
+*  8/2020: 66
+*  7/2020: 74
 
 ### GitHub Search
 
@@ -50,14 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2436
+Total Matches: 2430
 
-Total Results (Limited by GitHUB API): 406
+Total Results (Limited by GitHUB API): 405
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
-| [vinnymeller/ipfsio](https://github.com/vinnymeller/ipfsio)| 0 | 0 | 10| 2021-06-18 | 2021-06-18 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21378| 2021-06-12 | 2021-06-24 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 1 | 0 | 189| 2021-06-11 | 2021-06-21 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
@@ -66,6 +65,7 @@ Total Results (Limited by GitHUB API): 406
 | [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 33539| 2021-05-13 | 2021-05-24 |
 | [tezos-commons/tezos-ipfs](https://github.com/tezos-commons/tezos-ipfs)| 2 | 0 | 36832| 2021-04-26 | 2021-05-04 |
 | [scryptic86/gibon](https://github.com/scryptic86/gibon)| 0 | 0 | 191| 2021-04-22 | 2020-08-07 |
+| [anirudha-bs/Distributed_storage_ipfs](https://github.com/anirudha-bs/Distributed_storage_ipfs)| 0 | 0 | 18| 2021-04-20 | 2021-05-18 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88400
+Total Matches: 88500
 
-Total Results (Limited by GitHUB API): 1523
+Total Results (Limited by GitHUB API): 1525
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
+| [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7156| 2021-06-24 | 2021-06-26 |
 | [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
 | [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 187| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 19| 2021-06-21 | 2021-06-25 |
+| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 24| 2021-06-21 | 2021-06-26 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
 | [kairavi28/Dapp_Ipfs](https://github.com/kairavi28/Dapp_Ipfs)| 0 | 0 | 887| 2021-06-20 | 2021-06-20 |
 | [game-of-codes/IPFS-File-Upload-Dapp](https://github.com/game-of-codes/IPFS-File-Upload-Dapp)| 1 | 0 | 491| 2021-06-17 | 2021-06-17 |
-| [uncutgems/de-instagram](https://github.com/uncutgems/de-instagram)| 0 | 0 | 2188| 2021-06-16 | 2021-06-16 |
-| [alidevjimmy/bitstream](https://github.com/alidevjimmy/bitstream)| 0 | 0 | 109| 2021-06-16 | 2021-06-16 |
 
 
 The above set is limited to the 10 most recently created. 
