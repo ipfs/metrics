@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 88
-*  5/2021: 84
-*  4/2021: 94
-*  3/2021: 88
-*  2/2021: 75
-*  1/2021: 78
-*  12/2020: 49
-*  11/2020: 50
-*  10/2020: 50
-*  9/2020: 59
-*  8/2020: 66
-*  7/2020: 74
+*  6/2021: 92
+*  5/2021: 82
+*  4/2021: 95
+*  3/2021: 97
+*  2/2021: 66
+*  1/2021: 89
+*  12/2020: 57
+*  11/2020: 49
+*  10/2020: 60
+*  9/2020: 64
+*  8/2020: 59
+*  7/2020: 59
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 405
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21378| 2021-06-12 | 2021-06-24 |
-| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 1 | 0 | 189| 2021-06-11 | 2021-06-21 |
+| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 2 | 0 | 189| 2021-06-11 | 2021-06-21 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
@@ -73,19 +73,19 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88500
+Total Matches: 88492
 
-Total Results (Limited by GitHUB API): 1525
+Total Results (Limited by GitHUB API): 1526
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
-| [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7156| 2021-06-24 | 2021-06-26 |
+| [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7162| 2021-06-24 | 2021-06-27 |
 | [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
 | [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 187| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 24| 2021-06-21 | 2021-06-26 |
+| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 281| 2021-06-21 | 2021-06-27 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
 | [kairavi28/Dapp_Ipfs](https://github.com/kairavi28/Dapp_Ipfs)| 0 | 0 | 887| 2021-06-20 | 2021-06-20 |
 | [game-of-codes/IPFS-File-Upload-Dapp](https://github.com/game-of-codes/IPFS-File-Upload-Dapp)| 1 | 0 | 491| 2021-06-17 | 2021-06-17 |
