@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 69
-*  5/2021: 83
-*  4/2021: 85
-*  3/2021: 89
-*  2/2021: 67
-*  1/2021: 85
-*  12/2020: 52
-*  11/2020: 49
-*  10/2020: 53
-*  9/2020: 64
-*  8/2020: 58
-*  7/2020: 55
+*  6/2021: 82
+*  5/2021: 82
+*  4/2021: 92
+*  3/2021: 85
+*  2/2021: 64
+*  1/2021: 80
+*  12/2020: 56
+*  11/2020: 47
+*  10/2020: 54
+*  9/2020: 62
+*  8/2020: 55
+*  7/2020: 48
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88441
+Total Matches: 88550
 
 Total Results (Limited by GitHUB API): 1526
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 125| 2021-06-30 | 2021-06-30 |
 | [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
 | [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7162| 2021-06-24 | 2021-06-28 |
 | [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
 | [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 187| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [filecoin-storage/filecoin.storage](https://github.com/filecoin-storage/filecoin.storage)| 3 | 0 | 1410| 2021-06-21 | 2021-06-29 |
+| [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage)| 4 | 0 | 961| 2021-06-21 | 2021-06-30 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
 | [kairavi28/Dapp_Ipfs](https://github.com/kairavi28/Dapp_Ipfs)| 0 | 0 | 887| 2021-06-20 | 2021-06-20 |
-| [game-of-codes/IPFS-File-Upload-Dapp](https://github.com/game-of-codes/IPFS-File-Upload-Dapp)| 1 | 0 | 491| 2021-06-17 | 2021-06-17 |
 
 
 The above set is limited to the 10 most recently created. 
