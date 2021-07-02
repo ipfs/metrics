@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 82
+*  6/2021: 83
 *  5/2021: 82
-*  4/2021: 92
-*  3/2021: 85
-*  2/2021: 64
-*  1/2021: 80
-*  12/2020: 56
-*  11/2020: 47
-*  10/2020: 54
+*  4/2021: 76
+*  3/2021: 82
+*  2/2021: 76
+*  1/2021: 83
+*  12/2020: 52
+*  11/2020: 48
+*  10/2020: 50
 *  9/2020: 62
-*  8/2020: 55
-*  7/2020: 48
+*  8/2020: 58
+*  7/2020: 69
 
 ### GitHub Search
 
@@ -50,15 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2436
+Total Matches: 2442
 
-Total Results (Limited by GitHUB API): 406
+Total Results (Limited by GitHUB API): 407
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
-| [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21378| 2021-06-12 | 2021-06-24 |
+| [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21379| 2021-06-12 | 2021-07-01 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 2 | 0 | 189| 2021-06-11 | 2021-06-21 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
@@ -73,20 +73,20 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88550
+Total Matches: 88650
 
-Total Results (Limited by GitHUB API): 1526
+Total Results (Limited by GitHUB API): 1533
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 125| 2021-06-30 | 2021-06-30 |
+| [farque65/ipfs-upload-portal](https://github.com/farque65/ipfs-upload-portal)| 0 | 0 | 478| 2021-07-01 | 2021-07-01 |
+| [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 129| 2021-06-30 | 2021-07-01 |
 | [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
 | [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7162| 2021-06-24 | 2021-06-28 |
 | [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
-| [claytonnguyen/erc721maker](https://github.com/claytonnguyen/erc721maker)| 0 | 0 | 187| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage)| 4 | 0 | 961| 2021-06-21 | 2021-06-30 |
+| [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage)| 4 | 0 | 1311| 2021-06-21 | 2021-07-01 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
 | [kairavi28/Dapp_Ipfs](https://github.com/kairavi28/Dapp_Ipfs)| 0 | 0 | 887| 2021-06-20 | 2021-06-20 |
 
