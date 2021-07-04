@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  6/2021: 77
-*  5/2021: 73
-*  4/2021: 84
-*  3/2021: 80
-*  2/2021: 60
-*  1/2021: 91
-*  12/2020: 46
-*  11/2020: 41
+*  7/2021: 51
+*  6/2021: 78
+*  5/2021: 76
+*  4/2021: 100
+*  3/2021: 94
+*  2/2021: 64
+*  1/2021: 78
+*  12/2020: 55
+*  11/2020: 57
 *  10/2020: 52
-*  9/2020: 58
+*  9/2020: 60
 *  8/2020: 59
-*  7/2020: 71
 
 ### GitHub Search
 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 88750
 
-Total Results (Limited by GitHUB API): 1528
+Total Results (Limited by GitHUB API): 1534
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -87,7 +87,7 @@ Total Results (Limited by GitHUB API): 1528
 | [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
 | [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage)| 5 | 0 | 2581| 2021-06-21 | 2021-07-02 |
+| [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage)| 5 | 0 | 2968| 2021-06-21 | 2021-07-03 |
 | [anupamakoirala/IPFS_File_Storage_Dapp](https://github.com/anupamakoirala/IPFS_File_Storage_Dapp)| 0 | 0 | 428| 2021-06-21 | 2021-06-22 |
 
 
