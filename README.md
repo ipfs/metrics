@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 79
-*  6/2021: 82
-*  5/2021: 93
-*  4/2021: 90
-*  3/2021: 87
-*  2/2021: 71
-*  1/2021: 85
-*  12/2020: 52
-*  11/2020: 59
-*  10/2020: 59
-*  9/2020: 67
-*  8/2020: 52
+*  7/2021: 48
+*  6/2021: 75
+*  5/2021: 70
+*  4/2021: 83
+*  3/2021: 81
+*  2/2021: 62
+*  1/2021: 77
+*  12/2020: 49
+*  11/2020: 40
+*  10/2020: 51
+*  9/2020: 56
+*  8/2020: 56
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 408
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 257| 2021-06-25 | 2021-07-02 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 917| 2021-06-25 | 2021-07-05 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21379| 2021-06-12 | 2021-07-01 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 2 | 0 | 189| 2021-06-11 | 2021-06-21 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88800
+Total Matches: 88900
 
-Total Results (Limited by GitHUB API): 1532
+Total Results (Limited by GitHUB API): 1529
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [alxkzmn/matic-nft-testdrive](https://github.com/alxkzmn/matic-nft-testdrive)| 0 | 0 | 152| 2021-07-05 | 2021-07-05 |
+| [Developer-piyush/PMDPP](https://github.com/Developer-piyush/PMDPP)| 0 | 0 | 307| 2021-07-04 | 2021-07-04 |
 | [ClusterH/Flow-NFT-Project](https://github.com/ClusterH/Flow-NFT-Project)| 0 | 0 | 393| 2021-07-03 | 2021-07-04 |
 | [yashok24/Secure-and-Decentralized-Image-...](https://github.com/yashok24/Secure-and-Decentralized-Image-sharing-system)| 0 | 0 | 5992| 2021-07-02 | 2021-07-02 |
 | [farque65/ipfs-upload-portal](https://github.com/farque65/ipfs-upload-portal)| 0 | 0 | 478| 2021-07-01 | 2021-07-01 |
 | [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 129| 2021-06-30 | 2021-07-01 |
 | [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
-| [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7162| 2021-06-24 | 2021-06-28 |
+| [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7166| 2021-06-24 | 2021-07-05 |
 | [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
 | [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
-| [nishitchittora/Dapp-meme-of-the-day](https://github.com/nishitchittora/Dapp-meme-of-the-day)| 0 | 0 | 95| 2021-06-22 | 2021-06-22 |
-| [web3-storage/web3.storage](https://github.com/web3-storage/web3.storage)| 7 | 1 | 2968| 2021-06-21 | 2021-07-03 |
 
 
 The above set is limited to the 10 most recently created. 
