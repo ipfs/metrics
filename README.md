@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 48
-*  6/2021: 75
-*  5/2021: 70
-*  4/2021: 83
+*  7/2021: 64
+*  6/2021: 80
+*  5/2021: 69
+*  4/2021: 85
 *  3/2021: 81
-*  2/2021: 62
-*  1/2021: 77
-*  12/2020: 49
-*  11/2020: 40
-*  10/2020: 51
-*  9/2020: 56
-*  8/2020: 56
+*  2/2021: 71
+*  1/2021: 83
+*  12/2020: 48
+*  11/2020: 41
+*  10/2020: 41
+*  9/2020: 64
+*  8/2020: 61
 
 ### GitHub Search
 
@@ -57,10 +57,10 @@ Total Results (Limited by GitHUB API): 408
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 917| 2021-06-25 | 2021-07-05 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 949| 2021-06-25 | 2021-07-06 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21379| 2021-06-12 | 2021-07-01 |
-| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 2 | 0 | 189| 2021-06-11 | 2021-06-21 |
+| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88900
+Total Matches: 88950
 
-Total Results (Limited by GitHUB API): 1529
+Total Results (Limited by GitHUB API): 1530
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [alxkzmn/matic-nft-testdrive](https://github.com/alxkzmn/matic-nft-testdrive)| 0 | 0 | 152| 2021-07-05 | 2021-07-05 |
 | [Developer-piyush/PMDPP](https://github.com/Developer-piyush/PMDPP)| 0 | 0 | 307| 2021-07-04 | 2021-07-04 |
-| [ClusterH/Flow-NFT-Project](https://github.com/ClusterH/Flow-NFT-Project)| 0 | 0 | 393| 2021-07-03 | 2021-07-04 |
+| [ClusterH/Flow-NFT-Project](https://github.com/ClusterH/Flow-NFT-Project)| 1 | 0 | 393| 2021-07-03 | 2021-07-04 |
 | [yashok24/Secure-and-Decentralized-Image-...](https://github.com/yashok24/Secure-and-Decentralized-Image-sharing-system)| 0 | 0 | 5992| 2021-07-02 | 2021-07-02 |
 | [farque65/ipfs-upload-portal](https://github.com/farque65/ipfs-upload-portal)| 0 | 0 | 478| 2021-07-01 | 2021-07-01 |
 | [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 129| 2021-06-30 | 2021-07-01 |
