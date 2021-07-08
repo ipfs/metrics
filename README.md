@@ -21,16 +21,16 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  7/2021: 64
-*  6/2021: 80
-*  5/2021: 69
+*  6/2021: 78
+*  5/2021: 72
 *  4/2021: 85
-*  3/2021: 81
+*  3/2021: 83
 *  2/2021: 71
-*  1/2021: 83
-*  12/2020: 48
-*  11/2020: 41
-*  10/2020: 41
-*  9/2020: 64
+*  1/2021: 94
+*  12/2020: 51
+*  11/2020: 43
+*  10/2020: 54
+*  9/2020: 74
 *  8/2020: 61
 
 ### GitHub Search
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2448
+Total Matches: 2460
 
-Total Results (Limited by GitHUB API): 408
+Total Results (Limited by GitHUB API): 410
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 88950
+Total Matches: 89050
 
 Total Results (Limited by GitHUB API): 1530
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [mileszim/ember-cli-ipfs](https://github.com/mileszim/ember-cli-ipfs)| 0 | 0 | 187| 2021-07-07 | 2021-07-07 |
+| [FilosofiaCodigo/EjemploIPFS](https://github.com/FilosofiaCodigo/EjemploIPFS)| 0 | 0 | 183| 2021-07-07 | 2021-07-07 |
 | [alxkzmn/matic-nft-testdrive](https://github.com/alxkzmn/matic-nft-testdrive)| 0 | 0 | 152| 2021-07-05 | 2021-07-05 |
 | [Developer-piyush/PMDPP](https://github.com/Developer-piyush/PMDPP)| 0 | 0 | 307| 2021-07-04 | 2021-07-04 |
 | [ClusterH/Flow-NFT-Project](https://github.com/ClusterH/Flow-NFT-Project)| 1 | 0 | 393| 2021-07-03 | 2021-07-04 |
@@ -86,9 +88,7 @@ Total Results (Limited by GitHUB API): 1530
 | [farque65/ipfs-upload-portal](https://github.com/farque65/ipfs-upload-portal)| 0 | 0 | 478| 2021-07-01 | 2021-07-01 |
 | [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 129| 2021-06-30 | 2021-07-01 |
 | [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
-| [LeKarimDerradji/AdVitamAeternam](https://github.com/LeKarimDerradji/AdVitamAeternam)| 0 | 0 | 7166| 2021-06-24 | 2021-07-05 |
-| [maverickamit/react-ipfs-hosting](https://github.com/maverickamit/react-ipfs-hosting)| 0 | 0 | 249| 2021-06-23 | 2021-06-23 |
-| [StarKeyJON/web3_instagram](https://github.com/StarKeyJON/web3_instagram)| 0 | 0 | 514| 2021-06-22 | 2021-06-22 |
+| [KarimDer/AdVitamAeternam](https://github.com/KarimDer/AdVitamAeternam)| 0 | 0 | 7166| 2021-06-24 | 2021-07-05 |
 
 
 The above set is limited to the 10 most recently created. 
