@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  7/2021: 64
-*  6/2021: 78
-*  5/2021: 72
-*  4/2021: 85
-*  3/2021: 83
-*  2/2021: 71
-*  1/2021: 94
-*  12/2020: 51
-*  11/2020: 43
-*  10/2020: 54
-*  9/2020: 74
-*  8/2020: 61
+*  6/2021: 86
+*  5/2021: 79
+*  4/2021: 81
+*  3/2021: 82
+*  2/2021: 73
+*  1/2021: 78
+*  12/2020: 52
+*  11/2020: 44
+*  10/2020: 51
+*  9/2020: 61
+*  8/2020: 63
 
 ### GitHub Search
 
@@ -50,14 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2460
+Total Matches: 2448
 
-Total Results (Limited by GitHUB API): 410
+Total Results (Limited by GitHUB API): 408
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 949| 2021-06-25 | 2021-07-06 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 970| 2021-06-25 | 2021-07-08 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21379| 2021-06-12 | 2021-07-01 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89050
+Total Matches: 89075
 
-Total Results (Limited by GitHUB API): 1530
+Total Results (Limited by GitHUB API): 1539
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [perspect3vism/lang-note-ipfs](https://github.com/perspect3vism/lang-note-ipfs)| 0 | 0 | 68| 2021-07-08 | 2021-07-08 |
+| [kvutien/orbitdb-tuto-sh](https://github.com/kvutien/orbitdb-tuto-sh)| 0 | 0 | 100| 2021-07-07 | 2021-07-08 |
 | [mileszim/ember-cli-ipfs](https://github.com/mileszim/ember-cli-ipfs)| 0 | 0 | 187| 2021-07-07 | 2021-07-07 |
 | [FilosofiaCodigo/EjemploIPFS](https://github.com/FilosofiaCodigo/EjemploIPFS)| 0 | 0 | 183| 2021-07-07 | 2021-07-07 |
 | [alxkzmn/matic-nft-testdrive](https://github.com/alxkzmn/matic-nft-testdrive)| 0 | 0 | 152| 2021-07-05 | 2021-07-05 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1530
 | [yashok24/Secure-and-Decentralized-Image-...](https://github.com/yashok24/Secure-and-Decentralized-Image-sharing-system)| 0 | 0 | 5992| 2021-07-02 | 2021-07-02 |
 | [farque65/ipfs-upload-portal](https://github.com/farque65/ipfs-upload-portal)| 0 | 0 | 478| 2021-07-01 | 2021-07-01 |
 | [Jeremyb61/Layer-2-ETH-NFT](https://github.com/Jeremyb61/Layer-2-ETH-NFT)| 0 | 0 | 129| 2021-06-30 | 2021-07-01 |
-| [hackyguru/PassVault](https://github.com/hackyguru/PassVault)| 0 | 0 | 32635| 2021-06-26 | 2021-06-26 |
-| [KarimDer/AdVitamAeternam](https://github.com/KarimDer/AdVitamAeternam)| 0 | 0 | 7166| 2021-06-24 | 2021-07-05 |
 
 
 The above set is limited to the 10 most recently created. 
