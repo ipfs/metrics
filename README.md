@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 66
-*  6/2021: 85
-*  5/2021: 79
-*  4/2021: 88
-*  3/2021: 88
-*  2/2021: 65
-*  1/2021: 89
-*  12/2020: 55
-*  11/2020: 38
-*  10/2020: 56
-*  9/2020: 69
-*  8/2020: 63
+*  7/2021: 81
+*  6/2021: 92
+*  5/2021: 98
+*  4/2021: 95
+*  3/2021: 94
+*  2/2021: 72
+*  1/2021: 91
+*  12/2020: 65
+*  11/2020: 54
+*  10/2020: 66
+*  9/2020: 71
+*  8/2020: 68
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 409
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 979| 2021-06-25 | 2021-07-09 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1494| 2021-06-25 | 2021-07-10 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21379| 2021-06-12 | 2021-07-01 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
@@ -65,7 +65,7 @@ Total Results (Limited by GitHUB API): 409
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
 | [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 33539| 2021-05-13 | 2021-05-24 |
-| [beyondstorage/go-service-ipfs](https://github.com/beyondstorage/go-service-ipfs)| 0 | 1 | 20| 2021-04-30 | 2021-07-09 |
+| [beyondstorage/go-service-ipfs](https://github.com/beyondstorage/go-service-ipfs)| 0 | 1 | 20| 2021-04-30 | 2021-07-11 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89250
+Total Matches: 89550
 
-Total Results (Limited by GitHUB API): 1534
+Total Results (Limited by GitHUB API): 1542
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [zhangguangyan/jsipfs-pnet](https://github.com/zhangguangyan/jsipfs-pnet)| 0 | 0 | 1| 2021-07-10 | 2021-07-11 |
+| [staticinstance/IPFSImageETHVoter](https://github.com/staticinstance/IPFSImageETHVoter)| 0 | 0 | 396| 2021-07-10 | 2021-07-11 |
+| [ahsan-arif/Crypto-Art](https://github.com/ahsan-arif/Crypto-Art)| 0 | 0 | 88642| 2021-07-10 | 2021-07-10 |
+| [pradyumnabilagi/BlockChain-Node](https://github.com/pradyumnabilagi/BlockChain-Node)| 0 | 0 | 5283| 2021-07-10 | 2021-07-10 |
+| [Airtune/banano-ipfs](https://github.com/Airtune/banano-ipfs)| 0 | 0 | 72| 2021-07-10 | 2021-07-10 |
 | [mileszim/ember-cli-deploy-ipfs](https://github.com/mileszim/ember-cli-deploy-ipfs)| 0 | 0 | 404| 2021-07-09 | 2021-07-09 |
 | [4everland/4ever-cluster-cli](https://github.com/4everland/4ever-cluster-cli)| 0 | 0 | 64| 2021-07-09 | 2021-07-09 |
 | [perspect3vism/lang-note-ipfs](https://github.com/perspect3vism/lang-note-ipfs)| 0 | 0 | 68| 2021-07-08 | 2021-07-08 |
 | [kvutien/orbitdb-tuto-sh](https://github.com/kvutien/orbitdb-tuto-sh)| 0 | 0 | 104| 2021-07-07 | 2021-07-09 |
 | [mileszim/ember-cli-ipfs](https://github.com/mileszim/ember-cli-ipfs)| 0 | 0 | 252| 2021-07-07 | 2021-07-09 |
-| [FilosofiaCodigo/EjemploIPFS](https://github.com/FilosofiaCodigo/EjemploIPFS)| 0 | 0 | 183| 2021-07-07 | 2021-07-07 |
-| [alxkzmn/matic-nft-testdrive](https://github.com/alxkzmn/matic-nft-testdrive)| 0 | 0 | 152| 2021-07-05 | 2021-07-05 |
-| [Developer-piyush/PMDPP](https://github.com/Developer-piyush/PMDPP)| 0 | 0 | 307| 2021-07-04 | 2021-07-04 |
-| [yashok24/Secure-and-Decentralized-Image-...](https://github.com/yashok24/Secure-and-Decentralized-Image-sharing-system)| 0 | 0 | 5992| 2021-07-02 | 2021-07-02 |
-| [farque65/ipfs-upload-portal](https://github.com/farque65/ipfs-upload-portal)| 0 | 0 | 478| 2021-07-01 | 2021-07-01 |
 
 
 The above set is limited to the 10 most recently created. 
