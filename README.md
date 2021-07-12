@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 81
+*  7/2021: 74
 *  6/2021: 92
-*  5/2021: 98
+*  5/2021: 81
 *  4/2021: 95
-*  3/2021: 94
-*  2/2021: 72
+*  3/2021: 91
+*  2/2021: 70
 *  1/2021: 91
-*  12/2020: 65
-*  11/2020: 54
-*  10/2020: 66
-*  9/2020: 71
+*  12/2020: 54
+*  11/2020: 42
+*  10/2020: 57
+*  9/2020: 65
 *  8/2020: 68
 
 ### GitHub Search
@@ -59,13 +59,13 @@ Total Results (Limited by GitHUB API): 409
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
 | [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1494| 2021-06-25 | 2021-07-10 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
-| [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21379| 2021-06-12 | 2021-07-01 |
+| [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-11 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
 | [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 33539| 2021-05-13 | 2021-05-24 |
-| [beyondstorage/go-service-ipfs](https://github.com/beyondstorage/go-service-ipfs)| 0 | 1 | 20| 2021-04-30 | 2021-07-11 |
+| [beyondstorage/go-service-ipfs](https://github.com/beyondstorage/go-service-ipfs)| 0 | 1 | 19| 2021-04-30 | 2021-07-11 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -75,15 +75,15 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 89550
 
-Total Results (Limited by GitHUB API): 1542
+Total Results (Limited by GitHUB API): 1539
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [zhangguangyan/jsipfs-pnet](https://github.com/zhangguangyan/jsipfs-pnet)| 0 | 0 | 1| 2021-07-10 | 2021-07-11 |
-| [staticinstance/IPFSImageETHVoter](https://github.com/staticinstance/IPFSImageETHVoter)| 0 | 0 | 396| 2021-07-10 | 2021-07-11 |
+| [zhangguangyan/jsipfs-prviate-network](https://github.com/zhangguangyan/jsipfs-prviate-network)| 0 | 0 | 170| 2021-07-10 | 2021-07-11 |
+| [staticinstance/IPFSImageETHVoter](https://github.com/staticinstance/IPFSImageETHVoter)| 0 | 0 | 405| 2021-07-10 | 2021-07-11 |
 | [ahsan-arif/Crypto-Art](https://github.com/ahsan-arif/Crypto-Art)| 0 | 0 | 88642| 2021-07-10 | 2021-07-10 |
 | [pradyumnabilagi/BlockChain-Node](https://github.com/pradyumnabilagi/BlockChain-Node)| 0 | 0 | 5283| 2021-07-10 | 2021-07-10 |
-| [Airtune/banano-ipfs](https://github.com/Airtune/banano-ipfs)| 0 | 0 | 72| 2021-07-10 | 2021-07-10 |
+| [Airtune/banano-ipfs](https://github.com/Airtune/banano-ipfs)| 0 | 0 | 73| 2021-07-10 | 2021-07-11 |
 | [mileszim/ember-cli-deploy-ipfs](https://github.com/mileszim/ember-cli-deploy-ipfs)| 0 | 0 | 404| 2021-07-09 | 2021-07-09 |
 | [4everland/4ever-cluster-cli](https://github.com/4everland/4ever-cluster-cli)| 0 | 0 | 64| 2021-07-09 | 2021-07-09 |
 | [perspect3vism/lang-note-ipfs](https://github.com/perspect3vism/lang-note-ipfs)| 0 | 0 | 68| 2021-07-08 | 2021-07-08 |
