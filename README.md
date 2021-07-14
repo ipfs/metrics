@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 73
-*  6/2021: 79
-*  5/2021: 80
-*  4/2021: 100
-*  3/2021: 93
-*  2/2021: 69
-*  1/2021: 81
-*  12/2020: 52
-*  11/2020: 53
-*  10/2020: 55
-*  9/2020: 69
-*  8/2020: 58
+*  7/2021: 75
+*  6/2021: 69
+*  5/2021: 79
+*  4/2021: 92
+*  3/2021: 98
+*  2/2021: 71
+*  1/2021: 88
+*  12/2020: 53
+*  11/2020: 47
+*  10/2020: 59
+*  9/2020: 68
+*  8/2020: 63
 
 ### GitHub Search
 
@@ -56,13 +56,13 @@ Total Results (Limited by GitHUB API): 410
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 0 | 0 | 28915| 2021-07-08 | 2021-07-13 |
+| [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 2 | 0 | 28922| 2021-07-08 | 2021-07-13 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1510| 2021-06-25 | 2021-07-12 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1522| 2021-06-25 | 2021-07-13 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
-| [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-11 |
+| [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-13 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
-| [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 0 | 0 | 40| 2021-05-18 | 2021-05-18 |
+| [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 1 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
 | [hamersaw/bitswap-cannon](https://github.com/hamersaw/bitswap-cannon)| 0 | 0 | 33539| 2021-05-13 | 2021-05-24 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89550
+Total Matches: 89650
 
-Total Results (Limited by GitHUB API): 1539
+Total Results (Limited by GitHUB API): 1541
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 1765| 2021-07-13 | 2021-07-14 |
 | [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
+| [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 0 | 1294| 2021-07-12 | 2021-07-13 |
+| [Frenzoid/DAPP_Instagram](https://github.com/Frenzoid/DAPP_Instagram)| 0 | 0 | 1071| 2021-07-12 | 2021-07-13 |
 | [zhangguangyan/jsipfs-prviate-network](https://github.com/zhangguangyan/jsipfs-prviate-network)| 0 | 0 | 170| 2021-07-10 | 2021-07-11 |
 | [staticinstance/IPFSImageETHVoter](https://github.com/staticinstance/IPFSImageETHVoter)| 0 | 0 | 405| 2021-07-10 | 2021-07-11 |
 | [ahsan-arif/Crypto-Art](https://github.com/ahsan-arif/Crypto-Art)| 0 | 0 | 88642| 2021-07-10 | 2021-07-10 |
-| [pradyumnabilagi/BlockChain-Node](https://github.com/pradyumnabilagi/BlockChain-Node)| 0 | 0 | 5283| 2021-07-10 | 2021-07-10 |
+| [pradyumnabilagi/BlockChain-Node](https://github.com/pradyumnabilagi/BlockChain-Node)| 0 | 0 | 5360| 2021-07-10 | 2021-07-13 |
 | [Airtune/banano-ipfs](https://github.com/Airtune/banano-ipfs)| 0 | 0 | 73| 2021-07-10 | 2021-07-11 |
 | [mileszim/ember-cli-deploy-ipfs](https://github.com/mileszim/ember-cli-deploy-ipfs)| 0 | 0 | 404| 2021-07-09 | 2021-07-09 |
-| [4everland/4ever-cluster-cli](https://github.com/4everland/4ever-cluster-cli)| 0 | 0 | 64| 2021-07-09 | 2021-07-09 |
-| [perspect3vism/lang-note-ipfs](https://github.com/perspect3vism/lang-note-ipfs)| 0 | 0 | 68| 2021-07-08 | 2021-07-08 |
-| [kvutien/orbitdb-tuto-sh](https://github.com/kvutien/orbitdb-tuto-sh)| 0 | 0 | 104| 2021-07-07 | 2021-07-09 |
 
 
 The above set is limited to the 10 most recently created. 
