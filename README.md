@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 64
-*  6/2021: 81
-*  5/2021: 77
-*  4/2021: 75
+*  7/2021: 60
+*  6/2021: 75
+*  5/2021: 74
+*  4/2021: 90
 *  3/2021: 93
-*  2/2021: 65
-*  1/2021: 71
-*  12/2020: 45
-*  11/2020: 57
-*  10/2020: 55
-*  9/2020: 61
-*  8/2020: 60
+*  2/2021: 64
+*  1/2021: 85
+*  12/2020: 57
+*  11/2020: 48
+*  10/2020: 52
+*  9/2020: 62
+*  8/2020: 58
 
 ### GitHub Search
 
@@ -56,10 +56,10 @@ Total Results (Limited by GitHUB API): 411
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 4| 2021-07-14 | 2021-07-14 |
+| [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 2 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1522| 2021-06-25 | 2021-07-13 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1528| 2021-06-25 | 2021-07-15 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-13 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
@@ -75,13 +75,13 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 89750
 
-Total Results (Limited by GitHUB API): 1541
+Total Results (Limited by GitHUB API): 1550
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 0 | 418| 2021-07-14 | 2021-07-14 |
 | [thestriver/Memories](https://github.com/thestriver/Memories)| 0 | 0 | 420| 2021-07-14 | 2021-07-14 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 1779| 2021-07-13 | 2021-07-14 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 1794| 2021-07-13 | 2021-07-15 |
 | [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
 | [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 0 | 1294| 2021-07-12 | 2021-07-13 |
 | [Frenzoid/DAPP_Instagram](https://github.com/Frenzoid/DAPP_Instagram)| 0 | 0 | 1071| 2021-07-12 | 2021-07-13 |
