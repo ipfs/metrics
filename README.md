@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 60
-*  6/2021: 75
-*  5/2021: 74
-*  4/2021: 90
-*  3/2021: 93
-*  2/2021: 64
-*  1/2021: 85
-*  12/2020: 57
+*  7/2021: 69
+*  6/2021: 77
+*  5/2021: 88
+*  4/2021: 100
+*  3/2021: 83
+*  2/2021: 70
+*  1/2021: 95
+*  12/2020: 56
 *  11/2020: 48
-*  10/2020: 52
-*  9/2020: 62
-*  8/2020: 58
+*  10/2020: 58
+*  9/2020: 61
+*  8/2020: 61
 
 ### GitHub Search
 
@@ -73,15 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89750
+Total Matches: 89800
 
-Total Results (Limited by GitHUB API): 1550
+Total Results (Limited by GitHUB API): 1551
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 0 | 418| 2021-07-14 | 2021-07-14 |
 | [thestriver/Memories](https://github.com/thestriver/Memories)| 0 | 0 | 420| 2021-07-14 | 2021-07-14 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 1794| 2021-07-13 | 2021-07-15 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 1932| 2021-07-13 | 2021-07-16 |
 | [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
 | [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 0 | 1294| 2021-07-12 | 2021-07-13 |
 | [Frenzoid/DAPP_Instagram](https://github.com/Frenzoid/DAPP_Instagram)| 0 | 0 | 1071| 2021-07-12 | 2021-07-13 |
