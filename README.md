@@ -20,17 +20,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 69
-*  6/2021: 77
-*  5/2021: 88
-*  4/2021: 100
-*  3/2021: 83
-*  2/2021: 70
-*  1/2021: 95
-*  12/2020: 56
-*  11/2020: 48
-*  10/2020: 58
-*  9/2020: 61
+*  7/2021: 63
+*  6/2021: 78
+*  5/2021: 84
+*  4/2021: 87
+*  3/2021: 84
+*  2/2021: 64
+*  1/2021: 96
+*  12/2020: 46
+*  11/2020: 44
+*  10/2020: 53
+*  9/2020: 67
 *  8/2020: 61
 
 ### GitHub Search
@@ -75,15 +75,15 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 89800
 
-Total Results (Limited by GitHUB API): 1551
+Total Results (Limited by GitHUB API): 1543
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 0 | 418| 2021-07-14 | 2021-07-14 |
 | [thestriver/Memories](https://github.com/thestriver/Memories)| 0 | 0 | 420| 2021-07-14 | 2021-07-14 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 1932| 2021-07-13 | 2021-07-16 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 2431| 2021-07-13 | 2021-07-17 |
 | [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
-| [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 0 | 1294| 2021-07-12 | 2021-07-13 |
+| [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 1 | 1294| 2021-07-12 | 2021-07-13 |
 | [Frenzoid/DAPP_Instagram](https://github.com/Frenzoid/DAPP_Instagram)| 0 | 0 | 1071| 2021-07-12 | 2021-07-13 |
 | [zhangguangyan/jsipfs-prviate-network](https://github.com/zhangguangyan/jsipfs-prviate-network)| 0 | 0 | 170| 2021-07-10 | 2021-07-11 |
 | [staticinstance/IPFSImageETHVoter](https://github.com/staticinstance/IPFSImageETHVoter)| 0 | 0 | 405| 2021-07-10 | 2021-07-11 |
