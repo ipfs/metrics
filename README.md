@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 78
-*  6/2021: 85
-*  5/2021: 83
-*  4/2021: 90
-*  3/2021: 94
-*  2/2021: 76
-*  1/2021: 85
-*  12/2020: 57
-*  11/2020: 54
-*  10/2020: 62
-*  9/2020: 55
-*  8/2020: 59
+*  7/2021: 67
+*  6/2021: 78
+*  5/2021: 71
+*  4/2021: 79
+*  3/2021: 80
+*  2/2021: 64
+*  1/2021: 95
+*  12/2020: 46
+*  11/2020: 44
+*  10/2020: 51
+*  9/2020: 60
+*  8/2020: 55
 
 ### GitHub Search
 
@@ -59,10 +59,10 @@ Total Results (Limited by GitHUB API): 411
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 3 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1528| 2021-06-25 | 2021-07-15 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1604| 2021-06-25 | 2021-07-19 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-13 |
-| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 192| 2021-06-11 | 2021-07-06 |
+| [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 195| 2021-06-11 | 2021-07-19 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 1 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
 | [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89900
+Total Matches: 89940
 
 Total Results (Limited by GitHUB API): 1544
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [skogard/nebulus](https://github.com/skogard/nebulus)| 84 | 2 | 5923| 2021-07-19 | 2021-07-19 |
 | [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 222| 2021-07-18 | 2021-07-18 |
 | [samshi/ipfs360](https://github.com/samshi/ipfs360)| 0 | 0 | 892| 2021-07-18 | 2021-07-18 |
-| [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 0 | 418| 2021-07-14 | 2021-07-14 |
-| [thestriver/Memories](https://github.com/thestriver/Memories)| 0 | 0 | 420| 2021-07-14 | 2021-07-14 |
+| [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 1 | 419| 2021-07-14 | 2021-07-19 |
+| [thestriver/Memories](https://github.com/thestriver/Memories)| 0 | 0 | 432| 2021-07-14 | 2021-07-19 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 2912| 2021-07-13 | 2021-07-18 |
 | [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
 | [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 1 | 1294| 2021-07-12 | 2021-07-13 |
 | [Frenzoid/DAPP_Instagram](https://github.com/Frenzoid/DAPP_Instagram)| 0 | 0 | 1071| 2021-07-12 | 2021-07-13 |
 | [zhangguangyan/jsipfs-prviate-network](https://github.com/zhangguangyan/jsipfs-prviate-network)| 0 | 0 | 170| 2021-07-10 | 2021-07-11 |
-| [staticinstance/IPFSImageETHVoter](https://github.com/staticinstance/IPFSImageETHVoter)| 0 | 0 | 405| 2021-07-10 | 2021-07-11 |
 
 
 The above set is limited to the 10 most recently created. 
