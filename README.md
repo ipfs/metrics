@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 67
-*  6/2021: 78
-*  5/2021: 71
-*  4/2021: 79
-*  3/2021: 80
-*  2/2021: 64
-*  1/2021: 95
-*  12/2020: 46
-*  11/2020: 44
-*  10/2020: 51
-*  9/2020: 60
-*  8/2020: 55
+*  7/2021: 73
+*  6/2021: 68
+*  5/2021: 76
+*  4/2021: 78
+*  3/2021: 81
+*  2/2021: 69
+*  1/2021: 65
+*  12/2020: 38
+*  11/2020: 50
+*  10/2020: 50
+*  9/2020: 58
+*  8/2020: 53
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2466
+Total Matches: 2460
 
-Total Results (Limited by GitHUB API): 411
+Total Results (Limited by GitHUB API): 410
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 89940
+Total Matches: 90000
 
-Total Results (Limited by GitHUB API): 1544
+Total Results (Limited by GitHUB API): 1551
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [skogard/nebulus](https://github.com/skogard/nebulus)| 84 | 2 | 5923| 2021-07-19 | 2021-07-19 |
+| [MatrixStorageTech2021/ipfs-cid](https://github.com/MatrixStorageTech2021/ipfs-cid)| 0 | 0 | 131| 2021-07-20 | 2021-07-20 |
+| [skogard/nebulus](https://github.com/skogard/nebulus)| 145 | 3 | 6012| 2021-07-19 | 2021-07-20 |
 | [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 222| 2021-07-18 | 2021-07-18 |
 | [samshi/ipfs360](https://github.com/samshi/ipfs360)| 0 | 0 | 892| 2021-07-18 | 2021-07-18 |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 1 | 419| 2021-07-14 | 2021-07-19 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1544
 | [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
 | [Frenzoid/DAPP_Dropbox](https://github.com/Frenzoid/DAPP_Dropbox)| 0 | 1 | 1294| 2021-07-12 | 2021-07-13 |
 | [Frenzoid/DAPP_Instagram](https://github.com/Frenzoid/DAPP_Instagram)| 0 | 0 | 1071| 2021-07-12 | 2021-07-13 |
-| [zhangguangyan/jsipfs-prviate-network](https://github.com/zhangguangyan/jsipfs-prviate-network)| 0 | 0 | 170| 2021-07-10 | 2021-07-11 |
 
 
 The above set is limited to the 10 most recently created. 
