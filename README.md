@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 81
-*  6/2021: 84
-*  5/2021: 85
-*  4/2021: 95
-*  3/2021: 100
-*  2/2021: 77
-*  1/2021: 89
-*  12/2020: 54
-*  11/2020: 47
-*  10/2020: 57
-*  9/2020: 63
-*  8/2020: 55
+*  7/2021: 77
+*  6/2021: 80
+*  5/2021: 83
+*  4/2021: 100
+*  3/2021: 92
+*  2/2021: 75
+*  1/2021: 86
+*  12/2020: 62
+*  11/2020: 56
+*  10/2020: 60
+*  9/2020: 61
+*  8/2020: 58
 
 ### GitHub Search
 
@@ -57,7 +57,7 @@ Total Results (Limited by GitHUB API): 410
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
-| [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 3 | 0 | 28929| 2021-07-08 | 2021-07-14 |
+| [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 4 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
 | [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1604| 2021-06-25 | 2021-07-19 |
 | [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90015
+Total Matches: 90132
 
 Total Results (Limited by GitHUB API): 1544
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Atharvshukla/Dappstragram](https://github.com/Atharvshukla/Dappstragram)| 0 | 0 | 55460| 2021-07-22 | 2021-07-22 |
+| [ShowBaba/secure-file-storage-api](https://github.com/ShowBaba/secure-file-storage-api)| 0 | 0 | 170| 2021-07-22 | 2021-07-22 |
 | [TheHusband/Blockchain-Social-Media](https://github.com/TheHusband/Blockchain-Social-Media)| 0 | 0 | 596| 2021-07-21 | 2021-07-21 |
-| [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 0 | 4| 2021-07-21 | 2021-07-21 |
+| [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 1 | 4| 2021-07-21 | 2021-07-21 |
 | [MatrixStorageTech2021/ipfs-cid](https://github.com/MatrixStorageTech2021/ipfs-cid)| 0 | 0 | 137| 2021-07-20 | 2021-07-21 |
-| [skogard/nebulus](https://github.com/skogard/nebulus)| 151 | 3 | 6012| 2021-07-19 | 2021-07-20 |
+| [skogard/nebulus](https://github.com/skogard/nebulus)| 159 | 4 | 6012| 2021-07-19 | 2021-07-20 |
 | [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 222| 2021-07-18 | 2021-07-18 |
 | [samshi/ipfs360](https://github.com/samshi/ipfs360)| 0 | 0 | 892| 2021-07-18 | 2021-07-18 |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 1 | 419| 2021-07-14 | 2021-07-19 |
 | [thestriver/Memories](https://github.com/thestriver/Memories)| 0 | 0 | 432| 2021-07-14 | 2021-07-19 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-service)| 0 | 0 | 2915| 2021-07-13 | 2021-07-21 |
-| [inevolin/ipfs-file-encryption](https://github.com/inevolin/ipfs-file-encryption)| 0 | 0 | 41| 2021-07-12 | 2021-07-12 |
 
 
 The above set is limited to the 10 most recently created. 
