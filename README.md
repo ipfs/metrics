@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 66
-*  6/2021: 88
+*  7/2021: 61
+*  6/2021: 82
 *  5/2021: 80
-*  4/2021: 85
-*  3/2021: 91
-*  2/2021: 68
-*  1/2021: 92
-*  12/2020: 50
-*  11/2020: 48
-*  10/2020: 58
-*  9/2020: 62
-*  8/2020: 66
+*  4/2021: 77
+*  3/2021: 82
+*  2/2021: 62
+*  1/2021: 95
+*  12/2020: 48
+*  11/2020: 50
+*  10/2020: 57
+*  9/2020: 71
+*  8/2020: 53
 
 ### GitHub Search
 
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 90250
 
-Total Results (Limited by GitHUB API): 1549
+Total Results (Limited by GitHUB API): 1557
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -85,7 +85,7 @@ Total Results (Limited by GitHUB API): 1549
 | [TheHusband/Blockchain-Social-Media](https://github.com/TheHusband/Blockchain-Social-Media)| 0 | 0 | 596| 2021-07-21 | 2021-07-21 |
 | [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 1 | 4| 2021-07-21 | 2021-07-21 |
 | [MatrixStorageTech2021/ipfs-cid](https://github.com/MatrixStorageTech2021/ipfs-cid)| 0 | 0 | 137| 2021-07-20 | 2021-07-23 |
-| [skogard/nebulus](https://github.com/skogard/nebulus)| 165 | 5 | 6012| 2021-07-19 | 2021-07-20 |
+| [skogard/nebulus](https://github.com/skogard/nebulus)| 168 | 5 | 6012| 2021-07-19 | 2021-07-20 |
 | [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 222| 2021-07-18 | 2021-07-18 |
 | [samshi/ipfs360](https://github.com/samshi/ipfs360)| 0 | 0 | 892| 2021-07-18 | 2021-07-18 |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 1 | 419| 2021-07-14 | 2021-07-19 |
