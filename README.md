@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 61
-*  6/2021: 82
-*  5/2021: 80
-*  4/2021: 77
-*  3/2021: 82
-*  2/2021: 62
-*  1/2021: 95
-*  12/2020: 48
-*  11/2020: 50
-*  10/2020: 57
-*  9/2020: 71
-*  8/2020: 53
+*  7/2021: 81
+*  6/2021: 81
+*  5/2021: 89
+*  4/2021: 88
+*  3/2021: 87
+*  2/2021: 67
+*  1/2021: 99
+*  12/2020: 62
+*  11/2020: 55
+*  10/2020: 58
+*  9/2020: 60
+*  8/2020: 61
 
 ### GitHub Search
 
@@ -73,19 +73,19 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90250
+Total Matches: 90157
 
-Total Results (Limited by GitHUB API): 1557
+Total Results (Limited by GitHUB API): 1554
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2003| 2021-07-25 | 2021-07-26 |
 | [remzicicek/HacettepeUniversity-DesignPro...](https://github.com/remzicicek/HacettepeUniversity-DesignProject)| 0 | 0 | 8827| 2021-07-23 | 2021-07-23 |
 | [Atharvshukla/Dappstragram](https://github.com/Atharvshukla/Dappstragram)| 0 | 0 | 55460| 2021-07-22 | 2021-07-22 |
 | [ShowBaba/secure-file-storage-api](https://github.com/ShowBaba/secure-file-storage-api)| 0 | 0 | 170| 2021-07-22 | 2021-07-22 |
-| [TheHusband/Blockchain-Social-Media](https://github.com/TheHusband/Blockchain-Social-Media)| 0 | 0 | 596| 2021-07-21 | 2021-07-21 |
 | [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 1 | 4| 2021-07-21 | 2021-07-21 |
 | [MatrixStorageTech2021/ipfs-cid](https://github.com/MatrixStorageTech2021/ipfs-cid)| 0 | 0 | 137| 2021-07-20 | 2021-07-23 |
-| [skogard/nebulus](https://github.com/skogard/nebulus)| 168 | 5 | 6012| 2021-07-19 | 2021-07-20 |
+| [skogard/nebulus](https://github.com/skogard/nebulus)| 173 | 5 | 6012| 2021-07-19 | 2021-07-20 |
 | [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 222| 2021-07-18 | 2021-07-18 |
 | [samshi/ipfs360](https://github.com/samshi/ipfs360)| 0 | 0 | 892| 2021-07-18 | 2021-07-18 |
 | [TheSachsquatch/NFT-Sample-](https://github.com/TheSachsquatch/NFT-Sample-)| 0 | 1 | 419| 2021-07-14 | 2021-07-19 |
