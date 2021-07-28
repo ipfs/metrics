@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 70
-*  6/2021: 83
-*  5/2021: 89
-*  4/2021: 91
-*  3/2021: 88
-*  2/2021: 67
-*  1/2021: 78
-*  12/2020: 52
-*  11/2020: 56
-*  10/2020: 54
-*  9/2020: 54
-*  8/2020: 64
+*  7/2021: 71
+*  6/2021: 78
+*  5/2021: 78
+*  4/2021: 79
+*  3/2021: 82
+*  2/2021: 62
+*  1/2021: 75
+*  12/2020: 40
+*  11/2020: 49
+*  10/2020: 50
+*  9/2020: 51
+*  8/2020: 56
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2460
 
-Total Results (Limited by GitHUB API): 410
+Total Results (Limited by GitHUB API): 409
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90144
+Total Matches: 90200
 
-Total Results (Limited by GitHUB API): 1546
+Total Results (Limited by GitHUB API): 1550
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 36| 2021-07-26 | 2021-07-26 |
+| [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 38| 2021-07-26 | 2021-07-27 |
 | [YourNewEmpire/Truffle-Tutorial-ERC721](https://github.com/YourNewEmpire/Truffle-Tutorial-ERC721)| 0 | 0 | 53| 2021-07-26 | 2021-07-26 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2036| 2021-07-25 | 2021-07-26 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2053| 2021-07-25 | 2021-07-27 |
 | [remzicicek/HacettepeUniversity-DesignPro...](https://github.com/remzicicek/HacettepeUniversity-DesignProject)| 0 | 0 | 8827| 2021-07-23 | 2021-07-23 |
 | [Atharvshukla/Dappstragram](https://github.com/Atharvshukla/Dappstragram)| 0 | 0 | 55460| 2021-07-22 | 2021-07-22 |
 | [ShowBaba/secure-file-storage-api](https://github.com/ShowBaba/secure-file-storage-api)| 0 | 0 | 170| 2021-07-22 | 2021-07-22 |
-| [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 1 | 4| 2021-07-21 | 2021-07-21 |
+| [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 2 | 4| 2021-07-21 | 2021-07-21 |
 | [MatrixStorageTech2021/ipfs-cid](https://github.com/MatrixStorageTech2021/ipfs-cid)| 0 | 0 | 137| 2021-07-20 | 2021-07-23 |
-| [skogard/nebulus](https://github.com/skogard/nebulus)| 176 | 5 | 6012| 2021-07-19 | 2021-07-20 |
-| [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 237| 2021-07-18 | 2021-07-27 |
+| [skogard/nebulus](https://github.com/skogard/nebulus)| 177 | 5 | 6012| 2021-07-19 | 2021-07-20 |
+| [Alterdot/browser-extension](https://github.com/Alterdot/browser-extension)| 0 | 0 | 241| 2021-07-18 | 2021-07-27 |
 
 
 The above set is limited to the 10 most recently created. 
