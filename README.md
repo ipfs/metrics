@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 66
-*  6/2021: 74
-*  5/2021: 79
-*  4/2021: 82
-*  3/2021: 82
-*  2/2021: 69
-*  1/2021: 96
-*  12/2020: 54
-*  11/2020: 42
-*  10/2020: 53
-*  9/2020: 68
-*  8/2020: 65
+*  7/2021: 80
+*  6/2021: 85
+*  5/2021: 82
+*  4/2021: 96
+*  3/2021: 89
+*  2/2021: 72
+*  1/2021: 95
+*  12/2020: 61
+*  11/2020: 50
+*  10/2020: 59
+*  9/2020: 71
+*  8/2020: 56
 
 ### GitHub Search
 
@@ -50,13 +50,12 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2466
+Total Matches: 2460
 
-Total Results (Limited by GitHUB API): 411
+Total Results (Limited by GitHUB API): 410
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [kimtony/gin-novel-dapp](https://github.com/kimtony/gin-novel-dapp)| 0 | 0 | 22895| 2021-07-28 | 2021-07-28 |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 4 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
@@ -66,6 +65,7 @@ Total Results (Limited by GitHUB API): 411
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 3 | 0 | 195| 2021-06-11 | 2021-07-19 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 1 | 0 | 40| 2021-05-18 | 2021-05-18 |
 | [hyde042/ipfs](https://github.com/hyde042/ipfs)| 0 | 0 | 58| 2021-05-17 | 2021-05-18 |
+| [TortugaIsle/iphs](https://github.com/TortugaIsle/iphs)| 0 | 0 | 5| 2021-05-13 | 2021-05-14 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90350
+Total Matches: 90450
 
-Total Results (Limited by GitHUB API): 1555
+Total Results (Limited by GitHUB API): 1557
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [onlabsorg/ipfs-store](https://github.com/onlabsorg/ipfs-store)| 0 | 0 | 152| 2021-07-28 | 2021-07-28 |
-| [edgeandnode/snapshot-governance](https://github.com/edgeandnode/snapshot-governance)| 0 | 0 | 179| 2021-07-28 | 2021-07-28 |
-| [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 38| 2021-07-26 | 2021-07-27 |
+| [chinalantern/m_scaffold_eth](https://github.com/chinalantern/m_scaffold_eth)| 0 | 0 | 360| 2021-07-29 | 2021-07-29 |
+| [wesleybliss/pinata-web-sdk](https://github.com/wesleybliss/pinata-web-sdk)| 0 | 0 | 2117| 2021-07-29 | 2021-07-29 |
+| [onlabsorg/ipfs-store](https://github.com/onlabsorg/ipfs-store)| 0 | 0 | 216| 2021-07-28 | 2021-07-29 |
+| [edgeandnode/snapshot-governance](https://github.com/edgeandnode/snapshot-governance)| 0 | 0 | 202| 2021-07-28 | 2021-07-29 |
+| [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 39| 2021-07-26 | 2021-07-29 |
 | [YourNewEmpire/Truffle-Tutorial-ERC721](https://github.com/YourNewEmpire/Truffle-Tutorial-ERC721)| 0 | 0 | 54| 2021-07-26 | 2021-07-28 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2053| 2021-07-25 | 2021-07-28 |
+| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2085| 2021-07-25 | 2021-07-30 |
 | [remzicicek/HacettepeUniversity-DesignPro...](https://github.com/remzicicek/HacettepeUniversity-DesignProject)| 0 | 0 | 8827| 2021-07-23 | 2021-07-23 |
-| [Atharvshukla/Dappstragram](https://github.com/Atharvshukla/Dappstragram)| 0 | 0 | 55460| 2021-07-22 | 2021-07-22 |
+| [Atharvshukla/Dappstragram](https://github.com/Atharvshukla/Dappstragram)| 0 | 0 | 55463| 2021-07-22 | 2021-07-29 |
 | [ShowBaba/secure-file-storage-api](https://github.com/ShowBaba/secure-file-storage-api)| 0 | 0 | 170| 2021-07-22 | 2021-07-22 |
-| [gitvani/nft-chainlink-ipfs](https://github.com/gitvani/nft-chainlink-ipfs)| 0 | 2 | 4| 2021-07-21 | 2021-07-21 |
-| [MatrixStorageTech2021/ipfs-cid](https://github.com/MatrixStorageTech2021/ipfs-cid)| 0 | 0 | 137| 2021-07-20 | 2021-07-23 |
 
 
 The above set is limited to the 10 most recently created. 
