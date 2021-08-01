@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 69
-*  6/2021: 75
-*  5/2021: 78
-*  4/2021: 86
-*  3/2021: 70
-*  2/2021: 70
-*  1/2021: 94
-*  12/2020: 52
-*  11/2020: 44
-*  10/2020: 55
-*  9/2020: 63
-*  8/2020: 57
+*  7/2021: 68
+*  6/2021: 74
+*  5/2021: 81
+*  4/2021: 84
+*  3/2021: 84
+*  2/2021: 69
+*  1/2021: 88
+*  12/2020: 49
+*  11/2020: 45
+*  10/2020: 50
+*  9/2020: 68
+*  8/2020: 55
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2466
 
-Total Results (Limited by GitHUB API): 411
+Total Results (Limited by GitHUB API): 410
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90350
+Total Matches: 90169
 
-Total Results (Limited by GitHUB API): 1555
+Total Results (Limited by GitHUB API): 1548
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [chinalantern/m_scaffold_eth](https://github.com/chinalantern/m_scaffold_eth)| 0 | 0 | 360| 2021-07-29 | 2021-07-29 |
-| [wesleybliss/pinata-web-sdk](https://github.com/wesleybliss/pinata-web-sdk)| 0 | 0 | 2117| 2021-07-29 | 2021-07-29 |
+| [wesleybliss/pinata-web-sdk](https://github.com/wesleybliss/pinata-web-sdk)| 0 | 0 | 2205| 2021-07-29 | 2021-07-31 |
 | [onlabsorg/ipfs-store](https://github.com/onlabsorg/ipfs-store)| 0 | 0 | 221| 2021-07-28 | 2021-07-30 |
 | [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 39| 2021-07-26 | 2021-07-29 |
 | [YourNewEmpire/Truffle-Tutorial-ERC721](https://github.com/YourNewEmpire/Truffle-Tutorial-ERC721)| 0 | 0 | 55| 2021-07-26 | 2021-07-30 |
