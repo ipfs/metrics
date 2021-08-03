@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  7/2021: 72
-*  6/2021: 83
-*  5/2021: 79
-*  4/2021: 93
-*  3/2021: 76
-*  2/2021: 69
-*  1/2021: 94
-*  12/2020: 52
-*  11/2020: 37
-*  10/2020: 59
-*  9/2020: 63
-*  8/2020: 66
+*  7/2021: 76
+*  6/2021: 80
+*  5/2021: 88
+*  4/2021: 98
+*  3/2021: 96
+*  2/2021: 58
+*  1/2021: 99
+*  12/2020: 50
+*  11/2020: 49
+*  10/2020: 57
+*  9/2020: 62
+*  8/2020: 63
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2472
 
-Total Results (Limited by GitHUB API): 411
+Total Results (Limited by GitHUB API): 412
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -75,20 +75,20 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 90550
 
-Total Results (Limited by GitHUB API): 1557
+Total Results (Limited by GitHUB API): 1559
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [foragepm/car-transporter](https://github.com/foragepm/car-transporter)| 0 | 0 | 2| 2021-08-02 | 2021-08-02 |
+| [Permissionless-Software-Foundation/psf-b...](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet)| 0 | 0 | 877| 2021-08-02 | 2021-08-02 |
 | [Kulteam/MONCoin-Checkpoints-IPFS-Helper](https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper)| 1 | 0 | 134| 2021-08-01 | 2021-08-01 |
 | [Kulteam/MONCoin-IPFS-CF-Checkpointer-Nod...](https://github.com/Kulteam/MONCoin-IPFS-CF-Checkpointer-Node)| 0 | 0 | 83| 2021-08-01 | 2021-08-01 |
-| [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-bch-wallet-cli)| 0 | 0 | 323| 2021-08-01 | 2021-08-01 |
 | [chinalantern/m_scaffold_eth](https://github.com/chinalantern/m_scaffold_eth)| 0 | 0 | 360| 2021-07-29 | 2021-07-29 |
 | [wesleybliss/pinata-web-sdk](https://github.com/wesleybliss/pinata-web-sdk)| 0 | 0 | 2294| 2021-07-29 | 2021-08-01 |
 | [onlabsorg/ipfs-store](https://github.com/onlabsorg/ipfs-store)| 0 | 0 | 221| 2021-07-28 | 2021-07-30 |
 | [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 39| 2021-07-26 | 2021-07-29 |
 | [YourNewEmpire/Truffle-Tutorial-ERC721](https://github.com/YourNewEmpire/Truffle-Tutorial-ERC721)| 0 | 0 | 55| 2021-07-26 | 2021-07-30 |
 | [Permissionless-Software-Foundation/ipfs-...](https://github.com/Permissionless-Software-Foundation/ipfs-p2wdb-service)| 0 | 0 | 2184| 2021-07-25 | 2021-07-30 |
-| [remzicicek/HacettepeUniversity-DesignPro...](https://github.com/remzicicek/HacettepeUniversity-DesignProject)| 0 | 0 | 8827| 2021-07-23 | 2021-07-23 |
 
 
 The above set is limited to the 10 most recently created. 
