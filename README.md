@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 100
-*  7/2021: 85
-*  6/2021: 90
-*  5/2021: 92
-*  4/2021: 94
-*  3/2021: 90
-*  2/2021: 75
-*  1/2021: 98
-*  12/2020: 58
-*  11/2020: 55
-*  10/2020: 61
-*  9/2020: 72
+*  8/2021: 81
+*  7/2021: 80
+*  6/2021: 86
+*  5/2021: 76
+*  4/2021: 100
+*  3/2021: 75
+*  2/2021: 61
+*  1/2021: 96
+*  12/2020: 53
+*  11/2020: 47
+*  10/2020: 55
+*  9/2020: 65
 
 ### GitHub Search
 
@@ -57,12 +57,12 @@ Total Results (Limited by GitHUB API): 412
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
-| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 332| 2021-07-23 | 2021-07-31 |
+| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 345| 2021-07-23 | 2021-08-04 |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 4 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
-| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1604| 2021-06-25 | 2021-08-04 |
-| [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 36| 2021-06-18 | 2021-06-23 |
+| [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1686| 2021-06-25 | 2021-08-04 |
+| [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 42| 2021-06-18 | 2021-08-04 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-13 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 5 | 0 | 195| 2021-06-11 | 2021-07-19 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 1 | 0 | 40| 2021-05-18 | 2021-05-18 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90750
+Total Matches: 90900
 
-Total Results (Limited by GitHUB API): 1562
+Total Results (Limited by GitHUB API): 1560
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [acul71/ipfs-forms](https://github.com/acul71/ipfs-forms)| 0 | 0 | 367| 2021-08-03 | 2021-08-03 |
+| [spiritbro1/harmony-ipfs](https://github.com/spiritbro1/harmony-ipfs)| 0 | 1 | 397| 2021-08-04 | 2021-08-04 |
+| [acul71/ipfs-forms](https://github.com/acul71/ipfs-forms)| 0 | 0 | 368| 2021-08-03 | 2021-08-04 |
 | [flippinroo2/ipfs](https://github.com/flippinroo2/ipfs)| 0 | 0 | 9540| 2021-08-03 | 2021-08-03 |
 | [foragepm/car-transporter](https://github.com/foragepm/car-transporter)| 0 | 0 | 2| 2021-08-02 | 2021-08-02 |
 | [Permissionless-Software-Foundation/psf-b...](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet)| 0 | 0 | 1850| 2021-08-02 | 2021-08-03 |
 | [Kulteam/MONCoin-Checkpoints-IPFS-Helper](https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper)| 1 | 0 | 134| 2021-08-01 | 2021-08-01 |
 | [Kulteam/MONCoin-IPFS-CF-Checkpointer-Nod...](https://github.com/Kulteam/MONCoin-IPFS-CF-Checkpointer-Node)| 0 | 0 | 83| 2021-08-01 | 2021-08-01 |
 | [chinalantern/m_scaffold_eth](https://github.com/chinalantern/m_scaffold_eth)| 0 | 0 | 360| 2021-07-29 | 2021-07-29 |
+| [brentmwarren/Decentragram](https://github.com/brentmwarren/Decentragram)| 0 | 0 | 538| 2021-07-29 | 2021-08-04 |
 | [wesleybliss/pinata-web-sdk](https://github.com/wesleybliss/pinata-web-sdk)| 0 | 0 | 2398| 2021-07-29 | 2021-08-03 |
-| [onlabsorg/ipfs-store](https://github.com/onlabsorg/ipfs-store)| 0 | 0 | 221| 2021-07-28 | 2021-08-03 |
-| [ipfs-examples/js-ipfs-browser-add-readab...](https://github.com/ipfs-examples/js-ipfs-browser-add-readable-stream)| 0 | 0 | 39| 2021-07-26 | 2021-07-29 |
 
 
 The above set is limited to the 10 most recently created. 
