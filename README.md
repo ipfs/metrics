@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 81
-*  7/2021: 80
-*  6/2021: 86
-*  5/2021: 76
-*  4/2021: 100
+*  8/2021: 46
+*  7/2021: 59
+*  6/2021: 68
+*  5/2021: 69
+*  4/2021: 81
 *  3/2021: 75
-*  2/2021: 61
-*  1/2021: 96
-*  12/2020: 53
-*  11/2020: 47
-*  10/2020: 55
-*  9/2020: 65
+*  2/2021: 63
+*  1/2021: 95
+*  12/2020: 55
+*  11/2020: 49
+*  10/2020: 47
+*  9/2020: 61
 
 ### GitHub Search
 
@@ -62,7 +62,7 @@ Total Results (Limited by GitHUB API): 412
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 4 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
 | [m-vlanbdg2ln52gla/EasyVoting](https://github.com/m-vlanbdg2ln52gla/EasyVoting)| 0 | 0 | 1686| 2021-06-25 | 2021-08-04 |
-| [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 42| 2021-06-18 | 2021-08-04 |
+| [ipfs/tar-utils](https://github.com/ipfs/tar-utils)| 1 | 0 | 47| 2021-06-18 | 2021-08-05 |
 | [scala-network/scala-blockchain-downloade...](https://github.com/scala-network/scala-blockchain-downloader)| 0 | 0 | 21380| 2021-06-12 | 2021-07-13 |
 | [manishmeganathan/peerchat](https://github.com/manishmeganathan/peerchat)| 5 | 0 | 195| 2021-06-11 | 2021-07-19 |
 | [hsanjuan/go-ipfs-geoip](https://github.com/hsanjuan/go-ipfs-geoip)| 1 | 0 | 40| 2021-05-18 | 2021-05-18 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 90900
+Total Matches: 91087
 
-Total Results (Limited by GitHUB API): 1560
+Total Results (Limited by GitHUB API): 1568
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Blockcation-cutm/server-react](https://github.com/Blockcation-cutm/server-react)| 0 | 0 | 1099| 2021-08-05 | 2021-08-05 |
+| [RostyslavDzhohola/fleek-coin-example](https://github.com/RostyslavDzhohola/fleek-coin-example)| 0 | 0 | 213| 2021-08-05 | 2021-08-05 |
+| [pcnoic/pheme](https://github.com/pcnoic/pheme)| 0 | 0 | 153| 2021-08-04 | 2021-08-05 |
 | [spiritbro1/harmony-ipfs](https://github.com/spiritbro1/harmony-ipfs)| 0 | 1 | 397| 2021-08-04 | 2021-08-04 |
 | [acul71/ipfs-forms](https://github.com/acul71/ipfs-forms)| 0 | 0 | 368| 2021-08-03 | 2021-08-04 |
 | [flippinroo2/ipfs](https://github.com/flippinroo2/ipfs)| 0 | 0 | 9540| 2021-08-03 | 2021-08-03 |
 | [foragepm/car-transporter](https://github.com/foragepm/car-transporter)| 0 | 0 | 2| 2021-08-02 | 2021-08-02 |
-| [Permissionless-Software-Foundation/psf-b...](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet)| 0 | 0 | 1850| 2021-08-02 | 2021-08-03 |
+| [Permissionless-Software-Foundation/psf-b...](https://github.com/Permissionless-Software-Foundation/psf-bch-wallet)| 0 | 0 | 2360| 2021-08-02 | 2021-08-06 |
 | [Kulteam/MONCoin-Checkpoints-IPFS-Helper](https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper)| 1 | 0 | 134| 2021-08-01 | 2021-08-01 |
 | [Kulteam/MONCoin-IPFS-CF-Checkpointer-Nod...](https://github.com/Kulteam/MONCoin-IPFS-CF-Checkpointer-Node)| 0 | 0 | 83| 2021-08-01 | 2021-08-01 |
-| [chinalantern/m_scaffold_eth](https://github.com/chinalantern/m_scaffold_eth)| 0 | 0 | 360| 2021-07-29 | 2021-07-29 |
-| [brentmwarren/Decentragram](https://github.com/brentmwarren/Decentragram)| 0 | 0 | 538| 2021-07-29 | 2021-08-04 |
-| [wesleybliss/pinata-web-sdk](https://github.com/wesleybliss/pinata-web-sdk)| 0 | 0 | 2398| 2021-07-29 | 2021-08-03 |
 
 
 The above set is limited to the 10 most recently created. 
