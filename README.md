@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 90
-*  7/2021: 60
-*  6/2021: 89
-*  5/2021: 82
-*  4/2021: 95
-*  3/2021: 84
-*  2/2021: 75
-*  1/2021: 94
-*  12/2020: 59
+*  8/2021: 68
+*  7/2021: 75
+*  6/2021: 86
+*  5/2021: 87
+*  4/2021: 85
+*  3/2021: 94
+*  2/2021: 68
+*  1/2021: 92
+*  12/2020: 57
 *  11/2020: 48
-*  10/2020: 52
-*  9/2020: 69
+*  10/2020: 51
+*  9/2020: 72
 
 ### GitHub Search
 
@@ -60,7 +60,7 @@ Total Results (Limited by GitHUB API): 418
 | [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16433| 2021-08-07 | 2021-08-07 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-06 |
-| [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 55| 2021-08-06 | 2021-08-08 |
+| [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
 | [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
 | [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 345| 2021-07-23 | 2021-08-04 |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 91350
+Total Matches: 91500
 
 Total Results (Limited by GitHUB API): 1565
 
@@ -82,13 +82,13 @@ Total Results (Limited by GitHUB API): 1565
 | [aptgetinfo/Memoir](https://github.com/aptgetinfo/Memoir)| 0 | 0 | 403| 2021-08-08 | 2021-08-08 |
 | [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
 | [mohammadreza-ashouri/Plygon-NFT-Token](https://github.com/mohammadreza-ashouri/Plygon-NFT-Token)| 0 | 0 | 2| 2021-08-07 | 2021-08-07 |
-| [DeFiWiki/scaffold](https://github.com/DeFiWiki/scaffold)| 0 | 0 | 213570| 2021-08-06 | 2021-08-06 |
+| [DeFiWiki/scaffold](https://github.com/DeFiWiki/scaffold)| 0 | 0 | 213575| 2021-08-06 | 2021-08-09 |
+| [DIp15739/Flow-NFT](https://github.com/DIp15739/Flow-NFT)| 0 | 0 | 501| 2021-08-06 | 2021-08-09 |
 | [bensadeghi/tala.marketplace](https://github.com/bensadeghi/tala.marketplace)| 0 | 0 | 1488| 2021-08-06 | 2021-08-07 |
-| [bmateus/hackfs](https://github.com/bmateus/hackfs)| 0 | 0 | 741| 2021-08-06 | 2021-08-06 |
+| [bmateus/hackfs](https://github.com/bmateus/hackfs)| 0 | 0 | 939| 2021-08-06 | 2021-08-09 |
 | [Blockcation-cutm/server-react](https://github.com/Blockcation-cutm/server-react)| 0 | 0 | 1099| 2021-08-05 | 2021-08-05 |
 | [RostyslavDzhohola/fleek-coin-example](https://github.com/RostyslavDzhohola/fleek-coin-example)| 0 | 0 | 213| 2021-08-05 | 2021-08-05 |
 | [spiritbro1/harmony-ipfs](https://github.com/spiritbro1/harmony-ipfs)| 0 | 1 | 397| 2021-08-04 | 2021-08-04 |
-| [acul71/ipfs-forms](https://github.com/acul71/ipfs-forms)| 0 | 0 | 373| 2021-08-03 | 2021-08-06 |
 
 
 The above set is limited to the 10 most recently created. 
