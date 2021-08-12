@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 81
-*  7/2021: 76
-*  6/2021: 85
-*  5/2021: 81
-*  4/2021: 83
-*  3/2021: 80
-*  2/2021: 73
-*  1/2021: 78
-*  12/2020: 41
-*  11/2020: 55
+*  8/2021: 76
+*  7/2021: 64
+*  6/2021: 68
+*  5/2021: 71
+*  4/2021: 92
+*  3/2021: 77
+*  2/2021: 64
+*  1/2021: 86
+*  12/2020: 48
+*  11/2020: 49
 *  10/2020: 52
-*  9/2020: 60
+*  9/2020: 66
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2508
 
-Total Results (Limited by GitHUB API): 416
+Total Results (Limited by GitHUB API): 418
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -62,7 +62,7 @@ Total Results (Limited by GitHUB API): 416
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-06 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
 | [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
-| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 345| 2021-07-23 | 2021-08-04 |
+| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 349| 2021-07-23 | 2021-08-11 |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 4 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
@@ -75,13 +75,13 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 91650
 
-Total Results (Limited by GitHUB API): 1567
+Total Results (Limited by GitHUB API): 1568
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 229| 2021-08-10 | 2021-08-10 |
+| [ljuliandicarlo/Filestore](https://github.com/ljuliandicarlo/Filestore)| 0 | 0 | 13| 2021-08-11 | 2021-08-12 |
+| [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 234| 2021-08-10 | 2021-08-11 |
 | [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
-| [aptgetinfo/Memoir](https://github.com/aptgetinfo/Memoir)| 0 | 0 | 403| 2021-08-08 | 2021-08-08 |
 | [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
 | [mohammadreza-ashouri/Plygon-NFT-Token](https://github.com/mohammadreza-ashouri/Plygon-NFT-Token)| 0 | 0 | 2| 2021-08-07 | 2021-08-07 |
 | [DeFiWiki/scaffold](https://github.com/DeFiWiki/scaffold)| 0 | 0 | 213596| 2021-08-06 | 2021-08-10 |
