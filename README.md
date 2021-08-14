@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 76
-*  7/2021: 70
-*  6/2021: 78
-*  5/2021: 72
-*  4/2021: 90
-*  3/2021: 76
-*  2/2021: 59
-*  1/2021: 96
-*  12/2020: 47
-*  11/2020: 46
-*  10/2020: 59
-*  9/2020: 69
+*  8/2021: 72
+*  7/2021: 74
+*  6/2021: 89
+*  5/2021: 74
+*  4/2021: 99
+*  3/2021: 84
+*  2/2021: 62
+*  1/2021: 85
+*  12/2020: 50
+*  11/2020: 42
+*  10/2020: 53
+*  9/2020: 66
 
 ### GitHub Search
 
@@ -50,21 +50,21 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2514
+Total Matches: 2520
 
-Total Results (Limited by GitHUB API): 419
+Total Results (Limited by GitHUB API): 420
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
-| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16438| 2021-08-07 | 2021-08-12 |
+| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16440| 2021-08-07 | 2021-08-13 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-06 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
 | [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
-| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 353| 2021-07-23 | 2021-08-12 |
+| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 349| 2021-07-23 | 2021-08-13 |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
-| [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 4 | 0 | 28929| 2021-07-08 | 2021-07-14 |
+| [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 5 | 0 | 28929| 2021-07-08 | 2021-07-14 |
 | [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
 
 
@@ -73,13 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 91573
+Total Matches: 91554
 
-Total Results (Limited by GitHUB API): 1567
+Total Results (Limited by GitHUB API): 1561
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 240| 2021-08-10 | 2021-08-12 |
+| [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 251| 2021-08-10 | 2021-08-13 |
 | [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
 | [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
 | [mohammadreza-ashouri/Plygon-NFT-Token](https://github.com/mohammadreza-ashouri/Plygon-NFT-Token)| 0 | 0 | 2| 2021-08-07 | 2021-08-07 |
