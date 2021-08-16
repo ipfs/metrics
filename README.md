@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 85
-*  7/2021: 73
-*  6/2021: 77
-*  5/2021: 80
-*  4/2021: 92
-*  3/2021: 77
-*  2/2021: 65
-*  1/2021: 97
-*  12/2020: 53
-*  11/2020: 42
-*  10/2020: 52
-*  9/2020: 62
+*  8/2021: 89
+*  7/2021: 75
+*  6/2021: 80
+*  5/2021: 88
+*  4/2021: 86
+*  3/2021: 86
+*  2/2021: 71
+*  1/2021: 84
+*  12/2020: 56
+*  11/2020: 49
+*  10/2020: 62
+*  9/2020: 65
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 91550
+Total Matches: 91650
 
-Total Results (Limited by GitHUB API): 1566
+Total Results (Limited by GitHUB API): 1567
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [E-Fold/Blockchain-For-EHR-Management-Med...](https://github.com/E-Fold/Blockchain-For-EHR-Management-Medishield)| 2 | 0 | 11228| 2021-08-15 | 2021-08-15 |
 | [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 251| 2021-08-10 | 2021-08-13 |
 | [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
 | [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
 | [mohammadreza-ashouri/Plygon-NFT-Token](https://github.com/mohammadreza-ashouri/Plygon-NFT-Token)| 0 | 0 | 2| 2021-08-07 | 2021-08-07 |
 | [DeFiWiki/scaffold](https://github.com/DeFiWiki/scaffold)| 0 | 0 | 3679| 2021-08-06 | 2021-08-12 |
 | [DIp15739/Flow-NFT](https://github.com/DIp15739/Flow-NFT)| 0 | 0 | 501| 2021-08-06 | 2021-08-09 |
-| [bensadeghi/tala.marketplace](https://github.com/bensadeghi/tala.marketplace)| 0 | 0 | 1488| 2021-08-06 | 2021-08-07 |
+| [bensadeghi/tala.marketplace](https://github.com/bensadeghi/tala.marketplace)| 0 | 0 | 1488| 2021-08-06 | 2021-08-15 |
 | [bmateus/hackfs](https://github.com/bmateus/hackfs)| 0 | 0 | 939| 2021-08-06 | 2021-08-09 |
 | [Blockcation-cutm/server-react](https://github.com/Blockcation-cutm/server-react)| 0 | 0 | 1099| 2021-08-05 | 2021-08-05 |
-| [RostyslavDzhohola/fleek-coin-example](https://github.com/RostyslavDzhohola/fleek-coin-example)| 0 | 0 | 213| 2021-08-05 | 2021-08-05 |
 
 
 The above set is limited to the 10 most recently created. 
