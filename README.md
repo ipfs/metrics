@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 89
+*  8/2021: 79
 *  7/2021: 75
-*  6/2021: 80
-*  5/2021: 88
-*  4/2021: 86
-*  3/2021: 86
-*  2/2021: 71
-*  1/2021: 84
-*  12/2020: 56
-*  11/2020: 49
-*  10/2020: 62
-*  9/2020: 65
+*  6/2021: 90
+*  5/2021: 78
+*  4/2021: 95
+*  3/2021: 90
+*  2/2021: 77
+*  1/2021: 96
+*  12/2020: 52
+*  11/2020: 43
+*  10/2020: 57
+*  9/2020: 60
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2520
+Total Matches: 2526
 
-Total Results (Limited by GitHUB API): 420
+Total Results (Limited by GitHUB API): 421
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
 | [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16440| 2021-08-07 | 2021-08-13 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 420
 | [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 349| 2021-07-23 | 2021-08-13 |
 | [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 | [navinkeizer/Deece](https://github.com/navinkeizer/Deece)| 5 | 0 | 28929| 2021-07-08 | 2021-07-14 |
-| [gador/ipfs-tag](https://github.com/gador/ipfs-tag)| 0 | 0 | 21| 2021-06-28 | 2021-06-29 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,20 +73,20 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 91650
+Total Matches: 91700
 
-Total Results (Limited by GitHUB API): 1567
+Total Results (Limited by GitHUB API): 1568
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [E-Fold/Blockchain-For-EHR-Management-Med...](https://github.com/E-Fold/Blockchain-For-EHR-Management-Medishield)| 2 | 0 | 11228| 2021-08-15 | 2021-08-15 |
+| [xternet/ipfs_upload](https://github.com/xternet/ipfs_upload)| 0 | 0 | 41| 2021-08-16 | 2021-08-16 |
 | [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 251| 2021-08-10 | 2021-08-13 |
 | [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
 | [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
 | [mohammadreza-ashouri/Plygon-NFT-Token](https://github.com/mohammadreza-ashouri/Plygon-NFT-Token)| 0 | 0 | 2| 2021-08-07 | 2021-08-07 |
 | [DeFiWiki/scaffold](https://github.com/DeFiWiki/scaffold)| 0 | 0 | 3679| 2021-08-06 | 2021-08-12 |
 | [DIp15739/Flow-NFT](https://github.com/DIp15739/Flow-NFT)| 0 | 0 | 501| 2021-08-06 | 2021-08-09 |
-| [bensadeghi/tala.marketplace](https://github.com/bensadeghi/tala.marketplace)| 0 | 0 | 1488| 2021-08-06 | 2021-08-15 |
+| [bensadeghi/tala.marketplace](https://github.com/bensadeghi/tala.marketplace)| 0 | 0 | 1548| 2021-08-06 | 2021-08-16 |
 | [bmateus/hackfs](https://github.com/bmateus/hackfs)| 0 | 0 | 939| 2021-08-06 | 2021-08-09 |
 | [Blockcation-cutm/server-react](https://github.com/Blockcation-cutm/server-react)| 0 | 0 | 1099| 2021-08-05 | 2021-08-05 |
 
