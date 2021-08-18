@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 79
-*  7/2021: 75
-*  6/2021: 90
-*  5/2021: 78
-*  4/2021: 95
-*  3/2021: 90
-*  2/2021: 77
-*  1/2021: 96
-*  12/2020: 52
-*  11/2020: 43
-*  10/2020: 57
-*  9/2020: 60
+*  8/2021: 80
+*  7/2021: 77
+*  6/2021: 84
+*  5/2021: 86
+*  4/2021: 96
+*  3/2021: 96
+*  2/2021: 59
+*  1/2021: 87
+*  12/2020: 57
+*  11/2020: 42
+*  10/2020: 61
+*  9/2020: 68
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 421
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
-| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16440| 2021-08-07 | 2021-08-13 |
+| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16496| 2021-08-07 | 2021-08-17 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-06 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
@@ -73,7 +73,7 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 91700
+Total Matches: 91750
 
 Total Results (Limited by GitHUB API): 1568
 
