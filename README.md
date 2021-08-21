@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 79
-*  7/2021: 74
-*  6/2021: 82
-*  5/2021: 87
-*  4/2021: 91
-*  3/2021: 94
-*  2/2021: 74
-*  1/2021: 98
-*  12/2020: 68
-*  11/2020: 50
-*  10/2020: 64
-*  9/2020: 59
+*  8/2021: 80
+*  7/2021: 79
+*  6/2021: 83
+*  5/2021: 88
+*  4/2021: 97
+*  3/2021: 86
+*  2/2021: 71
+*  1/2021: 90
+*  12/2020: 51
+*  11/2020: 46
+*  10/2020: 53
+*  9/2020: 65
 
 ### GitHub Search
 
@@ -50,12 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2538
+Total Matches: 2550
 
-Total Results (Limited by GitHUB API): 423
+Total Results (Limited by GitHUB API): 425
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 0 | 0 | 0| 2021-08-21 | 2021-08-21 |
+| [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 0 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
@@ -64,8 +66,6 @@ Total Results (Limited by GitHUB API): 423
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-19 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
 | [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
-| [kenlabs/ipfs-watch](https://github.com/kenlabs/ipfs-watch)| 0 | 0 | 370| 2021-07-23 | 2021-08-18 |
-| [wchristi0101/music-mix](https://github.com/wchristi0101/music-mix)| 0 | 0 | 5| 2021-07-14 | 2021-07-15 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92000
+Total Matches: 91884
 
-Total Results (Limited by GitHUB API): 1572
+Total Results (Limited by GitHUB API): 1562
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
