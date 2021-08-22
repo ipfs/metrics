@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 80
-*  7/2021: 79
-*  6/2021: 83
-*  5/2021: 88
-*  4/2021: 97
-*  3/2021: 86
-*  2/2021: 71
-*  1/2021: 90
-*  12/2020: 51
-*  11/2020: 46
-*  10/2020: 53
-*  9/2020: 65
+*  8/2021: 79
+*  7/2021: 66
+*  6/2021: 75
+*  5/2021: 68
+*  4/2021: 85
+*  3/2021: 80
+*  2/2021: 57
+*  1/2021: 81
+*  12/2020: 46
+*  11/2020: 41
+*  10/2020: 45
+*  9/2020: 59
 
 ### GitHub Search
 
@@ -56,7 +56,7 @@ Total Results (Limited by GitHUB API): 425
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 0 | 0 | 0| 2021-08-21 | 2021-08-21 |
+| [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 0 | 0 | 84| 2021-08-21 | 2021-08-21 |
 | [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 0 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 91884
+Total Matches: 92150
 
-Total Results (Limited by GitHUB API): 1562
+Total Results (Limited by GitHUB API): 1574
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 3| 2021-08-21 | 2021-08-21 |
+| [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 1 | 0 | 998| 2021-08-21 | 2021-08-21 |
 | [rushtac/IPFS_college](https://github.com/rushtac/IPFS_college)| 0 | 0 | 886| 2021-08-19 | 2021-08-19 |
 | [cbonoz/checkoutfs](https://github.com/cbonoz/checkoutfs)| 0 | 0 | 4311| 2021-08-19 | 2021-08-19 |
 | [tarunbatra/rate-ipfs-content](https://github.com/tarunbatra/rate-ipfs-content)| 0 | 0 | 811| 2021-08-18 | 2021-08-18 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1562
 | [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 255| 2021-08-10 | 2021-08-19 |
 | [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
 | [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
-| [mohammadreza-ashouri/Plygon-NFT-Token](https://github.com/mohammadreza-ashouri/Plygon-NFT-Token)| 0 | 0 | 2| 2021-08-07 | 2021-08-07 |
-| [DeFiWiki/scaffold](https://github.com/DeFiWiki/scaffold)| 0 | 0 | 3679| 2021-08-06 | 2021-08-12 |
 
 
 The above set is limited to the 10 most recently created. 
