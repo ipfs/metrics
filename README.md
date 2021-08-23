@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 79
-*  7/2021: 66
-*  6/2021: 75
-*  5/2021: 68
-*  4/2021: 85
-*  3/2021: 80
-*  2/2021: 57
-*  1/2021: 81
-*  12/2020: 46
-*  11/2020: 41
-*  10/2020: 45
-*  9/2020: 59
+*  8/2021: 70
+*  7/2021: 74
+*  6/2021: 80
+*  5/2021: 75
+*  4/2021: 84
+*  3/2021: 78
+*  2/2021: 65
+*  1/2021: 96
+*  12/2020: 53
+*  11/2020: 42
+*  10/2020: 51
+*  9/2020: 66
 
 ### GitHub Search
 
@@ -61,7 +61,7 @@ Total Results (Limited by GitHUB API): 425
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 0 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
-| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16500| 2021-08-07 | 2021-08-18 |
+| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16564| 2021-08-07 | 2021-08-22 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-19 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92150
+Total Matches: 92200
 
-Total Results (Limited by GitHUB API): 1574
+Total Results (Limited by GitHUB API): 1572
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 3| 2021-08-21 | 2021-08-21 |
+| [0xPuffin/onlypillz](https://github.com/0xPuffin/onlypillz)| 1 | 0 | 3357| 2021-08-22 | 2021-08-22 |
+| [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 214| 2021-08-21 | 2021-08-22 |
 | [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 1 | 0 | 998| 2021-08-21 | 2021-08-21 |
 | [rushtac/IPFS_college](https://github.com/rushtac/IPFS_college)| 0 | 0 | 886| 2021-08-19 | 2021-08-19 |
 | [cbonoz/checkoutfs](https://github.com/cbonoz/checkoutfs)| 0 | 0 | 4311| 2021-08-19 | 2021-08-19 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1574
 | [xternet/ipfs_upload](https://github.com/xternet/ipfs_upload)| 0 | 0 | 41| 2021-08-16 | 2021-08-16 |
 | [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 255| 2021-08-10 | 2021-08-19 |
 | [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
-| [nikbhintade/savetheleopard](https://github.com/nikbhintade/savetheleopard)| 0 | 0 | 6| 2021-08-07 | 2021-08-07 |
 
 
 The above set is limited to the 10 most recently created. 
