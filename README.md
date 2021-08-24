@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 70
-*  7/2021: 74
-*  6/2021: 80
-*  5/2021: 75
-*  4/2021: 84
-*  3/2021: 78
-*  2/2021: 65
-*  1/2021: 96
+*  8/2021: 76
+*  7/2021: 71
+*  6/2021: 90
+*  5/2021: 80
+*  4/2021: 82
+*  3/2021: 90
+*  2/2021: 64
+*  1/2021: 84
 *  12/2020: 53
 *  11/2020: 42
-*  10/2020: 51
-*  9/2020: 66
+*  10/2020: 48
+*  9/2020: 64
 
 ### GitHub Search
 
@@ -56,14 +56,14 @@ Total Results (Limited by GitHUB API): 425
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 0 | 0 | 84| 2021-08-21 | 2021-08-21 |
+| [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 1 | 0 | 84| 2021-08-21 | 2021-08-21 |
 | [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 0 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
 | [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16564| 2021-08-07 | 2021-08-22 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
-| [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 0 | 0 | 59| 2021-08-06 | 2021-08-19 |
+| [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 1 | 1 | 60| 2021-08-06 | 2021-08-23 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
 | [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92200
+Total Matches: 92250
 
-Total Results (Limited by GitHUB API): 1572
+Total Results (Limited by GitHUB API): 1576
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -87,8 +87,8 @@ Total Results (Limited by GitHUB API): 1572
 | [tarunbatra/rate-ipfs-content](https://github.com/tarunbatra/rate-ipfs-content)| 0 | 0 | 811| 2021-08-18 | 2021-08-18 |
 | [0xatm/web3-uploader](https://github.com/0xatm/web3-uploader)| 0 | 0 | 246| 2021-08-18 | 2021-08-18 |
 | [xternet/ipfs_upload](https://github.com/xternet/ipfs_upload)| 0 | 0 | 41| 2021-08-16 | 2021-08-16 |
+| [E-Fold/Blockchain-For-EHR-Management-Med...](https://github.com/E-Fold/Blockchain-For-EHR-Management-Medishield)| 2 | 0 | 14247| 2021-08-15 | 2021-08-23 |
 | [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 255| 2021-08-10 | 2021-08-19 |
-| [sebasslash/ipfs-deploy](https://github.com/sebasslash/ipfs-deploy)| 0 | 0 | 14| 2021-08-10 | 2021-08-10 |
 
 
 The above set is limited to the 10 most recently created. 
