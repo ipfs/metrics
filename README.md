@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  8/2021: 76
-*  7/2021: 71
-*  6/2021: 90
-*  5/2021: 80
-*  4/2021: 82
-*  3/2021: 90
-*  2/2021: 64
-*  1/2021: 84
-*  12/2020: 53
-*  11/2020: 42
-*  10/2020: 48
-*  9/2020: 64
+*  7/2021: 78
+*  6/2021: 77
+*  5/2021: 82
+*  4/2021: 90
+*  3/2021: 91
+*  2/2021: 69
+*  1/2021: 89
+*  12/2020: 58
+*  11/2020: 49
+*  10/2020: 56
+*  9/2020: 68
 
 ### GitHub Search
 
@@ -50,22 +50,22 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2550
+Total Matches: 2556
 
-Total Results (Limited by GitHUB API): 425
+Total Results (Limited by GitHUB API): 426
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
 | [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 1 | 0 | 84| 2021-08-21 | 2021-08-21 |
 | [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
-| [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 0 | 0 | 26| 2021-08-18 | 2021-08-19 |
+| [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 1 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
 | [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16564| 2021-08-07 | 2021-08-22 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 1 | 1 | 60| 2021-08-06 | 2021-08-23 |
 | [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
-| [jeffintj75991/IPFSOps-Golang](https://github.com/jeffintj75991/IPFSOps-Golang)| 0 | 0 | 4| 2021-07-30 | 2021-07-30 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92250
+Total Matches: 92400
 
-Total Results (Limited by GitHUB API): 1576
+Total Results (Limited by GitHUB API): 1579
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipfs-examples/js-ipfs-browser-nextjs](https://github.com/ipfs-examples/js-ipfs-browser-nextjs)| 0 | 0 | 17| 2021-08-24 | 2021-08-24 |
+| [Margotte83/NFTday](https://github.com/Margotte83/NFTday)| 0 | 0 | 416| 2021-08-24 | 2021-08-24 |
 | [0xPuffin/onlypillz](https://github.com/0xPuffin/onlypillz)| 1 | 0 | 3357| 2021-08-22 | 2021-08-22 |
 | [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 214| 2021-08-21 | 2021-08-22 |
 | [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 1 | 0 | 998| 2021-08-21 | 2021-08-21 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1576
 | [tarunbatra/rate-ipfs-content](https://github.com/tarunbatra/rate-ipfs-content)| 0 | 0 | 811| 2021-08-18 | 2021-08-18 |
 | [0xatm/web3-uploader](https://github.com/0xatm/web3-uploader)| 0 | 0 | 246| 2021-08-18 | 2021-08-18 |
 | [xternet/ipfs_upload](https://github.com/xternet/ipfs_upload)| 0 | 0 | 41| 2021-08-16 | 2021-08-16 |
-| [E-Fold/Blockchain-For-EHR-Management-Med...](https://github.com/E-Fold/Blockchain-For-EHR-Management-Medishield)| 2 | 0 | 14247| 2021-08-15 | 2021-08-23 |
-| [bogdanuch/react_ipfs_metamask](https://github.com/bogdanuch/react_ipfs_metamask)| 0 | 0 | 255| 2021-08-10 | 2021-08-19 |
 
 
 The above set is limited to the 10 most recently created. 
