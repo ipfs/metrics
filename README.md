@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 76
-*  7/2021: 78
-*  6/2021: 77
-*  5/2021: 82
-*  4/2021: 90
-*  3/2021: 91
-*  2/2021: 69
-*  1/2021: 89
-*  12/2020: 58
-*  11/2020: 49
-*  10/2020: 56
-*  9/2020: 68
+*  8/2021: 79
+*  7/2021: 73
+*  6/2021: 80
+*  5/2021: 72
+*  4/2021: 96
+*  3/2021: 86
+*  2/2021: 68
+*  1/2021: 83
+*  12/2020: 51
+*  11/2020: 43
+*  10/2020: 51
+*  9/2020: 62
 
 ### GitHub Search
 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92400
+Total Matches: 92450
 
-Total Results (Limited by GitHUB API): 1579
+Total Results (Limited by GitHUB API): 1576
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -83,12 +83,12 @@ Total Results (Limited by GitHUB API): 1579
 | [Margotte83/NFTday](https://github.com/Margotte83/NFTday)| 0 | 0 | 416| 2021-08-24 | 2021-08-24 |
 | [0xPuffin/onlypillz](https://github.com/0xPuffin/onlypillz)| 1 | 0 | 3357| 2021-08-22 | 2021-08-22 |
 | [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 214| 2021-08-21 | 2021-08-22 |
-| [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 1 | 0 | 998| 2021-08-21 | 2021-08-21 |
+| [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 2 | 0 | 998| 2021-08-21 | 2021-08-21 |
 | [rushtac/IPFS_college](https://github.com/rushtac/IPFS_college)| 0 | 0 | 886| 2021-08-19 | 2021-08-19 |
-| [cbonoz/checkoutfs](https://github.com/cbonoz/checkoutfs)| 0 | 0 | 4311| 2021-08-19 | 2021-08-19 |
+| [cbonoz/checkoutfs](https://github.com/cbonoz/checkoutfs)| 1 | 0 | 4311| 2021-08-19 | 2021-08-19 |
 | [tarunbatra/rate-ipfs-content](https://github.com/tarunbatra/rate-ipfs-content)| 0 | 0 | 811| 2021-08-18 | 2021-08-18 |
 | [0xatm/web3-uploader](https://github.com/0xatm/web3-uploader)| 0 | 0 | 246| 2021-08-18 | 2021-08-18 |
-| [xternet/ipfs_upload](https://github.com/xternet/ipfs_upload)| 0 | 0 | 41| 2021-08-16 | 2021-08-16 |
+| [xternet/ipfs_upload](https://github.com/xternet/ipfs_upload)| 0 | 1 | 41| 2021-08-16 | 2021-08-16 |
 
 
 The above set is limited to the 10 most recently created. 
