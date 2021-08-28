@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 78
-*  7/2021: 73
-*  6/2021: 81
-*  5/2021: 84
-*  4/2021: 90
-*  3/2021: 81
-*  2/2021: 68
-*  1/2021: 89
-*  12/2020: 52
-*  11/2020: 44
-*  10/2020: 56
-*  9/2020: 70
+*  8/2021: 86
+*  7/2021: 76
+*  6/2021: 89
+*  5/2021: 89
+*  4/2021: 97
+*  3/2021: 89
+*  2/2021: 82
+*  1/2021: 85
+*  12/2020: 63
+*  11/2020: 54
+*  10/2020: 62
+*  9/2020: 69
 
 ### GitHub Search
 
@@ -50,12 +50,13 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2556
+Total Matches: 2562
 
-Total Results (Limited by GitHUB API): 426
+Total Results (Limited by GitHUB API): 427
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
 | [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 1 | 0 | 84| 2021-08-21 | 2021-08-21 |
 | [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 426
 | [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16564| 2021-08-07 | 2021-08-26 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 1 | 1 | 60| 2021-08-06 | 2021-08-23 |
-| [minskylab/immutable](https://github.com/minskylab/immutable)| 0 | 0 | 60| 2021-08-06 | 2021-08-09 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92500
+Total Matches: 92600
 
-Total Results (Limited by GitHUB API): 1581
+Total Results (Limited by GitHUB API): 1583
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 188| 2021-08-27 | 2021-08-27 |
+| [magicleafs/html-for-ipfs](https://github.com/magicleafs/html-for-ipfs)| 0 | 0 | 4067| 2021-08-27 | 2021-08-27 |
 | [wosk0x01/IPFS_File_Storage_Program](https://github.com/wosk0x01/IPFS_File_Storage_Program)| 0 | 0 | 28| 2021-08-26 | 2021-08-26 |
 | [ipfs-examples/js-ipfs-browser-nextjs](https://github.com/ipfs-examples/js-ipfs-browser-nextjs)| 0 | 0 | 17| 2021-08-24 | 2021-08-24 |
 | [Margotte83/NFTday](https://github.com/Margotte83/NFTday)| 0 | 0 | 416| 2021-08-24 | 2021-08-24 |
 | [0xPuffin/onlypillz](https://github.com/0xPuffin/onlypillz)| 1 | 0 | 3357| 2021-08-22 | 2021-08-22 |
 | [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 214| 2021-08-21 | 2021-08-22 |
-| [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 3 | 0 | 998| 2021-08-21 | 2021-08-21 |
+| [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 4 | 3 | 998| 2021-08-21 | 2021-08-21 |
 | [rushtac/IPFS_college](https://github.com/rushtac/IPFS_college)| 0 | 0 | 886| 2021-08-19 | 2021-08-19 |
 | [cbonoz/checkoutfs](https://github.com/cbonoz/checkoutfs)| 1 | 0 | 4311| 2021-08-19 | 2021-08-19 |
-| [tarunbatra/rate-ipfs-content](https://github.com/tarunbatra/rate-ipfs-content)| 0 | 0 | 811| 2021-08-18 | 2021-08-18 |
-| [0xatm/web3-uploader](https://github.com/0xatm/web3-uploader)| 0 | 0 | 246| 2021-08-18 | 2021-08-18 |
 
 
 The above set is limited to the 10 most recently created. 
