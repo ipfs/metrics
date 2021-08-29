@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 86
-*  7/2021: 76
-*  6/2021: 89
-*  5/2021: 89
-*  4/2021: 97
-*  3/2021: 89
-*  2/2021: 82
-*  1/2021: 85
-*  12/2020: 63
-*  11/2020: 54
-*  10/2020: 62
-*  9/2020: 69
+*  8/2021: 82
+*  7/2021: 82
+*  6/2021: 85
+*  5/2021: 79
+*  4/2021: 91
+*  3/2021: 88
+*  2/2021: 68
+*  1/2021: 92
+*  12/2020: 55
+*  11/2020: 48
+*  10/2020: 60
+*  9/2020: 68
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92600
+Total Matches: 92850
 
-Total Results (Limited by GitHUB API): 1583
+Total Results (Limited by GitHUB API): 1584
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 188| 2021-08-27 | 2021-08-27 |
+| [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
+| [pyrhaa/meme_Dapp_Ipfs](https://github.com/pyrhaa/meme_Dapp_Ipfs)| 0 | 0 | 390| 2021-08-28 | 2021-08-28 |
+| [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
+| [lsb530/Etherium-BicycleDapp](https://github.com/lsb530/Etherium-BicycleDapp)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
+| [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 191| 2021-08-27 | 2021-08-28 |
 | [magicleafs/html-for-ipfs](https://github.com/magicleafs/html-for-ipfs)| 0 | 0 | 4067| 2021-08-27 | 2021-08-27 |
 | [wosk0x01/IPFS_File_Storage_Program](https://github.com/wosk0x01/IPFS_File_Storage_Program)| 0 | 0 | 28| 2021-08-26 | 2021-08-26 |
+| [emg110/ipfs2bytes32](https://github.com/emg110/ipfs2bytes32)| 0 | 0 | 33| 2021-08-25 | 2021-08-28 |
 | [ipfs-examples/js-ipfs-browser-nextjs](https://github.com/ipfs-examples/js-ipfs-browser-nextjs)| 0 | 0 | 17| 2021-08-24 | 2021-08-24 |
 | [Margotte83/NFTday](https://github.com/Margotte83/NFTday)| 0 | 0 | 416| 2021-08-24 | 2021-08-24 |
-| [0xPuffin/onlypillz](https://github.com/0xPuffin/onlypillz)| 1 | 0 | 3357| 2021-08-22 | 2021-08-22 |
-| [copious-world/repository-bridge](https://github.com/copious-world/repository-bridge)| 0 | 0 | 214| 2021-08-21 | 2021-08-22 |
-| [HashLips/nft_ipfs_minter](https://github.com/HashLips/nft_ipfs_minter)| 4 | 3 | 998| 2021-08-21 | 2021-08-21 |
-| [rushtac/IPFS_college](https://github.com/rushtac/IPFS_college)| 0 | 0 | 886| 2021-08-19 | 2021-08-19 |
-| [cbonoz/checkoutfs](https://github.com/cbonoz/checkoutfs)| 1 | 0 | 4311| 2021-08-19 | 2021-08-19 |
 
 
 The above set is limited to the 10 most recently created. 
