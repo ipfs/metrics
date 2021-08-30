@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  8/2021: 82
-*  7/2021: 82
-*  6/2021: 85
-*  5/2021: 79
-*  4/2021: 91
-*  3/2021: 88
-*  2/2021: 68
-*  1/2021: 92
+*  7/2021: 66
+*  6/2021: 76
+*  5/2021: 73
+*  4/2021: 89
+*  3/2021: 85
+*  2/2021: 61
+*  1/2021: 85
 *  12/2020: 55
-*  11/2020: 48
-*  10/2020: 60
-*  9/2020: 68
+*  11/2020: 44
+*  10/2020: 56
+*  9/2020: 62
 
 ### GitHub Search
 
@@ -64,7 +64,7 @@ Total Results (Limited by GitHUB API): 427
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
 | [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16564| 2021-08-07 | 2021-08-26 |
-| [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 330| 2021-08-06 | 2021-08-06 |
+| [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 344| 2021-08-06 | 2021-08-29 |
 | [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 1 | 1 | 60| 2021-08-06 | 2021-08-23 |
 
 
@@ -73,17 +73,17 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92850
+Total Matches: 92800
 
-Total Results (Limited by GitHUB API): 1584
+Total Results (Limited by GitHUB API): 1592
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
-| [pyrhaa/meme_Dapp_Ipfs](https://github.com/pyrhaa/meme_Dapp_Ipfs)| 0 | 0 | 390| 2021-08-28 | 2021-08-28 |
+| [pyrhaa/test_upload_ipfs_react](https://github.com/pyrhaa/test_upload_ipfs_react)| 0 | 0 | 435| 2021-08-28 | 2021-08-29 |
 | [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
 | [lsb530/Etherium-BicycleDapp](https://github.com/lsb530/Etherium-BicycleDapp)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
-| [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 191| 2021-08-27 | 2021-08-28 |
+| [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 198| 2021-08-27 | 2021-08-29 |
 | [magicleafs/html-for-ipfs](https://github.com/magicleafs/html-for-ipfs)| 0 | 0 | 4067| 2021-08-27 | 2021-08-27 |
 | [wosk0x01/IPFS_File_Storage_Program](https://github.com/wosk0x01/IPFS_File_Storage_Program)| 0 | 0 | 28| 2021-08-26 | 2021-08-26 |
 | [emg110/ipfs2bytes32](https://github.com/emg110/ipfs2bytes32)| 0 | 0 | 33| 2021-08-25 | 2021-08-28 |
