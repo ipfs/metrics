@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 93
-*  7/2021: 63
-*  6/2021: 75
-*  5/2021: 73
-*  4/2021: 82
-*  3/2021: 84
-*  2/2021: 65
-*  1/2021: 92
-*  12/2020: 52
-*  11/2020: 40
-*  10/2020: 55
-*  9/2020: 67
+*  8/2021: 86
+*  7/2021: 75
+*  6/2021: 87
+*  5/2021: 81
+*  4/2021: 90
+*  3/2021: 88
+*  2/2021: 70
+*  1/2021: 94
+*  12/2020: 57
+*  11/2020: 41
+*  10/2020: 57
+*  9/2020: 70
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2562
 
-Total Results (Limited by GitHUB API): 427
+Total Results (Limited by GitHUB API): 426
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92882
+Total Matches: 93000
 
-Total Results (Limited by GitHUB API): 1584
+Total Results (Limited by GitHUB API): 1587
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 270| 2021-08-31 | 2021-08-31 |
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
 | [pyrhaa/test_upload_ipfs_react](https://github.com/pyrhaa/test_upload_ipfs_react)| 0 | 0 | 435| 2021-08-28 | 2021-08-29 |
-| [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
+| [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 35| 2021-08-28 | 2021-08-31 |
 | [lsb530/Etherium-BicycleDapp](https://github.com/lsb530/Etherium-BicycleDapp)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
 | [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 198| 2021-08-27 | 2021-08-29 |
 | [magicleafs/html-for-ipfs](https://github.com/magicleafs/html-for-ipfs)| 0 | 0 | 4067| 2021-08-27 | 2021-08-27 |
 | [wosk0x01/IPFS_File_Storage_Program](https://github.com/wosk0x01/IPFS_File_Storage_Program)| 0 | 0 | 28| 2021-08-26 | 2021-08-26 |
 | [emg110/ipfs2bytes32](https://github.com/emg110/ipfs2bytes32)| 0 | 0 | 33| 2021-08-25 | 2021-08-28 |
-| [ipfs-examples/js-ipfs-browser-nextjs](https://github.com/ipfs-examples/js-ipfs-browser-nextjs)| 0 | 0 | 17| 2021-08-24 | 2021-08-24 |
 
 
 The above set is limited to the 10 most recently created. 
