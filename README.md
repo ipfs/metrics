@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 86
-*  7/2021: 75
-*  6/2021: 87
-*  5/2021: 81
-*  4/2021: 90
-*  3/2021: 88
-*  2/2021: 70
+*  8/2021: 81
+*  7/2021: 73
+*  6/2021: 80
+*  5/2021: 75
+*  4/2021: 92
+*  3/2021: 90
+*  2/2021: 68
 *  1/2021: 94
-*  12/2020: 57
-*  11/2020: 41
-*  10/2020: 57
-*  9/2020: 70
+*  12/2020: 55
+*  11/2020: 40
+*  10/2020: 50
+*  9/2020: 77
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2562
+Total Matches: 2544
 
-Total Results (Limited by GitHUB API): 426
+Total Results (Limited by GitHUB API): 424
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -64,8 +64,8 @@ Total Results (Limited by GitHUB API): 426
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 1 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
-| [kenlabs/TimeRose](https://github.com/kenlabs/TimeRose)| 0 | 0 | 16564| 2021-08-07 | 2021-08-26 |
 | [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 344| 2021-08-06 | 2021-08-29 |
+| [aschmahmann/ipfs-check](https://github.com/aschmahmann/ipfs-check)| 1 | 1 | 60| 2021-08-06 | 2021-08-23 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93000
+Total Matches: 92933
 
-Total Results (Limited by GitHUB API): 1587
+Total Results (Limited by GitHUB API): 1582
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [vinayakrit/Blockchain-certicate-verify](https://github.com/vinayakrit/Blockchain-certicate-verify)| 0 | 0 | 142| 2021-09-01 | 2021-09-01 |
 | [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 270| 2021-08-31 | 2021-08-31 |
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1587
 | [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 198| 2021-08-27 | 2021-08-29 |
 | [magicleafs/html-for-ipfs](https://github.com/magicleafs/html-for-ipfs)| 0 | 0 | 4067| 2021-08-27 | 2021-08-27 |
 | [wosk0x01/IPFS_File_Storage_Program](https://github.com/wosk0x01/IPFS_File_Storage_Program)| 0 | 0 | 28| 2021-08-26 | 2021-08-26 |
-| [emg110/ipfs2bytes32](https://github.com/emg110/ipfs2bytes32)| 0 | 0 | 33| 2021-08-25 | 2021-08-28 |
 
 
 The above set is limited to the 10 most recently created. 
