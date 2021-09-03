@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 81
+*  8/2021: 90
 *  7/2021: 73
 *  6/2021: 80
-*  5/2021: 75
-*  4/2021: 92
-*  3/2021: 90
-*  2/2021: 68
-*  1/2021: 94
-*  12/2020: 55
-*  11/2020: 40
-*  10/2020: 50
-*  9/2020: 77
+*  5/2021: 78
+*  4/2021: 100
+*  3/2021: 93
+*  2/2021: 79
+*  1/2021: 92
+*  12/2020: 50
+*  11/2020: 47
+*  10/2020: 61
+*  9/2020: 63
 
 ### GitHub Search
 
@@ -73,14 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 92933
+Total Matches: 93100
 
-Total Results (Limited by GitHUB API): 1582
+Total Results (Limited by GitHUB API): 1595
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [vinayakrit/Blockchain-certicate-verify](https://github.com/vinayakrit/Blockchain-certicate-verify)| 0 | 0 | 142| 2021-09-01 | 2021-09-01 |
-| [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 270| 2021-08-31 | 2021-08-31 |
+| [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 271| 2021-08-31 | 2021-09-02 |
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
 | [pyrhaa/test_upload_ipfs_react](https://github.com/pyrhaa/test_upload_ipfs_react)| 0 | 0 | 435| 2021-08-28 | 2021-08-29 |
