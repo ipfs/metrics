@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 90
-*  7/2021: 73
-*  6/2021: 80
-*  5/2021: 78
-*  4/2021: 100
-*  3/2021: 93
-*  2/2021: 79
-*  1/2021: 92
+*  8/2021: 88
+*  7/2021: 69
+*  6/2021: 73
+*  5/2021: 71
+*  4/2021: 77
+*  3/2021: 77
+*  2/2021: 63
+*  1/2021: 82
 *  12/2020: 50
-*  11/2020: 47
-*  10/2020: 61
-*  9/2020: 63
+*  11/2020: 45
+*  10/2020: 46
+*  9/2020: 61
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93100
+Total Matches: 93150
 
-Total Results (Limited by GitHUB API): 1595
+Total Results (Limited by GitHUB API): 1587
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
+| [imestin/ipfs-blog-website-flavour-solidi...](https://github.com/imestin/ipfs-blog-website-flavour-solidity)| 0 | 0 | 34140| 2021-09-03 | 2021-09-03 |
 | [vinayakrit/Blockchain-certicate-verify](https://github.com/vinayakrit/Blockchain-certicate-verify)| 0 | 0 | 142| 2021-09-01 | 2021-09-01 |
+| [kkh1178/pinata_app](https://github.com/kkh1178/pinata_app)| 0 | 0 | 368| 2021-08-31 | 2021-09-03 |
 | [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 271| 2021-08-31 | 2021-09-02 |
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
 | [pyrhaa/test_upload_ipfs_react](https://github.com/pyrhaa/test_upload_ipfs_react)| 0 | 0 | 435| 2021-08-28 | 2021-08-29 |
 | [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 35| 2021-08-28 | 2021-08-31 |
 | [lsb530/Etherium-BicycleDapp](https://github.com/lsb530/Etherium-BicycleDapp)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
-| [zay467/NFT-Marketplace](https://github.com/zay467/NFT-Marketplace)| 0 | 0 | 198| 2021-08-27 | 2021-08-29 |
-| [magicleafs/html-for-ipfs](https://github.com/magicleafs/html-for-ipfs)| 0 | 0 | 4067| 2021-08-27 | 2021-08-27 |
-| [wosk0x01/IPFS_File_Storage_Program](https://github.com/wosk0x01/IPFS_File_Storage_Program)| 0 | 0 | 28| 2021-08-26 | 2021-08-26 |
 
 
 The above set is limited to the 10 most recently created. 
