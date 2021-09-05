@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  8/2021: 88
-*  7/2021: 69
-*  6/2021: 73
-*  5/2021: 71
-*  4/2021: 77
-*  3/2021: 77
-*  2/2021: 63
-*  1/2021: 82
-*  12/2020: 50
-*  11/2020: 45
-*  10/2020: 46
-*  9/2020: 61
+*  9/2021: 81
+*  8/2021: 90
+*  7/2021: 94
+*  6/2021: 87
+*  5/2021: 100
+*  4/2021: 96
+*  3/2021: 96
+*  2/2021: 69
+*  1/2021: 86
+*  12/2020: 62
+*  11/2020: 55
+*  10/2020: 60
 
 ### GitHub Search
 
@@ -75,10 +75,11 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 93150
 
-Total Results (Limited by GitHUB API): 1587
+Total Results (Limited by GitHUB API): 1582
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [the-n-project/pinny](https://github.com/the-n-project/pinny)| 2 | 2 | 94| 2021-09-04 | 2021-09-04 |
 | [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
 | [imestin/ipfs-blog-website-flavour-solidi...](https://github.com/imestin/ipfs-blog-website-flavour-solidity)| 0 | 0 | 34140| 2021-09-03 | 2021-09-03 |
 | [vinayakrit/Blockchain-certicate-verify](https://github.com/vinayakrit/Blockchain-certicate-verify)| 0 | 0 | 142| 2021-09-01 | 2021-09-01 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1587
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
 | [pyrhaa/test_upload_ipfs_react](https://github.com/pyrhaa/test_upload_ipfs_react)| 0 | 0 | 435| 2021-08-28 | 2021-08-29 |
 | [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 35| 2021-08-28 | 2021-08-31 |
-| [lsb530/Etherium-BicycleDapp](https://github.com/lsb530/Etherium-BicycleDapp)| 0 | 0 | 34| 2021-08-28 | 2021-08-28 |
 
 
 The above set is limited to the 10 most recently created. 
