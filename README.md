@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 81
-*  8/2021: 90
-*  7/2021: 94
-*  6/2021: 87
-*  5/2021: 100
-*  4/2021: 96
-*  3/2021: 96
-*  2/2021: 69
-*  1/2021: 86
+*  9/2021: 90
+*  8/2021: 87
+*  7/2021: 78
+*  6/2021: 91
+*  5/2021: 85
+*  4/2021: 93
+*  3/2021: 95
+*  2/2021: 70
+*  1/2021: 92
 *  12/2020: 62
-*  11/2020: 55
-*  10/2020: 60
+*  11/2020: 43
+*  10/2020: 53
 
 ### GitHub Search
 
@@ -73,13 +73,15 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93150
+Total Matches: 93250
 
-Total Results (Limited by GitHUB API): 1582
+Total Results (Limited by GitHUB API): 1593
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [the-n-project/pinny](https://github.com/the-n-project/pinny)| 2 | 2 | 94| 2021-09-04 | 2021-09-04 |
+| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 730| 2021-09-05 | 2021-09-05 |
+| [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 641| 2021-09-04 | 2021-09-05 |
+| [the-n-project/pinny](https://github.com/the-n-project/pinny)| 3 | 2 | 94| 2021-09-04 | 2021-09-04 |
 | [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
 | [imestin/ipfs-blog-website-flavour-solidi...](https://github.com/imestin/ipfs-blog-website-flavour-solidity)| 0 | 0 | 34140| 2021-09-03 | 2021-09-03 |
 | [vinayakrit/Blockchain-certicate-verify](https://github.com/vinayakrit/Blockchain-certicate-verify)| 0 | 0 | 142| 2021-09-01 | 2021-09-01 |
@@ -87,8 +89,6 @@ Total Results (Limited by GitHUB API): 1582
 | [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 271| 2021-08-31 | 2021-09-02 |
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 | [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
-| [pyrhaa/test_upload_ipfs_react](https://github.com/pyrhaa/test_upload_ipfs_react)| 0 | 0 | 435| 2021-08-28 | 2021-08-29 |
-| [mingderwang/ipfs-back-end-forge](https://github.com/mingderwang/ipfs-back-end-forge)| 0 | 0 | 35| 2021-08-28 | 2021-08-31 |
 
 
 The above set is limited to the 10 most recently created. 
