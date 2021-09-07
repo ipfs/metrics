@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 90
-*  8/2021: 87
-*  7/2021: 78
-*  6/2021: 91
-*  5/2021: 85
-*  4/2021: 93
-*  3/2021: 95
-*  2/2021: 70
-*  1/2021: 92
-*  12/2020: 62
-*  11/2020: 43
-*  10/2020: 53
+*  9/2021: 100
+*  8/2021: 69
+*  7/2021: 65
+*  6/2021: 72
+*  5/2021: 71
+*  4/2021: 79
+*  3/2021: 71
+*  2/2021: 50
+*  1/2021: 75
+*  12/2020: 44
+*  11/2020: 41
+*  10/2020: 45
 
 ### GitHub Search
 
@@ -73,13 +73,14 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93250
+Total Matches: 93400
 
-Total Results (Limited by GitHUB API): 1593
+Total Results (Limited by GitHUB API): 1591
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 730| 2021-09-05 | 2021-09-05 |
+| [emg110/arc3ipfs](https://github.com/emg110/arc3ipfs)| 0 | 0 | 8465| 2021-09-06 | 2021-09-06 |
+| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 741| 2021-09-05 | 2021-09-06 |
 | [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 641| 2021-09-04 | 2021-09-05 |
 | [the-n-project/pinny](https://github.com/the-n-project/pinny)| 3 | 2 | 94| 2021-09-04 | 2021-09-04 |
 | [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1593
 | [kkh1178/pinata_app](https://github.com/kkh1178/pinata_app)| 0 | 0 | 368| 2021-08-31 | 2021-09-03 |
 | [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 271| 2021-08-31 | 2021-09-02 |
 | [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
-| [iamOjas/Image-storage](https://github.com/iamOjas/Image-storage)| 0 | 0 | 404| 2021-08-28 | 2021-08-28 |
 
 
 The above set is limited to the 10 most recently created. 
