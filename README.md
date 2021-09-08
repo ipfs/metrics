@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 69
-*  7/2021: 65
-*  6/2021: 72
-*  5/2021: 71
-*  4/2021: 79
-*  3/2021: 71
-*  2/2021: 50
-*  1/2021: 75
-*  12/2020: 44
-*  11/2020: 41
-*  10/2020: 45
+*  9/2021: 88
+*  8/2021: 85
+*  7/2021: 67
+*  6/2021: 79
+*  5/2021: 69
+*  4/2021: 87
+*  3/2021: 88
+*  2/2021: 72
+*  1/2021: 77
+*  12/2020: 50
+*  11/2020: 42
+*  10/2020: 51
 
 ### GitHub Search
 
@@ -50,7 +50,7 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2544
+Total Matches: 2550
 
 Total Results (Limited by GitHUB API): 424
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93400
+Total Matches: 93450
 
-Total Results (Limited by GitHUB API): 1591
+Total Results (Limited by GitHUB API): 1586
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [emg110/arc3ipfs](https://github.com/emg110/arc3ipfs)| 0 | 0 | 8465| 2021-09-06 | 2021-09-06 |
-| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 741| 2021-09-05 | 2021-09-06 |
-| [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 641| 2021-09-04 | 2021-09-05 |
+| [Margotte83/MyPictureDay](https://github.com/Margotte83/MyPictureDay)| 0 | 0 | 420| 2021-09-07 | 2021-09-07 |
+| [rfzsal/ipfs-blockchain](https://github.com/rfzsal/ipfs-blockchain)| 0 | 0 | 90| 2021-09-07 | 2021-09-07 |
+| [GalaxyLittlepaws/music-player](https://github.com/GalaxyLittlepaws/music-player)| 0 | 0 | 60467| 2021-09-07 | 2021-09-07 |
+| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 842| 2021-09-05 | 2021-09-07 |
+| [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 641| 2021-09-04 | 2021-09-07 |
 | [the-n-project/pinny](https://github.com/the-n-project/pinny)| 3 | 2 | 94| 2021-09-04 | 2021-09-04 |
 | [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
 | [imestin/ipfs-blog-website-flavour-solidi...](https://github.com/imestin/ipfs-blog-website-flavour-solidity)| 0 | 0 | 34140| 2021-09-03 | 2021-09-03 |
 | [vinayakrit/Blockchain-certicate-verify](https://github.com/vinayakrit/Blockchain-certicate-verify)| 0 | 0 | 142| 2021-09-01 | 2021-09-01 |
 | [kkh1178/pinata_app](https://github.com/kkh1178/pinata_app)| 0 | 0 | 368| 2021-08-31 | 2021-09-03 |
-| [croccifixio-maneki/ipfs_upload_contract](https://github.com/croccifixio-maneki/ipfs_upload_contract)| 0 | 0 | 271| 2021-08-31 | 2021-09-02 |
-| [maksympogonets/ultimate-ipfs-series](https://github.com/maksympogonets/ultimate-ipfs-series)| 2 | 0 | 47| 2021-08-30 | 2021-08-30 |
 
 
 The above set is limited to the 10 most recently created. 
