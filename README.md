@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 94
-*  8/2021: 95
-*  7/2021: 85
-*  6/2021: 78
-*  5/2021: 78
-*  4/2021: 94
-*  3/2021: 90
-*  2/2021: 75
-*  1/2021: 95
-*  12/2020: 55
-*  11/2020: 45
-*  10/2020: 51
+*  9/2021: 100
+*  8/2021: 76
+*  7/2021: 70
+*  6/2021: 71
+*  5/2021: 80
+*  4/2021: 87
+*  3/2021: 78
+*  2/2021: 63
+*  1/2021: 67
+*  12/2020: 51
+*  11/2020: 51
+*  10/2020: 50
 
 ### GitHub Search
 
@@ -50,13 +50,14 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2556
+Total Matches: 2562
 
-Total Results (Limited by GitHUB API): 426
+Total Results (Limited by GitHUB API): 427
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 37| 2021-09-08 | 2021-09-08 |
+| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 185| 2021-09-09 | 2021-09-09 |
+| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 47| 2021-09-08 | 2021-09-09 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 426
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 1 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 | [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
-| [KEINOS/go-ipfs-as-a-library](https://github.com/KEINOS/go-ipfs-as-a-library)| 0 | 0 | 344| 2021-08-06 | 2021-08-29 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -79,10 +79,10 @@ Total Results (Limited by GitHUB API): 1588
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [rfzsal/nodejs-blockchain](https://github.com/rfzsal/nodejs-blockchain)| 0 | 0 | 97| 2021-09-09 | 2021-09-09 |
 | [sreekar9601/Polygon-Video-Streaming-App](https://github.com/sreekar9601/Polygon-Video-Streaming-App)| 0 | 0 | 825| 2021-09-08 | 2021-09-08 |
 | [MehdizadeMilad/ipfsNode](https://github.com/MehdizadeMilad/ipfsNode)| 0 | 0 | 65| 2021-09-08 | 2021-09-08 |
 | [Margotte83/MyPictureDay](https://github.com/Margotte83/MyPictureDay)| 0 | 0 | 420| 2021-09-07 | 2021-09-07 |
-| [rfzsal/ipfs-blockchain](https://github.com/rfzsal/ipfs-blockchain)| 0 | 0 | 90| 2021-09-07 | 2021-09-07 |
 | [GalaxyLittlepaws/music-player](https://github.com/GalaxyLittlepaws/music-player)| 0 | 0 | 60467| 2021-09-07 | 2021-09-07 |
 | [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 842| 2021-09-05 | 2021-09-07 |
 | [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 641| 2021-09-04 | 2021-09-07 |
