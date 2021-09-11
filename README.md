@@ -21,17 +21,17 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 Google Trends:
 *  9/2021: 100
-*  8/2021: 76
-*  7/2021: 70
-*  6/2021: 71
-*  5/2021: 80
-*  4/2021: 87
-*  3/2021: 78
-*  2/2021: 63
-*  1/2021: 67
-*  12/2020: 51
-*  11/2020: 51
-*  10/2020: 50
+*  8/2021: 81
+*  7/2021: 75
+*  6/2021: 77
+*  5/2021: 82
+*  4/2021: 76
+*  3/2021: 89
+*  2/2021: 64
+*  1/2021: 74
+*  12/2020: 43
+*  11/2020: 49
+*  10/2020: 53
 
 ### GitHub Search
 
@@ -56,8 +56,8 @@ Total Results (Limited by GitHUB API): 427
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 185| 2021-09-09 | 2021-09-09 |
-| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 47| 2021-09-08 | 2021-09-09 |
+| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 190| 2021-09-09 | 2021-09-10 |
+| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 81| 2021-09-08 | 2021-09-10 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 93700
 
-Total Results (Limited by GitHUB API): 1588
+Total Results (Limited by GitHUB API): 1592
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -85,7 +85,7 @@ Total Results (Limited by GitHUB API): 1588
 | [Margotte83/MyPictureDay](https://github.com/Margotte83/MyPictureDay)| 0 | 0 | 420| 2021-09-07 | 2021-09-07 |
 | [GalaxyLittlepaws/music-player](https://github.com/GalaxyLittlepaws/music-player)| 0 | 0 | 60467| 2021-09-07 | 2021-09-07 |
 | [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 842| 2021-09-05 | 2021-09-07 |
-| [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 641| 2021-09-04 | 2021-09-07 |
+| [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 643| 2021-09-04 | 2021-09-10 |
 | [the-n-project/pinny](https://github.com/the-n-project/pinny)| 3 | 2 | 94| 2021-09-04 | 2021-09-04 |
 | [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
 | [imestin/ipfs-blog-website-flavour-solidi...](https://github.com/imestin/ipfs-blog-website-flavour-solidity)| 0 | 0 | 34140| 2021-09-03 | 2021-09-03 |
