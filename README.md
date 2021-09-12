@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 81
-*  7/2021: 75
-*  6/2021: 77
+*  9/2021: 98
+*  8/2021: 89
+*  7/2021: 72
+*  6/2021: 84
 *  5/2021: 82
-*  4/2021: 76
-*  3/2021: 89
-*  2/2021: 64
-*  1/2021: 74
-*  12/2020: 43
-*  11/2020: 49
-*  10/2020: 53
+*  4/2021: 86
+*  3/2021: 80
+*  2/2021: 74
+*  1/2021: 93
+*  12/2020: 48
+*  11/2020: 42
+*  10/2020: 52
 
 ### GitHub Search
 
@@ -52,12 +52,12 @@ so we don't know why this is the case.
 
 Total Matches: 2562
 
-Total Results (Limited by GitHUB API): 427
+Total Results (Limited by GitHUB API): 425
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 190| 2021-09-09 | 2021-09-10 |
-| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 81| 2021-09-08 | 2021-09-10 |
+| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 127| 2021-09-08 | 2021-09-12 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 93700
 
-Total Results (Limited by GitHUB API): 1592
+Total Results (Limited by GitHUB API): 1591
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
