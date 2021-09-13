@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 98
-*  8/2021: 89
-*  7/2021: 72
-*  6/2021: 84
-*  5/2021: 82
-*  4/2021: 86
-*  3/2021: 80
-*  2/2021: 74
-*  1/2021: 93
-*  12/2020: 48
-*  11/2020: 42
-*  10/2020: 52
+*  9/2021: 100
+*  8/2021: 75
+*  7/2021: 79
+*  6/2021: 73
+*  5/2021: 67
+*  4/2021: 88
+*  3/2021: 82
+*  2/2021: 52
+*  1/2021: 81
+*  12/2020: 55
+*  11/2020: 51
+*  10/2020: 55
 
 ### GitHub Search
 
@@ -52,10 +52,11 @@ so we don't know why this is the case.
 
 Total Matches: 2562
 
-Total Results (Limited by GitHUB API): 425
+Total Results (Limited by GitHUB API): 427
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [kishansagathiya/chainsafe-assignment](https://github.com/kishansagathiya/chainsafe-assignment)| 1 | 0 | 155| 2021-09-11 | 2021-09-12 |
 | [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 190| 2021-09-09 | 2021-09-10 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 127| 2021-09-08 | 2021-09-12 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 425
 | [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 1 | 0 | 26| 2021-08-18 | 2021-08-19 |
 | [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
-| [ali2210/legendary-bassoon](https://github.com/ali2210/legendary-bassoon)| 0 | 0 | 9675| 2021-08-07 | 2021-08-08 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93700
+Total Matches: 93750
 
-Total Results (Limited by GitHUB API): 1591
+Total Results (Limited by GitHUB API): 1589
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [331leo/ipfs_ipa_registry](https://github.com/331leo/ipfs_ipa_registry)| 2 | 0 | 152| 2021-09-12 | 2021-09-12 |
 | [rfzsal/nodejs-blockchain](https://github.com/rfzsal/nodejs-blockchain)| 0 | 0 | 97| 2021-09-09 | 2021-09-09 |
 | [sreekar9601/Polygon-Video-Streaming-App](https://github.com/sreekar9601/Polygon-Video-Streaming-App)| 0 | 0 | 825| 2021-09-08 | 2021-09-08 |
 | [MehdizadeMilad/ipfsNode](https://github.com/MehdizadeMilad/ipfsNode)| 0 | 0 | 65| 2021-09-08 | 2021-09-08 |
 | [Margotte83/MyPictureDay](https://github.com/Margotte83/MyPictureDay)| 0 | 0 | 420| 2021-09-07 | 2021-09-07 |
 | [GalaxyLittlepaws/music-player](https://github.com/GalaxyLittlepaws/music-player)| 0 | 0 | 60467| 2021-09-07 | 2021-09-07 |
-| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 842| 2021-09-05 | 2021-09-07 |
+| [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 843| 2021-09-05 | 2021-09-12 |
 | [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 643| 2021-09-04 | 2021-09-10 |
 | [the-n-project/pinny](https://github.com/the-n-project/pinny)| 3 | 2 | 94| 2021-09-04 | 2021-09-04 |
 | [nscl-unlv/ibe-on-ipfs](https://github.com/nscl-unlv/ibe-on-ipfs)| 0 | 0 | 3684| 2021-09-03 | 2021-09-03 |
-| [imestin/ipfs-blog-website-flavour-solidi...](https://github.com/imestin/ipfs-blog-website-flavour-solidity)| 0 | 0 | 34140| 2021-09-03 | 2021-09-03 |
 
 
 The above set is limited to the 10 most recently created. 
