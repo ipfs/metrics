@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 75
-*  7/2021: 67
-*  6/2021: 78
-*  5/2021: 79
-*  4/2021: 87
-*  3/2021: 84
-*  2/2021: 63
-*  1/2021: 83
-*  12/2020: 54
-*  11/2020: 34
-*  10/2020: 43
+*  9/2021: 82
+*  8/2021: 88
+*  7/2021: 73
+*  6/2021: 81
+*  5/2021: 84
+*  4/2021: 90
+*  3/2021: 90
+*  2/2021: 69
+*  1/2021: 87
+*  12/2020: 64
+*  11/2020: 43
+*  10/2020: 54
 
 ### GitHub Search
 
@@ -50,9 +50,9 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2562
+Total Matches: 2549
 
-Total Results (Limited by GitHUB API): 427
+Total Results (Limited by GitHUB API): 420
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93800
+Total Matches: 93700
 
 Total Results (Limited by GitHUB API): 1593
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [AlbertoLasa/nft-opensea-ipfs](https://github.com/AlbertoLasa/nft-opensea-ipfs)| 0 | 0 | 1611| 2021-09-14 | 2021-09-14 |
 | [mingderwang/ipfs-backup-jira-issue](https://github.com/mingderwang/ipfs-backup-jira-issue)| 0 | 1 | 545| 2021-09-13 | 2021-09-13 |
 | [331leo/ipfs_ipa_registry](https://github.com/331leo/ipfs_ipa_registry)| 2 | 0 | 397| 2021-09-12 | 2021-09-13 |
 | [rfzsal/nodejs-blockchain](https://github.com/rfzsal/nodejs-blockchain)| 0 | 0 | 97| 2021-09-09 | 2021-09-09 |
-| [sreekar9601/Polygon-Video-Streaming-App](https://github.com/sreekar9601/Polygon-Video-Streaming-App)| 0 | 0 | 825| 2021-09-08 | 2021-09-08 |
+| [sreekar9601/Polygon-Video-Streaming-App](https://github.com/sreekar9601/Polygon-Video-Streaming-App)| 0 | 0 | 828| 2021-09-08 | 2021-09-14 |
 | [MehdizadeMilad/ipfsNode](https://github.com/MehdizadeMilad/ipfsNode)| 0 | 0 | 65| 2021-09-08 | 2021-09-08 |
 | [Margotte83/MyPictureDay](https://github.com/Margotte83/MyPictureDay)| 0 | 0 | 420| 2021-09-07 | 2021-09-07 |
 | [GalaxyLittlepaws/music-player](https://github.com/GalaxyLittlepaws/music-player)| 0 | 0 | 60467| 2021-09-07 | 2021-09-07 |
 | [ykxVK8yL5L/ipfs](https://github.com/ykxVK8yL5L/ipfs)| 0 | 0 | 843| 2021-09-05 | 2021-09-12 |
 | [pi-rate14/DreadIt](https://github.com/pi-rate14/DreadIt)| 0 | 0 | 643| 2021-09-04 | 2021-09-10 |
-| [the-n-project/pinny](https://github.com/the-n-project/pinny)| 3 | 2 | 94| 2021-09-04 | 2021-09-04 |
 
 
 The above set is limited to the 10 most recently created. 
