@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 76
-*  7/2021: 69
+*  9/2021: 78
+*  8/2021: 72
+*  7/2021: 64
 *  6/2021: 76
-*  5/2021: 84
-*  4/2021: 94
-*  3/2021: 94
+*  5/2021: 63
+*  4/2021: 79
+*  3/2021: 81
 *  2/2021: 63
-*  1/2021: 95
-*  12/2020: 55
-*  11/2020: 47
-*  10/2020: 68
+*  1/2021: 87
+*  12/2020: 42
+*  11/2020: 41
+*  10/2020: 46
 
 ### GitHub Search
 
@@ -50,14 +50,15 @@ so we don't know why this is the case.
 
 #### Go Repositories
 
-Total Matches: 2568
+Total Matches: 2574
 
-Total Results (Limited by GitHUB API): 428
+Total Results (Limited by GitHUB API): 429
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 294| 2021-09-14 | 2021-09-16 |
 | [kishansagathiya/chainsafe-assignment](https://github.com/kishansagathiya/chainsafe-assignment)| 1 | 0 | 155| 2021-09-11 | 2021-09-12 |
-| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 198| 2021-09-09 | 2021-09-13 |
+| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 200| 2021-09-09 | 2021-09-16 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 127| 2021-09-08 | 2021-09-12 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
@@ -65,7 +66,6 @@ Total Results (Limited by GitHUB API): 428
 | [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 1 | 0 | 84| 2021-08-21 | 2021-08-21 |
 | [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 | [iotaledger/go-ds-kvstore](https://github.com/iotaledger/go-ds-kvstore)| 1 | 0 | 26| 2021-08-18 | 2021-08-19 |
-| [omar391/IPFS-Smart-Contract](https://github.com/omar391/IPFS-Smart-Contract)| 0 | 0 | 95| 2021-08-16 | 2021-08-16 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 93850
+Total Matches: 93900
 
-Total Results (Limited by GitHUB API): 1594
+Total Results (Limited by GitHUB API): 1589
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
