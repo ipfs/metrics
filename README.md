@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 94
-*  8/2021: 74
-*  7/2021: 68
-*  6/2021: 87
-*  5/2021: 75
-*  4/2021: 96
+*  9/2021: 100
+*  8/2021: 82
+*  7/2021: 73
+*  6/2021: 79
+*  5/2021: 74
+*  4/2021: 85
 *  3/2021: 88
-*  2/2021: 73
-*  1/2021: 88
-*  12/2020: 49
-*  11/2020: 46
-*  10/2020: 55
+*  2/2021: 66
+*  1/2021: 91
+*  12/2020: 58
+*  11/2020: 40
+*  10/2020: 47
 
 ### GitHub Search
 
@@ -52,14 +52,14 @@ so we don't know why this is the case.
 
 Total Matches: 2574
 
-Total Results (Limited by GitHUB API): 425
+Total Results (Limited by GitHUB API): 426
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 302| 2021-09-14 | 2021-09-17 |
 | [kishansagathiya/chainsafe-assignment](https://github.com/kishansagathiya/chainsafe-assignment)| 1 | 0 | 155| 2021-09-11 | 2021-09-12 |
 | [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 200| 2021-09-09 | 2021-09-16 |
-| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 186| 2021-09-08 | 2021-09-18 |
+| [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 192| 2021-09-08 | 2021-09-19 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 94050
+Total Matches: 94250
 
-Total Results (Limited by GitHUB API): 1586
+Total Results (Limited by GitHUB API): 1589
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 672| 2021-09-19 | 2021-09-19 |
+| [SuperStar0225/NFT_marketplace](https://github.com/SuperStar0225/NFT_marketplace)| 0 | 0 | 354| 2021-09-19 | 2021-09-19 |
+| [iamvon/thrust-vscode-extension](https://github.com/iamvon/thrust-vscode-extension)| 0 | 0 | 133| 2021-09-19 | 2021-09-19 |
+| [venkatesh16031999/CryptoChillouts](https://github.com/venkatesh16031999/CryptoChillouts)| 0 | 0 | 33631| 2021-09-19 | 2021-09-19 |
 | [NicolasJEngler/pinata-ipfs-test](https://github.com/NicolasJEngler/pinata-ipfs-test)| 0 | 0 | 214| 2021-09-18 | 2021-09-18 |
 | [NguyenIvan/lazy-ipfs-image](https://github.com/NguyenIvan/lazy-ipfs-image)| 0 | 0 | 325| 2021-09-16 | 2021-09-17 |
 | [shameer5/DMS](https://github.com/shameer5/DMS)| 0 | 0 | 733| 2021-09-15 | 2021-09-15 |
 | [AlbertoLasa/nft-opensea-ipfs](https://github.com/AlbertoLasa/nft-opensea-ipfs)| 0 | 0 | 1611| 2021-09-14 | 2021-09-14 |
 | [mingderwang/ipfs-backup-jira-issue](https://github.com/mingderwang/ipfs-backup-jira-issue)| 0 | 1 | 545| 2021-09-13 | 2021-09-13 |
 | [331leo/ipfs_ipa_registry](https://github.com/331leo/ipfs_ipa_registry)| 2 | 0 | 397| 2021-09-12 | 2021-09-13 |
-| [SoftCreatR/ipfs-file-uploader](https://github.com/SoftCreatR/ipfs-file-uploader)| 2 | 0 | 174| 2021-09-10 | 2021-09-17 |
-| [rfzsal/nodejs-blockchain](https://github.com/rfzsal/nodejs-blockchain)| 0 | 0 | 97| 2021-09-09 | 2021-09-09 |
-| [sreekar9601/Polygon-Video-Streaming-App](https://github.com/sreekar9601/Polygon-Video-Streaming-App)| 0 | 0 | 828| 2021-09-08 | 2021-09-14 |
-| [MehdizadeMilad/ipfsNode](https://github.com/MehdizadeMilad/ipfsNode)| 0 | 0 | 65| 2021-09-08 | 2021-09-08 |
 
 
 The above set is limited to the 10 most recently created. 
