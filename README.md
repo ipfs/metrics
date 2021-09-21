@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 82
-*  7/2021: 73
-*  6/2021: 79
-*  5/2021: 74
-*  4/2021: 85
-*  3/2021: 88
-*  2/2021: 66
-*  1/2021: 91
-*  12/2020: 58
-*  11/2020: 40
-*  10/2020: 47
+*  9/2021: 92
+*  8/2021: 79
+*  7/2021: 78
+*  6/2021: 93
+*  5/2021: 86
+*  4/2021: 99
+*  3/2021: 89
+*  2/2021: 72
+*  1/2021: 87
+*  12/2020: 51
+*  11/2020: 54
+*  10/2020: 63
 
 ### GitHub Search
 
@@ -52,7 +52,7 @@ so we don't know why this is the case.
 
 Total Matches: 2574
 
-Total Results (Limited by GitHUB API): 426
+Total Results (Limited by GitHUB API): 429
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 94250
+Total Matches: 94350
 
-Total Results (Limited by GitHUB API): 1589
+Total Results (Limited by GitHUB API): 1590
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [PatrickVM/decentragrampractice](https://github.com/PatrickVM/decentragrampractice)| 0 | 0 | 534| 2021-09-20 | 2021-09-20 |
 | [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 672| 2021-09-19 | 2021-09-19 |
 | [SuperStar0225/NFT_marketplace](https://github.com/SuperStar0225/NFT_marketplace)| 0 | 0 | 354| 2021-09-19 | 2021-09-19 |
-| [iamvon/thrust-vscode-extension](https://github.com/iamvon/thrust-vscode-extension)| 0 | 0 | 133| 2021-09-19 | 2021-09-19 |
-| [venkatesh16031999/CryptoChillouts](https://github.com/venkatesh16031999/CryptoChillouts)| 0 | 0 | 33631| 2021-09-19 | 2021-09-19 |
+| [iamvon/thrust-vscode-extension](https://github.com/iamvon/thrust-vscode-extension)| 9 | 0 | 321| 2021-09-19 | 2021-09-20 |
+| [venkatesh16031999/CryptoChillouts](https://github.com/venkatesh16031999/CryptoChillouts)| 0 | 0 | 33662| 2021-09-19 | 2021-09-20 |
 | [NicolasJEngler/pinata-ipfs-test](https://github.com/NicolasJEngler/pinata-ipfs-test)| 0 | 0 | 214| 2021-09-18 | 2021-09-18 |
 | [NguyenIvan/lazy-ipfs-image](https://github.com/NguyenIvan/lazy-ipfs-image)| 0 | 0 | 325| 2021-09-16 | 2021-09-17 |
 | [shameer5/DMS](https://github.com/shameer5/DMS)| 0 | 0 | 733| 2021-09-15 | 2021-09-15 |
 | [AlbertoLasa/nft-opensea-ipfs](https://github.com/AlbertoLasa/nft-opensea-ipfs)| 0 | 0 | 1611| 2021-09-14 | 2021-09-14 |
 | [mingderwang/ipfs-backup-jira-issue](https://github.com/mingderwang/ipfs-backup-jira-issue)| 0 | 1 | 545| 2021-09-13 | 2021-09-13 |
-| [331leo/ipfs_ipa_registry](https://github.com/331leo/ipfs_ipa_registry)| 2 | 0 | 397| 2021-09-12 | 2021-09-13 |
 
 
 The above set is limited to the 10 most recently created. 
