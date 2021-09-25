@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 76
-*  7/2021: 73
-*  6/2021: 81
+*  9/2021: 99
+*  8/2021: 79
+*  7/2021: 63
+*  6/2021: 64
 *  5/2021: 74
-*  4/2021: 85
-*  3/2021: 76
-*  2/2021: 59
-*  1/2021: 81
-*  12/2020: 52
-*  11/2020: 46
-*  10/2020: 43
+*  4/2021: 88
+*  3/2021: 88
+*  2/2021: 73
+*  1/2021: 89
+*  12/2020: 51
+*  11/2020: 44
+*  10/2020: 48
 
 ### GitHub Search
 
@@ -56,11 +56,11 @@ Total Results (Limited by GitHUB API): 432
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1665| 2021-09-23 | 2021-09-24 |
+| [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1737| 2021-09-23 | 2021-09-24 |
 | [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 159| 2021-09-22 | 2021-09-22 |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 303| 2021-09-14 | 2021-09-22 |
 | [kishansagathiya/chainsafe-assignment](https://github.com/kishansagathiya/chainsafe-assignment)| 1 | 0 | 155| 2021-09-11 | 2021-09-12 |
-| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 200| 2021-09-09 | 2021-09-16 |
+| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 331| 2021-09-09 | 2021-09-24 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 192| 2021-09-08 | 2021-09-19 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 94450
 
-Total Results (Limited by GitHUB API): 1592
+Total Results (Limited by GitHUB API): 1590
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
@@ -83,7 +83,7 @@ Total Results (Limited by GitHUB API): 1592
 | [dudaykum/hyperledger](https://github.com/dudaykum/hyperledger)| 0 | 0 | 17| 2021-09-23 | 2021-09-23 |
 | [solidity-rust/upload-file-to-ipfs.infura...](https://github.com/solidity-rust/upload-file-to-ipfs.infura.io)| 0 | 0 | 2| 2021-09-21 | 2021-09-21 |
 | [PatrickVM/decentragrampractice](https://github.com/PatrickVM/decentragrampractice)| 0 | 0 | 534| 2021-09-20 | 2021-09-20 |
-| [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 692| 2021-09-19 | 2021-09-23 |
+| [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 692| 2021-09-19 | 2021-09-24 |
 | [SuperStar0225/NFT_marketplace](https://github.com/SuperStar0225/NFT_marketplace)| 0 | 0 | 354| 2021-09-19 | 2021-09-19 |
 | [iamvon/thrust-vscode-extension](https://github.com/iamvon/thrust-vscode-extension)| 9 | 0 | 321| 2021-09-19 | 2021-09-20 |
 | [venkatesh16031999/CryptoChillouts](https://github.com/venkatesh16031999/CryptoChillouts)| 0 | 0 | 33662| 2021-09-19 | 2021-09-20 |
