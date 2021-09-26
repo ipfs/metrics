@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 99
-*  8/2021: 79
-*  7/2021: 63
-*  6/2021: 64
-*  5/2021: 74
-*  4/2021: 88
-*  3/2021: 88
-*  2/2021: 73
-*  1/2021: 89
-*  12/2020: 51
+*  9/2021: 100
+*  8/2021: 81
+*  7/2021: 79
+*  6/2021: 85
+*  5/2021: 81
+*  4/2021: 89
+*  3/2021: 83
+*  2/2021: 67
+*  1/2021: 91
+*  12/2020: 56
 *  11/2020: 44
-*  10/2020: 48
+*  10/2020: 63
 
 ### GitHub Search
 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 94450
+Total Matches: 94500
 
-Total Results (Limited by GitHUB API): 1590
+Total Results (Limited by GitHUB API): 1592
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [abhaykaul/DEV_A_THON](https://github.com/abhaykaul/DEV_A_THON)| 1 | 0 | 26| 2021-09-25 | 2021-09-25 |
 | [anandcoding-cloud/nft_ipfs](https://github.com/anandcoding-cloud/nft_ipfs)| 0 | 0 | 632| 2021-09-23 | 2021-09-23 |
 | [dudaykum/hyperledger](https://github.com/dudaykum/hyperledger)| 0 | 0 | 17| 2021-09-23 | 2021-09-23 |
 | [solidity-rust/upload-file-to-ipfs.infura...](https://github.com/solidity-rust/upload-file-to-ipfs.infura.io)| 0 | 0 | 2| 2021-09-21 | 2021-09-21 |
 | [PatrickVM/decentragrampractice](https://github.com/PatrickVM/decentragrampractice)| 0 | 0 | 534| 2021-09-20 | 2021-09-20 |
-| [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 692| 2021-09-19 | 2021-09-24 |
+| [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 708| 2021-09-19 | 2021-09-26 |
 | [SuperStar0225/NFT_marketplace](https://github.com/SuperStar0225/NFT_marketplace)| 0 | 0 | 354| 2021-09-19 | 2021-09-19 |
 | [iamvon/thrust-vscode-extension](https://github.com/iamvon/thrust-vscode-extension)| 9 | 0 | 321| 2021-09-19 | 2021-09-20 |
 | [venkatesh16031999/CryptoChillouts](https://github.com/venkatesh16031999/CryptoChillouts)| 0 | 0 | 33662| 2021-09-19 | 2021-09-20 |
 | [NicolasJEngler/pinata-ipfs-test](https://github.com/NicolasJEngler/pinata-ipfs-test)| 0 | 0 | 214| 2021-09-18 | 2021-09-18 |
-| [NguyenIvan/lazy-ipfs-image](https://github.com/NguyenIvan/lazy-ipfs-image)| 0 | 0 | 325| 2021-09-16 | 2021-09-17 |
 
 
 The above set is limited to the 10 most recently created. 
