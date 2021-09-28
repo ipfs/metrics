@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 95
-*  7/2021: 83
+*  9/2021: 87
+*  8/2021: 87
+*  7/2021: 72
 *  6/2021: 81
-*  5/2021: 90
-*  4/2021: 100
-*  3/2021: 95
-*  2/2021: 67
-*  1/2021: 83
-*  12/2020: 54
-*  11/2020: 46
-*  10/2020: 59
+*  5/2021: 74
+*  4/2021: 82
+*  3/2021: 92
+*  2/2021: 69
+*  1/2021: 100
+*  12/2020: 53
+*  11/2020: 40
+*  10/2020: 46
 
 ### GitHub Search
 
@@ -59,7 +59,7 @@ Total Results (Limited by GitHUB API): 432
 | [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1737| 2021-09-23 | 2021-09-24 |
 | [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 159| 2021-09-22 | 2021-09-22 |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 303| 2021-09-14 | 2021-09-22 |
-| [kishansagathiya/chainsafe-assignment](https://github.com/kishansagathiya/chainsafe-assignment)| 1 | 0 | 155| 2021-09-11 | 2021-09-12 |
+| [kishansagathiya/chainsafe-assignment](https://github.com/kishansagathiya/chainsafe-assignment)| 2 | 0 | 155| 2021-09-11 | 2021-09-12 |
 | [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 331| 2021-09-09 | 2021-09-24 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 192| 2021-09-08 | 2021-09-19 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
@@ -75,7 +75,7 @@ The above set is limited to the 10 most recently created.
 
 Total Matches: 94600
 
-Total Results (Limited by GitHUB API): 1594
+Total Results (Limited by GitHUB API): 1596
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
