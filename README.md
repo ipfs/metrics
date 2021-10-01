@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 84
-*  8/2021: 78
-*  7/2021: 82
-*  6/2021: 81
-*  5/2021: 84
-*  4/2021: 100
-*  3/2021: 83
+*  9/2021: 88
+*  8/2021: 94
+*  7/2021: 70
+*  6/2021: 77
+*  5/2021: 70
+*  4/2021: 76
+*  3/2021: 71
 *  2/2021: 68
-*  1/2021: 84
-*  12/2020: 47
-*  11/2020: 59
-*  10/2020: 57
+*  1/2021: 90
+*  12/2020: 58
+*  11/2020: 40
+*  10/2020: 53
 
 ### GitHub Search
 
@@ -52,20 +52,20 @@ so we don't know why this is the case.
 
 Total Matches: 2592
 
-Total Results (Limited by GitHUB API): 430
+Total Results (Limited by GitHUB API): 432
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [ipfs/go-ipfs-regression](https://github.com/ipfs/go-ipfs-regression)| 0 | 0 | 0| 2021-09-28 | 2021-09-29 |
 | [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1737| 2021-09-23 | 2021-09-24 |
 | [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 159| 2021-09-22 | 2021-09-22 |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 303| 2021-09-14 | 2021-09-22 |
-| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 331| 2021-09-09 | 2021-09-24 |
+| [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 277| 2021-09-09 | 2021-09-30 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 192| 2021-09-08 | 2021-09-19 |
 | [jbouwman/go-ipfs-lib-minimal](https://github.com/jbouwman/go-ipfs-lib-minimal)| 0 | 0 | 67| 2021-08-30 | 2021-08-30 |
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
 | [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 1 | 0 | 84| 2021-08-21 | 2021-08-21 |
-| [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 94700
+Total Matches: 94850
 
-Total Results (Limited by GitHUB API): 1594
+Total Results (Limited by GitHUB API): 1601
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [mmalmi/ipfs-gun-chat](https://github.com/mmalmi/ipfs-gun-chat)| 0 | 0 | 331| 2021-09-29 | 2021-09-29 |
-| [wrightkhlebisol/nftfy](https://github.com/wrightkhlebisol/nftfy)| 0 | 0 | 152| 2021-09-29 | 2021-09-29 |
+| [ipfs-examples/js-ipfs-browser-lit](https://github.com/ipfs-examples/js-ipfs-browser-lit)| 0 | 0 | 130| 2021-09-30 | 2021-09-30 |
+| [miield/NextjsIPFSFleek](https://github.com/miield/NextjsIPFSFleek)| 0 | 0 | 7654| 2021-09-30 | 2021-09-30 |
+| [shivamtyagi577/BlockTune](https://github.com/shivamtyagi577/BlockTune)| 0 | 0 | 52966| 2021-09-29 | 2021-09-29 |
+| [mmalmi/ipfs-gun-chat](https://github.com/mmalmi/ipfs-gun-chat)| 0 | 0 | 333| 2021-09-29 | 2021-09-30 |
+| [wrightkhlebisol/nftfy](https://github.com/wrightkhlebisol/nftfy)| 0 | 0 | 153| 2021-09-29 | 2021-09-30 |
 | [clocigno/decentralized_video_hosting](https://github.com/clocigno/decentralized_video_hosting)| 0 | 0 | 635| 2021-09-28 | 2021-09-28 |
 | [gatij10/ipfs_server_setup](https://github.com/gatij10/ipfs_server_setup)| 0 | 0 | 24| 2021-09-26 | 2021-09-26 |
 | [abhaykaul/DEV_A_THON](https://github.com/abhaykaul/DEV_A_THON)| 1 | 0 | 48| 2021-09-25 | 2021-09-26 |
 | [anandcoding-cloud/nft_ipfs](https://github.com/anandcoding-cloud/nft_ipfs)| 0 | 0 | 635| 2021-09-23 | 2021-09-29 |
 | [dudaykum/hyperledger](https://github.com/dudaykum/hyperledger)| 0 | 0 | 17| 2021-09-23 | 2021-09-23 |
-| [solidity-rust/upload-file-to-ipfs.infura...](https://github.com/solidity-rust/upload-file-to-ipfs.infura.io)| 0 | 0 | 2| 2021-09-21 | 2021-09-21 |
-| [PatrickVM/decentragrampractice](https://github.com/PatrickVM/decentragrampractice)| 0 | 0 | 534| 2021-09-20 | 2021-09-20 |
-| [unfile/unfile](https://github.com/unfile/unfile)| 1 | 0 | 1095| 2021-09-19 | 2021-09-26 |
 
 
 The above set is limited to the 10 most recently created. 
