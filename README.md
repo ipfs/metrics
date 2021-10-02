@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 88
-*  8/2021: 94
-*  7/2021: 70
-*  6/2021: 77
-*  5/2021: 70
-*  4/2021: 76
-*  3/2021: 71
+*  9/2021: 100
+*  8/2021: 73
+*  7/2021: 76
+*  6/2021: 81
+*  5/2021: 79
+*  4/2021: 88
+*  3/2021: 84
 *  2/2021: 68
-*  1/2021: 90
-*  12/2020: 58
-*  11/2020: 40
-*  10/2020: 53
+*  1/2021: 94
+*  12/2020: 51
+*  11/2020: 48
+*  10/2020: 57
 
 ### GitHub Search
 
@@ -73,12 +73,13 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 94850
+Total Matches: 94950
 
-Total Results (Limited by GitHUB API): 1601
+Total Results (Limited by GitHUB API): 1603
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [Webners1/Dapp-Insta-Web3.0](https://github.com/Webners1/Dapp-Insta-Web3.0)| 0 | 0 | 330| 2021-10-01 | 2021-10-01 |
 | [ipfs-examples/js-ipfs-browser-lit](https://github.com/ipfs-examples/js-ipfs-browser-lit)| 0 | 0 | 130| 2021-09-30 | 2021-09-30 |
 | [miield/NextjsIPFSFleek](https://github.com/miield/NextjsIPFSFleek)| 0 | 0 | 7654| 2021-09-30 | 2021-09-30 |
 | [shivamtyagi577/BlockTune](https://github.com/shivamtyagi577/BlockTune)| 0 | 0 | 52966| 2021-09-29 | 2021-09-29 |
@@ -88,7 +89,6 @@ Total Results (Limited by GitHUB API): 1601
 | [gatij10/ipfs_server_setup](https://github.com/gatij10/ipfs_server_setup)| 0 | 0 | 24| 2021-09-26 | 2021-09-26 |
 | [abhaykaul/DEV_A_THON](https://github.com/abhaykaul/DEV_A_THON)| 1 | 0 | 48| 2021-09-25 | 2021-09-26 |
 | [anandcoding-cloud/nft_ipfs](https://github.com/anandcoding-cloud/nft_ipfs)| 0 | 0 | 635| 2021-09-23 | 2021-09-29 |
-| [dudaykum/hyperledger](https://github.com/dudaykum/hyperledger)| 0 | 0 | 17| 2021-09-23 | 2021-09-23 |
 
 
 The above set is limited to the 10 most recently created. 
