@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 100
-*  8/2021: 73
-*  7/2021: 76
-*  6/2021: 81
-*  5/2021: 79
-*  4/2021: 88
-*  3/2021: 84
-*  2/2021: 68
-*  1/2021: 94
-*  12/2020: 51
-*  11/2020: 48
-*  10/2020: 57
+*  9/2021: 93
+*  8/2021: 77
+*  7/2021: 69
+*  6/2021: 79
+*  5/2021: 87
+*  4/2021: 100
+*  3/2021: 80
+*  2/2021: 67
+*  1/2021: 88
+*  12/2020: 57
+*  11/2020: 52
+*  10/2020: 55
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 432
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipfs/go-ipfs-regression](https://github.com/ipfs/go-ipfs-regression)| 0 | 0 | 0| 2021-09-28 | 2021-09-29 |
 | [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1737| 2021-09-23 | 2021-09-24 |
-| [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 159| 2021-09-22 | 2021-09-22 |
+| [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 172| 2021-09-22 | 2021-10-02 |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 303| 2021-09-14 | 2021-09-22 |
 | [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 277| 2021-09-09 | 2021-09-30 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 192| 2021-09-08 | 2021-09-19 |
@@ -73,22 +73,22 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 94950
+Total Matches: 95000
 
-Total Results (Limited by GitHUB API): 1603
+Total Results (Limited by GitHUB API): 1597
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
+| [abistorage/ipfs-tools](https://github.com/abistorage/ipfs-tools)| 0 | 0 | 7| 2021-10-02 | 2021-10-02 |
 | [Webners1/Dapp-Insta-Web3.0](https://github.com/Webners1/Dapp-Insta-Web3.0)| 0 | 0 | 330| 2021-10-01 | 2021-10-01 |
 | [ipfs-examples/js-ipfs-browser-lit](https://github.com/ipfs-examples/js-ipfs-browser-lit)| 0 | 0 | 130| 2021-09-30 | 2021-09-30 |
 | [miield/NextjsIPFSFleek](https://github.com/miield/NextjsIPFSFleek)| 0 | 0 | 7654| 2021-09-30 | 2021-09-30 |
 | [shivamtyagi577/BlockTune](https://github.com/shivamtyagi577/BlockTune)| 0 | 0 | 52966| 2021-09-29 | 2021-09-29 |
 | [mmalmi/ipfs-gun-chat](https://github.com/mmalmi/ipfs-gun-chat)| 0 | 0 | 333| 2021-09-29 | 2021-09-30 |
-| [wrightkhlebisol/nftfy](https://github.com/wrightkhlebisol/nftfy)| 0 | 0 | 153| 2021-09-29 | 2021-09-30 |
+| [wrightkhlebisol/nftfy](https://github.com/wrightkhlebisol/nftfy)| 0 | 0 | 153| 2021-09-29 | 2021-10-02 |
 | [clocigno/decentralized_video_hosting](https://github.com/clocigno/decentralized_video_hosting)| 0 | 0 | 635| 2021-09-28 | 2021-09-28 |
 | [gatij10/ipfs_server_setup](https://github.com/gatij10/ipfs_server_setup)| 0 | 0 | 24| 2021-09-26 | 2021-09-26 |
 | [abhaykaul/DEV_A_THON](https://github.com/abhaykaul/DEV_A_THON)| 1 | 0 | 48| 2021-09-25 | 2021-09-26 |
-| [anandcoding-cloud/nft_ipfs](https://github.com/anandcoding-cloud/nft_ipfs)| 0 | 0 | 635| 2021-09-23 | 2021-09-29 |
 
 
 The above set is limited to the 10 most recently created. 
