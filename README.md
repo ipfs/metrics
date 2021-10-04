@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  9/2021: 93
-*  8/2021: 77
-*  7/2021: 69
-*  6/2021: 79
-*  5/2021: 87
-*  4/2021: 100
-*  3/2021: 80
-*  2/2021: 67
-*  1/2021: 88
-*  12/2020: 57
-*  11/2020: 52
-*  10/2020: 55
+*  10/2021: 100
+*  9/2021: 63
+*  8/2021: 50
+*  7/2021: 43
+*  6/2021: 51
+*  5/2021: 51
+*  4/2021: 55
+*  3/2021: 58
+*  2/2021: 40
+*  1/2021: 52
+*  12/2020: 33
+*  11/2020: 26
 
 ### GitHub Search
 
@@ -58,7 +58,7 @@ Total Results (Limited by GitHUB API): 432
 | ---- | -------- | ----- | ---- | ------- | ------ |
 | [ipfs/go-ipfs-regression](https://github.com/ipfs/go-ipfs-regression)| 0 | 0 | 0| 2021-09-28 | 2021-09-29 |
 | [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1737| 2021-09-23 | 2021-09-24 |
-| [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 172| 2021-09-22 | 2021-10-02 |
+| [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 345| 2021-09-22 | 2021-10-03 |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 303| 2021-09-14 | 2021-09-22 |
 | [berty/go-ipfs-repo-afero](https://github.com/berty/go-ipfs-repo-afero)| 0 | 0 | 277| 2021-09-09 | 2021-09-30 |
 | [treethought/tipfs](https://github.com/treethought/tipfs)| 0 | 0 | 192| 2021-09-08 | 2021-09-19 |
