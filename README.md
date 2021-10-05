@@ -20,18 +20,18 @@ last 12 months. The last 10 years is [available here.](./results/google-trends.m
 
 
 Google Trends:
-*  10/2021: 100
-*  9/2021: 63
-*  8/2021: 50
-*  7/2021: 43
-*  6/2021: 51
-*  5/2021: 51
-*  4/2021: 55
-*  3/2021: 58
-*  2/2021: 40
-*  1/2021: 52
-*  12/2020: 33
-*  11/2020: 26
+*  10/2021: 88
+*  9/2021: 96
+*  8/2021: 79
+*  7/2021: 79
+*  6/2021: 84
+*  5/2021: 81
+*  4/2021: 93
+*  3/2021: 82
+*  2/2021: 67
+*  1/2021: 93
+*  12/2020: 51
+*  11/2020: 47
 
 ### GitHub Search
 
@@ -52,11 +52,10 @@ so we don't know why this is the case.
 
 Total Matches: 2592
 
-Total Results (Limited by GitHUB API): 432
+Total Results (Limited by GitHUB API): 427
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
-| [ipfs/go-ipfs-regression](https://github.com/ipfs/go-ipfs-regression)| 0 | 0 | 0| 2021-09-28 | 2021-09-29 |
 | [fgeth/fg-ipfs](https://github.com/fgeth/fg-ipfs)| 0 | 0 | 1737| 2021-09-23 | 2021-09-24 |
 | [danbrough/ipfs_mobile](https://github.com/danbrough/ipfs_mobile)| 0 | 0 | 345| 2021-09-22 | 2021-10-03 |
 | [filecoincrypto/ipfsmgr](https://github.com/filecoincrypto/ipfsmgr)| 1 | 0 | 303| 2021-09-14 | 2021-09-22 |
@@ -66,6 +65,7 @@ Total Results (Limited by GitHUB API): 432
 | [notional-labs/get](https://github.com/notional-labs/get)| 0 | 0 | 15375| 2021-08-27 | 2021-08-27 |
 | [iskanderandrews/ipfs-version-0.7.0](https://github.com/iskanderandrews/ipfs-version-0.7.0)| 0 | 0 | 46854| 2021-08-24 | 2021-08-24 |
 | [valist-io/go-ipfs-git](https://github.com/valist-io/go-ipfs-git)| 1 | 0 | 84| 2021-08-21 | 2021-08-21 |
+| [aquaflamingo/ipfs-repl](https://github.com/aquaflamingo/ipfs-repl)| 0 | 0 | 13| 2021-08-19 | 2021-08-20 |
 
 
 The above set is limited to the 10 most recently created. 
@@ -73,9 +73,9 @@ The above set is limited to the 10 most recently created.
 
 #### JS Repositories
 
-Total Matches: 95000
+Total Matches: 95100
 
-Total Results (Limited by GitHUB API): 1597
+Total Results (Limited by GitHUB API): 1603
 
 | repo | watchers | forks | size | created | pushed |
 | ---- | -------- | ----- | ---- | ------- | ------ |
